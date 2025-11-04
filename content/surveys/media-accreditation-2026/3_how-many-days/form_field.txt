@@ -1,0 +1,40 @@
+Title: How many days would you like to stay with us?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: true
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: Wednesday
+- 
+  title: Thursday
+- 
+  title: Friday
+
+----
+
+Uuid: mmGpRusFikjjLGyo
+
+----
+
+Modified-at: 1726080620

@@ -1,0 +1,19 @@
+type: group
+fields:
+  twitter:
+    label: Twitter
+    type: text
+    type: url
+    width: 1/2
+    translate: false
+  linkedin:
+    label: LinkedIn
+    type: text
+    type: url
+    width: 1/2
+    translate: false
+  email:
+    label: Email
+    type: email
+    width: 1/2
+    translate: false

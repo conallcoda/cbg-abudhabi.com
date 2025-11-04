@@ -1,0 +1,45 @@
+Title: One Industry, Many Rulebooks: Bridging the Gap between Industry Needs and Regulatory Reality
+
+----
+
+Session: Session 2 - Lines of Control
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>As digital assets mature and institutional adoption accelerates, a clearer understanding is emerging of what the industry needs to scale. Jurisdictions are navigating the tension between innovation and oversight, yet policy responses continue to vary across markets. Where is alignment beginning to take shape, and where do critical gaps remain?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"2a9052aa-d7f4-489e-8a38-d6c7deb12198","isHidden":false,"type":"text"}],"id":"9251f947-0dc8-48c3-8dd8-d139d5e25714","width":"1/1"}],"id":"eb2338b5-7ef2-4da3-9173-1b4a99c5aeec"}]
+
+----
+
+Time-start: 15:20:00
+
+----
+
+Time-finish: 15:55:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: ljZulsE88kBEqtbC
+
+----
+
+Modified-at: 1760117930

@@ -1,0 +1,45 @@
+Title: Participant Dinner Powered by Kraken @Suvretta House
+
+----
+
+Session: Pre-Opening Dinners
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 18:45:00
+
+----
+
+Time-finish: 22:15:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: wggrYo7qyQp7iKKp
+
+----
+
+Modified-at: 1760383940

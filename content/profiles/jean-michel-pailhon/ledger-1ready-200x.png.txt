@@ -1,0 +1,5 @@
+Uuid: tz0KNe611PjTG27S
+
+----
+
+Template: image

@@ -1,0 +1,57 @@
+Title: Bhaji Illuminati
+
+----
+
+Picture: - file://fFxX0l9kVMp1CNUy
+
+----
+
+Picture-color: - file://fFxX0l9kVMp1CNUy
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://l0GZ45gTv8dOWxRk
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Centrifuge Labs
+
+----
+
+Company-url: http://centrifuge.io/
+
+----
+
+Bio: Bhaji is a visionary growth leader with a proven track record of scaling disruptive tech companies into market-leading brands. As CEO of Centrifuge, she is driving the adoption of real-world assets onchain, establishing Centrifuge at the forefront of the RWA movement. Bhaji is also the Co-Founder of the Real-World Asset Summit and Tokenized Asset Coalition. Previously, at Dragonboat, she grew the team from 5 to 40 in a year and secured $12M in funding led by Insight Partners. At Taulia, her strategies helped pave the way for its $1B acquisition by SAP. Bhaji’s expertise spans go-to-market strategy, organizational scaling, and navigating complex ecosystems to drive growth and impact.
+
+----
+
+Twitter: https://x.com/itsbhaji?lang=en
+
+----
+
+Linkedin: https://www.linkedin.com/in/bhajiilluminati
+
+----
+
+Email: 
+
+----
+
+Uuid: 5kXMHecGVG3AiiZK
+
+----
+
+Created-at: 1759871724
+
+----
+
+Modified-at: 1760389672

@@ -1,0 +1,15 @@
+title: Home
+icon: home
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+tabs:
+    on:
+        extends: tabs/page-content
+        label: On Season
+    off: tabs/page-content-off
+    media: tabs/page-media
+    settings:
+        extends: tabs/page-settings

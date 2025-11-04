@@ -1,0 +1,22 @@
+type: pages
+label: Articles
+layout: table
+sortBy: date desc
+search: true
+image: page.picture.toFile
+limit: 10
+columns:
+    date_text:
+        label: Date
+        value: '{{ page.date_text }}'
+    author:
+        label: Author
+        value: '{{ page.author_name }}'
+    tags:
+        label: Tags
+        value: '{{ page.tags }}'
+    last_modified:
+        label: Last Modified
+        value: '{{ page.getModifiedAgo() }}'
+template:
+    - article

@@ -1,0 +1,13 @@
+Alt: 
+
+----
+
+Uuid: J3asDID4bDjQ3xms
+
+----
+
+Template: image
+
+----
+
+Focus: 50.8% 20.1%

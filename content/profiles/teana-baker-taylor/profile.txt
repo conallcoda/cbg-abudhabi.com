@@ -1,0 +1,67 @@
+Title: Teana Baker-Taylor
+
+----
+
+Picture: - file://yVLMCySZfnTF2W5F
+
+----
+
+Picture-color: - file://PMhASJJi4pW749Nu
+
+----
+
+Picture-cropped: - file://rvmtr2Zi7KzrMY9X
+
+----
+
+Logo: - file://kwhbvleiPTUVyuSB
+
+----
+
+Subtitle: Board Member
+
+----
+
+Company: CryptoUK
+
+----
+
+Company-url: https://cryptouk.io
+
+----
+
+Bio:
+
+Teana is VP of Policy and Strategy, EMEA for Circle, a financial technology company and sole issuer of the digital currencies USD Coin (USDC) and Euro Coin (EUROC). Teana works directly with policymakers on the development of regulatory policy for digital currencies. 
+
+Prior to Circle, Teana was the Chief Policy Officer for the Chamber of Digital Commerce, where she worked with Capitol Hill policymakers and regulators on policy developments for digital assets and blockchain. Previously, she held leadership roles at Crypto.com and Binance, where she was responsible for go-to-market strategies, operations, and government affairs. Teana was also previously the Executive Director of Global Digital Finance, leading policymaker advocacy initiatives focussing on the risks and opportunities of digital assets. Teana has held leadership roles in strategy and communications at Coinfloor, HSBC, Citi, Fiserv and Royal Bank of Scotland and Hilton Hotels. 
+
+Teana is a Non-Executive Director of CryptoUK.
+
+----
+
+Twitter: https://twitter.com/TeanaTaylor
+
+----
+
+Linkedin: https://www.linkedin.com/in/teanabakertaylor/
+
+----
+
+Email: 
+
+----
+
+Autoid: x698nay4
+
+----
+
+Uuid: XWmWOdcP3ZivvJqV
+
+----
+
+Datemodifiedepoch: 1700231918
+
+----
+
+Modified-at: 1758630006

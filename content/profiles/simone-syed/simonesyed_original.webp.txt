@@ -1,0 +1,5 @@
+Uuid: fTLRLqmjVSZXA054
+
+----
+
+Template: image

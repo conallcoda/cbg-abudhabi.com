@@ -1,0 +1,61 @@
+Title: Dan Reecer
+
+----
+
+Picture: - file://bppZ5VEHJxLwlNoG
+
+----
+
+Picture-color: - file://kfzcSTHtS0J55HmG
+
+----
+
+Picture-cropped: - file://riEw6n8m5qLIo1jF
+
+----
+
+Logo: - file://pa2USuQzcWzqik8Z
+
+----
+
+Subtitle: Co-Founder
+
+----
+
+Company: Wormhole Foundation
+
+----
+
+Company-url: https://www.wormhole.com
+
+----
+
+Bio: Dan Reecer is Co-founder of the Wormhole Foundation. Dan has spent over six years building in the crypto space and four years in healthcare brand marketing. Dan holds Master and Bachelor degrees from Indiana University’s Kelley School of Business.
+
+----
+
+Twitter: https://x.com/danreecer_
+
+----
+
+Linkedin: https://www.linkedin.com/in/reecer/
+
+----
+
+Email: 
+
+----
+
+Autoid: 10x30qrx
+
+----
+
+Uuid: 5eMDSn9b7fzYIE3F
+
+----
+
+Datemodifiedepoch: 1703085058
+
+----
+
+Modified-at: 1758629928

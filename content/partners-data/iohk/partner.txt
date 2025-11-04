@@ -1,0 +1,17 @@
+Title: IOHK
+
+----
+
+Autoid: 5qsnujhr
+
+----
+
+Picture: partners-data/iohk/iohk_website_frame.png
+
+----
+
+Link: https://iohk.io
+
+----
+
+Uuid: RSJOta3gt6H5YrjS

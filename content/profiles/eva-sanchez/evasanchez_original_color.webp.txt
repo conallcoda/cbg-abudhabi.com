@@ -1,0 +1,13 @@
+Alt: 
+
+----
+
+Uuid: ekFdEePF8NJugcmp
+
+----
+
+Template: image
+
+----
+
+Focus: 35.7% 55.4%

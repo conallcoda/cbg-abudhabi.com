@@ -1,0 +1,53 @@
+Title: Richard Ettl
+
+----
+
+Picture: - file://i8zTCKOT5RZ5rlrl
+
+----
+
+Picture-cropped: - file://p8FNXXKvWo2rOFJP
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO, Smart Containers Group
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Richard Ettl is the co-founder and CEO of Smart Containers Group, a Swiss high-tech container provider aiming to create the first fully autonomous container based on blockchain technology, consequently disrupting the logistic industry.
+
+----
+
+Twitter: https://twitter.com/EttlRichard
+
+----
+
+Linkedin: https://www.linkedin.com/in/richardettl/
+
+----
+
+Email: 
+
+----
+
+Autoid: q8r5kxop
+
+----
+
+Uuid: us7Q6CFrd5dZIuUo
+
+----
+
+Modified-at: 1722849052

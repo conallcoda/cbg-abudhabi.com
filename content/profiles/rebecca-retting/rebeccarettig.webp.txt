@@ -1,0 +1,5 @@
+Uuid: F4aRwav2GlmbRegp
+
+----
+
+Template: image

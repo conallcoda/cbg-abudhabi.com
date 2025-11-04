@@ -1,0 +1,46 @@
+Title: Which types of investment opportunities are you most interested in?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: true
+
+----
+
+Multiple-answers-allow-other: true
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: Direct tokens
+- 
+  title: Hedge Fund
+- 
+  title: Venture
+- 
+  title: Private companies
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1759929272
+
+----
+
+Uuid: cLGC4zO4ezhamwhF

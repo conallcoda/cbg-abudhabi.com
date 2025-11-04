@@ -1,0 +1,17 @@
+Title: Cointelegraph
+
+----
+
+Autoid: 5z45hpyv
+
+----
+
+Picture: partners-data/cointelegraph/cointelegraph_website.png
+
+----
+
+Link: https://cointelegraph.com
+
+----
+
+Uuid: K8xKz1H3MwBJLoUd

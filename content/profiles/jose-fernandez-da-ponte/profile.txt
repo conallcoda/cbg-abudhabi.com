@@ -1,0 +1,63 @@
+Title: Jose Fernandez da Ponte
+
+----
+
+Picture: - file://c2VF3W71a5f87BJA
+
+----
+
+Picture-color: - file://0DHqstv1DmzgAW3w
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://LDrE5ywSCl7vWCi7
+
+----
+
+Subtitle: SVP, Digital Currencies
+
+----
+
+Company: PayPal
+
+----
+
+Company-url: https://www.paypal.com/
+
+----
+
+Bio:
+
+Jose Fernandez da Ponte is the Senior Vice President and General Manager of the Blockchain, Crypto and Digital Currencies team at PayPal, where he drives the company's efforts to increase access to digital currencies and expand their utility for millions of consumers globally.
+ 
+Over the last years, PayPal has enabled customers to buy, hold, and sell digital assets on PayPal and Venmo; facilitated on-chain transfers from PayPal and Venmo wallets; enabled new onramps and offramps for web3 merchants and wallets; integrated digital currencies as a funding instrument for transactions at millions of merchants; and launched a new regulated, fiat-backed stablecoin, PYUSD.
+
+Prior to PayPal, he held various leadership positions at BBVA, a multinational banking group, and at McKinsey & Company, where he specialized in financial services and payments.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/jose-fernandez-da-ponte-a46ba81/
+
+----
+
+Email: 
+
+----
+
+Uuid: EmGrXUcD09t4bcP6
+
+----
+
+Created-at: 1731601529
+
+----
+
+Modified-at: 1758629959

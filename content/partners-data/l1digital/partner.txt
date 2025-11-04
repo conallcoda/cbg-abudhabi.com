@@ -1,0 +1,17 @@
+Title: L1Digital
+
+----
+
+Autoid: osv2859j
+
+----
+
+Picture: partners-data/l1digital/25_l1digital_website_frame.png
+
+----
+
+Link: https://l1.digital
+
+----
+
+Uuid: b6cWwxLyOcglfqH8

@@ -1,0 +1,17 @@
+Title: BitMex
+
+----
+
+Autoid: r8by9uut
+
+----
+
+Picture: partners-data/bitmex/bitmex_logo_website_frame.png
+
+----
+
+Link: https://www.bitmex.com
+
+----
+
+Uuid: 1TkSaI8reKyxBZNX

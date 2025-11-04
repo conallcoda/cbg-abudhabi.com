@@ -1,0 +1,53 @@
+Title: Michael Moro
+
+----
+
+Picture: - file://SiuzYy1UTtYoVniL
+
+----
+
+Picture-cropped: - file://yy7mzACdp6Lz1KRE
+
+----
+
+Logo: - file://UHADQghElyP3Gbww
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Genesis Global Trading
+
+----
+
+Company-url: https://genesistrading.com
+
+----
+
+Bio: Michael Moro is a graduate of Georgetown University and holds FINRA Series 7, 24, 63 and 86/87 licenses. Additionally, he sits on the Oversight Committee for the CME CF Bitcoin Pricing Products.
+
+----
+
+Twitter: https://twitter.com/michaelmoro
+
+----
+
+Linkedin: https://www.linkedin.com/in/michaelmoro/
+
+----
+
+Email: 
+
+----
+
+Autoid: aheubca6
+
+----
+
+Uuid: II0HDvemEk5TaZ9e
+
+----
+
+Modified-at: 1722849016

@@ -1,0 +1,44 @@
+Title: Clothing Size
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: S
+- 
+  title: M
+- 
+  title: L
+- 
+  title: XL
+- 
+  title: XXL
+
+----
+
+Uuid: oQjGUhD0QdGuNoza
+
+----
+
+Modified-at: 1726221283

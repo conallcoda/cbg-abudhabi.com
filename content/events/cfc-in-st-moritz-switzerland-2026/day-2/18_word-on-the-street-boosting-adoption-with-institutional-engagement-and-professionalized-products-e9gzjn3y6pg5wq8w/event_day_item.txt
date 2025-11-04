@@ -1,0 +1,49 @@
+Title: Crypto in Public Markets: Equity Exposure, Treasury Strategies, and Corporate Growth
+
+----
+
+Session: Session 4 - Capital Formation in a Digital Era
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Publicly listed companies are increasingly adopting crypto – through treasury strategies, integrated operating businesses, or structured financial products like ETFs. As corporate exposure grows, the relationship between digital assets and public markets is deepening, bringing new opportunities, risks, and strategic considerations for investors and institutions alike. How will the growing integration of crypto into public balance sheets and listed investment products reshape capital markets over the next cycle?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"8a14be97-c345-4a5c-82f7-d19e26b14a2a","isHidden":false,"type":"text"}],"id":"5429d089-108d-4b06-9bb4-c2fe5aba9514","width":"1/1"}],"id":"c3fe0bd6-cc8c-4534-a67e-67bb6576909d"}]
+
+----
+
+Time-start: 16:05:00
+
+----
+
+Time-finish: 16:45:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: GX0aOV6rAoLOzj0T
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1760638755

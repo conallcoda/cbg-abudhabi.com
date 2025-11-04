@@ -1,0 +1,17 @@
+Title: Ledger
+
+----
+
+Autoid: d8u5awk0
+
+----
+
+Picture: partners-data/ledger/ledger_logo_website.png
+
+----
+
+Link: https://www.ledger.com
+
+----
+
+Uuid: P4zWhk0Buh1ENysp

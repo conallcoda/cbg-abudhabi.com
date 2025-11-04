@@ -1,0 +1,61 @@
+Title: Aviya Arika
+
+----
+
+Picture: - file://OUbY3r2v5wSKRVWq
+
+----
+
+Picture-color: - file://x6sXT3oZ64mdV16F
+
+----
+
+Picture-cropped: - file://AIDV9wALvqU16M2t
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Chief of Blockchain, Aviya Innovative Law and Head of Strategic Initiatives, The Israeli Blockchain Association
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Aviya is passionately focused on crypto and blockchain legal practice. Aviya possesses a broad knowledge of financial and securities laws and regulations in a wide range of jurisdictions (across EU, Israel, GCC) and is therefore well equipped to help entrepreneurs and investors understand crypto constellations from a legal perspective. 
+
+Aviya is highly active in the Israeli blockchain and fintech startups space by familiarising worldwide investors and startegic partners with the space's chosen projects, entrepreneurs and institutions in Israel.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/aviya-arika-advocate-670b474a/
+
+----
+
+Email: 
+
+----
+
+Autoid: g2eiuhfr
+
+----
+
+Uuid: C2Be1e0ChYBR4rgy
+
+----
+
+Modified-at: 1758629915

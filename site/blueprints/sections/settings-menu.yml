@@ -1,0 +1,17 @@
+type: fields
+fields:
+    headline_menu:
+        label: Menus & Navigation
+        type: headline
+        numbered: false
+    main_menu_onseason:
+        extends: fields/menu
+        label: Main Menu (On Season)
+    main_menu_offseason:
+        extends: fields/menu
+        label: Main Menu (Off Season)
+    footer_menu:
+        label: Footer Menu
+        type: structure
+        fields:
+            link: fields/link

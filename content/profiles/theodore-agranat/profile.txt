@@ -1,0 +1,64 @@
+Title: Theodore Agranat
+
+----
+
+Picture: - file://WpEfLCBb4KVETO8P
+
+----
+
+Picture-color: - file://Sbq13v0ECKvlojLx
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://n4q3fLqiKQwhopDb
+
+----
+
+Subtitle: Director of Web3
+
+----
+
+Company: Gunzilla Games
+
+----
+
+Company-url: https://gameoffthegrid.com
+
+----
+
+Bio:
+
+Theodore has been innovating in the technology sector since 1998, founding a number of IT and technology startups, subsequently started actively investing in the blockchain industry in 2012.
+
+In 2021 he started his work at Gunzilla Games expanding his expertise into the video game industry. 
+He envisions a future where gamers own all their assets and can monetize their playing time more democratically.
+
+Theodore has always been fascinated with video games, tracing back to the golden age of Atari and Commodore 64. Nowadays, he plays Off the Grid, Diablo, Elden Ring and Ghosts of Tsushima.
+
+----
+
+Twitter: https://x.com/TheodoreAgranat
+
+----
+
+Linkedin: https://www.linkedin.com/in/theodoreagranat
+
+----
+
+Email: 
+
+----
+
+Uuid: JbDwpzSDfaegpsXZ
+
+----
+
+Created-at: 1734619730
+
+----
+
+Modified-at: 1758630007

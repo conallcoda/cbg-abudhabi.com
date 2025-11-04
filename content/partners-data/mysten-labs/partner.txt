@@ -1,0 +1,21 @@
+Title: Mysten Labs
+
+----
+
+Picture: - file://elLKVgn5vhLhOukp
+
+----
+
+Link: https://mystenlabs.com
+
+----
+
+Uuid: v3MSPV0KmWSFp1uv
+
+----
+
+Datecreatedepoch: 1699428600
+
+----
+
+Datemodifiedepoch: 1699428618

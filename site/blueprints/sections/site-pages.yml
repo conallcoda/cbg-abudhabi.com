@@ -1,0 +1,28 @@
+type: pages
+label: All Pages
+layout: table
+sortBy: title asc
+search: true
+image: false
+limit: 50
+create:
+    - default
+    - download
+    - error
+columns:
+    type:
+        type: bubbles
+        label: Type
+        value: '{{ page.page_type() }}'
+    url:
+        label: URL
+        type: html
+        value: '{{ page.relaitve_url_link() }}'
+    last_modified:
+        label: Last Modified
+        value: '{{ page.getModifiedAgo() }}'
+templates:
+    - home
+    - default
+    - download
+    - error

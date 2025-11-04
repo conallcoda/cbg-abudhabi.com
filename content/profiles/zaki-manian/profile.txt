@@ -1,0 +1,57 @@
+Title: Zaki Manian
+
+----
+
+Picture: - file://qowbQftxlH2Aes5t
+
+----
+
+Picture-color: - file://ikEIEmUo6KRoFPxE
+
+----
+
+Picture-cropped: - file://IaYcEzL5qt2VD1Wo
+
+----
+
+Logo: - file://yU9O7i0DF5lDOsKx
+
+----
+
+Subtitle: Co-Founder
+
+----
+
+Company: Sommelier
+
+----
+
+Company-url: https://sommelier.finance
+
+----
+
+Bio: Zaki Manian wears many hats in the blockchain space. He is Director of Tendermint Labs at Tendermint Inc, Executive Director of the Trusted IoT Alliance, and cofounder of the iqlusion validator. He was a founding team member at Cosmos, and is an expert in cryptography and distributed systems. Zaki is excited about extending access and availability of secure computing to as many people as possible. Zaki has been active in the blockchain space since 2013. In 2020 he Co-founded Sommelier, which is a powerful coprocessor for DeFi traders and Liquidity Providers (LPs) build with the Cosmos Stargate SDK.
+
+----
+
+Twitter: https://twitter.com/zmanian
+
+----
+
+Linkedin: https://www.linkedin.com/in/zmanian/
+
+----
+
+Email: 
+
+----
+
+Autoid: up0e8ipi
+
+----
+
+Uuid: SQwoqmrpLBAmbeav
+
+----
+
+Modified-at: 1758630013

@@ -1,0 +1,9 @@
+Focus: {"x":0.5,"y":0.5}
+
+----
+
+Uuid: 3Trr2fnfBY2u0s2u
+
+----
+
+Template: image

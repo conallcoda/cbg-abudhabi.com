@@ -1,0 +1,61 @@
+Title: Jetmir Mehmedi
+
+----
+
+Picture: - file://DopR4JcC9gf2trcB
+
+----
+
+Picture-color: - file://DsZtHIlrlw4hG86S
+
+----
+
+Picture-cropped: - file://AcLlT7LKxs4tH7JE
+
+----
+
+Logo: - file://nOIFg7RuhrKpxcWl
+
+----
+
+Subtitle: Private Banking Group Head Zurich
+
+----
+
+Company: Bank Julius Baer
+
+----
+
+Company-url: https://www.juliusbaer.com/ch/en/
+
+----
+
+Bio: 
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/jetmirmehmedi/
+
+----
+
+Email: 
+
+----
+
+Uuid: ERn1EP0JRmwTuKSd
+
+----
+
+Datecreatedepoch: 1703777196
+
+----
+
+Datemodifiedepoch: 1703777474
+
+----
+
+Modified-at: 1758629947

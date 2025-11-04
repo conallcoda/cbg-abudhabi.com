@@ -1,0 +1,23 @@
+type: pages
+label: Recently Edited
+layout: table
+sortBy: modified_at desc
+search: false
+image: false
+limit: 5
+create: false
+columns:
+    type:
+        type: bubbles
+        label: Type
+        value: '{{ page.page_type() }}'
+    url:
+        label: URL
+        type: html
+        value: '{{ page.relaitve_url_link() }}'
+    last_modified:
+        label: Last Modified
+        value: '{{ page.getModifiedAgo() }}'
+template:
+    - home
+    - default

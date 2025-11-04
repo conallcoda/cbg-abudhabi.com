@@ -1,0 +1,17 @@
+Title: GAMB
+
+----
+
+Autoid: x299lt01
+
+----
+
+Picture: partners-data/gamb/gamb.jpg
+
+----
+
+Link: https://gamb.io/
+
+----
+
+Uuid: 7XDIGSeF4cRoez4j

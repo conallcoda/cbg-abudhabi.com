@@ -1,0 +1,21 @@
+Title: NEAR Foundation
+
+----
+
+Picture: - file://rrtomtuni60SJGuO
+
+----
+
+Link: https://near.org
+
+----
+
+Uuid: J8SeCXSKhidtxBiK
+
+----
+
+Datecreatedepoch: 1698135766
+
+----
+
+Datemodifiedepoch: 1698135787

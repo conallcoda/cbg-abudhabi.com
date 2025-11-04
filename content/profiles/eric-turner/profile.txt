@@ -1,0 +1,57 @@
+Title: Eric Turner
+
+----
+
+Picture: - file://t9yAPzP70BgxBmHH
+
+----
+
+Picture-color: - file://jHEHKHccCQ72adIK
+
+----
+
+Picture-cropped: - file://sgvSbq9juERRc4dK
+
+----
+
+Logo: - file://EQgUis0EA1QbGETe
+
+----
+
+Subtitle: VP of Market Intelligence
+
+----
+
+Company: Messari
+
+----
+
+Company-url: https://messari.io/
+
+----
+
+Bio: Eric Turner is the Vice President of Market Intelligence at Messari. Eric joined Messari from S&P Global where he was a financial technology research analyst. During his time at S&P, he was a leader in blockchain strategy and testified in front of the Senate Banking Committee as an expert witness in fintech. Eric has also worked at Fidelity Investments and Prudential and is a CFA Charterholder. Eric graduated from the University of Massachusetts-Amherst in 2010 with a BS in Economics.
+
+----
+
+Twitter: https://twitter.com/ericturnr
+
+----
+
+Linkedin: https://www.linkedin.com/in/ericturner1/
+
+----
+
+Email: 
+
+----
+
+Autoid: i7p45v6t
+
+----
+
+Uuid: uuinuX9OCGtIVgBr
+
+----
+
+Modified-at: 1758629933

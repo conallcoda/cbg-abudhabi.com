@@ -1,0 +1,63 @@
+Title: Gustav Arentoft
+
+----
+
+Picture: - file://NdO0qVEa2qbGhdsi
+
+----
+
+Picture-color: - file://cxYPZ0yo57j5F6o5
+
+----
+
+Picture-cropped: - file://NRt4ZZAxmHwa5SEQ
+
+----
+
+Logo: - file://1B93MBusrrDhXGi2
+
+----
+
+Subtitle: Head of Product, 1inch Pro
+
+----
+
+Company: 1inch
+
+----
+
+Company-url: https://1inch.exchange
+
+----
+
+Bio:
+
+Gustav is the Head of Product for 1inch Pro, which focuses on the implementation on a regulated environment for institutional DeFi. 1inch is the largest DeFi protocol from the number of users, and seen as one of the most successful projects in the space. 
+
+Prior he was part of the MakerDAO Growth Core Unit for 3.5 years in charge of the growth of the European, African and South-East Asian regions. 
+
+His academic background is within Software Development and Economics. Prior to joining MakerDAO, he spent time in Argentina, working as a Fintech consultant, where the deteriorating financial situation led him to delve deeper into the crypto space to bring about change.
+
+----
+
+Twitter: https://twitter.com/GArentoft
+
+----
+
+Linkedin: https://www.linkedin.com/in/gustavarentoft/
+
+----
+
+Email: 
+
+----
+
+Autoid: 037xp898
+
+----
+
+Uuid: YTv5okcQnHthposA
+
+----
+
+Modified-at: 1758629943

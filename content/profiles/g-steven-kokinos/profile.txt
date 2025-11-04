@@ -1,0 +1,65 @@
+Title: G. Steven Kokinos
+
+----
+
+Picture: - file://Q2tkdCkPJImIx9gV
+
+----
+
+Picture-color: - file://3CR1d3n4W2SFwpoY
+
+----
+
+Picture-cropped: - file://rGxUabFsrBdQ7pfZ
+
+----
+
+Logo: - file://5kmgbbvbhUvXsdFc
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Algorand
+
+----
+
+Company-url: https://www.algorand.com
+
+----
+
+Bio:
+
+Steve is the CEO of Algorand and responsible for overall business vision and strategy.
+
+Steve is a serial entrepreneur, most recently co-founder and Executive Chairman of Fuze, where he was responsible for corporate strategy. Under his direction, the company transformed the way enterprises view collaboration as a key driver of business visibility, process improvement, and results. Today, Fuze has over 700 employees servicing over 1500 enterprise customers around the world.
+
+Prior to Fuze, Steve was co-founder of BladeLogic, Inc., a recognized leader in the data center automation market with a Fortune 500 client list including GE, Time Warner, Microsoft, Cable & Wireless, Walmart, and Sprint, among others. Bladelogic held a successful IPO and was later acquired by BMC Software for ~$800M.
+
+Prior to BladeLogic, Steve was co-founder and CEO of Web Yes, Inc., an early market leader in the Web hosting and application service provider arena that provided infrastructure services for Sun Microsystems, Netscape, and Lycos,  among others. Web Yes was acquired by Breakaway Solutions in 1999.
+
+----
+
+Twitter: https://twitter.com/stevekokinos
+
+----
+
+Linkedin: https://www.linkedin.com/in/steven-kokinos-79b2/
+
+----
+
+Email: 
+
+----
+
+Autoid: y0g98ynz
+
+----
+
+Uuid: XGiPM0XrdFNUYcDo
+
+----
+
+Modified-at: 1758629941

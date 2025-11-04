@@ -1,0 +1,61 @@
+Title: Kaj Burchardi
+
+----
+
+Picture: - file://3Q64AVTW1lizGejm
+
+----
+
+Picture-color: - file://XItikZEq3t0eiMpd
+
+----
+
+Picture-cropped: - file://ur1GnDZ21h5XvnXg
+
+----
+
+Logo: - file://ZZoibKpJ7Jg81ldO
+
+----
+
+Subtitle: Managing Director
+
+----
+
+Company: BCG Platinion
+
+----
+
+Company-url: https://bcgplatinion.com
+
+----
+
+Bio:
+
+Kaj Burchardi is a Managing Director with BCG Platinion with more than 20 years of experience in IT consulting. He has worked with clients from various industries in Europe, US, and Middle East on IT architecture, Digital and Agile transformations.
+
+Kaj is leading the Blockchain practice of BCG/Platinion globally and supported clients in the strategy definition, use case development, and Proof of Concept execution of various Blockchain / DLT projects based on different platforms. The used approach puts the customer and the business challenge in the center – and the technology second.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/kaj-burchardi-b1030242/?locale=de_DE
+
+----
+
+Email: 
+
+----
+
+Autoid: 14weyid1
+
+----
+
+Uuid: j51BuVrToTxuy0SG
+
+----
+
+Modified-at: 1758629961

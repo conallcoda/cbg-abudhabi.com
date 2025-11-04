@@ -1,0 +1,61 @@
+Title: Yoshitaka Tanaka
+
+----
+
+Picture: - file://YriK8Bq464zWLYbb
+
+----
+
+Picture-color: - file://mUcl4l9HYW9w2dnY
+
+----
+
+Picture-cropped: - file://zyQQnc03KDFOKRgv
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Founder, Japan Blockchain Conference and Founder, VCG Co.
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+An entrepreneur since 16 years old, Yoshitaka Tanaka founded Venture Control Co., Ltd. at the age of 24 as an incubator of new ventures. To date, this company has founded over 150 companies, 3 of which have been publicly listed. 
+
+In 2017, Tanaka entered the crypto market with VCG Co., Ltd. With this company, he now owns 10 crypto media outlets in Japan and is leading the development of a crypto media group across 10 countries in Asia, including South Korea, Taiwan, Hong Kong, and Singapore.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/yoshitaka-tanaka-b0332116b/
+
+----
+
+Email: 
+
+----
+
+Autoid: c6gbejck
+
+----
+
+Uuid: DP1m6tpFccnIDE8X
+
+----
+
+Modified-at: 1758630012

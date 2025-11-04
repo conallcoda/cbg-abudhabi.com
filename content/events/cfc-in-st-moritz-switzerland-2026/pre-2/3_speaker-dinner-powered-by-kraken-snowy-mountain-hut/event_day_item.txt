@@ -1,0 +1,45 @@
+Title: Speaker Dinner Powered by Kraken @Snowy Mountain Hut
+
+----
+
+Session: Pre-Opening Dinners
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 16:45:00
+
+----
+
+Time-finish: 23:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: 6JdJTFSB4pSj0h07
+
+----
+
+Modified-at: 1760383925

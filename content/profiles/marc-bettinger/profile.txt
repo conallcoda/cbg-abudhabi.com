@@ -1,0 +1,57 @@
+Title: Marc Bettinger
+
+----
+
+Picture: - file://qmBX5gRtLtjWyWCf
+
+----
+
+Picture-color: - file://qmBX5gRtLtjWyWCf
+
+----
+
+Picture-cropped: - file://G1kVNGSa5VprM9iX
+
+----
+
+Logo: 
+
+----
+
+Subtitle: 
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Marc Bettinger is currently a Director of Forctis AG, a Swiss-based company created to disrupt the cryptocurrency space through a completely new blockchain technology. Starting his banking career 20 years ago in Germany, from his early days he’s had a faible for alternative & value investments. Marc is a Certified International Investment Analyst (CIIA) and until recently worked for a leading Swiss Private Bank as Credit Risk Manager. From 2013-2017 he was active as a crypto-blogger under the pseudonym “Altcoinspekulant” building one of the pioneer blogs regarding Altcoin-investing, with an incredible track record during his time in charge. In addition, he is Co-Host of the Altcoin-Meetup Switzerland and initiated the Social Media group “Altcoins Switzerland.” He is married and has three young boys.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: q4mx3wpq
+
+----
+
+Uuid: vBdw7osPN0fw6VDV
+
+----
+
+Modified-at: 1759961473

@@ -1,0 +1,57 @@
+Title: Olivier Roussy Newton
+
+----
+
+Picture: - file://ddSoipAQWgcAkzj2
+
+----
+
+Picture-color: - file://A9mxo0lGhDUiaLo5
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://n9UadEKI27sku0Za
+
+----
+
+Subtitle: Chairman & CEO
+
+----
+
+Company: BTQ
+
+----
+
+Company-url: https://www.btq.com
+
+----
+
+Bio: Olivier Roussy Newton is the Chairman of BTQ, he is also the CEO and Chairman of DEFI Technologies, Co-Founder of Valour and past President and Founder of HIVE Digital. He is based in Zug, Switzerland where he runs his family office Latent Capital.
+
+----
+
+Twitter: https://twitter.com/olivierfrancois
+
+----
+
+Linkedin: https://www.linkedin.com/in/olfrancois/
+
+----
+
+Email: 
+
+----
+
+Uuid: rJNA1os4dCuIV9e5
+
+----
+
+Created-at: 1730119558
+
+----
+
+Modified-at: 1759601355

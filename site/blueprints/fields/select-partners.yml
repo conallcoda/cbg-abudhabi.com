@@ -1,0 +1,5 @@
+label: Partners
+type: pages
+multiple: true
+query: site.page("partners-data").children
+image: page.picture.toFile

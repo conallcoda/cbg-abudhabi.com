@@ -1,0 +1,49 @@
+Title: Get Ready for the Evening – Lounge Drinks @Suvretta House
+
+----
+
+Session: Session 6 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 19:15:00
+
+----
+
+Time-finish: 20:30:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: e2AHW2QNIamSRfnM
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1760131867

@@ -1,0 +1,17 @@
+Title: Payment
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Credit Card Details"},"id":"88f45bf7-6443-4e5c-b205-9564147bc559","isHidden":false,"type":"heading"},{"content":{"allow_reduction_codes":"false","summary_title":"","custom_id":"","custom_class":""},"id":"6efbe5aa-755f-4f32-b6e3-4177da879dbd","isHidden":false,"type":"form_payment"},{"content":{"text":"Submit","custom_id":"","custom_class":""},"id":"5e1225e8-3cd9-4fdc-8f05-f2ff97c1b184","isHidden":false,"type":"form_next_step_button"}],"id":"470501c1-a3e2-481f-90b9-cddd934e22a1","width":"1/1"}],"id":"6d2019bf-301f-4faa-bc04-438a0d2d20b3"}]
+
+----
+
+Back-button-text: 
+
+----
+
+Uuid: 9cJX3T1cR0FxlhGP
+
+----
+
+Modified-at: 1728385737

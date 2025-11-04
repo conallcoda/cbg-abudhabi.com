@@ -1,0 +1,17 @@
+Title: Algorand
+
+----
+
+Autoid: 5sz75ws5
+
+----
+
+Picture: partners-data/algorand/algorand_logo_website_frame.png
+
+----
+
+Link: https://www.algorand.com
+
+----
+
+Uuid: uwXW1KZaIAGJtP7J

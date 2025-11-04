@@ -1,0 +1,57 @@
+Title: Mathias Ruch
+
+----
+
+Picture: - file://SaFRROLUBs2BDXll
+
+----
+
+Picture-color: - file://09Dp3FVSQV0uK7Ow
+
+----
+
+Picture-cropped: - file://9TQWewgII96JViZo
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Founder & CEO, CV VC
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Founder and CEO of CV VC (formerly Lakeside Partners), Crypto Valley’s next generation investment company with its own well-established ecosystem, where cutting-edge blockchain technology meets traditional venture capital. Co-Founder of CV Competition, CV Summit and CV Labs. As an entrepreneur and angel investor Mathias Ruch has been involved in the digital startup scene for 20 years. Before turning his focus to blockchain, he built and exited several successful online and media companies. Today, he is a driving force behind the development of the global blockchain startup ecosystem. Co-Inititator of the Swiss Blockchain Federation, a public-private partnership with the goal to promote the attractiveness of Switzerland as a global blockchain hub.
+
+----
+
+Twitter: https://twitter.com/MathiasRuch
+
+----
+
+Linkedin: https://www.linkedin.com/in/mathiasruch/
+
+----
+
+Email: 
+
+----
+
+Autoid: pq6vlec0
+
+----
+
+Uuid: 81HQ4F9CHuemSW49
+
+----
+
+Modified-at: 1758629976

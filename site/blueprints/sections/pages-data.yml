@@ -1,0 +1,14 @@
+label: Data
+type: pages
+sortBy: title asc
+image: false
+headline: Main
+layout: cardlets
+size: small
+info: "Updated {{ page.getModifiedAgo() }}"
+max: 4
+templates:
+  - events
+  - profiles
+  - partners
+  - surveys

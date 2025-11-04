@@ -1,0 +1,57 @@
+Title: Vijay Chetty
+
+----
+
+Picture: - file://ENYa7RoCFkJ6xg4C
+
+----
+
+Picture-color: - file://ZjDpquSp7ooCXBit
+
+----
+
+Picture-cropped: - file://MdVdj1qEi0NWTC4Q
+
+----
+
+Logo: - file://wY1W3Sd4uDhAdjNA
+
+----
+
+Subtitle: Head of Business Development
+
+----
+
+Company: Uniswap Labs
+
+----
+
+Company-url: https://uniswap.org/
+
+----
+
+Bio: Vijay Chetty leads business development and growth at Uniswap Labs. Prior to this, Vijay led business development and growth at dYdX, scaling it into the largest decentralized perpetuals exchange with liquidity comparable to centralized exchanges. He previously held leadership positions at SharesPost and Ripple and has been operating and investing in crypto infrastructure since 2015. Before that, Vijay was a corporate bond analyst and portfolio manager at BlackRock on a team managing $65B in institutional capital.
+
+----
+
+Twitter: https://twitter.com/vijay_chetty
+
+----
+
+Linkedin: https://www.linkedin.com/in/vchetty/
+
+----
+
+Email: 
+
+----
+
+Autoid: yykl6flc
+
+----
+
+Uuid: nnfpz6td0BnVXFuH
+
+----
+
+Modified-at: 1758630011

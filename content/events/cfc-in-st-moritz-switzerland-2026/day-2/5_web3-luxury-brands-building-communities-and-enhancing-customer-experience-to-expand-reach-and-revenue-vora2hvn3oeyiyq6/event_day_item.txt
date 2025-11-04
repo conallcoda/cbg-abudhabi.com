@@ -1,0 +1,49 @@
+Title: The Intelligent Compute Frontier: AI, Blockchain, Quantum, and the Battle for Infrastructure (BREAKOUT ROOM)
+
+----
+
+Session: Session 1 - Inside the Machine
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>The intersection of AI, blockchain, and quantum technologies is redrawing the lines of control across data, energy, and digital infrastructure. As cryptographic assumptions shift and compute-intensive models proliferate, new principles of system design, security, and governance are taking shape. The outcome will determine who controls the infrastructure behind the next generation of intelligence. As the race for compute accelerates, who will set the rules – and who will get left behind?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"39238815-0bb0-4fb1-980c-e85b4be284ce","isHidden":false,"type":"text"}],"id":"c22f3084-0d3a-44f5-808c-dbbf5661337b","width":"1/1"}],"id":"4a2f86e8-9a84-4b5c-8ad4-0f24efbe6c33"}]
+
+----
+
+Time-start: 10:45:00
+
+----
+
+Time-finish: 11:25:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: 9dIDaHrR1xKyGypS
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1760127520

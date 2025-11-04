@@ -1,0 +1,49 @@
+Title: Networking Dinner @Suvretta House Powered by Binance and Ava Labs
+
+----
+
+Session: Session 4 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 20:15:00
+
+----
+
+Time-finish: 23:00:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: bR6ImxSIioitSu5Y
+
+----
+
+Created-at: 1725981743
+
+----
+
+Modified-at: 1760132071

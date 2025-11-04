@@ -1,0 +1,61 @@
+Title: Sidney Powell
+
+----
+
+Picture: - file://cDSNxvuJFAgMCByc
+
+----
+
+Picture-color: - file://Ws0jwaLyNY1co24F
+
+----
+
+Picture-cropped: - file://VaJdlx90DnWEvPsa
+
+----
+
+Logo: - file://NSez9yHE1hyR6lHL
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Maple Finance
+
+----
+
+Company-url: https://www.maple.finance
+
+----
+
+Bio: Sid Powell is the CEO & Co-Founder of Maple Finance and with his Co-Founder Joe Flanagan founded Maple in 2019. Sid comes from a background in debt capital markets and institutional banking. During his career in traditional finance, he participated in $3BN+ of corporate bond issuance, established and ran a $200M+ bond funding program, and managed Treasury at a commercial lending FinTech company. Sid and Joe knew that blockchain technology could solve inefficiencies in traditional markets and developed Maple to bring debt-capital markets onchain.
+
+----
+
+Twitter: https://twitter.com/syrupsid
+
+----
+
+Linkedin: https://www.linkedin.com/in/sidneypowell/
+
+----
+
+Email: 
+
+----
+
+Autoid: 45e6wciq
+
+----
+
+Uuid: urkXhfPbRDNPPUSS
+
+----
+
+Datemodifiedepoch: 1699866816
+
+----
+
+Modified-at: 1758630004

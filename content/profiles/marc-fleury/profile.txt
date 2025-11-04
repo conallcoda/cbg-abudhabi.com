@@ -1,0 +1,53 @@
+Title: Marc Fleury
+
+----
+
+Picture: - file://dTTYIm6WaTLk1Knz
+
+----
+
+Picture-cropped: - file://xWtsoxwiBSTtesOr
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Founder & CEO, Two Prime
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Marc has a Ph.D in Theoretical Physics. He was the founder of JBoss which was sold to RedHat (now IBM) for $420m in 2006. Marc conducts research in quantum physics, music synthesis, modern monetary theory and computer science.
+
+----
+
+Twitter: https://www.twitter.com/docfleury
+
+----
+
+Linkedin: https://www.linkedin.com/in/marc-fleury-ph-d-2908a5170
+
+----
+
+Email: 
+
+----
+
+Autoid: fqek6p2q
+
+----
+
+Uuid: QHoHK0m5F1P5Ov9L
+
+----
+
+Modified-at: 1722848993

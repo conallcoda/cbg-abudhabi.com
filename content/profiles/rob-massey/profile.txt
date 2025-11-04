@@ -1,0 +1,64 @@
+Title: Rob Massey
+
+----
+
+Picture: - file://szGiNqi7MfzwMHoQ
+
+----
+
+Picture-color: - file://cQyjBxSIWe65mZ0p
+
+----
+
+Picture-cropped: - file://IdlnU3TrPUj99NK5
+
+----
+
+Logo: - file://m4xuuAzhaojayxAR
+
+----
+
+Subtitle: Global Tax Leader – Blockchain & Digital Assets
+
+----
+
+Company: Deloitte
+
+----
+
+Company-url: https://www2.deloitte.com/us/en/pages/about-deloitte/solutions/blockchain-and-digital-assets.html
+
+----
+
+Bio:
+
+Rob Massey has over 20 years of professional experience in tax consulting for technology companies. Since 2012, he has focused on blockchain, digital assets, cryptocurrency and tokenization.  He serves companies throughout the blockchain ecosystem inclusive of investors, miners, staking providers, payment processing, wallet hosting, custodians, exchanges, funds, DAOs, tokenization and protocol development.  Rob leads Deloitte’s blockchain efforts in tax for the global firm. 
+Rob’s blockchain expertise spans the comprehensive tax considerations of blockchain enabled transactions and the analysis of the tax impacts of tokenization and digital asset transactions across business models, industries, and geographies.
+
+----
+
+Twitter: https://www.twitter.com/@masseyrl
+
+----
+
+Linkedin: https://www.linkedin.com/in/rob-massey-7571b7b
+
+----
+
+Email: 
+
+----
+
+Uuid: aac5b0PAohx7WQRD
+
+----
+
+Datecreatedepoch: 1696599204
+
+----
+
+Datemodifiedepoch: 1696599296
+
+----
+
+Modified-at: 1758629996

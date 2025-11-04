@@ -1,0 +1,57 @@
+Title: Chris Rayner-Cook
+
+----
+
+Picture: - file://OeZue64GJmO75Wp0
+
+----
+
+Picture-color: - file://OeZue64GJmO75Wp0
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://uuzoFTvm91zbuMjS
+
+----
+
+Subtitle: CIO
+
+----
+
+Company: Brevan Howard Digital
+
+----
+
+Company-url: https://www.brevanhoward.com/bh-digital/
+
+----
+
+Bio: Chris Rayner-Cook, CIO, leads Brevan Howard’s Digital investment team. Over a 20+ career, Chris has held senior roles including at Coinbase, where he was Global Head of Trading and Financing, managed capital at large hedge funds including Brevan Howard, Citadel and Millennium, and founded and successfully sold a tokenisation business. Chris started his career at Merrill Lynch in 2000. He obtained his BSc in Pharmacology from the University of Bristol in June 2000.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: l34yTrfpKyJ8iNX9
+
+----
+
+Created-at: 1759605053
+
+----
+
+Modified-at: 1760628838

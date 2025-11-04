@@ -1,0 +1,68 @@
+Title: Adam Jackson
+
+----
+
+Picture: - file://UFwCXkAwx4np33mO
+
+----
+
+Picture-color: - file://VHsTKkmdF0VYQakL
+
+----
+
+Picture-cropped: - file://TrB0kiYTc089OQnx
+
+----
+
+Logo: - file://a0cyLnj6P5IIGn68
+
+----
+
+Subtitle: Founder / CEO
+
+----
+
+Company: Freelance Labs, Inc (Braintrust)
+
+----
+
+Company-url: https://www.usebraintrust.com
+
+----
+
+Bio:
+
+Adam Jackson is a software engineer (Computer Science, Vanderbilt University) turned serial tech entrepreneur and investor who started 4 VC-backed companies and an asset management company over the last 16 years. A common thread in Adam’s journey as an entrepreneur is his interest in creating and investing in open, equitable marketplaces that use customer-focused technology to create more valuable connections and boost collaboration between users, without the costs and friction of conventional channels. 
+ 
+Adam is co-founder of Braintrust, a large and fast-growing user-controlled talent network that matches enterprises with the highly skilled technical and design talent they need. Braintrust’s unique network model allows talent to retain 100% of their market rate while enabling organizations to spin up flexible teams and make their budgets go 2-3x further by cutting out the middlemen. Adam is also co-founder of Cambrian Asset Management, a blockchain asset management company.
+ 
+Prior to Braintrust, Adam co-founded and served as CEO of Doctor on Demand, the popular video telemedicine provider with daytime talk show personality Dr. Phil. Doctor On Demand invented the next generation of healthcare by enabling people to
+connect with board-certified physicians and psychologists via Video Visits on mobile devices. Doctor On Demand delivers services through employers, health systems, health plans, and directly to consumers and has raised $240M in VC.
+
+----
+
+Twitter: https://twitter.com/adamjacksonsf
+
+----
+
+Linkedin: https://linkedin.com/in/ajackson
+
+----
+
+Email: 
+
+----
+
+Autoid: la0zrqq7
+
+----
+
+Uuid: Q01V5thgR6LwVHF4
+
+----
+
+Profileimage: adamjackson.webp
+
+----
+
+Modified-at: 1759597221

@@ -1,0 +1,64 @@
+Title: Morgan McKenney
+
+----
+
+Picture: - file://xSVFWEuEZwDy6rIx
+
+----
+
+Picture-color: - file://1UfI5VRHfjc4Iww3
+
+----
+
+Picture-cropped: - file://TCJS9IXldEJQYIxi
+
+----
+
+Logo: - file://C70EoKNUJxBwoEyY
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Provenance Blockchain Foundation
+
+----
+
+Company-url: https://provenance.io/
+
+----
+
+Bio:
+
+Morgan is the CEO of Provenance Blockchain Foundation, based in San Francisco. In this role, she leads the growth and adoption of the Provenance Blockchain by financial institutions and developers across multiple financial assets and markets to significantly reduce costs for businesses and consumers and create new revenue opportunities.  Provenance Blockchain is an open source, public blockchain using Cosmos SDK and Tendermint consensus designed specifically for the financial services industry, and is already being leveraged by 50+ banks and leading financial institutions that have transacted over $10B in digital assets across lending, marketplace/exchange and payments.    Earlier this year, a number of U.S. financial institutions launched the USDF Consortium to provide a bank minted tokenized deposit and 24x7x365 payment rail, USDF, on the Provenance Blockchain. 
+A leader in payments innovation and digital transformation globally, Morgan has spent her career focused on innovation for institutional and consumer clients.   Prior to her current role, Morgan served as Special Advisor at Centre, a consortium to promote trusted use of fiat-backed stablecoins including USDC, and as a Bain Expert Advisor in the digital assets space.  
+
+Morgan also spent nearly twenty years at Citi in a range of senior executive operating roles globally, including Chief Operating Officer for Global Consumer Banking and leading large payments businesses in the institutional business globally in Asia, Europe, Middle East, and Africa, partnering with banks, corporates, and governments to help them operate their business and enable real-time commerce.  Morgan also successfully implemented two blockchain projects with NASDAQ and with Alibaba and Ant Financial, and managed Citi’s innovation lab in Singapore.  Prior to Citi she worked for London International Financial Futures and Options Exchange and traded derivatives.  
+
+Morgan received a BA in Computer Science from Amherst College and an MBA from Harvard Business School.  She is a member of Council on Foreign Relations, the Leadership Now Project and is a Limited Partner Advisor to Nyca Partners, a leading venture capital fund.
+
+----
+
+Twitter: https://twitter.com/MorganMcKenney_
+
+----
+
+Linkedin: https://www.linkedin.com/in/morganhmckenney/
+
+----
+
+Email: 
+
+----
+
+Autoid: ooktn5bs
+
+----
+
+Uuid: LsWaDa57mzvFmveg
+
+----
+
+Modified-at: 1758629983

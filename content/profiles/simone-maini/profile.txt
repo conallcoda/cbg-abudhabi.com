@@ -1,0 +1,61 @@
+Title: Simone Maini
+
+----
+
+Picture: - file://mwiHodvlFOrGG8cU
+
+----
+
+Picture-color: - file://1UqmXZKNa9G9r3n2
+
+----
+
+Picture-cropped: - file://zetmSd8tyzRAN1SG
+
+----
+
+Logo: - file://E0k3FAXFsXmOWb4G
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Elliptic
+
+----
+
+Company-url: https://www.elliptic.co/
+
+----
+
+Bio: Simone is the CEO of Elliptic and serves to guide its vision to create a freer, fairer, and safer financial system for all. Having seen first-hand the challenges banks face detecting financial crime during her tenure at Deutsche Bank and Kroll, she became inspired by the possibilities presented by blockchain technology and specifically, the opportunity to significantly improve the detection and disruption of illicit activity when fund movements are transparent and traceable. Simone is a leading voice on financial crime prevention and compliance in crypto and a champion for an inclusive crypto compliance community.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/simone-maini/?originalSubdomain=uk
+
+----
+
+Email: 
+
+----
+
+Uuid: UwZvvFsAT9aFmu0k
+
+----
+
+Datecreatedepoch: 1701442249
+
+----
+
+Datemodifiedepoch: 1701442310
+
+----
+
+Modified-at: 1758630005

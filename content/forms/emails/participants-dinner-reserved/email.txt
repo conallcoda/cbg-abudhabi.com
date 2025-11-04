@@ -1,0 +1,36 @@
+Title: Participants Dinner 2026 Reserved
+
+----
+
+Type: User
+
+----
+
+To: 
+
+----
+
+Bcc:
+
+- 
+  email: conall@coda.works
+- 
+  email: ziga@cfc-stmoritz.com
+- 
+  email: nicolo@cfc-stmoritz.com
+
+----
+
+Subject: CfC St. Moritz 2026: Participant Dinner
+
+----
+
+Body: Dear [contact__first_name],<br><br>Thank you for registering for the Participant Dinner at Suvretta House. Your participation is confirmed, and we look forward to welcoming you on Tuesday, January 13, 2026. <br><br>If you have any questions or require assistance, please contact <strong>Ziga</strong> at ziga@cfc-stmoritz.com.<br><br>Best regards,<br><br>The CfC St. Moritz team
+
+----
+
+Uuid: p4kBwoyhNaMoZhBy
+
+----
+
+Modified-at: 1752047406

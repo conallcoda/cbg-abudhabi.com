@@ -1,0 +1,57 @@
+Title: Kevin Abosch
+
+----
+
+Picture: - file://YUecap6pL9Ors3eX
+
+----
+
+Picture-color: - file://yTcJmmkNWuMpwlam
+
+----
+
+Picture-cropped: - file://BlXpXvKH6Dn24u3a
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Artist
+
+----
+
+Company: STUDIO KEVIN ABOSCH
+
+----
+
+Company-url: https://www.kevinabosch.com
+
+----
+
+Bio: Kevin Abosch is a conceptual artist and crypto-art pioneer whose work addresses the nature of identity and value by posing ontological questions and responding to sociologic dilemmas. Abosch's work has been exhibited throughout the world, often in civic spaces, including The Hermitage Museum, St Petersburg, The National Museum of China, The National Gallery of Ireland, Jeu de Paume ( Paris), The Irish Museum of Modern Art, The Museum of Contemporary Art Vojvodina, The Bogotá Museum of Modern Art, ZKM (Zentrum für Kunst und Medien) and Dublin Airport.
+
+----
+
+Twitter: http://twitter.com/kevinabosch.com
+
+----
+
+Linkedin: https://www.linkedin.com/in/kevinabosch/
+
+----
+
+Email: 
+
+----
+
+Autoid: gnhjhoee
+
+----
+
+Uuid: FyS4fKQeW7yhHuPn
+
+----
+
+Modified-at: 1758629963

@@ -1,0 +1,17 @@
+Title: Bitcoinassociation
+
+----
+
+Autoid: 7pncmzf8
+
+----
+
+Picture: partners-data/bitcoinassociation/bitcoin-association-logo.jpg
+
+----
+
+Link: https://www.bitcoinassociation.ch/
+
+----
+
+Uuid: D96pINmcqc7BjKuu

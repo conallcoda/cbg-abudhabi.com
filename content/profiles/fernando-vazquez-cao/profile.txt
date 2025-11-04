@@ -1,0 +1,65 @@
+Title: Fernando Vázquez Cao
+
+----
+
+Picture: - file://Wu3Kjjgogj2qA9ki
+
+----
+
+Picture-color: - file://T2nbtX6l0thqyAO4
+
+----
+
+Picture-cropped: - file://eDbujRP2198wxusv
+
+----
+
+Logo: - file://d2FPRqEsWJyYVnMJ
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: SBI Digital Asset Holdings
+
+----
+
+Company-url: https://www.sbidah.com
+
+----
+
+Bio:
+
+Fernando’s career began in academia where he first became deeply involved with the budding Linux community in the early 90s. This led him to the corporate world with a number of roles at the NTT Group starting in 2003, eventually becoming a founding member and technical director of NTT's Open Source Software Center, where he built a team that made major contributions to open source projects that underpin modern cloud and Internet services, including the development of enterprise features that helped open source become a mainstay in mission critical systems. He then transitioned into the FinTech world, joining Japanese financial conglomerate SBI in 2016.
+
+He has held a wide variety of roles at SBI since joining including C-suite roles, chairmanships, and directorships at Japannext, SBI VC Trade and SBI Remit, among others. He became CEO of SBI Digital Asset Holdings in July 2020, where he is leading the SBI Group's digital asset strategy and its digital business' global expansion. He is also a board member of regulated financial institutions and foundations in Asia (AsiaNext) and Europe (Sygnum Bank, the Cardano Foundation) and provides policy recommendations at the highest levels inside financial and technology industry bodies. He recently joined the Monetary Authority of Singapore's International Technology Advisory Panel.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://jp.linkedin.com/in/fernando-luis-v%C3%A1zquez-cao-1b5a665
+
+----
+
+Email: 
+
+----
+
+Uuid: U5RdeYAXo7Gl4NS1
+
+----
+
+Datecreatedepoch: 1703062190
+
+----
+
+Datemodifiedepoch: 1703089545
+
+----
+
+Modified-at: 1759599337

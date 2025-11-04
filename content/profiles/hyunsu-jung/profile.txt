@@ -1,0 +1,57 @@
+Title: Hyunsu Jung
+
+----
+
+Picture: - file://guHc4xx15ZO8nw3h
+
+----
+
+Picture-color: - file://guHc4xx15ZO8nw3h
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://CM3xJMwxvCujdgV8
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Hyperion DeFi
+
+----
+
+Company-url: https://hyperiondefi.com/
+
+----
+
+Bio: Hyunsu Jung is Chief Executive Officer of Hyperion DeFi, the first NASDAQ-listed DeFi company building a long-term strategic reserve of HYPE, the native token of the layer-1 blockchain Hyperliquid. Previously, he was a Portfolio Manager at DARMA Capital, a $1B+ asset manager registered with the CFTC and NFA. Hyunsu started his career as Consultant at EY-Parthenon where he led Finance and Digital Transformation for major enterprise M&A deals.
+
+----
+
+Twitter: https://x.com/hyunsujung_
+
+----
+
+Linkedin: https://www.linkedin.com/in/hyunsu-hyperion/
+
+----
+
+Email: 
+
+----
+
+Uuid: BT5JlzBsctgW5qM7
+
+----
+
+Created-at: 1761172174
+
+----
+
+Modified-at: 1761172276

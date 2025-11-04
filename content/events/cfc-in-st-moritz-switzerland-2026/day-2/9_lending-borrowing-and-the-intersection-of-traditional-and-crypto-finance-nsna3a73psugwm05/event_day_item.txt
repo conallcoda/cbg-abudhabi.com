@@ -1,0 +1,49 @@
+Title: From Rails to Returns: The Rise of On-Chain Capital Formation
+
+----
+
+Session: Session 2 - Market Foundations
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>As digital asset markets evolve from fragmented infrastructure into functional ecosystems, the very foundations of global market structure are shifting. Stablecoins, tokenized products, and new issuance platforms are redefining how liquidity is provisioned, how products are distributed, and how financial engagement happens across jurisdictions. What new pathways for capital access, corporate financing, and product innovation are emerging and who is poised to lead?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"5ac724be-1a96-40bc-9743-71f6b40ca4f1","isHidden":false,"type":"text"}],"id":"e9935938-403c-4658-836a-73c7b1f93c47","width":"1/1"}],"id":"4e0192a6-402b-4707-b23d-30b3f793a05d"}]
+
+----
+
+Time-start: 12:00:00
+
+----
+
+Time-finish: 12:40:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: BBViuII6MYcJPIpE
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1760127878

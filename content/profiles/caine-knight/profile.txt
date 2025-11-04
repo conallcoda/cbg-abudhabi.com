@@ -1,0 +1,57 @@
+Title: Caine Knight
+
+----
+
+Picture: - file://Z6ZFMHsjpgHm2otb
+
+----
+
+Picture-color: - file://qynMh7ij10lc3IDM
+
+----
+
+Picture-cropped: - file://QYE799ngyClymHOi
+
+----
+
+Logo: - file://IcaW9J5Pzy0Uu78B
+
+----
+
+Subtitle: Global Head of Institutional Sales & Account Management
+
+----
+
+Company: Kraken
+
+----
+
+Company-url: https://www.kraken.com
+
+----
+
+Bio: 
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/caine-knight/
+
+----
+
+Email: 
+
+----
+
+Autoid: avvnri80
+
+----
+
+Uuid: IqQ1wpX95Yh44T2q
+
+----
+
+Modified-at: 1758629917

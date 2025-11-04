@@ -1,0 +1,5 @@
+Uuid: n1fSlsHCokq79mUs
+
+----
+
+Template: image

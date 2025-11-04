@@ -1,0 +1,46 @@
+Title: What topics are most important to you?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: true
+
+----
+
+Multiple-answers-allow-other: true
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: Crypto as an asset class
+- 
+  title: Crypto as technology
+- 
+  title: Financial application
+- 
+  title: Consumer application
+
+----
+
+Uuid: WSWk9B5992sr8owz
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1726241932

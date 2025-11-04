@@ -1,0 +1,17 @@
+Title: BTCEcho
+
+----
+
+Autoid: re4jc62v
+
+----
+
+Picture: partners-data/btcecho/btc.jpg
+
+----
+
+Link: https://www.btc-echo.de/
+
+----
+
+Uuid: eP1PIMi8vnUFQDwe

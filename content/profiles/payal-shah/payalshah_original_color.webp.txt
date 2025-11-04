@@ -1,0 +1,13 @@
+Alt: 
+
+----
+
+Uuid: TMmmOcSKSWbmgOSo
+
+----
+
+Template: image
+
+----
+
+Focus: 53.8% 31.9%

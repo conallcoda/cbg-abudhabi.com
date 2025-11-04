@@ -1,0 +1,17 @@
+Title: Grayscale
+
+----
+
+Autoid: bdcouaub
+
+----
+
+Picture: partners-data/grayscale/7_grayscale_logo_website.png
+
+----
+
+Link: https://grayscale.com
+
+----
+
+Uuid: QtzcXuU3HJ4lnEca

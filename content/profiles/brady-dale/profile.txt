@@ -1,0 +1,57 @@
+Title: Brady Dale
+
+----
+
+Picture: - file://85fjzDVuU8c0OFnB
+
+----
+
+Picture-color: - file://tXRHFRC6jf0XPCkc
+
+----
+
+Picture-cropped: - file://sdH1irKk7lZynu6i
+
+----
+
+Logo: - file://V1a3hThAbWsYszWM
+
+----
+
+Subtitle: Senior Reporter
+
+----
+
+Company: The Defiant
+
+----
+
+Company-url: https://thedefiant.io
+
+----
+
+Bio: Brady Dale is a reporter at The Defiant.
+
+----
+
+Twitter: http://twitter.com/bradydale
+
+----
+
+Linkedin: https://www.linkedin.com/in/bradydale/
+
+----
+
+Email: 
+
+----
+
+Autoid: lxwa3nwx
+
+----
+
+Uuid: Y3OpruLMKZ0E5tDu
+
+----
+
+Modified-at: 1758629916

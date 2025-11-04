@@ -1,0 +1,21 @@
+Title: zkSync
+
+----
+
+Picture: - file://LBxiEzynGjhYbOwC
+
+----
+
+Link: https://zksync.io
+
+----
+
+Uuid: ABVS3mahKmbzG0IO
+
+----
+
+Datecreatedepoch: 1702303885
+
+----
+
+Datemodifiedepoch: 1702303950

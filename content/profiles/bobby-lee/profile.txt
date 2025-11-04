@@ -1,0 +1,65 @@
+Title: Bobby Lee
+
+----
+
+Picture: - file://8I6pzgwC7phr1Rn0
+
+----
+
+Picture-color: - file://OAQpbz4g9ggSWNUU
+
+----
+
+Picture-cropped: - file://VW5CNQ32x5fXKfIH
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Co-Founder - BTCC Board member - Bitcoin Foundation
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Bobby Lee is the co-founder of BTCC (formerly BTCChina), the first bitcoin exchange in China and the leading bitcoin financial platform worldwide.
+
+Before BTCC, Mr. Lee was Vice President of Technology for Walmart's e-commerce business in China. Previously he was the CTO of SMG BesTV New Media, the largest IPTV operator in China with the most subscribers globally. He moved to Shanghai in 2007 and started off at EMC’s China Center of Excellence, as Director of Software Engineering, with responsibilities for Cloud Computing and Cloud Storage.
+
+Mr. Lee started his career in Silicon Valley as a software engineer at Yahoo!, and led the development of the earliest online communities. He graduated from Stanford University with B.S. and M.S. degrees in Computer Science, and was a member of the Mayfield Fellows Program. He earned an EMBA degree from CEIBS in China.
+
+Mr. Lee currently serves on the board of Bitcoin Foundation, a non-profit organization that fosters the adoption of bitcoin globally. In his spare time, he enjoys traveling, photography, watching movies, and playing poker.
+
+----
+
+Twitter: https://twitter.com/bobbyclee
+
+----
+
+Linkedin: https://www.linkedin.com/in/bobbyclee/
+
+----
+
+Email: 
+
+----
+
+Autoid: pt1uzbwv
+
+----
+
+Uuid: TwGaZFDurJVJf7Ka
+
+----
+
+Modified-at: 1758629916

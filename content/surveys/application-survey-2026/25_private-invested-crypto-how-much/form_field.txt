@@ -1,0 +1,46 @@
+Title: How much did you invest in crypto up to now (in million USD)?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: 'Less than 1'
+- 
+  title: '1 - 5'
+- 
+  title: 'More than 5'
+- 
+  title: I am NOT invested in crypto / Web3
+
+----
+
+Uuid: 2rwoxKKRkISo1QV7
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1728565805

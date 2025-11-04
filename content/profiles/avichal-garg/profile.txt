@@ -1,0 +1,61 @@
+Title: Avichal Garg
+
+----
+
+Picture: - file://0vkJZhdnZVibtjup
+
+----
+
+Picture-color: - file://GjFLyBU2koxwm806
+
+----
+
+Picture-cropped: - file://JTLuql4Ez8JGA30t
+
+----
+
+Logo: - file://eLr1k96MXg9cuS1s
+
+----
+
+Subtitle: Co-Founder & Managing Director
+
+----
+
+Company: Electric Capital
+
+----
+
+Company-url: https://www.electriccapital.com
+
+----
+
+Bio:
+
+Avichal Garg is Partner and Co-Founder of Electric Capital. He has started and sold two startups and has prior executive experience at Facebook and Google.
+
+Avichal is an investor in companies and protocols such as Anchorage, Bitwise, Celo, Coda, Dapper Labs/Cryptokittes, dYdX, Lightning Labs and many technology companies outside of crypto such as Airtable, Color Genomics, Cruise, Boom Supersonic, Newfront Insurance, Threads, Figma, and Notion.
+
+----
+
+Twitter: https://twitter.com/avichal
+
+----
+
+Linkedin: https://www.linkedin.com/in/avichalgarg/
+
+----
+
+Email: 
+
+----
+
+Autoid: 5zz1nhme
+
+----
+
+Uuid: YupyHaEKtnw4FlGp
+
+----
+
+Modified-at: 1758629914

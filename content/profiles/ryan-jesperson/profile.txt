@@ -1,0 +1,57 @@
+Title: Ryan Jesperson
+
+----
+
+Picture: - file://6NwYhUcyayHIF4t1
+
+----
+
+Picture-color: - file://6NwYhUcyayHIF4t1
+
+----
+
+Picture-cropped: - file://H93kGwbIFIyHyq7f
+
+----
+
+Logo: 
+
+----
+
+Subtitle: President, Tezos Foundation
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Ryan is the President of the Tezos Foundation. Most recently he was the Chief Operating Officer at Divvy, a financial technology company. Prior to his work at Divvy, Ryan helped launch the humanitarian Self-Reliance Services initiative of the Church of Jesus Christ of Latter-day Saints and was an executive, turnaround specialist, and tech entrepreneur in the healthcare industry. Ryan received a BS degree, cum laude, from Brigham Young University, and an MBA from the Fuqua School of Business at Duke University. Ryan moved to Zug in April of 2018 with his wife and three children.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/ryan-jesperson-23b0053a/
+
+----
+
+Email: 
+
+----
+
+Autoid: 04u9m3wm
+
+----
+
+Uuid: tQFQDuPOUg2seqot
+
+----
+
+Modified-at: 1759962135

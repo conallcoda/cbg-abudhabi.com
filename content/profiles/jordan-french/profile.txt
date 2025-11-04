@@ -1,0 +1,57 @@
+Title: Jordan French
+
+----
+
+Picture: - file://NarWGKDnrcKKQ9du
+
+----
+
+Picture-color: - file://eKhu8ufHvI1LIGR1
+
+----
+
+Picture-cropped: - file://QtTU2VXqR02vBeBl
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Moderator
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: (link: https://www.jordanfrench.org/ text: Jordan French) is on the Editorial Staff at TheStreet and a freelance multimedia journalist who covers finance and technology. An engineer and former enforcement attorney at the Federal Energy Regulatory Commission, he is the cofounder of five companies, earning recognition from Inc., CIO magazine and Forbes for his work in entrepreneurship. The cofounder of BeeHex, the NASA-originated 3D food printing company, he spends his spare time writing and tending to the hens at (link: http://lisbonhillfarms.com/ text: Lisbon Hill Farms), a cage-free egg farm in New Hampshire.
+
+----
+
+Twitter: https://twitter.com/jordan__french
+
+----
+
+Linkedin: https://www.linkedin.com/in/jordanfrench1/
+
+----
+
+Email: 
+
+----
+
+Autoid: iiz32sos
+
+----
+
+Uuid: FB62lqSjr2PvdtxG
+
+----
+
+Modified-at: 1758629957

@@ -1,0 +1,57 @@
+Title: Kendall Minter
+
+----
+
+Picture: - file://ckZiMJ8SkC0P95h7
+
+----
+
+Picture-color: - file://SI31pGz5qG4zmadl
+
+----
+
+Picture-cropped: - file://qu8mqXwJfRlnot3J
+
+----
+
+Logo: - file://Q2snNpmz5A8MC2Sm
+
+----
+
+Subtitle: Attorney
+
+----
+
+Company: Media Asset Vault
+
+----
+
+Company-url: https://mediaassetvault.com/index.html
+
+----
+
+Bio: 
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/kendall-a-minter-esq-5ba33aa/
+
+----
+
+Email: 
+
+----
+
+Autoid: lsh5nazv
+
+----
+
+Uuid: xsDghHoYLstDa31L
+
+----
+
+Modified-at: 1758629962

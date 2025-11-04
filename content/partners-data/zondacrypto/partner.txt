@@ -1,0 +1,21 @@
+Title: zondacrypto
+
+----
+
+Picture: - file://X4yGfcp4Dbe0CB1o
+
+----
+
+Link: https://zondacrypto.com/en/home
+
+----
+
+Uuid: p9QPsMlPbD0J6MbR
+
+----
+
+Datecreatedepoch: 1696603025
+
+----
+
+Datemodifiedepoch: 1696603054

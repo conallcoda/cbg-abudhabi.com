@@ -1,0 +1,49 @@
+Title: Payments Innovation and Stablecoins: Building Trust across Regulatory Borders (BREAKOUT ROOM)
+
+----
+
+Session: Session 2 - Lines of Control
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Stablecoins are rapidly reshaping payment systems, yet regulatory frameworks remain inconsistent – from stablecoin licensing and reserve requirements to AML/KYC obligations. Meanwhile, CBDC pilots are challenging private solutions in key jurisdictions. What regulatory models best balance innovation, trust, and financial inclusion in the emerging world of stablecoins and crypto payments, including CBDCs?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 16:05:00
+
+----
+
+Time-finish: 16:40:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: v6wIzcXZdGp2p3k4
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1760118199

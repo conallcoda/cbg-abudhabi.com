@@ -1,0 +1,5 @@
+label: Fields
+type: pages
+multiple: true
+query: site.page("forms").children.template("form_field")
+image: false

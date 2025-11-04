@@ -1,0 +1,57 @@
+Title: Ambre Soubiran
+
+----
+
+Picture: - file://iuy5ewOSRHMlgQhN
+
+----
+
+Picture-color: - file://iuy5ewOSRHMlgQhN
+
+----
+
+Picture-cropped: - file://yIkbJzufIYeYTGo2
+
+----
+
+Logo: - file://52u7Xel4IWBjgrmE
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Kaiko
+
+----
+
+Company-url: https://www.kaiko.com/
+
+----
+
+Bio: Ambre Soubiran is the CEO and Chairman of Kaiko, the leading independent provider of cryptocurrency market data and analytics. With two decades of experience in finance, she has raised over $80M in venture funding and expanded Kaiko globally. Previously, she worked at HSBC Global Markets in London, specializing in equity derivatives. A Paris Dauphine University graduate with a master's in applied mathematics and computer science, Ambre has been involved in cryptocurrencies since 2012, combining her technical background with financial innovation.
+
+----
+
+Twitter: https://x.com/ambresoub?lang=en
+
+----
+
+Linkedin: https://www.linkedin.com/in/ambresoub/
+
+----
+
+Email: 
+
+----
+
+Autoid: dmz4mpfs
+
+----
+
+Uuid: 7c1oKWE4j5TYVLk8
+
+----
+
+Modified-at: 1759874933

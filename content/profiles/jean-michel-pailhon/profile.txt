@@ -1,0 +1,59 @@
+Title: Jean-Michel Pailhon
+
+----
+
+Picture: - file://594vzyB9EITxE9dO
+
+----
+
+Picture-cropped: - file://TGHquJwhy1SGfwYW
+
+----
+
+Logo: - file://tz0KNe611PjTG27S
+
+----
+
+Subtitle: VP Product
+
+----
+
+Company: Ledger
+
+----
+
+Company-url: https://www.ledger.com
+
+----
+
+Bio:
+
+Jean-Michel has an extensive and noteworthy career in the Financial industry, working for Euronext (Paris stock exchange) and the New York Stock Exchange, where he held various positions covering Equity Research, Strategy, M&A and IPO.
+
+In 2016 and 2017, Jean-Michel has served as an advisor to capital market technology firms, venture capital funds and to France FinTech, the French Association of Fintech.
+
+Jean-Michel is a also a Lecturer in Finance at ESSEC Business School and Pantheon Assas University (France).
+
+----
+
+Twitter: https://twitter.com/jmpailhon
+
+----
+
+Linkedin: https://www.linkedin.com/in/jmpailhon/
+
+----
+
+Email: 
+
+----
+
+Autoid: zvb64770
+
+----
+
+Uuid: yDPSB44ORTBYpb0X
+
+----
+
+Modified-at: 1722848961

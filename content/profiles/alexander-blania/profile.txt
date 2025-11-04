@@ -1,0 +1,57 @@
+Title: Alexander Blania
+
+----
+
+Picture: - file://dA3xn3368QTyPS0S
+
+----
+
+Picture-cropped: - file://nmu6Qeu5FTJC7zw8
+
+----
+
+Logo: - file://v2j9SU5o8Vs8XFY7
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Tools for Humanity
+
+----
+
+Company-url: https://www.toolsforhumanity.com
+
+----
+
+Bio: Alex Blania is the CEO and Co-Founder of Tools for Humanity and WorldCoin. WorldCoin is designed to become the world's largest digital identity and financial network, giving ownership to everyone and providing universal access to the global economy no matter your country or background, establishing a place for every human to benefit in the age of AI. Alex is originally a theoretical physicist from Germany, with a dual Bachelor’s degree in Physics and Industrial Engineering from University of Erlangen-Nuremberg. As a Master Student at the Max Planck Institute and Researcher at Cal Tech’s Institute for Quantum Information and Matter, Alex researched deep learning and AI in quantum computing, and left his studies to work on Tools for Humanity and WorldCoin.
+
+----
+
+Twitter: https://twitter.com/alexblania
+
+----
+
+Linkedin: https://www.linkedin.com/in/alex-blania-b8444aa0/
+
+----
+
+Email: 
+
+----
+
+Uuid: PpQ9slyFPGtudQgH
+
+----
+
+Datecreatedepoch: 1703145296
+
+----
+
+Datemodifiedepoch: 1703179829
+
+----
+
+Modified-at: 1723832456

@@ -1,0 +1,31 @@
+title: Event
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+tabs:
+    content:
+        extends: tabs/page-content
+        fields:
+            picture:
+                label: Image
+                extends: fields/image
+                width: 1/1
+            date_text:
+                label: Date Text
+                type: text
+                width: 1/2
+            location:
+                label: Location
+                type: text
+                width: 1/2
+            start_date:
+                type: date
+                label: Start Date
+                width: 1/2
+            layout: fields/layout
+    page_settings:
+        label: Settings
+        fields:
+            ps: fields/page-settings

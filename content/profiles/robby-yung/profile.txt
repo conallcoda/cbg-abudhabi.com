@@ -1,0 +1,57 @@
+Title: Robby Yung
+
+----
+
+Picture: - file://CmSB6R9IU6UEIJeF
+
+----
+
+Picture-color: - file://0KkuDIPZriXyzfwu
+
+----
+
+Picture-cropped: - file://KmaX4Dm5t0gMC5iK
+
+----
+
+Logo: - file://49LdIW4iZGEz7fLQ
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Animoca Brands
+
+----
+
+Company-url: http://www.animocabrands.com
+
+----
+
+Bio: Robby has spent his career in TMT, beginning in the early days of analogue mobile through to  web 1.0 and then to traditional ad-supported media (print, TV, radio) and mobile games. He's co-founded three companies and done three IPO's. He is currently a partner in Animoca Capital and the CEO of Animoca Brands, a leader in Web3 entertainment building the open metaverse and bringing property rights to gamers.
+
+----
+
+Twitter: https://twitter.com/viewfromhk
+
+----
+
+Linkedin: https://www.linkedin.com/in/robyung/
+
+----
+
+Email: 
+
+----
+
+Autoid: 0mtb9fpn
+
+----
+
+Uuid: u5EYKjrxbNvggHHt
+
+----
+
+Modified-at: 1758629996

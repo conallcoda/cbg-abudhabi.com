@@ -1,0 +1,57 @@
+Title: Cyrus Fazel
+
+----
+
+Picture: - file://QQTAaPSLUgFljlon
+
+----
+
+Picture-color: - file://mfp4vaaUQsDWS7JH
+
+----
+
+Picture-cropped: - file://gDjjH1pMc7MBJ38Y
+
+----
+
+Logo: - file://Z0OMyGgrQ2kqHP81
+
+----
+
+Subtitle: CEO & Founder
+
+----
+
+Company: SwissBorg
+
+----
+
+Company-url: https://swissborg.com
+
+----
+
+Bio: Cyrus is the founder and CEO of SwissBorg, a unique crypto wealth management ecosystem. A multicultural fintech professional with over a decade of experience in asset management and algorithmic trading, he has applied his analytical skills towards building his blockchain-based platform which has successfully raised 50M CHF during its last ICO. SwissBorg has created Europe’s top crypto wealth app with over 450,000 active users.
+
+----
+
+Twitter: https://twitter.com/Cyrus_Fazel
+
+----
+
+Linkedin: https://www.linkedin.com/in/cyrusfazelmrfintech/
+
+----
+
+Email: 
+
+----
+
+Autoid: q3douvu4
+
+----
+
+Uuid: hiZLykzvXMmY2G41
+
+----
+
+Modified-at: 1758629927

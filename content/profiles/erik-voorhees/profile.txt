@@ -1,0 +1,57 @@
+Title: Erik Voorhees
+
+----
+
+Picture: - file://RMrnNqnkiBr0tMw9
+
+----
+
+Picture-color: - file://BVOwaQVWBTTHfxcD
+
+----
+
+Picture-cropped: - file://8gWUfmJ2BMFHOCmV
+
+----
+
+Logo: - file://NvEzwnUtPweiP6Q3
+
+----
+
+Subtitle: Founder
+
+----
+
+Company: ShapeShift
+
+----
+
+Company-url: https://shapeshift.com
+
+----
+
+Bio: A crypto industry pioneer since 2011, Erik humbly suggests that there is no such thing as a “free market” when the institution of money itself is centrally planned and controlled. He’s the Founder of ShapeShift, a self-custody crypto interface which decentralized into an open-source DAO in 2021, and has been a featured guest on Bloomberg, Fox Business, CNBC, BBC Radio, Forbes, and dozens of crypto industry events.
+
+----
+
+Twitter: https://twitter.com/ErikVoorhees
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: z0ommrl4
+
+----
+
+Uuid: XmcAwH3QWdCfDDXK
+
+----
+
+Modified-at: 1758629934

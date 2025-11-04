@@ -1,0 +1,61 @@
+Title: Arthur Hayes
+
+----
+
+Picture: - file://Fyy6GW1hI5m3mZCU
+
+----
+
+Picture-color: - file://cYaXzRApPlN8nKmc
+
+----
+
+Picture-cropped: - file://O3Oqkdlfyqyq1TS9
+
+----
+
+Logo: - file://hYbu9nMABKRKeYwU
+
+----
+
+Subtitle: CIO
+
+----
+
+Company: Maelstrom
+
+----
+
+Company-url: https://maelstrom.fund/
+
+----
+
+Bio: CIO of Maelstrom. Founder and former CEO of BitMEX.
+
+----
+
+Twitter: https://x.com/CryptoHayes
+
+----
+
+Linkedin: https://www.linkedin.com/in/arthur-hayes-b493b42/
+
+----
+
+Email: 
+
+----
+
+Autoid: 06abvahs
+
+----
+
+Uuid: OcZllkXBe1dvlpWU
+
+----
+
+Datemodifiedepoch: 1696838145
+
+----
+
+Modified-at: 1758629914

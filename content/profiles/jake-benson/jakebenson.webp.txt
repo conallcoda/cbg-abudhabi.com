@@ -1,0 +1,5 @@
+Uuid: LKD8mFFYFGDE8NFJ
+
+----
+
+Template: image

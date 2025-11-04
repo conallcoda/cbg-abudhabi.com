@@ -1,0 +1,40 @@
+name: Seat Options
+icon: ticket
+tabs:
+    content:
+        fields:
+            items:
+                max: 2
+                label: Items
+                type: structure
+                columns:
+                    title:
+                        type: text
+                        label: Title
+                fields:
+                    title:
+                        type: text
+                        label: Title
+                    subtitle:
+                        type: writer
+                        label: Subtitle
+                        inline: true
+                    text:
+                        type: writer
+                        label: Text
+
+            included_title:
+                type: text
+                label: Included Title
+            included_text:
+                type: writer
+                label: Included Text
+            not_included_title:
+                type: text
+                label: Not Included Title
+            not_included_text:
+                type: writer
+                label: Not Included Text
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

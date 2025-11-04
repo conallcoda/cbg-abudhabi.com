@@ -1,0 +1,42 @@
+label: Submissions
+icon: list-numbers
+columns:
+    - width: 1/1
+      sections:
+          submissions_ski_fondue_download:
+              when:
+                  uuid: YFsfonia1eBxVhHD
+              type: fields
+              fields:
+                  skifondue_info:
+                      type: info
+                      label: Submission Counts & Download
+                      text: |
+                          **Ski + Fondue:** 
+                          Submissions: {{ page.getSubmissionsPage()._ski_fondue_count }} 
+                          (link: /download-submissions/{{page.uuid.id}}.csv?product=82GDAeCt7ukPP8j5 text: Download)
+
+                          **Fondue Only:**
+                          Submissions: {{ page.getSubmissionsPage()._fondue_only_count }} 
+                          (link: /download-submissions/{{page.uuid.id}}.csv?product=WXKMQNUsuXq7Pp9U text: Download)
+          submissions_ski_fondue:
+              when:
+                  uuid: YFsfonia1eBxVhHD
+              extends: sections/form-submissions
+              label: Ski & Fondue
+              query: page.getSubmissionsPage()._product_submissions('82GDAeCt7ukPP8j5')
+          submissions_fondue_only:
+              when:
+                  uuid: YFsfonia1eBxVhHD
+              extends: sections/form-submissions
+              label: Fondue Only
+              query: page.getSubmissionsPage()._product_submissions('WXKMQNUsuXq7Pp9U')
+          submissions_download: sections/submissions-download
+          submissions_complete:
+              extends: sections/form-submissions
+              label: Complete
+              query: page.getSubmissionsPage()._complete_submissions()
+          submissions_incomplete:
+              label: Incomplete
+              extends: sections/form-submissions
+              query: page.getSubmissionsPage()._incomplete_submissions()

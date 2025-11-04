@@ -1,0 +1,73 @@
+Title: Decentralized Finance, Centralized Ownership?
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"text":"In Decentralized Finance (DeFi), smart contracts take the role of financial intermediaries and offer a large variety of publicly accessible and interoperable financial services. Some examples include exchange protocols, lending platforms or investment funds. Assets are locked in these smart contracts and handled according to predefined rules, specified by the contract code. The public accessibility of these DeFi services, combined with the deterministic and atomic execution of smart contracts leads to a highly interconnected ecosystem.\n\nSince every transaction in this ecosystem is permanently recoded on the underlying blockchain, we have a unique opportunity to observe and analyze this market. In our paper *Decentralized Finance, Centralized Ownership? An Iterative Mapping Process to Measure Protocol Token Distribution [1]* we first devise a method to measure protocol decentralization and then quantify the ecosystem integration of protocols by calculating the *wrapping complexity*.\n\n### Protocol Decentralization\nMost DeFi protocols issue some form of governance tokens that represent partial protocol ownership. The exact implementations vary, but not unlike traditional company shares, they usually entitle the holders to vote on changes or upgrades to the protocol. Most token also have some form of implicit or explicit value-capture that allows the token holders to participate economically in the growth the protocol. The distribution of these governance tokens is a critical factor in the protocols’ decentralization efforts. Heavily centralized allocations may result in situations where a small set of super-users can unilaterally change the protocol.\n\nWith blockchain data, we can see which addresses hold these governance tokens. However, holding a token and being the economic beneficiary of the token are two very different things. For example, assume that Alice provided liquidity for a decentralized exchange (DEX) with a governance token. Our blockchain data would now show, that the governance tokens are held by the address that belongs to the DEX. However, the economic beneficiary of the tokens remains Alice, as she can withdraw her liquidity share from the DEX at any time. Furthermore, the DEX is not in full control of these assets and is limited to use them for market making according to predefined rules. Even worse, in this example the address of the DEX is shown to hold all the tokens of all the liquidity providers. A naïve look at the data therefore overestimates the concentration and centralization of most tokens. To accurately measure the token distribution in our example, we need to split the token holdings of the DEX and assign them to the liquidity providers.\n\nIn our paper, we devised an algorithm to do precisely this: trace the economic beneficiary or beneficiaries of every token position in a variety of different protocols (such as DEXes) to get a clearer picture of how the protocol ownership is distributed. The method is described in more detail in our paper.\n\nWe can show that by looking at the token distribution naïvely, the centralization of governance tokens is overestimated by approximately 100%. However, even after assigning the tokens to their economic beneficiaries, we find that most DeFi tokens have a somewhat concentrated ownership structure. Most protocols have less than 100 users controlling a majority of the tokens and in some extreme cases, just a few individuals could jointly enact protocol changes.\n\n**Wrapping Complexity**\nIn our example from above, Alice deposited her tokens as liquidity with a DEX. In return she received liquidity pool tokens (LP tokens) from the DEX, which represent a direct claim to a share of the DEX liquidity. Let’s further assume Alice deposits these LP tokens on a lending platform, where she will receive interest bearing tokens in return that represent her claim on the LP tokens. To determine the economic beneficiary of the original governance tokens, we now need two steps: (1) Map the token from the DEX to the lending protocol and (2) map the  token from the lending protocol to Alice. We would say the token is wrapped twice. Two protocols re-package and utilize the same underlying token. The metric wrapping complexity measures how many times a given token is wrapped on average across all protocols. In our paper we calculate the *wrapping complexity* for various governance tokens and use it as a proxy metric to show how integrated into the DeFi ecosystem a token is.\n\n(media: grafik1_unibasel.png)\n\nIn addition, we categorize where the tokens are wrapped: Same Protocol Ecosystem (red), External Incentive Programs  (olive), Exchange Liquidity (green), Lending and Borrowing (blue) and Other (e.g. token migrations or wrappers, purple).\n\nThe figure to the left shows the wrapping complexity on the y axis and how it developed over time (x axis) for the Maker token (MKR). A value of 0.25 for example means that on average every fourth token is used in another protocol. See our paper for an analysis of 17 more tokens.\n\nThe higher the *wrapping complexity*, the more integrated into the DeFi ecosystem a token is. However, high *wrapping complexity* can also be an indicator for convoluted and unnecessarily complex schemes which introduce additional risks and it is a catalyst for financial contagion. This is not unlike the securitization of loans or CDOs in traditional finance, where assets are continuously re-packaged and a default can have severe and widespread consequences. We argue that *wrapping complexity* is a vital metric to understand with regards to the financial stability of the DeFi ecosystem and it is important that we learn from mistakes in traditional finance and do not recreate the same issues in DeFi.\n\nFor a more thorough discussion about token wrapping complexity and centralized governance token ownership, consider our paper entitled *“Decentralized Finance, Centralized Ownership? An Iterative Mapping Process to Measure Protocol Token Distribution”* which was co-authored by (link: https://www.linkedin.com/in/fabian-schaer/ text: Prof. Fabian Schär target: blank) and myself.\n\n***\n\n**About the Author**\nAuthored by (link: https://www.linkedin.com/in/mat-nadler/ text: Matthias Nadler target: blank), Doctoral Candidate at (link: https://www.unibas.ch/en/ text: University of Basel target: blank)\n\n**References**\n[1] Nadler, Matthias and Schär, Fabian. \"Decentralized finance, centralized ownership? An iterative mapping process to measure protocol token distribution” Journal of Blockchain Research, 2022. Vol. 1, Number 1, pp. 29-36. (link: https://dx.doi.org/10.4310/JBR.2022.v1.n1.a3 text: https://dx.doi.org/10.4310/JBR.2022.v1.n1.a3 target: blank)","custom_id":"","custom_class":""},"id":"eab3837d-54d0-470d-8354-0b4766509550","isHidden":false,"type":"markdown"}],"id":"f0b6ac7a-4e1f-49c4-9ccc-733cb46732f9","width":"1/1"}],"id":"db67e002-ce03-4bae-b475-10d78292f357"}]
+
+----
+
+Picture: - file://K77wXckhlLLnYDfd
+
+----
+
+Author: page://XDXEBIjudWCHlOsz
+
+----
+
+Date: 2023-03-29
+
+----
+
+Subtitle: 
+
+----
+
+Tags: DeFi
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Picture-card: 
+
+----
+
+Autoid: tgy8wabg
+
+----
+
+Header-title: 
+
+----
+
+Uuid: R1ClY9qiKjzUT02E
+
+----
+
+Modified-at: 1728385734

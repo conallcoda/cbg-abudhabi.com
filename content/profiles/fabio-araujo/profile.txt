@@ -1,0 +1,57 @@
+Title: Fabio Araujo
+
+----
+
+Picture: - file://8oSRnCqFyaDbvszP
+
+----
+
+Picture-color: - file://S64y9hnQ7UcYWbQL
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://8VbbK8FaQYomeI4w
+
+----
+
+Subtitle: Senior Advisor
+
+----
+
+Company: Banco Central do Brasil
+
+----
+
+Company-url: https://www.bcb.gov.br/estabilidadefinanceira/drex
+
+----
+
+Bio: Fabio Araujo is a telecommunications engineer and PhD in economics and has been working at Banco Central do Brasil (BCB) since 1998. At the beginning of in his career in the BCB he took part in the implementation of the Inflation Targeting regime in Brazil and, afterwards, dedicated himself to advising the conduct of the monetary policy. More recently, Fabio was the head of the Office of Economic Advisors to the Governor and currently coordinates the work for the future implementation of DREX - the digital version of the Brazilian Real.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/fabio-araujo-5922274/
+
+----
+
+Email: 
+
+----
+
+Uuid: ubXKeFRF8AsJbFFB
+
+----
+
+Created-at: 1730717456
+
+----
+
+Modified-at: 1758629938

@@ -1,0 +1,57 @@
+Title: Prof. Dr. Aleksander Berentsen
+
+----
+
+Picture: - file://TlR1WMb03uVtzJL6
+
+----
+
+Picture-color: - file://YBL7TNUyR9UfDJ6P
+
+----
+
+Picture-cropped: - file://vZnSZAekjqJYWFzJ
+
+----
+
+Logo: - file://xPbGTqQJ3AFnaFwI
+
+----
+
+Subtitle: Professor of Economic Theory and Dean of the Faculty of Business and Economics
+
+----
+
+Company: University of Basel
+
+----
+
+Company-url: https://www.unibas.ch/en/
+
+----
+
+Bio: Aleksander Berentsen is Professor of Economics at the Faculty of Business and Economics of the University of Basel. His current research focus is DLT (blockchain and cryptoassets) and monetary policy instruments such as negative interest rates and balance sheet extensions. He is a research fellow at the Federal Reserve Bank of St. Louis, a technical advisor for the Bank for International Settlement in Basel, and a member of the advisory board of the thematic equity funds for Credit Suisse Asset Management. He also used to be an external consultant for the Swiss National Bank. He publishes in top academic journals such as the American Economic Review, the Review of Economic Studies, and the Journal of Monetary Economics, and is a co-author of the book "Bitcoin, Blockchain, and Cryptoassets" that is forthcoming in MIT-Press.
+
+----
+
+Twitter: https://twitter.com/aleksanderbere
+
+----
+
+Linkedin: https://www.linkedin.com/in/aleksander-berentsen/
+
+----
+
+Email: 
+
+----
+
+Autoid: csvhd5xp
+
+----
+
+Uuid: WsjmfidkLeesDQU6
+
+----
+
+Modified-at: 1758629992

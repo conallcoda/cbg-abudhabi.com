@@ -1,0 +1,63 @@
+Title: Don Wilson
+
+----
+
+Picture: - file://K8cS7bfUzoCa3BUi
+
+----
+
+Picture-color: - file://K8cS7bfUzoCa3BUi
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://LceEvatY3fDHmii4
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: DRW Holdings
+
+----
+
+Company-url: https://www.drw.com/
+
+----
+
+Bio:
+
+A pioneer in modernizing and democratizing derivatives trading, Donald R. Wilson, Jr., founded DRW in 1992. Three decades later, the principal trading firm employs over 2,000 employees globally and utilizes diverse trading strategies to take risk and support liquidity across fixed income, FX, commodities, equities, and cryptocurrencies.  Under Don’s leadership, the firm also has expanded to include four subsidiaries:  Cumberland, which offers institutional-scale liquidity in cryptocurrencies; DRW Venture Capital, which invests in fintech and enterprise technology; Convexity, a real estate investing arm; and Artemeter, which provides comprehensive carbon market solutions.  
+
+While known as a highly visible and active trader at the firm, Don also has established a legacy as a visionary innovator and thought leader who champions ideas that revolutionize free markets and address important issues. Under his leadership, Don has co-founded and invested in numerous market-centric initiatives, including Eris Innovations, Climate Vault, Compute Exchange and Silicon Data. 
+
+He's also a long-standing champion of the transformative power of cryptoassets and blockchain in the financial industry and beyond. As an early market participant, he has been active in launching numerous businesses that offer market-centric solutions and infrastructure in the space, including ErisX and Hashnote. He co-founded Digital Asset and spearheaded its spinoff of the Canton blockchain, which is the only public blockchain with the configurable privacy that large market participants need to effectively and efficiently utilize this technology.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: 1PeW3schAEeFqyMP
+
+----
+
+Created-at: 1759868829
+
+----
+
+Modified-at: 1759869138

@@ -1,0 +1,17 @@
+label: Articles
+icon: blog
+columns:
+    - width: 1/1
+      sections:
+          industry_insights:
+              extends: sections/pages-blog-articles
+              parent: site.page('industry-insights')
+              label: Industry Insights
+              template: article
+    - width: 1/1
+      sections:
+          academic_knowledge:
+              extends: sections/pages-blog-articles
+              parent: site.page('academic-knowledge')
+              label: Academic Knowledge
+              template: article

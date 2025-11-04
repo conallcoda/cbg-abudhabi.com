@@ -1,0 +1,49 @@
+Title: CfC St. Moritz Welcome Address
+
+----
+
+Session: Session 1 - The World Rewired
+
+----
+
+Speakers: - page://jLkeYnXBJcR558oi
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 12:15:00
+
+----
+
+Time-finish: 12:30:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: ujWhwQh9ZKaQWIpf
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1760453991

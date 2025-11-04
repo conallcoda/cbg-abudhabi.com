@@ -1,0 +1,5 @@
+Uuid: SI31pGz5qG4zmadl
+
+----
+
+Template: image

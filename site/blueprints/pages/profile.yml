@@ -1,0 +1,42 @@
+title: Profile
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+preset: page
+pages: false
+fields:
+    picture:
+        extends: fields/image
+        label: Picture (Uncropped)
+        width: 1/3
+    picture_color:
+        label: Picture (Color)
+        extends: fields/image
+        width: 1/3
+    picture_cropped:
+        label: Picture (Cropped)
+        extends: fields/image
+        width: 1/3
+    logo:
+        label: Logo
+        extends: fields/image
+        width: 1/2
+    subtitle:
+        label: Title
+        type: text
+    company:
+        label: Company
+        type: text
+    company_url:
+        label: Company Url
+        type: url
+    bio:
+        label: Bio
+        type: textarea
+        buttons:
+            - bold
+            - link
+        size: medium
+    social: fields/social

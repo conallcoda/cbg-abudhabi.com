@@ -1,0 +1,9 @@
+type: structure
+label: Partners
+fields:
+    title:
+        label: Title
+        type: text
+    partners:
+        extends: fields/select-partners
+        label: Partners

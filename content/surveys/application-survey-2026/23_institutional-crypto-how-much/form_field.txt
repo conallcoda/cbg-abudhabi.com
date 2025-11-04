@@ -1,0 +1,46 @@
+Title: How much did your company invest in crypto up to now (in million USD)?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: 'Less than 10'
+- 
+  title: '10 - 100'
+- 
+  title: 'More than 100'
+- 
+  title: We are NOT invested in crypto / Web3
+
+----
+
+Uuid: qaApgpPfQGRw6jFg
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1728565806

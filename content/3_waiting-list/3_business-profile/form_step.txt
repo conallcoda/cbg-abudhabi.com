@@ -1,0 +1,21 @@
+Title: Business Profile Questionnaire
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Step 2: Business Profile Questionnaire"},"id":"a60c9e8a-2ef6-4b0f-87a8-f68f3423fb22","isHidden":false,"type":"heading"},{"content":{"text":"<p>Please fill out the business profile questionnaire diligently. The more accurate information you provide, the better we can make an informed decision.</p>","custom_id":"","custom_class":""},"id":"95ce9b6f-12d9-4fc9-9bae-d25bf5b5b550","isHidden":false,"type":"text"},{"content":{"name":"survey","source":"page://9LfVdkI8J4lXbypw","custom_id":"","custom_class":""},"id":"72d7484b-41b1-43bd-a892-f5299b0b46e7","isHidden":false,"type":"form_survey"},{"content":{"text":"To Step 3","custom_id":"","custom_class":""},"id":"4e8c63f5-ac5b-4810-b13e-e828798575d6","isHidden":false,"type":"form_next_step_button"}],"id":"757379dd-218e-4516-a8ca-f9d4436f447f","width":"1/1"}],"id":"e047fb1f-a5a3-4c9d-a61a-c11d913b98d3"}]
+
+----
+
+Back-button-text: Back to Step 1
+
+----
+
+Type: 
+
+----
+
+Uuid: SOEtdbnezal1DEYN
+
+----
+
+Modified-at: 1728385843

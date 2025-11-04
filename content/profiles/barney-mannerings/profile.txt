@@ -1,0 +1,57 @@
+Title: Barney Mannerings
+
+----
+
+Picture: - file://zmxQGckH5O604x8U
+
+----
+
+Picture-color: - file://0rcOP7rVVDB67fUE
+
+----
+
+Picture-cropped: - file://o8vQWyy8PjTqh5Dr
+
+----
+
+Logo: - file://Ym1aYtiIQHzKd6Yj
+
+----
+
+Subtitle: Founder
+
+----
+
+Company: Vega
+
+----
+
+Company-url: https://vega.xyz
+
+----
+
+Bio: Barney Mannerings, Founder of Vega, is a blockchain and finance expert. He built two versions of the London stock exchange matching engine and worked in capital markets for 15 years. He is also Co-Founder of Pik, a SaaS offering for publishers that is supported by the Google DNI Fund and whose APIs are used by over 1 million unique users per month. Barney brings his expertise in financial products and blockchain solutions to leading the vision and strategy for Vega and is the lead architect and designer of the protocol.
+
+----
+
+Twitter: https://twitter.com/barnabee
+
+----
+
+Linkedin: https://www.linkedin.com/in/barnabee/
+
+----
+
+Email: 
+
+----
+
+Autoid: dapx018f
+
+----
+
+Uuid: 2gIr6ateVVIao7WQ
+
+----
+
+Modified-at: 1758629915

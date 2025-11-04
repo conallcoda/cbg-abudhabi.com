@@ -1,0 +1,67 @@
+Title: Amar Kuchinad
+
+----
+
+Picture: - file://6WseUyLwQCM3Sf0e
+
+----
+
+Picture-color: - file://6WseUyLwQCM3Sf0e
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://aMpAD8hBZt8Ur5H3
+
+----
+
+Subtitle: Global CEO
+
+----
+
+Company: Copper.co
+
+----
+
+Company-url: https://copper.co/en
+
+----
+
+Bio:
+
+Amar Kuchinad serves as the Global CEO of Copper, a leading digital asset financial services company providing blockchain-based collateral management, custody, and treasury optimization solutions. With a diverse background spanning traditional finance and innovative fintech, Amar brings a wealth of experience to drive Copper's institutional-first approach.
+
+Previously, Amar was a Senior Managing Director at Pretium Partners, an alternative asset manager with over $50 billion in AUM, where he was responsible for technology, data, analytics, and risk across the management company and its operating subsidiaries.
+
+Prior to Pretium, Amar was CEO and Co-Founder of Electronifie, a SEC-registered broker-dealer which operated an alternative trading system enabling institutions to trade corporate bonds, and Chief Strategy Officer at Trumid following Trumid’s acquisition of Electronifie.
+
+Before his entrepreneurial endeavor, Amar served as a Senior Policy Advisor at the U.S. Securities and Exchange Commission (SEC), providing market practitioner insights across Trading & Markets, Investment Management, and Enforcement. 
+
+Amar’s career on Wall Street was primarily spent at Credit Suisse and Goldman Sachs, where he was responsible for a number of equity and credit trading businesses. He graduated from Harvard College with an A.B. in Applied Mathematics.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/amar-kuchinad/
+
+----
+
+Email: 
+
+----
+
+Uuid: yMG6Q3Q4gtvHGBxb
+
+----
+
+Created-at: 1733156802
+
+----
+
+Modified-at: 1759875174

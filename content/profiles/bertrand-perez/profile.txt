@@ -1,0 +1,57 @@
+Title: Bertrand Perez
+
+----
+
+Picture: - file://Eqqvt0Poc48kSTg4
+
+----
+
+Picture-color: - file://t0ItHqO5AiEojleQ
+
+----
+
+Picture-cropped: - file://cwfMiH3zq7xbbfUd
+
+----
+
+Logo: - file://h0F5OHpVWbkEPPAV
+
+----
+
+Subtitle: COO
+
+----
+
+Company: Libra Networks
+
+----
+
+Company-url: https://www.diem.com/en-us/
+
+----
+
+Bio: Bertrand Perez is responsible for the day-to-day operations of the Association. With more than 25 years of engineering and technical management experience in payments and telecoms, Bertrand has led global engineering and operations teams of all sizes. Most recently he was Senior Director of Payments at PayPal, where he was responsible for the development and maintenance of several core components of the company's payments platform. Prior to his time at PayPal, Bertrand held executive and senior technical management positions at Ericsson, as well as startups like Index Multimedia and Zong. Bertrand holds a Masters in Computer Science.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/bertrandperez/
+
+----
+
+Email: 
+
+----
+
+Autoid: 51siv360
+
+----
+
+Uuid: R9D2zMSP6Vhu8JAj
+
+----
+
+Modified-at: 1758629916

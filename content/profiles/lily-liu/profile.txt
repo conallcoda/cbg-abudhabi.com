@@ -1,0 +1,63 @@
+Title: Lily Liu
+
+----
+
+Picture: - file://l0uIXvODnfFloPgp
+
+----
+
+Picture-color: - file://l0uIXvODnfFloPgp
+
+----
+
+Picture-cropped: - file://dkIfAu86OKTro9eG
+
+----
+
+Logo: - file://pjC1SzTHSJRUzjO0
+
+----
+
+Subtitle: President
+
+----
+
+Company: Solana Foundation
+
+----
+
+Company-url: https://solana.com/
+
+----
+
+Bio:
+
+Lily Liu is an operator and investor focused on the blockchain industry. Lily is the President of the Solana Foundation and Co Founder of Anagram.
+
+Lily has a background as a CFO and operating executive in the US, Europe, and Asia. Previously, Lily co-founded [Earn.com](http://earn.com/) which was acquired by Coinbase in 2018. She was also the CFO of the Chinaco Healthcare Corporation, where she built a 500-bed private hospital in China. Lily also worked at KKR in New York as well as McKinsey in New York and Beijing.
+
+Lily received a BA in Economics and International Relations from Stanford, and studied East Asian Studies at Harvard.
+
+----
+
+Twitter: https://x.com/calilyliu
+
+----
+
+Linkedin: https://linkedin.com/in/calilyliu
+
+----
+
+Email: 
+
+----
+
+Autoid: gxjywywf
+
+----
+
+Uuid: 6RzfZacDATFr0yQA
+
+----
+
+Modified-at: 1760736702

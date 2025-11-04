@@ -1,0 +1,49 @@
+Title: From DeFi to On-Chain Capital Markets: Building the Next Financial System
+
+----
+
+Session: Session 3 - The Future of Markets
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>From institutional engagement in DeFi to the emergence of tokenized funds and assets, the building blocks of a new financial system are quietly gaining momentum. This is not about replacing traditional finance – it’s about re-architecting capital markets for programmability, transparency, and global access. As regulatory clarity improves and infrastructure scales, a multi-rail future is taking shape. What’s required to move more of the capital markets stack – from origination to trading to settlement – on-chain?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"03f19bcc-62bd-48fa-a6c4-e830c1337cc1","isHidden":false,"type":"text"}],"id":"b04435bc-548d-4602-84aa-86076f1ec935","width":"1/1"}],"id":"c7ee1b45-765c-4715-90e5-8f283a464db8"}]
+
+----
+
+Time-start: 18:20:00
+
+----
+
+Time-finish: 19:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: WEEuwxBI9VEYIJEI
+
+----
+
+Created-at: 1725981743
+
+----
+
+Modified-at: 1761731357

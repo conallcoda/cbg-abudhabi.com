@@ -1,0 +1,17 @@
+Title: Gala Games
+
+----
+
+Autoid: kdfcpfr9
+
+----
+
+Picture: partners-data/gala-games/27_galagames_website_frame.png
+
+----
+
+Link: https://app.gala.games
+
+----
+
+Uuid: 7klUMKTn75r7BT1p

@@ -1,0 +1,25 @@
+headline: Forms
+status: all
+type: pages
+layout: table
+limit: 50
+image: false
+parent: site
+create:
+    - form
+templates:
+    - form
+    - newsletter
+columns:
+    title:
+        label: Name
+    submissions:
+        label: Submissions
+        value: '{{ page._panel_submissions_text }}'
+    url:
+        label: URL
+        type: html
+        value: '{{ page.relaitve_url_link() }}'
+    last_modified:
+        label: Last Modified
+        value: '{{ page.getModifiedAgo() }}'

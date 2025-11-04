@@ -1,0 +1,61 @@
+Title: Nicolo Stöhr
+
+----
+
+Picture: - file://BfkX7oPccxcuG03C
+
+----
+
+Picture-color: - file://BfkX7oPccxcuG03C
+
+----
+
+Picture-cropped: - file://rWfUeo3QliXF6SJd
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Strategy & Operations
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Managing strategy and operations for the CfC St. Moritz and all its side events. Graduate of the University of St. Gallen (Master in Business Innovation), with a strong entrepreneurial mindset and professional experience in the areas of business development, leading projects, and expertise in building up companies.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/nicolo-st%C3%B6hr-692365160/
+
+----
+
+Email: nicolo@cfc-stmoritz.com
+
+----
+
+Autoid: imilygq6
+
+----
+
+Uuid: jLkeYnXBJcR558oi
+
+----
+
+Datemodifiedepoch: 1719825849
+
+----
+
+Modified-at: 1760534006

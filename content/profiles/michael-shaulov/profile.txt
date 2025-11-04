@@ -1,0 +1,67 @@
+Title: Michael Shaulov
+
+----
+
+Picture: - file://kyTqIKqWrU6QKOMb
+
+----
+
+Picture-color: - file://Anxrsb20d8zJElGk
+
+----
+
+Picture-cropped: - file://uUQJi3TkNhNlaXzh
+
+----
+
+Logo: - file://ZxsSv8ua5d0YhPbz
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Fireblocks
+
+----
+
+Company-url: https://www.fireblocks.com/
+
+----
+
+Bio:
+
+Michael Shaulov, a renowned cybersecurity entrepreneur, is the CEO and co-founder of Fireblocks, the leading secure digital asset infrastructure company. Prior to Fireblocks, he co-founded Lacoon Mobile Security, which was acquired by Check Point, where he was then appointed the Head of Products, Mobile and Cloud Security. 
+
+In 2017, the infamous Lazarus Group hacked into four South Korean exchanges and stole $200M of Bitcoin. Working for the cybersecurity leader Check Point at the time, the would-be founders of Fireblocks were part of the task force that investigated the massive cyber breach. It was this assignment that gave Michael and his two co-founders the inspiration to start Fireblocks. 
+
+Michael is also a recognized industry speaker, delivering talks at RSA Conference, BlackHat, and Infosec. Before his commercial endeavors, Michael pioneered the mobile security field in Israel's elite Unit 8200, where he received the Israeli Presidential Excellency Honor for his contributions. He holds a BSc in Computer Sciences and Physics from Ben-Gurion University, Israel.
+
+----
+
+Twitter: https://twitter.com/FireblocksHQ
+
+----
+
+Linkedin: https://www.linkedin.com/in/michaelsh/
+
+----
+
+Email: 
+
+----
+
+Uuid: XBFcTXeEeTrSnMBo
+
+----
+
+Datecreatedepoch: 1699431165
+
+----
+
+Datemodifiedepoch: 1699867328
+
+----
+
+Modified-at: 1758629980

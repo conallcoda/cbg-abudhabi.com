@@ -1,0 +1,61 @@
+Title: Eva Sanchez
+
+----
+
+Picture: - file://08tbwJ9uMJVzVWDE
+
+----
+
+Picture-color: - file://ekFdEePF8NJugcmp
+
+----
+
+Picture-cropped: - file://21elO80SKVJCg1Td
+
+----
+
+Logo: - file://McNX5JVkLzXcawRo
+
+----
+
+Subtitle: Chief Legal Officer
+
+----
+
+Company: GSR International
+
+----
+
+Company-url: https://www.gsr.io/
+
+----
+
+Bio: Eva is the Chief Legal Officer of GSR and oversees the firm’s legal, compliance and regulatory policy affairs. In this role she is able to bring to bear her extensive market structure and regulatory expertise gained over decades in TradFi at premier institutions such as AQR and Citadel. As a firm believer in the power of blockchain and the role crypto can play to deliver on this promise, she is committed to the firm's thought leadership and role as force for good at this critical time for the industry.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: http://linkedin.com/in/eva-sanchez-96209a1a
+
+----
+
+Email: 
+
+----
+
+Uuid: iEq1PZeJyVBYz2AD
+
+----
+
+Datecreatedepoch: 1700554722
+
+----
+
+Datemodifiedepoch: 1700554786
+
+----
+
+Modified-at: 1758629934

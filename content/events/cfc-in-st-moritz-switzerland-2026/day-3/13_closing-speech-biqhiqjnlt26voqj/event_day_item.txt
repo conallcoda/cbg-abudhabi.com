@@ -1,0 +1,49 @@
+Title: Closing Speech
+
+----
+
+Picture: 
+
+----
+
+Session: Session 4 - Closing of the Conference
+
+----
+
+Speakers: - page://jLkeYnXBJcR558oi
+
+----
+
+Description: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 13:30:00
+
+----
+
+Time-finish: 13:35:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: ccqaZtzPN57VrN2S
+
+----
+
+Created-at: 1725981746
+
+----
+
+Modified-at: 1728542283

@@ -1,0 +1,29 @@
+Title: Media Accreditation Requested
+
+----
+
+Type: User
+
+----
+
+To: 
+
+----
+
+Bcc: 
+
+----
+
+Subject: Media Accredditation Application
+
+----
+
+Body: Dear [contact__first_name],<br><br>Thank you very much for submitting your media accreditation application for CfC St. Moritz 2024.<br><br>We will be in touch with you shortly.<br><br>Best regards,<br>The CfC St. Moritz team
+
+----
+
+Uuid: 3bUdeUZDQHyrq9yz
+
+----
+
+Modified-at: 1737045420

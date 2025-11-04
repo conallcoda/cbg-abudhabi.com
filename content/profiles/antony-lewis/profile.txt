@@ -1,0 +1,71 @@
+Title: Antony Lewis
+
+----
+
+Picture: - file://vrp9JlkcuALirz76
+
+----
+
+Picture-color: - file://vrp9JlkcuALirz76
+
+----
+
+Picture-cropped: - file://AXoMM0AsVeo9UWTF
+
+----
+
+Logo: - file://4nEdTsgVSwbvPV67
+
+----
+
+Subtitle: Director, Investment (Blockchain)
+
+----
+
+Company: Temasek
+
+----
+
+Company-url: https://temasek.com.sg
+
+----
+
+Bio:
+
+Antony joined Temasek in March 2020 and is a Director in Temasek’s Blockchain team, leading the Pod’s crypto asset investments and activities.
+
+He has been working professionally in the cryptocurrency and blockchain industry since joining itBit (now Paxos) in 2013. Before Temasek he held Director roles in research, digital assets, and advisory groups at enterprise blockchain firm R3, working with central banks and the private sector.
+
+Antony is bestselling author of “The Basics of Bitcoins and Blockchains”, used as a textbook in leading universities worldwide, and writes a personal blog explaining this technology at www.bitsonblocks.net.
+
+Prior to crypto, Antony was a technology manager at Credit Suisse in London and Singapore having started his financial services career as an FX trader at Barclays Capital.
+
+Antony holds a BA and MA from Gonville & Caius College, Cambridge University, UK.
+
+----
+
+Twitter: https://x.com/antony_btc
+
+----
+
+Linkedin: https://www.linkedin.com/in/lewisantony/
+
+----
+
+Email: 
+
+----
+
+Uuid: bSOkT1qp2jYVXFrA
+
+----
+
+Datecreatedepoch: 1701167053
+
+----
+
+Datemodifiedepoch: 1701167233
+
+----
+
+Modified-at: 1761172129

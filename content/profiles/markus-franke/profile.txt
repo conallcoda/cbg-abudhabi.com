@@ -1,0 +1,65 @@
+Title: Markus Franke
+
+----
+
+Picture: - file://QsJrg9vTSIdR7mzG
+
+----
+
+Picture-color: - file://Ub3qX7bpIbXXIThz
+
+----
+
+Picture-cropped: - file://ln4ANeLktofW9jMl
+
+----
+
+Logo: - file://s743G2mc8TaqmKU0
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Mento Labs
+
+----
+
+Company-url: https://www.mento.org/
+
+----
+
+Bio:
+
+Markus Franke is Co-Founder of Mento, a digital platform used to launch and operate multi-currency stablecoins - digital currencies for payments, cross-border transactions (remittances), the credit & settlement markets. Markus is also a co-creator of Celo, a permissionless, open-source blockchain infrastructure built for the real world, with thou-
+sands of projects live in over 150 countries; mobile-first and carbon-negative from its launch. Deutsche Telekom is part of the global validator set securing the Celo blockchain and providing oracle services.
+Markus is an economist who has been working for over 20 years at the intersection of economics, finance and technology: in traditional finance (J.P. Morgan, Merrill Lynch, Allianz), as a post-doc researcher (Ludwig-Maximilians-Universität, Columbia Business School NYC, HKUST), and in the Web3 ecosystem (Board Member of cLabs, Chief Economist at Celo Foundation). Markus holds a PhD in economics and is advisor and board member to many projects in the technology space.
+
+----
+
+Twitter: https://twitter.com/MarkusMento
+
+----
+
+Linkedin: https://www.linkedin.com/in/markus-f-82242028/
+
+----
+
+Email: 
+
+----
+
+Autoid: a07xfm3t
+
+----
+
+Uuid: LSRhmLQOB6jtwhc4
+
+----
+
+Datemodifiedepoch: 1698139496
+
+----
+
+Modified-at: 1759600903

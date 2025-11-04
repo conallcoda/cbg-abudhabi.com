@@ -1,0 +1,57 @@
+Title: William Benattar
+
+----
+
+Picture: - file://kVpZaqr7koQActgq
+
+----
+
+Picture-color: - file://kVpZaqr7koQActgq
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://G0I8UC0m4JEd6Cb5
+
+----
+
+Subtitle: Investment Principal
+
+----
+
+Company: Marshall Wace
+
+----
+
+Company-url: https://www.mwam.com/
+
+----
+
+Bio: William joined Marshall Wace in May 2022 to oversee Marshall Wace’s expansion in the digital assets space. William leads public and private market investments for Marshall Wace across digital assets and payments. Prior to joining Marshall Wace, William worked as an Investment Director at Candy Capital, a family office founded by property billionaire Nick Candy, where he was responsible for multi stage technology investments as well as strategic investments in areas such sports and politics. Prior to Candy Capital. William started his career at Greyspark Partners, a capital markets technology investment advisor where he co-founded and co-led the Fintech Investment Advisory practice.  William holds a Major in Corporate Finance from Toulouse Business School
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/feed/
+
+----
+
+Email: 
+
+----
+
+Uuid: 8Utcuej5mshfbnJB
+
+----
+
+Created-at: 1761172291
+
+----
+
+Modified-at: 1761172418

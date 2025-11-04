@@ -1,0 +1,17 @@
+Title: Landing
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Application for Media Accreditation"},"id":"341fdb7e-6e32-48c9-b404-7052323aa2ae","isHidden":false,"type":"heading"},{"content":{"text":"<p>The CfC St. Moritz reserves limited seats for journalists and media representatives interested in attending and covering the conference. To support you in your work and create a pleasant stay for you, we ask you to submit a few details with your application, which will help us plan the resources needed. Please note that filming and recording are only possible in the dedicated media lounge. We are happy to provide any material needed in our EPK (stage recordings, ambient, surroundings, evening events).</p>","custom_id":"","custom_class":""},"id":"2c038458-e5b9-41f4-966c-31b47549ae31","isHidden":false,"type":"text"},{"content":{"custom_id":"","custom_class":""},"id":"86fc4c6a-2140-4c2b-afdd-86d4b6ba050d","isHidden":false,"type":"divider"},{"content":{"level":"h2","text":"Contact Details"},"id":"352db6dd-1af7-4c9c-bff5-d53635a97a0f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Please answer the questions below.</p>","custom_id":"","custom_class":""},"id":"ed2263b6-99de-4e88-84ac-a25ef08b1388","isHidden":false,"type":"text"},{"content":{"name":"contact","items":["page://mATt1uHL5chz9Ees","page://5miW0HA9VRqwhDnw","page://hrKJKHkgCsLMskSI","page://SNWZAxqkNBP8cGLU","page://vRi6nDxDdBH43Dqy"],"optional":[],"show_labels":"false"},"id":"f6775ba3-11f4-494c-9d5c-8c5c98fbf54a","isHidden":false,"type":"form_fields"},{"content":{"custom_id":"","custom_class":""},"id":"42988235-07ef-47fe-b977-c014f7820f69","isHidden":false,"type":"divider"},{"content":{"level":"h2","text":"Additional Questions"},"id":"f4989ac5-a9aa-4512-b391-f52fb7376ef2","isHidden":false,"type":"heading"},{"content":{"name":"survey","source":"page://yoLx9lpofd0m4xWg","custom_id":"","custom_class":""},"id":"ff93c3d6-70db-4fa9-9f81-18dc70fdfbbc","isHidden":false,"type":"form_survey"},{"content":{"custom_id":"","custom_class":""},"id":"3bc84374-fc99-4f41-a8d9-3ee4ead36fab","isHidden":false,"type":"divider"},{"content":{"hide_title":"false","hide_intro":"false","title":"","text":"","disclaimer":"","custom_id":"","custom_class":""},"id":"91d62a30-0451-42a2-92fd-35ccc4b48fba","isHidden":false,"type":"form_accept_terms"},{"content":{"text":"Submit","custom_id":"","custom_class":""},"id":"c426b5b3-ccd6-4366-9fc7-8ae137bda61c","isHidden":false,"type":"form_next_step_button"}],"id":"11995a5b-aecc-4b88-848e-2666d390abbe","width":"1/1"}],"id":"c7eff709-1137-45c3-adf3-9390daefef73"}]
+
+----
+
+Back-button-text: 
+
+----
+
+Uuid: 06dNGRwyEcS4u4ce
+
+----
+
+Modified-at: 1728385838

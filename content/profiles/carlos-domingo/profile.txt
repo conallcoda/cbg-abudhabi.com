@@ -1,0 +1,73 @@
+Title: Carlos Domingo
+
+----
+
+Picture: - file://dyX9nXQYlbkf0G2G
+
+----
+
+Picture-color: - file://dyX9nXQYlbkf0G2G
+
+----
+
+Picture-cropped: - file://Q6C4TeqPRp4wxYRO
+
+----
+
+Logo: - file://6DkIMUNW1aiq7hIH
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Securitize
+
+----
+
+Company-url: https://www.securitize.io
+
+----
+
+Bio:
+
+Carlos Domingo is an entrepreneur with over 25 years of expertise in innovation, digital transformation, and venture capital. As the Co-founder and CEO of Securitize, Carlos leads the way in developing compliant digital securities platforms that transform how companies raise capital and manage investors.
+
+
+On 6/5/24, Carlos testified before the House Financial Services Committee on the benefits of tokenization in capital markets, as the sole representative from a tokenization platform. 
+
+
+Before his groundbreaking work with Securitize, Carlos held prominent roles as CEO of Research & Development at Telefonica, creating cutting-edge advancements and pioneering technology at companies such as Telefonica, one of the largest telecom companies in the world. Later, he would serve as CEO of New Business and Innovation, which led to an interest in spearheading blockchain adoption through the tokenization of traditional markets.
+
+
+Carlos holds a Ph.D. in computer science, showcasing his deep technical understanding and commitment to advancing technological frontiers. 
+Multilingual with experience across global markets, he speaks English, Spanish, and Japanese ﬂuently. Based in Miami, Carlos continues to be a driving force at the intersection of technology, ﬁnance, and innovation, consistently pushing the boundaries of what is possible in the digital age.
+
+----
+
+Twitter: https://x.com/carlosdomingo
+
+----
+
+Linkedin: https://www.linkedin.com/in/carlosdomingo/
+
+----
+
+Email: 
+
+----
+
+Autoid: 8bnawaoo
+
+----
+
+Uuid: LXAuz9X9m6Nx7iN1
+
+----
+
+Datemodifiedepoch: 1699866879
+
+----
+
+Modified-at: 1759874945

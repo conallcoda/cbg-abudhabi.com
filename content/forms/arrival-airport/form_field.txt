@@ -1,0 +1,42 @@
+Title: Arrival Airport
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: Zurich Airport
+- 
+  title: Malpensa Airport
+- 
+  title: Linate Airport
+- 
+  title: Bergamo Airport
+
+----
+
+Uuid: MFfMxh8oepUZ8bMv
+
+----
+
+Modified-at: 1727189329

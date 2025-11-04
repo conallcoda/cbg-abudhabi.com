@@ -1,0 +1,57 @@
+Title: Jacek Czarnecki
+
+----
+
+Picture: - file://wIQ59SJZGfvdkmx4
+
+----
+
+Picture-color: - file://fG2MFe2KR89svvk8
+
+----
+
+Picture-cropped: - file://sCIkIo8HIQwtgTf6
+
+----
+
+Logo: - file://0qzziNTXkbZ7Vgi0
+
+----
+
+Subtitle: Global Legal Counsel
+
+----
+
+Company: Maker Foundation
+
+----
+
+Company-url: https://makerdao.com/en/
+
+----
+
+Bio: Jacek Czarnecki is a Global Legal Counsel at the Maker Foundation. At Maker, Jacek is responsible for global legal matters and public policy.
+
+----
+
+Twitter: https://twitter.com/Jacek_Czarnecki
+
+----
+
+Linkedin: https://www.linkedin.com/in/jacekczarnecki/
+
+----
+
+Email: 
+
+----
+
+Autoid: kinbwnco
+
+----
+
+Uuid: NLRNgE3cgWmw5ELz
+
+----
+
+Modified-at: 1758629945

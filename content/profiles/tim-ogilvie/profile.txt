@@ -1,0 +1,57 @@
+Title: Tim Ogilvie
+
+----
+
+Picture: - file://5TeWXFljMYXYKLvd
+
+----
+
+Picture-color: - file://idCI1gtfkHgNma67
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://AONuqyUz7BEFydFR
+
+----
+
+Subtitle: Global Head
+
+----
+
+Company: Kraken Institutional
+
+----
+
+Company-url: https://www.kraken.com/
+
+----
+
+Bio: Tim Ogilvie is the Global Head of Kraken Institutional, which provides institutional investors with a full suite of products and services to succeed in the cryptocurrency asset class. Tim has nearly twenty years entrepreneurial experience and is the co-founder of Staked, a non-custodial staking service acquired by Kraken in 2021. Tim holds a BS in Computer Science from Yale University.
+
+----
+
+Twitter: https://x.com/Tim_Ogilvie
+
+----
+
+Linkedin: https://www.linkedin.com/in/timogilvie/
+
+----
+
+Email: 
+
+----
+
+Uuid: cAU0Z1EHyHheylui
+
+----
+
+Created-at: 1730466827
+
+----
+
+Modified-at: 1758630009

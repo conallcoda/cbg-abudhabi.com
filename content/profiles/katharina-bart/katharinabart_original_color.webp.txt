@@ -1,0 +1,13 @@
+Alt: 
+
+----
+
+Uuid: tZlc63gniKhgr1ha
+
+----
+
+Template: image
+
+----
+
+Focus: 67.0% 48.4%

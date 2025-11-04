@@ -1,0 +1,15 @@
+name: Payment
+icon: money
+tabs:
+    content:
+        fields:
+            allow_reduction_codes:
+                extends: fields/yes_no
+                label: Allow Reduction Codes?
+            summary_title:
+                label: Summary Title
+                type: text
+
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

@@ -1,0 +1,17 @@
+Title: LyceumAlpinum
+
+----
+
+Autoid: kvh9rclg
+
+----
+
+Picture: partners-data/lyceumalpinum/lyceum-az-logo.jpg
+
+----
+
+Link: https://www.lyceum-alpinum.ch/de/?gclid=EAIaIQobChMI75aoxsLx5AIV1uF3Ch2HbwjOEAAYASAAEgJiqPD_BwE
+
+----
+
+Uuid: d4FsMvMheUaaYjfw

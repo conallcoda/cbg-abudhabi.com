@@ -1,0 +1,57 @@
+Title: Frank Chaparro
+
+----
+
+Picture: - file://NUmCbVXmLHK9qXTV
+
+----
+
+Picture-color: - file://boKCWO9nm9y0OFAX
+
+----
+
+Picture-cropped: - file://fanOP35bhUYsEFXZ
+
+----
+
+Logo: - file://alQQs37I6ZNesbMP
+
+----
+
+Subtitle: Editor-at-Large
+
+----
+
+Company: The Block
+
+----
+
+Company-url: https://www.theblock.co/
+
+----
+
+Bio: Frank Chaparro covers the intersection of financial markets and cryptocurrency as Editor-at-Large. Since joining the publication in 2018 as its first reporter, he has played a key role in building The Block into a leader in financial journalism and research. He leads special projects, including The Block's flagship podcast, The Scoop. Prior to The Block, he held roles at Business Insider, NPR, and Nasdaq. For inquiries or tips, email Fchaparro@TheBlock.co.
+
+----
+
+Twitter: https://twitter.com/fintechfrank
+
+----
+
+Linkedin: https://www.linkedin.com/in/fchaparro/
+
+----
+
+Email: 
+
+----
+
+Autoid: 6cm7hmsb
+
+----
+
+Uuid: 8RkpgePArg4AwKku
+
+----
+
+Modified-at: 1758629939

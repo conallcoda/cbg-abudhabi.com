@@ -1,0 +1,17 @@
+Title: Contact & Flight Details
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Your travel &amp; personal information"},"id":"425331b3-b5bc-4570-b80a-32bde19fc186","isHidden":false,"type":"heading"},{"content":{"custom_id":"","custom_class":""},"id":"88d88359-ac89-45e4-a75a-ed45c7468d86","isHidden":false,"type":"divider"},{"content":{"level":"h2","text":"Contact Details"},"id":"db204796-e6d5-4a6a-8811-6757187242bc","isHidden":false,"type":"heading"},{"content":{"name":"contact","items":["page://mATt1uHL5chz9Ees","page://5miW0HA9VRqwhDnw","page://hrKJKHkgCsLMskSI","page://YKZwi6jEGRN1Zzhw"],"optional":[],"show_labels":"true"},"id":"93432e44-489b-433b-8471-316bdc13b71a","isHidden":false,"type":"form_fields"},{"content":{"custom_id":"","custom_class":""},"id":"d788c2e6-bb68-4ee2-a893-808ac31e933f","isHidden":false,"type":"divider"},{"content":{"level":"h2","text":"Flight Details"},"id":"a38a097c-44a6-48c9-acb0-81e045273e67","isHidden":false,"type":"heading"},{"content":{"text":"<p>Kindly provide us with your flight details </p>","custom_id":"","custom_class":""},"id":"d01cb50b-2be7-40be-84a9-3cf05acb55bc","isHidden":false,"type":"text"},{"content":{"name":"flight","items":["page://6PnSV2u2TiyJPJT6","page://5WAfwx2vrOGAmlc2","page://fC45hQBPFIe8Xq6q","page://MFfMxh8oepUZ8bMv"],"optional":[],"show_labels":"true"},"id":"c3465539-e85c-4a22-af6e-ce6d040f6ae7","isHidden":false,"type":"form_fields"},{"content":{"text":"Next","custom_id":"","custom_class":""},"id":"1721b49b-0cbd-436f-9972-cf05014b24d0","isHidden":false,"type":"form_next_step_button"}],"id":"e66d4dfc-d138-413d-b8a3-3e6443d227a9","width":"1/1"}],"id":"17d4f1c8-fa48-4712-913b-065084a9e744"}]
+
+----
+
+Back-button-text: Back to Overview
+
+----
+
+Uuid: wW1dCF0ewY2drAQn
+
+----
+
+Modified-at: 1728385840

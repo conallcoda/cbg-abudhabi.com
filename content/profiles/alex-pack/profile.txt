@@ -1,0 +1,57 @@
+Title: Alex Pack
+
+----
+
+Picture: - file://ejMvbMxgx6bdVcb6
+
+----
+
+Picture-color: - file://ejIwr3fO9jiyK04I
+
+----
+
+Picture-cropped: - file://UET7pWFnGiTmg2MP
+
+----
+
+Logo: - file://9UriUlYCLZuY9Am9
+
+----
+
+Subtitle: Co-Founder & Managing Partner
+
+----
+
+Company: Hack VC
+
+----
+
+Company-url: https://hack.vc
+
+----
+
+Bio: Alex Pack is a longtime crypto investor and founder. He currently manages a $150M+ crypto-focused venture fund and founded Imperii Partners, the leading crypto-specialist investment bank. Previously, he was a co-founder and former Managing Partner at Dragonfly Capital, a global crypto fund based in the U.S. and China, an advisor to Huobi, and led crypto investments at Bain Capital Ventures and AngelList.
+
+----
+
+Twitter: https://twitter.com/alpackaP
+
+----
+
+Linkedin: https://www.linkedin.com/in/alexpack/
+
+----
+
+Email: 
+
+----
+
+Autoid: z25687ry
+
+----
+
+Uuid: fLlztzfMv9y0Xibl
+
+----
+
+Modified-at: 1758629909

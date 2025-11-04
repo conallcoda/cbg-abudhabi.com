@@ -1,0 +1,13 @@
+name: Author Bio [Blog]
+icon: user
+tabs:
+    content:
+        fields:
+            author:
+                extends: field/select-profiles
+                label: Author
+                multiple: false
+
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

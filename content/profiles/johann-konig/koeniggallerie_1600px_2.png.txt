@@ -1,0 +1,5 @@
+Uuid: AF3hseGRTTbA1wBg
+
+----
+
+Template: image

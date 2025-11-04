@@ -1,0 +1,13 @@
+name: field.blocks.list.name
+wysiwyg: true
+preview: list
+icon: list-bullet
+tabs:
+    content:
+        fields:
+            text:
+                label: field.blocks.list.name
+                type: list
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

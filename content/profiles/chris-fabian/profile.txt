@@ -1,0 +1,66 @@
+Title: Chris Fabian
+
+----
+
+Picture: - file://wqdJcLd52fsq9zdx
+
+----
+
+Picture-color: - file://FH0HCyeCpSMi7vii
+
+----
+
+Picture-cropped: - file://9Jg2vXT3FATC0AGG
+
+----
+
+Logo: - file://nOcxhxkDEhXHfVLM
+
+----
+
+Subtitle: Co-Founder & Co-Lead
+
+----
+
+Company: Giga (UNICEF+ITU)
+
+----
+
+Company-url: http://giga.global
+
+----
+
+Bio:
+
+Chris co-founded and co-leads Giga, a DePIN effort by UNICEF and ITU to connect every school and health centre in the world to the internet. Giga has mapped more than 2.5 million schools, and uses applied machine learning, public blockchains, and financial engineering to help governments in 40 countries connect every child to a safe and useful internet. 
+Previously, he established UNICEF's Innovation Unit and developed UNICEF’s Venture and Crypto Fund.   Chris has advised two UN Secretary-Generals on technology policy, as well as working with Central Banks and Ministries of Technology on blockchain, open-source govtech, and digitalization.  
+He is currently excited about Giga’s Connectivity Credits Marketplace, putting a zk layer on Giga’s API, creating on-chain artifacts representing public infrastructure, and setting up a research centre in Geneva to explore the intersection  between connectivity and decentralization. 
+Chris was listed among TIME Magazine's "100 Most Influential People" in 2013, and recognized by Wired as one of the “25 People Changing the World” in 2019.
+
+----
+
+Twitter: https://x.com/chrisfabian
+
+----
+
+Linkedin: https://www.linkedin.com/in/hichrisfabian
+
+----
+
+Email: 
+
+----
+
+Autoid: 14x9u6y1
+
+----
+
+Uuid: tK9j20iYvlC1vUnt
+
+----
+
+Datemodifiedepoch: 1702477569
+
+----
+
+Modified-at: 1758629923

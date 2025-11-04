@@ -1,0 +1,5 @@
+Uuid: D02Xi11660OS0lRh
+
+----
+
+Template: image

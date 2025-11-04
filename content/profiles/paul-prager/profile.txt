@@ -1,0 +1,57 @@
+Title: Paul Prager
+
+----
+
+Picture: - file://EfPTiQDN2mXNGnRo
+
+----
+
+Picture-color: - file://ZlRCv7bzHpKKAX4o
+
+----
+
+Picture-cropped: - file://q3cWj7SemtwmdciU
+
+----
+
+Logo: - file://57qpjJApeKMKUVK2
+
+----
+
+Subtitle: Founder, Chairman & CEO
+
+----
+
+Company: TeraWulf Inc.
+
+----
+
+Company-url: https://www.terawulf.com
+
+----
+
+Bio: Paul Prager is the Co-Founder and Chief Executive Officer of TeraWulf Inc, and the Chairman of the Board of Directors. Prior to TeraWulf, Mr. Prager has been the Founder and CEO at Beowulf Energy LLC and predecessor companies since 1990. Mr. Prager has extensive investment and entrepreneurial experience in international shipping, commodity trading and power generation. A graduate of the United States Naval Academy, Mr. Prager is a member of the investment committee and Trustee of the USNA Foundation.
+
+----
+
+Twitter: https://twitter.com/PaulBPrager
+
+----
+
+Linkedin: https://www.linkedin.com/in/paulprager/
+
+----
+
+Email: 
+
+----
+
+Autoid: jpy1j8lq
+
+----
+
+Uuid: v39Vse7wPlujegfq
+
+----
+
+Modified-at: 1758629989

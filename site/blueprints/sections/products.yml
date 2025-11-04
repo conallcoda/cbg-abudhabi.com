@@ -1,0 +1,24 @@
+headline: Products
+status: all
+type: pages
+layout: table
+limit: 50
+image: false
+parent: site.find('products')
+templates:
+    - product
+columns:
+    title:
+        label: Name
+
+    slug:
+        label: Code
+        type: bubbles
+        value: '{{ page._product_code }}'
+    display_name:
+        label: Display Name
+    button_text:
+        label: Button Text
+    price:
+        label: Price
+        before: CHF

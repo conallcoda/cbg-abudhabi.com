@@ -1,0 +1,57 @@
+Title: Alexander Blume
+
+----
+
+Picture: - file://f1LKceTGC0yMq80C
+
+----
+
+Picture-color: - file://f1LKceTGC0yMq80C
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://EXbRc8oQwjo1ny9f
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Two Prime
+
+----
+
+Company-url: https://www.twoprime.com/
+
+----
+
+Bio: Alexander Blume is the Co-Founder and CEO of Two Prime. Alexander previously served as a technology advisor to the Bill & Melinda Gates Foundation, and he was a digital asset investment analyst for Eric Schmidt’s VC firm Tomorrow Ventures. He also founded Atomic Capital and held positions at Merrill Lynch and volatility-focused hedge fund Prana Capital Group.  He first learned about Bitcoin while serving in the Peace Corps in Panama from 2011 to 2012. When he’s not working, Alexander enjoys spending time with his wife, distance running, and working on his organic chestnut farm in upstate NY.
+
+----
+
+Twitter: https://x.com/alexandersblume
+
+----
+
+Linkedin: https://www.linkedin.com/in/alexandersblum/
+
+----
+
+Email: 
+
+----
+
+Uuid: uSannuWW1sNrSEfv
+
+----
+
+Created-at: 1759871078
+
+----
+
+Modified-at: 1759871189

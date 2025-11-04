@@ -1,0 +1,71 @@
+Title: Bill Tai
+
+----
+
+Picture: - file://VmG8Ema1UIAadqx9
+
+----
+
+Picture-color: - file://JK9dnA0iSkeerKwC
+
+----
+
+Picture-cropped: - file://j5nmUku2pQTpjVjz
+
+----
+
+Logo: - file://mbORnTBouiKWm6Kv
+
+----
+
+Subtitle: Chairperson
+
+----
+
+Company: ACTAI Global
+
+----
+
+Company-url: https://www.actai.global
+
+----
+
+Bio:
+
+Bill Tai has been funding startups as a VC since 1991 and has had over 20 seed and early-stage projects grow to become publicly listed companies.  He is Zoom Video’s 1st backer and among the first backers of ‘unicorns’ Canva, Color Genomics, Class.com, Dapper Labs, and SafetyCulture.  
+
+Involved in the Bitcoin ecosystem since 2010, he is an early backer of Bitfury Group having personally funded their Bitcoin mining ASIC ~8 years ago. He is Board Chair of one of North America's largest publicly listed Bitcoin and Ethereum mining operations, HUT8 Mining (NASDAQ:HUT), an Angel backer of Dapper Labs (creator of Cryptokitties and NBA Topshot), and a cofounder of NFT companies MetaGood.com and OneOf.com. 
+
+He has an operating background as co-founding Chairman of data science pioneer Treasure Data (acq. by SOFTBANK), founding Chairman of network operating system pioneer IPInfusion (Tokyo Stock Exchange:4813) and Founding CEO and Chair of iAsiaWorks (IPO Goldman Sachs, Morgan Stanley), which operated Internet Data Centers in 10 countries across Asia in the 1990's. 
+
+Originally trained as a computer chip designer, he joined the CEO of Fairchild Semiconductor at the startup of LSI Logic during the ‘siliconization’ of Silicon Valley and was issued Badge #A001 during the formative years of Taiwan Semiconductor (NYSE TSM) which is now among the ten most valuable companies in the world. He started the semiconductor practice at Alex Brown & Sons in the 1980's, handling the IPO’s of companies such as Atmel, Cirrus Logic, and Zilog. 
+
+He holds a BSEE with honors from the University of Illinois, an MBA from Harvard and Chairs ACTAI Global, a 501c3 uniting Athletes, Conservationists, Technologists, Artists, and Innovators to fuel technology-based environmental conservation and economic development via entrepreneurship.  He is among the catalytic advisors to giga.global, bringing broadband connectivity to schools around the world.
+
+----
+
+Twitter: https://twitter.com/kitevc?lang=de
+
+----
+
+Linkedin: https://www.linkedin.com/in/kitevc
+
+----
+
+Email: 
+
+----
+
+Autoid: 427klp2b
+
+----
+
+Uuid: ENqrD3WQgnpn512M
+
+----
+
+Datemodifiedepoch: 1696600203
+
+----
+
+Modified-at: 1758629916

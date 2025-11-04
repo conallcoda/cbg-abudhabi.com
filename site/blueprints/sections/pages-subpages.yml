@@ -1,0 +1,16 @@
+type: pages
+label: Subpages
+layout: table
+sortBy: modified_at desc
+search: true
+image: false
+limit: 50
+columns:
+  intro_title:
+    label: Intro Title
+    value: "{{ page.intro_title().isEmpty() ? page.title() : page.intro_title() }}"
+  last_modified:
+    label: Last Modified
+    value: "{{ page.getModifiedAgo() }}"
+template:
+  - default

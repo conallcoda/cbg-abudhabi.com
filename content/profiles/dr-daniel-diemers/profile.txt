@@ -1,0 +1,61 @@
+Title: Dr. Daniel Diemers
+
+----
+
+Picture: - file://8zSAnmChUvUzCXrB
+
+----
+
+Picture-color: - file://W13XakcmKKaUzB6o
+
+----
+
+Picture-cropped: - file://15FPUSsCvaFszVqM
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Partner Strategy& Head Blockchain EMEA
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Daniel is a strategy advisor to banks, wealth managers, fintechs and regulators across Europe and Middle East. He was hooked early with fintech and cryptocurrencies and drives today PwC's Blockchain activities for EMEA, while staying close to the Swiss fintech ecosystem.
+
+He is a founding member of the Swiss Finance + Technology Association (SFTA) and part of the fintechrockers.com movement, as well as the Crypto Valley Association. Academically, he holds a Ph.D. from HSG St. Gallen, is a Singularity University alumnus and authored several books and articles on the digital transformation of economy and society.
+
+----
+
+Twitter: https://twitter.com/DanielDiemers
+
+----
+
+Linkedin: https://www.linkedin.com/in/ddiemers/
+
+----
+
+Email: 
+
+----
+
+Autoid: 9gstwuek
+
+----
+
+Uuid: h3GRwtk33O156IJi
+
+----
+
+Modified-at: 1758629932

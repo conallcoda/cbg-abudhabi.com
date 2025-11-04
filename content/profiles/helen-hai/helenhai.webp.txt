@@ -1,0 +1,13 @@
+Alt: 
+
+----
+
+Uuid: pKsU6vIcoM2uhZnk
+
+----
+
+Template: image
+
+----
+
+Focus: 45.3% 19.0%

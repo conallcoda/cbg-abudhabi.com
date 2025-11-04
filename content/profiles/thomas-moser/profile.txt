@@ -1,0 +1,61 @@
+Title: Thomas Moser
+
+----
+
+Picture: - file://unM1R4ccCDhn1RnR
+
+----
+
+Picture-color: - file://JXkLVHfKsIl4gWQK
+
+----
+
+Picture-cropped: - file://Yo38DU5nfvDACyWz
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Alternate Member of the Governing Board
+
+----
+
+Company: Swiss National Bank
+
+----
+
+Company-url: https://www.snb.ch
+
+----
+
+Bio: Thomas Moser is Alternate Member of the Governing Board of the Swiss National Bank. He is also a member of the Managing Committee of the Swiss Institute of Banking and Finance at the University of St. Gallen, a Visiting Professor at the University of Lucerne and a member of the Board of Directors of Orell Füssli Holding Ltd. From 2006 to 2009 he was Executive Director at the International Monetary Fund (IMF) in Washington, D.C., USA. Thomas Moser holds a MA and a doctorate in Economics from the University of Zurich.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: http://linkedin.com/in/thomas-moser-70a80b10
+
+----
+
+Email: 
+
+----
+
+Autoid: h1u0r8jc
+
+----
+
+Uuid: w4DxxegepkUPCZvz
+
+----
+
+Datemodifiedepoch: 1696594927
+
+----
+
+Modified-at: 1758630007

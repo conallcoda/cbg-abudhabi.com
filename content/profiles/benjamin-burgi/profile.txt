@@ -1,0 +1,57 @@
+Title: Benjamin Bürgi
+
+----
+
+Picture: - file://wLRcofukzR8pFCKV
+
+----
+
+Picture-color: - file://1eeQZq040wpawRlu
+
+----
+
+Picture-cropped: - file://99pFtXBi11Al3Wxm
+
+----
+
+Logo: 
+
+----
+
+Subtitle: 
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Benjamin works as a lawyer and FinTech analyst for the Financial Market Authority (FMA) of Liechtenstein. As a member of the FMA’s Regulatory Lab, he is analysing business models and licencing requests as well as working on various regulatory projects with regard to FinTech. He is also an active member of the Blockchain community and co-founder and organiser of the Blockchain Meetup St. Gallen. Benjamin studied Law and Economics at the Universities of Fribourg and St. Gallen, focusing on the interaction of law, business, and digitalisation.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/benbuergi/?originalSubdomain=ch
+
+----
+
+Email: 
+
+----
+
+Autoid: 7f3bcn38
+
+----
+
+Uuid: 0yJWZVxOWpgveO5u
+
+----
+
+Modified-at: 1758629916

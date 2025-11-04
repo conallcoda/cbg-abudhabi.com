@@ -1,0 +1,57 @@
+Title: Lasse Clausen
+
+----
+
+Picture: - file://ALCXJj8ecleUDbZp
+
+----
+
+Picture-color: - file://U3zwS1Zepn3Gp8iD
+
+----
+
+Picture-cropped: - file://ei8jWht4ZExcR9yL
+
+----
+
+Logo: - file://yile6GCueP2JcJPN
+
+----
+
+Subtitle: Founding Partner
+
+----
+
+Company: 1kx
+
+----
+
+Company-url: https://www.linkedin.com/company/1kxnetwork/about/
+
+----
+
+Bio: Lasse Clausen is a former technology investor turned crypto venture capitalist.
+
+----
+
+Twitter: https://twitter.com/lalleclausen
+
+----
+
+Linkedin: https://www.linkedin.com/in/lasseclausen/
+
+----
+
+Email: 
+
+----
+
+Autoid: kxiyc8ph
+
+----
+
+Uuid: s9AzhOtcsgd8s5VN
+
+----
+
+Modified-at: 1758629964

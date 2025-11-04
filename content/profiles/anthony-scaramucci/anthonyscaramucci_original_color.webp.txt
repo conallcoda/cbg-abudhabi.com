@@ -1,0 +1,5 @@
+Uuid: 635GoDVQe2RGRfDW
+
+----
+
+Template: image

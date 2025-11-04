@@ -1,0 +1,12 @@
+label: Image
+layout: cards
+type: files
+multiple: false
+label: Image
+size: large
+width: 1/4
+options:
+  replace: true
+uploads:
+  template: image
+  replace: true

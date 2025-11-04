@@ -1,0 +1,5 @@
+Uuid: myECzCTX02n2uV5h
+
+----
+
+Template: image

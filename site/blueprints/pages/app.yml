@@ -1,0 +1,52 @@
+title: App
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+options:
+    duplicate: false
+    changeTitle: false
+    changeStatus: false
+    changeTemplate: false
+    changeSlug: false
+    preview: false
+    delete: false
+    move: false
+sections:
+    download:
+        type: fields
+        fields:
+            download_users:
+                type: janitor
+                command: 'janitor:open --data {{ page._download_app_links_url }}'
+                icon: download
+                label: Download App Links
+                intab: true
+    forms:
+        extends: sections/forms
+        parent: page
+    pages:
+        type: pages
+        label: Pages
+        layout: table
+        sortBy: title asc
+        search: true
+        image: false
+        limit: 50
+        create:
+            - default
+        columns:
+            type:
+                type: bubbles
+                label: Type
+                value: '{{ page.page_type() }}'
+            url:
+                label: URL
+                type: html
+                value: '{{ page.relaitve_url_link() }}'
+            last_modified:
+                label: Last Modified
+                value: '{{ page.getModifiedAgo() }}'
+        templates:
+            - default

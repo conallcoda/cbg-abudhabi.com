@@ -1,0 +1,61 @@
+Title: Laszlo Szabo
+
+----
+
+Picture: - file://b0zjIAw7lz2EeLHM
+
+----
+
+Picture-color: - file://6BExrU4GX42Olw6O
+
+----
+
+Picture-cropped: - file://jOmt4V7KEZBftYdH
+
+----
+
+Logo: - file://ZdtEo6SL66HEyH28
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Kiln
+
+----
+
+Company-url: https://www.kiln.fi
+
+----
+
+Bio: Laszlo Szabo, CEO of Kiln and Co-Founder, introduced the enterprise staking platform Kiln, which quickly emerged as an industry leader in enabling institutions to stake assets programmatically. With over $2.2B in stake management, fueling nearly 4% of Ethereum, Kiln utilizes a multi-cloud, multi-region infrastructure. Their suite of products automates operations for major players such as Fireblocks, BinanceUS, and SwissBorg.
+
+----
+
+Twitter: https://twitter.com/laszlo__szabo
+
+----
+
+Linkedin: https://www.linkedin.com/in/laszlo-szabo-/?originalSubdomain=fr
+
+----
+
+Email: 
+
+----
+
+Uuid: hlS6DKtC5vMHwO1i
+
+----
+
+Datecreatedepoch: 1701335258
+
+----
+
+Datemodifiedepoch: 1701335458
+
+----
+
+Modified-at: 1758629964

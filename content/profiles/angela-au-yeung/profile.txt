@@ -1,0 +1,61 @@
+Title: Angela Au-Yeung
+
+----
+
+Picture: - file://ZvYnNfrYHlxhLekt
+
+----
+
+Picture-color: - file://ZvYnNfrYHlxhLekt
+
+----
+
+Picture-cropped: - file://qAQGx0NqmeNnEXFh
+
+----
+
+Logo: - file://MHmvdkI6VMOfPEE5
+
+----
+
+Subtitle: International Innovation Director
+
+----
+
+Company: Cartier
+
+----
+
+Company-url: https://cartier.com
+
+----
+
+Bio: Angela Au-Yeung is currently the International Innovation Director of Cartier, with the mission to lead innovation as a strategic lever driving the Maison’s sustainable growth and accelerated transformation into the future. She first joined the Richemont Group in 2013 to build the digital strategy, teams, and capabilities to support the Group’s digitalization in China, then Asia Pacific, and most recently she was Chief Digital Officer of Vacheron Constantin. Prior to Richemont, she had cross-functional digital business, technology, and innovation experience in FMCG, apparel, PR, media and advertising globally. Angela holds a master’s degree in Museology from Johns Hopkins University.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/angela-au-yeung-97055a7/
+
+----
+
+Email: 
+
+----
+
+Uuid: yfNM4iQcNorO9xGQ
+
+----
+
+Datecreatedepoch: 1703003562
+
+----
+
+Datemodifiedepoch: 1704865078
+
+----
+
+Modified-at: 1759962873

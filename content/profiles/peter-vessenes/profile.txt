@@ -1,0 +1,71 @@
+Title: Peter Vessenes
+
+----
+
+Picture: - file://FBdQw8sxgfNbFZRD
+
+----
+
+Picture-color: - file://BSerRnYykpO1VAOG
+
+----
+
+Picture-cropped: - file://TsMKrRhQ7sxwYQNh
+
+----
+
+Logo: - file://MQ28UwjQqIj4r5dB
+
+----
+
+Subtitle: Co-Founder
+
+----
+
+Company: Lamina1
+
+----
+
+Company-url: https://www.lamina1.com
+
+----
+
+Bio:
+
+Peter Vessenes has deep roots in digital currency, tokenization, and blockchain technology. An early adopter and champion of Bitcoin, he began mining in 2010, suggested the idea of mining pools, and is considered one of crypto’s earliest pioneers. Years later, Vessenes was the first to publicly identify and publish a paper on specific security vulnerabilities in the Ethereum Network’s TheDAO - the first smart-contract-governed decentralized organization – an organization that lost 10% of all Ethereum in 2016 - following the “re-entrance attack” he exposed.
+
+In 2012, he founded CoinLab, the first venture-backed Bitcoin company, as well as the first company to deliver 65nm, 1TH/s Bitcoin mining systems at scale. Helping to connect the burgeoning crypto community and advance Bitcoin’s development, he created the first global Bitcoin conference (Bitcoin 2013), and co-founded the Bitcoin Foundation, where he served as its first executive director and chairman. Today, trillions of dollars of crypto assets are largely governed on the model he pioneered. In his capacity as Chairman, he was the first crypto industry person in the world to advise the US Senate GAO, The US Treasury, and various other governmental agencies about Bitcoin.
+
+In 2016, Vessenes launched New Alchemy, a leading provider of blockchain technology, strategy, and capital solutions to some of the world’s most innovative companies, resulting in more than $2 billion of tokenization value. New Alchemy’s clients and partners consisted of private and public software companies, as well as security and law-related entities.
+
+Vessenes co-founded Noteworthy in 2020—the premiere digital banknote company, producing nation-state grade physical banknotes that secure various denominations of Bitcoin and other digital currencies—with Larry Felix, the former Director of the US Department of the Treasury’s Bureau of Engraving and Printing (BEP).
+
+He currently serves as the CEO and Chief Cryptographer of Lamina1, a Metaverse-first Blockchain which he co-founded with Snow Crash author Neal Stephenson.
+
+Through his venture capital firm and family office Capital 6, Vessenes continues to invent, incubate, invest in, and advise a wide array of highly-disruptive startups.
+
+Vessenes holds merely an SC.B in Mathmatics with a focus on cryptography, but he reads a lot.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/petervessenes/
+
+----
+
+Email: 
+
+----
+
+Autoid: gzt8dd16
+
+----
+
+Uuid: GebzAhFZYfElRVbm
+
+----
+
+Modified-at: 1758629991

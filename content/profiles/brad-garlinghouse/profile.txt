@@ -1,0 +1,57 @@
+Title: Brad Garlinghouse
+
+----
+
+Picture: - file://fJljwSQjti9ofAEk
+
+----
+
+Picture-color: - file://fJljwSQjti9ofAEk
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://6h5daA1ZGvE8eSxG
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Ripple
+
+----
+
+Company-url: https://ripple.com/
+
+----
+
+Bio: Brad is the CEO of Ripple and a member of the Board of Directors. Prior to Ripple, Brad served as the CEO of file collaboration service Hightail. From 2009 to 2012 he was President of Consumer Applications at AOL and prior to that he held various executive positions at Yahoo! from 2003 to 2008, including Senior Vice President. Earlier in his career, Brad helped to pioneer the VoIP industry as CEO of Dialpad Communications. He has previously held several board positions at companies including Ancestry.com and Tonic Health (acquired by R1 RCM).
+
+----
+
+Twitter: https://x.com/bgarlinghouse
+
+----
+
+Linkedin: https://www.linkedin.com/in/bradgarlinghouse/
+
+----
+
+Email: 
+
+----
+
+Uuid: K2t40vy3DvWwy0zA
+
+----
+
+Created-at: 1732712500
+
+----
+
+Modified-at: 1759870848

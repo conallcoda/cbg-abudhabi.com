@@ -1,0 +1,57 @@
+Title: Kathleen Breitman
+
+----
+
+Picture: - file://sj2cy51D0HtiPgCb
+
+----
+
+Picture-color: - file://i8EA7sfsnBCtRpP6
+
+----
+
+Picture-cropped: - file://LaG9u9uf5Zz7OwS4
+
+----
+
+Logo: 
+
+----
+
+Subtitle: 
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Kathleen is a co-founder of Tezos. Prior to Tezos, Kathleen was a senior strategy associate for R3, a blockchain consortium of more than 70 financial firms. She has also worked at Accenture, Bridgewater Associates, and the Wall Street Journal. She holds a degree from Cornell University.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: o604q0af
+
+----
+
+Uuid: eXsiaA4H7jxaFqZo
+
+----
+
+Modified-at: 1758629962

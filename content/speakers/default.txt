@@ -1,0 +1,65 @@
+Title: Speakers
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Speakers 2025 (More to be announced)"},"id":"db954ffb-20eb-4cf1-9f20-123804fe676b","isHidden":false,"type":"heading"},{"content":{"text":"<p>You will have the opportunity to connect and exchange personally with our industry experts during the conference.</p>","custom_id":"","custom_class":""},"id":"b9ae0cd5-9251-47b4-aa60-223f686b8cf7","isHidden":false,"type":"text"}],"id":"8061e35a-a57c-430f-84de-69de5e387c77","width":"1/1"}],"id":"b744d9bf-d946-4a8d-944c-5a48c1fe316c"},{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"custom_id":"","custom_class":""},"id":"53a8c4cf-b82b-4551-a7c8-35736b7eac85","isHidden":false,"type":"divider"},{"content":{"source":"page://SaTCvXy9PZM8UO22","custom_id":"","custom_class":""},"id":"1ca7ada2-aedc-4826-b13e-356e0fb81660","isHidden":false,"type":"event_speakers"}],"id":"09669895-80c7-43b2-afdd-17b6e3cc6d19","width":"1/1"}],"id":"b3d60958-c0d2-4175-a4f3-40226235b67e"}]
+
+----
+
+Layout-off: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"<p>Coming soon!</p>","custom_id":"","custom_class":""},"id":"0909ef55-d741-4029-90b3-196d0d2bea00","isHidden":false,"type":"text"}],"id":"3b4390cf-86bd-41d7-9895-b1b9325e1ef2","width":"1/1"}],"id":"3f946b18-8a65-4b27-9b7f-f854b859a74c"}]
+
+----
+
+Restrict-access: false
+
+----
+
+Access-token: jZLRrgKchIwzjtMa
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Uuid: z9GQvh4zaJsVc4Ki
+
+----
+
+Created-at: 1721306264
+
+----
+
+Modified-at: 1758203784

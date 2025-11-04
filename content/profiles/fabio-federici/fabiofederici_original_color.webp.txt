@@ -1,0 +1,5 @@
+Uuid: E2nASLgc7e2erDRg
+
+----
+
+Template: image

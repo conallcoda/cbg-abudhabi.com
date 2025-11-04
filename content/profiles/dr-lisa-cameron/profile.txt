@@ -1,0 +1,65 @@
+Title: Dr. Lisa Cameron
+
+----
+
+Picture: - file://aKaGXY6XAO1q3v2F
+
+----
+
+Picture-color: - file://gMoccWXpMUMq9aXN
+
+----
+
+Picture-cropped: - file://5fL26WIrqZ51Hjlr
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Chair
+
+----
+
+Company: Crypto & Digital Assets APPG
+
+----
+
+Company-url: https://cryptouk.io/appg/
+
+----
+
+Bio:
+
+Dr Lisa Cameron was first elected as the Member of Parliament for East Kilbride, Strathaven & Lesmahagow in 2015.  Lisa is the Chair of the All-Party Parliamentary Group on Cryptocurrency and Digital Assets and leads on cryptocurrency work in the House of Commons. She has also been a member of the International Development Committee, Health & Social Care Committee and currently the Ecclesiastical Committee. Lisa is also chair of both the Psychology and Disability All Party Parliamentary Groups in Parliament.  
+
+Prior to becoming a Member of Parliament, Lisa was a clinical psychologist and has over 15 years of experience in Clinical and Forensic Psychology.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: SS18TStI6iEirwmW
+
+----
+
+Datecreatedepoch: 1701946647
+
+----
+
+Datemodifiedepoch: 1701957007
+
+----
+
+Modified-at: 1758629932

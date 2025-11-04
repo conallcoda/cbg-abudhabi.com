@@ -1,0 +1,57 @@
+Title: Guido Buehler
+
+----
+
+Picture: - file://LtkIuvH2d9OoIRvO
+
+----
+
+Picture-color: - file://dPLJwLICgTfC9HQh
+
+----
+
+Picture-cropped: - file://CMEM5ZeJR1k16Cf2
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Owner
+
+----
+
+Company: Giloca AG
+
+----
+
+Company-url: https://www.linkedin.com/in/guidobuehler/
+
+----
+
+Bio: Guido is a visionary whose expertise is grounded in global corporate finance. He is deeply proficient in banking, risk, asset and wealth management. Guido built and led large global teams at one of Switzerland’s largest banks, and had an influence shaping market infrastructure with the ECB and DTCC. He founded award winning strategic advisory and risk & research firm B&B Analytics.
+
+----
+
+Twitter: https://twitter.com/guido_buehler
+
+----
+
+Linkedin: https://www.linkedin.com/in/guidobuehler/
+
+----
+
+Email: 
+
+----
+
+Autoid: iq595ext
+
+----
+
+Uuid: PFdN44nSpwaLtjKZ
+
+----
+
+Modified-at: 1758629942

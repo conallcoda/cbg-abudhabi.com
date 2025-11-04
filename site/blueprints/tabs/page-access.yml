@@ -1,0 +1,16 @@
+label: Access
+icon: lock
+sections:
+    form_access:
+        type: fields
+        fields:
+            restrict_access:
+                label: Restrict Access?
+                default: false
+                extends: fields/yes_no
+            access_token:
+                type: text
+                label: Access Token
+                when:
+                    restrict_access: true
+                help: '{{page.url}}?t={{page.access_token}}'

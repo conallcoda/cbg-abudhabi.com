@@ -1,0 +1,61 @@
+Title: Josh Goodbody
+
+----
+
+Picture: - file://qFtm37ISE14OgpVg
+
+----
+
+Picture-color: - file://lB7e2jUbsmahimIk
+
+----
+
+Picture-cropped: - file://f7vI5Wu5yJYwWnKq
+
+----
+
+Logo: - file://UuleCKnDNwMO1gmF
+
+----
+
+Subtitle: COO
+
+----
+
+Company: Qredo
+
+----
+
+Company-url: https://www.qredo.com/
+
+----
+
+Bio:
+
+Josh Goodbody began his career in traditional finance — working on the legal side of the commodities and derivatives markets. He encountered blockchain for the first time while working at a commodities fintech company in 2017, and was blown away by its potential to fix the fragmentation and antiquated processes found in legacy finance. 
+
+His first role in crypto was at the exchange Huobi where he joined as Global General Counsel, later moving on to lead their Institutional Business. Before joining Qredo he led and scaled the EMEA organization at Binance, helping it to become one of the world’s largest crypto exchanges by trading volume.
+
+----
+
+Twitter: https://twitter.com/joshgoodbody
+
+----
+
+Linkedin: https://www.linkedin.com/in/josh-goodbody-815a7a36/?originalSubdomain=uk
+
+----
+
+Email: 
+
+----
+
+Autoid: ods5pald
+
+----
+
+Uuid: GoqIdzs8ZLnvzUl6
+
+----
+
+Modified-at: 1758629961

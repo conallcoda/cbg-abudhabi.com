@@ -1,0 +1,57 @@
+Title: Jed McCaleb
+
+----
+
+Picture: - file://b8qlITzV4kaqTVHi
+
+----
+
+Picture-color: - file://c3XVw0NwIGTjhayC
+
+----
+
+Picture-cropped: - file://WqTi9nEFLWDrmv6k
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Co-founder of Stellar Development Foundation
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Jed McCaleb is a co-founder of Stellar Development Foundation. Previously, he created eDonkey2000 which became one of the largest file-sharing networks in its time. He later created Mt. Gox, the first bitcoin exchange, which was subsequently sold and re-coded by its current owners, followed by Ripple.
+
+----
+
+Twitter: https://twitter.com/jedmccaleb
+
+----
+
+Linkedin: https://www.linkedin.com/in/jed-mccaleb-4052a4/
+
+----
+
+Email: 
+
+----
+
+Autoid: 7fx7xede
+
+----
+
+Uuid: ysNDxbACkK821lU4
+
+----
+
+Modified-at: 1758629947

@@ -1,0 +1,61 @@
+Title: Rumi Morales
+
+----
+
+Picture: - file://0lUEYgcIxgy1V9eD
+
+----
+
+Picture-color: - file://ccHWHvUgoXZ8wGUd
+
+----
+
+Picture-cropped: - file://iJbadErmEy2rtNHs
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Partner at Outlier Ventures
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Rumi Morales is a pioneer in identifying, investing and cultivating the emerging technologies that will define our economy’s next generation. An early specialist in digital currency, blockchain and distributed ledger technologies, Rumi is also a leading early investor in artificial intelligence, deep learning, predictive analytics, and quantum computing as they will affect traditional industries.
+
+A proven entrepreneur herself, Rumi established the Global Markets Institute during her tenure at Goldman Sachs, and also launched a leading economic research firm in Singapore. She began her career in venture capital in London, Kuala Lumpur and New York, and has invested across three continents and lived in seven countries. Currently based in Chicago, Illinois, she joins Outlier Ventures as a Partner and will be spearheading their growth across the US.
+
+----
+
+Twitter: https://twitter.com/rumimorales
+
+----
+
+Linkedin: https://www.linkedin.com/in/rumimorales/
+
+----
+
+Email: 
+
+----
+
+Autoid: 1uac8wln
+
+----
+
+Uuid: 0TPmsanOQ5eHQm4Q
+
+----
+
+Modified-at: 1758629998

@@ -1,0 +1,63 @@
+Title: Alan Lane
+
+----
+
+Picture: - file://gJGdtwIQw6eHjEo8
+
+----
+
+Picture-color: - file://lBMhpRO3uTl2fK1x
+
+----
+
+Picture-cropped: - file://rFrx84JekrZeS3mP
+
+----
+
+Logo: - file://shnZWK0hmFud53oF
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Silvergate
+
+----
+
+Company-url: https://www.silvergate.com
+
+----
+
+Bio:
+
+Mr. Lane has been with Silvergate since December 2008. He is President and Chief Executive Officer of Silvergate Capital Corporation and is Chief Executive Officer of Silvergate Bank.
+
+With over 35 years of corporate and financial institution leadership experience, he has also served as President/CEO or Chief Financial Officer of both manufacturing and retail companies.
+
+Mr. Lane serves on the Board of Directors of Natural Alternatives International, Inc. He earned his BA in Economics from San Diego State University.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: f2tgi1dq
+
+----
+
+Uuid: C6dfkp1JlaqyOoFO
+
+----
+
+Modified-at: 1758629808

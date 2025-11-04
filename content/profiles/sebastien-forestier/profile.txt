@@ -1,0 +1,57 @@
+Title: Sébastien Forestier
+
+----
+
+Picture: - file://MQcCYQQtXkCPxzGW
+
+----
+
+Picture-color: - file://eHlv3FAem4NzaFHT
+
+----
+
+Picture-cropped: - file://L0IYQ8ctgNdjtjna
+
+----
+
+Logo: - file://lpGHYJyRfo57nReO
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Massa Labs
+
+----
+
+Company-url: https://massa.net
+
+----
+
+Bio: Sébastien earned a PhD in Computer Science after graduating from Ecole Normale Supérieure. He started the Massa project with his co-founders after 3 years of research on scaling consensus protocols. Massa is the truly decentralized and scaled blockchain, ready for mass adoption.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://fr.linkedin.com/in/s%C3%A9bastien-forestier-b24547175
+
+----
+
+Email: 
+
+----
+
+Autoid: x69bu8gr
+
+----
+
+Uuid: ALuRA31qOHmXRFbr
+
+----
+
+Modified-at: 1758630004

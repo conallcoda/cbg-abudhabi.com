@@ -1,0 +1,46 @@
+Title: Why would you like to attend the CfC St. Moritz?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: true
+
+----
+
+Multiple-answers-allow-other: true
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: Sourcing new investment opportunities
+- 
+  title: Learn more about the industry
+- 
+  title: Building network community
+- 
+  title: Raising money for a company / my company
+
+----
+
+Uuid: TuXOwA35FqEE0hv6
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1726146216

@@ -1,0 +1,5 @@
+label: Surveys
+icon: survey
+sections:
+    forms:
+        extends: sections/surveys

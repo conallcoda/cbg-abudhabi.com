@@ -1,0 +1,17 @@
+Title: Richemont
+
+----
+
+Autoid: 52lt7o7q
+
+----
+
+Picture: partners-data/richemont/40_richemont_website.png
+
+----
+
+Link: https://www.richemont.com/en/home/
+
+----
+
+Uuid: XRrYkjhv7j0erfLx

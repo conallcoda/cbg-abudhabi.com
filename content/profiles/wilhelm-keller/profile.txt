@@ -1,0 +1,57 @@
+Title: Wilhelm Beller
+
+----
+
+Picture: - file://a0psiBzX6EYOPQS9
+
+----
+
+Picture-color: - file://Eg09WeKEigQRBu6K
+
+----
+
+Picture-cropped: - file://VP09a99H2jKwX6gx
+
+----
+
+Logo: - file://0fhsx2YJPHQOAYO9
+
+----
+
+Subtitle: Head of Trading BitMEX Group
+
+----
+
+Company: BitMEX
+
+----
+
+Company-url: https://www.bitmex.com
+
+----
+
+Bio: Bill has 20 years of experience trading equities and derivatives for major financial institutions, including Citi, UniCredit and Sberbank CIB. He serves now as the Head of Trading BitMEX Group.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/bill-beller-40010614/
+
+----
+
+Email: 
+
+----
+
+Autoid: xat8k3iz
+
+----
+
+Uuid: VyCZTMBZiAelBHV3
+
+----
+
+Modified-at: 1758630011

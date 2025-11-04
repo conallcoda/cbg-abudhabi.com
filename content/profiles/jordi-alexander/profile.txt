@@ -1,0 +1,57 @@
+Title: Jordi Alexander
+
+----
+
+Picture: - file://vZPnxMBaaYh8dxU1
+
+----
+
+Picture-color: - file://vZPnxMBaaYh8dxU1
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://KX443Fk4bkSPwBZG
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: Selini Capital
+
+----
+
+Company-url: https://www.selinicapital.com/
+
+----
+
+Bio: Jordi Alexander is the founder and CEO of Selini Capital, a trading and investing firm focusing on the digital assets space.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: xIExYJAPEmyscev4
+
+----
+
+Created-at: 1759964869
+
+----
+
+Modified-at: 1759964973

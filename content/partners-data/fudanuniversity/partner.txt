@@ -1,0 +1,17 @@
+Title: FudanUniversity
+
+----
+
+Autoid: jrlc6rol
+
+----
+
+Picture: partners-data/fudanuniversity/fudanuni_frame.png
+
+----
+
+Link: https://fisf.fudan.edu.cn/en_page-FRC1.html
+
+----
+
+Uuid: Yqn3SzL6HS1wWL8L

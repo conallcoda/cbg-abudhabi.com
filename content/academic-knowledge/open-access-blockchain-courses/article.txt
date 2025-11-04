@@ -1,0 +1,73 @@
+Title: Open Access Blockchain Courses
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"text":"In 2008 Satoshi Nakamoto published the (link: https://bitcoin.org/bitcoin.pdf text: Bitcoin whitepaper target: blank) – a concise nine-page document outlining a “peer-to-peer electronic cash system”. Nakamoto cleverly combines existing cryptographic concepts to create a robust system that allows anyone to transfer value over the internet to another party without going through a financial institution. The paper has sparked a wave of innovation, but it is not straightforward to understand the entire system without the appropriate interdisciplinary background.\n\nThe University of Basel has been offering courses on Bitcoin and blockchain technology since 2017. The holistic teaching approach deliberately focuses on the three key disciplines in this space: economics, computer science and cryptography. This enables our students to better understand the innovation and to look past meaningless buzzwords in this fast-moving field.\n\nWe recognized early on that the topic was not only of interest to our students, but also to a broader audience. Thus, when the first COVID-19 lockdown moved our physical classrooms into virtual space, we decided to create an open and free learning experience for everyone, in the true spirit of the open, transparent and permissionless technology itself.\n\n\n### Bitcoin, Blockchain and Cryptoassets\n\nThe course (link: https://cryptolectures.teachable.com/p/bitcoin-blockchain-and-cryptoassets text: “Bitcoin, Blockchain and Cryptoassets” target: blank) is our introductory course. It consists of practical and theoretical blocks which offer a comprehensive introduction to various aspects of this fascinating topic. Students learn how transactions are distributed in a global peer-to-peer network, how they can be mathematically verified by anyone, and how consensus is established in this leaderless system.\n\n### Smart Contracts and Decentralized Finance\n\nOur second course (link: https://cryptolectures.teachable.com/p/smart-contracts-and-decentralized-finance text: “Smart Contracts and Decentralized Finance” target: blank) provides students with an overview of smart contract platforms and blockchain based applications. In addition to theory blocks, there are hands-on experiences where the students learn how to develop and implement their own smart contracts and decentralized applications on a blockchain. Moreover, they learn more about the technological and economic fundamentals of the most active ecosystem on a smart contract capable public blockchain – namely, Decentralized Finance (DeFi).\n\n(link: https://research.stlouisfed.org/publications/review/2021/02/05/decentralized-finance-on-blockchain-and-smart-contract-based-financial-markets text: DeFi uses blockchain technology and smart contracts to create open, transparent, composable and non-custodial financial protocols. target: blank) The course also dives deep into the tokenization of assets in the form of fungible and non-fungible tokens, including the (link: https://www.youtube.com/watch?v=kcpZd3QqS4Q text: ERC-20 target: blank) and (link: https://www.youtube.com/watch?v=UlJlPiu2Xb8 text: ERC-721 target: blnak) token standards, and extensively discusses (link: https://www.youtube.com/watch?v=LIkUv_n6Qdo text: decentralized exchanges, automated market makers target: blank) and (link: https://www.youtube.com/watch?v=d1ocEqWTU78 text: decentralized lending protocols target: blank).\n\n### Free and Open Access\n\nBoth courses consist of video lectures that can be found on (link: https://www.youtube.com/channel/UCOA52m4BOqtI8cHIx4zJAWg/playlists text: YouTube target: blank) and (link: https://github.com/cifunibas/ text: slide decks target: blank) that are publicly available (open access and open source). For the best learning experience, we suggest (link: https://cryptolectures.teachable.com text: cryptolectures.io target: blank) where all videos, slides (in PDF format) and additional resources, e.g., quizzes, are available. Everything is completely free, no strings attached.\n\n**(link: https://www.youtube-nocookie.com/embed/7eAybINMdiM text: Introduction Video for Bitcoin, Blockchain and Cryptoassets target: blank)**\n\n**(link: https://www.youtube-nocookie.com/embed/Pl__61wF_4w text: Introduction Video for Smart Contracts and Decentralized Finance target: blank)**\n\n***\n### About the Author\nThis blogpost has been authored by (link: https://wwz.unibas.ch/de/personen/fabian-schaer/ text: Prof. Dr. Fabian Schär target: blank)","custom_id":"","custom_class":""},"id":"eab3837d-54d0-470d-8354-0b4766509550","isHidden":false,"type":"markdown"}],"id":"f0b6ac7a-4e1f-49c4-9ccc-733cb46732f9","width":"1/1"}],"id":"db67e002-ce03-4bae-b475-10d78292f357"}]
+
+----
+
+Picture: - file://fYR3YiQsO6ID9lEG
+
+----
+
+Author: page://GnCztkIshA16eMq0
+
+----
+
+Date: 2022-11-16
+
+----
+
+Subtitle: Center for Innovative Finance, University of Basel
+
+----
+
+Tags: Cryptoassets, Bitcoin, Blockchain, DeFi, Smart Contracts
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Picture-card: 
+
+----
+
+Autoid: avt74ftu
+
+----
+
+Header-title: 
+
+----
+
+Uuid: mfWIWjltwVyS8nv2
+
+----
+
+Modified-at: 1728385735

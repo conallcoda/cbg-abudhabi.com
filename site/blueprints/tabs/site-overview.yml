@@ -1,0 +1,12 @@
+label: Dashboard
+icon: dashboard
+columns:
+    - width: 1/2
+      sections:
+          data: sections/site-data
+    - width: 1/2
+      sections:
+          recent: sections/site-pages-recent
+    - width: 1/1
+      sections:
+          pages: sections/site-pages

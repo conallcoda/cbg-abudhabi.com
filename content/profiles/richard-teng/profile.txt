@@ -1,0 +1,63 @@
+Title: Richard Teng
+
+----
+
+Picture: - file://ukTMHnXKpQjHF3LB
+
+----
+
+Picture-color: - file://vIP8ShI0rK7Cu0cn
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://mn9JnReIygcuXkF7
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Binance
+
+----
+
+Company-url: https://www.binance.com/en
+
+----
+
+Bio:
+
+Richard Teng is an experienced executive with over three decades of financial services and regulatory experience. Richard has been the CEO of Binance since his appointment in November 2023. By working closely with various stakeholders including regulators, policymakers, industry players and users, Richard is furthering the growth of Binance in a compliant and sustainable manner. Prior to this role, Richard held various senior leadership roles within the company since joining in August 2021.
+
+Before joining Binance, Richard was CEO of the Financial Services Regulatory Authority at Abu Dhabi Global Market (ADGM), where he showcased his capabilities as one of the world’s foremost innovative regulators. Richard’s vast experience also includes being the Chief Regulatory Officer of the Singapore Exchange (SGX) and the Director of Corporate Finance in the Monetary Authority of Singapore. 
+
+Richard received his Masters in Applied Finance from the University of Western Australia.
+
+----
+
+Twitter: https://x.com/_richardteng?lang=en
+
+----
+
+Linkedin: https://ae.linkedin.com/in/richard-teng-3497b527
+
+----
+
+Email: 
+
+----
+
+Uuid: ROaCfAgB7BOkSYj7
+
+----
+
+Created-at: 1731338851
+
+----
+
+Modified-at: 1759870226

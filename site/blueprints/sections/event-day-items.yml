@@ -1,0 +1,21 @@
+type: pages
+label: Agenda
+layout: table
+search: false
+image: false
+columns:
+    session:
+        label: Time
+        value: '{{ page.session() }}'
+    time:
+        label: Time
+        value: '{{ page._time_range() }}'
+    speakers:
+        label: Speakers
+        type: tags
+        value: '{{ page._panel_speakers() }}'
+    last_modified:
+        label: Last Modified
+        value: '{{ page.getModifiedAgo() }}'
+template:
+    - event_day_item

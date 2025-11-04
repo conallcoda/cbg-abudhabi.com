@@ -1,0 +1,63 @@
+Title: Sandeep Nailwal
+
+----
+
+Picture: - file://0fM7adKwxLojIqtW
+
+----
+
+Picture-color: - file://2WyInj65cPLl02YC
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://JDfkN3h7xgAvHJeg
+
+----
+
+Subtitle: Co-Founder
+
+----
+
+Company: Polygon Network
+
+----
+
+Company-url: https://polygon.technology/
+
+----
+
+Bio:
+
+Sandeep Nailwal is one of the founders of the Polygon network and currently serves as the executive chairman of Polygon Labs. In this capacity, his role along with other co-founders is to steward the long-term sustainability growth of the Polygon protocol and ecosystem, and oversee the strategic priorities of Polygon Labs, where he works closely with Marc Boiron, CEO of Polygon Labs.
+
+Sandeep’s blockchain journey began with Bitcoin in 2013, but the turning point didn’t come until he coded his first Ethereum dApp a few years laters. In late 2017, he joined hands with Jaynti Kanani and Anurag Arjun in creating Matic Network, the precursor of Polygon, with the goal of helping scale Ethereum. They were joined by Mihailo Bjelic in 2021 to create Polygon.
+
+A serial entrepreneur, Sandeep holds a Master of Business Administration degree from the National Institute of Industrial Engineering. He describes himself as extremely humble, but madly ambitious.
+
+----
+
+Twitter: https://x.com/sandeepnailwal
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: DED3LUkyGskOZZRd
+
+----
+
+Created-at: 1732712398
+
+----
+
+Modified-at: 1758630001

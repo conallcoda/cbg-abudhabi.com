@@ -1,0 +1,38 @@
+Title: Newcomers Welcome Breakfast 2026
+
+----
+
+Type: User
+
+----
+
+To: 
+
+----
+
+Bcc:
+
+- 
+  email: conall@coda.works
+- 
+  email: ziga@cfc-stmoritz.com
+- 
+  email: nicolo@cfc-stmoritz.com
+- 
+  email: giulia@cfc-stmoritz.com
+
+----
+
+Subject: CfC St. Moritz 2026: Newcomers Welcome Breakfast
+
+----
+
+Body: Dear [contact__first_name],<br><br>Thank you for securing your seat for the Newcomers Welcome Breakfast at Suvretta House. Your participation is confirmed, and we look forward to seeing you on Wednesday, January 14, 2026. <br><br>If you have any questions or need assistance, feel free to contact <strong>Giulia </strong>at giulia@cfc-stmoritz.com.<br><br>Best regards,<br><br>The CfC St. Moritz team
+
+----
+
+Uuid: 06enEdUHeEmlXFfI
+
+----
+
+Modified-at: 1752224899

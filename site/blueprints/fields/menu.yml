@@ -1,0 +1,17 @@
+type: structure
+fields:
+  link: fields/link
+  sublinks:
+    type: structure
+    fields:
+      link:
+        type: link
+        label: Link
+        options:
+          - page
+      text:
+        type: text
+        label: Text
+      new_window:
+        extends: fields/yes_no
+        label: New window?

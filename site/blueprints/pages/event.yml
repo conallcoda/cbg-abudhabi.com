@@ -1,0 +1,60 @@
+title: Conference Event
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+create:
+    status: unlisted
+tabs:
+    content:
+        extends: tabs/page-content
+        fields:
+            picture:
+                label: Image
+                extends: fields/image
+                width: 1/1
+            date_text:
+                label: Date Text
+                type: text
+                width: 1/2
+            location:
+                label: Location
+                type: text
+                width: 1/2
+            start_date:
+                type: date
+                label: Start Date
+                width: 1/2
+            show_summaries:
+                extends: fields/yes_no
+                label: Show Summaries to public?
+                width: 1/2
+    agenda:
+        label: Agenda
+        icon: calendar
+        sections:
+            event_days: sections/event-days
+    speakers:
+        icon: users
+        label: Speakers
+        fields:
+            speakers:
+                extends: fields/select-profiles
+                label: Speakers
+            workshops:
+                extends: fields/select-profiles
+                label: Workshops
+            moderators:
+                extends: fields/select-profiles
+                label: Moderators
+    partners:
+        icon: handshake
+        label: Partners
+        fields:
+            partners: fields/partners
+    page_settings:
+        icon: settings
+        label: Settings
+        fields:
+            ps: fields/page-settings

@@ -1,0 +1,5 @@
+Uuid: GPQoECPdUGBAgrOP
+
+----
+
+Template: image

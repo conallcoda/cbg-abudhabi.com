@@ -1,0 +1,5 @@
+Uuid: I8aTWuxraKEBDByL
+
+----
+
+Template: image

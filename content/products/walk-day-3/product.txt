@@ -1,0 +1,21 @@
+Title: Walk - Day 3
+
+----
+
+Display-name: Walking in the Woods on 17.01.25 at 9:00 am
+
+----
+
+Button-text: 
+
+----
+
+Price: 0
+
+----
+
+Uuid: PXpETKN3FdFM1lCc
+
+----
+
+Modified-at: 1736941448

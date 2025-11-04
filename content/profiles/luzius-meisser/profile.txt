@@ -1,0 +1,57 @@
+Title: Luzius Meisser
+
+----
+
+Picture: - file://iqFti3DWQYFT8an5
+
+----
+
+Picture-color: - file://nAc3FjrgtwCi1PC1
+
+----
+
+Picture-cropped: - file://x1RcNbhAto2HSDyk
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Board Member, Bitcoin Association Switzerland
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Luzius is a Swiss crypto expert and investor. He is a board member of Bitcoin Association Switzerland, Bitcoin Suisse, AlgoTrader, and others. He holds a master's degree in Computer Science from ETH Zurich and a master's degree in Economics from University of Zurich. He is member of the expert council of the Swiss Blockchain Federation and served as an expert in the Federal Council's group on the planned blockchain laws, which he is very enthusiastic about. Talk to him about the enormous potential of tokenized equity and why Switzerland is years ahead of everyone else! :)
+
+----
+
+Twitter: https://twitter.com/luzius
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: azh8e5ge
+
+----
+
+Uuid: z1tS7CY2uWhW0K3b
+
+----
+
+Modified-at: 1758629968

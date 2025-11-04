@@ -1,0 +1,57 @@
+Title: Christine Moy
+
+----
+
+Picture: - file://ZNOCerpGiUrPmy1L
+
+----
+
+Picture-color: - file://ZNOCerpGiUrPmy1L
+
+----
+
+Picture-cropped: - file://ORYJIAn8eHXRcfNo
+
+----
+
+Logo: - file://tiymrTf4iZB79300
+
+----
+
+Subtitle: Partner, Head of Digital Assets
+
+----
+
+Company: Apollo Global Management Inc.
+
+----
+
+Company-url: https://www.apollo.com/
+
+----
+
+Bio: Christine is a Partner and Head of Digital Asset Strategy at Apollo Global Management, Inc. In this newly created position, Christine leads digital asset strategy across the firm, exploring more ways to apply blockchain technologies to Apollo’s business. She also plays a key role in Apollo’s strategy to invest in some of the most innovative digital asset companies and founders, with a specific focus on those transforming the financial services sector where Apollo can serve as a validator and enabler of new technologies. Previously, she was a Managing Director at J.P. Morgan and led its Blockchain/Crypto/Metaverse program through initiatives in digital assets, tokenized payments, internet-of-things, decentralized identity, NFTs, and virtual worlds. She is a graduate of Brown University. Christine was named in Fortune’s The Ledger 40 Under 40 list of “the most impressive, young superstars transforming business at the leading edge of finance and technology.”
+
+----
+
+Twitter: https://twitter.com/cmoyall
+
+----
+
+Linkedin: https://www.linkedin.com/in/christine-moy-b6109164/
+
+----
+
+Email: 
+
+----
+
+Autoid: 7x29fcm2
+
+----
+
+Uuid: DdEo08U1rvgBwAW8
+
+----
+
+Modified-at: 1759961064

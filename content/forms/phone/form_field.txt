@@ -1,0 +1,25 @@
+Title: Phone
+
+----
+
+Type: phone
+
+----
+
+Checkboxes-options: 
+
+----
+
+Dropdown-options: 
+
+----
+
+Error-message: 
+
+----
+
+Uuid: YKZwi6jEGRN1Zzhw
+
+----
+
+Modified-at: 1722928679

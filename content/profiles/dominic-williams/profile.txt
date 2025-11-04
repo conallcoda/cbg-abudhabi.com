@@ -1,0 +1,65 @@
+Title: Dominic Williams
+
+----
+
+Picture: - file://3aqmim3kiOMpBKRh
+
+----
+
+Picture-color: - file://zPfMRYvcmwRtJWvf
+
+----
+
+Picture-cropped: - file://WR5VvwH1YQkHjaiZ
+
+----
+
+Logo: - file://bYHDH1OqpcnJWQmT
+
+----
+
+Subtitle: Founder & Chief Scientist
+
+----
+
+Company: DFINITY Foundation
+
+----
+
+Company-url: https://internetcomputer.org/
+
+----
+
+Bio:
+
+Dominic is the founder of the Internet Computer (ICP) blockchain project and President and Chief Scientist of the DFINITY Foundation.
+Before transitioning to work full-time in crypto in 2013, Dominic was an engineering entrepreneur who created multiple internet technologies and products. 
+His previous venture was an MMO game that had millions of users. He was first introduced to cypherpunk thinking when using Wei Dai's crypto++ library in 1998, which had documentation referencing the b-money proposal.
+
+----
+
+Twitter: https://x.com/dominic_w
+
+----
+
+Linkedin: https://www.linkedin.com/in/thedwilliams/
+
+----
+
+Email: 
+
+----
+
+Autoid: cno8moka
+
+----
+
+Uuid: g6gfk1bjEwN7oKas
+
+----
+
+Datemodifiedepoch: 1702478164
+
+----
+
+Modified-at: 1758629932

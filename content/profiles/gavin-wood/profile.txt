@@ -1,0 +1,57 @@
+Title: Gavin Wood
+
+----
+
+Picture: - file://sCNwnTMuCKefvhI8
+
+----
+
+Picture-color: - file://sCNwnTMuCKefvhI8
+
+----
+
+Picture-cropped: - file://RejuTjmxkEc39idd
+
+----
+
+Logo: - file://kAPFBRDWWmC1uy04
+
+----
+
+Subtitle: Founder
+
+----
+
+Company: Parity Technologies, Polkadot
+
+----
+
+Company-url: https://polkadot.network
+
+----
+
+Bio: Dr. Gavin Wood is the Co-Founder of Parity Technologies and President of Web3 Foundation. Gavin is developing the next generation of blockchain technology with Polkadot, the interoperability platform he designed to connect all public and private blockchains. Polkadot will serve as a key building block in the decentralised web 3.0, meant to disrupt centralised internet powers and provide a platform for developers to create more equitable, peer-to-peer societal institutions that are not possible today. To help foster blockchain innovation, Gavin released the blockchain-building framework Substrate, giving builders the tools they need to build a blockchain that fits their needs.
+
+----
+
+Twitter: https://twitter.com/gavofyork
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: 1snx09c1
+
+----
+
+Uuid: Q3sR42lJaYM8Wz4W
+
+----
+
+Modified-at: 1759962547

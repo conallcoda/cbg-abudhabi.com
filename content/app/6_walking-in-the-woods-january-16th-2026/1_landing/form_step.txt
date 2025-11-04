@@ -1,0 +1,17 @@
+Title: Landing
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Details"},"id":"b5caefff-cc2c-4376-a3e6-9a036de3bad1","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Date:</strong> Friday, January 16th, 2026</p><p><strong>Time: </strong>08:15 am</p><p><strong>Location:</strong>  Suvretta Forest</p><p>Start your day with a revitalizing morning walk in the beautiful St. Moritz woods. Stroll through the serene forest, enjoy the fresh mountain air, and take in the scenic views. These walks are a great way to wake up, get some light exercise, and prepare yourself for a full day of conference activities. Embrace the tranquility and beauty of our home valley and start your day on a positive note.</p><p>For any additional information, kindly visit our conference reception desk.</p>","custom_id":"","custom_class":""},"id":"0b91bf6b-0127-4ea2-8dd6-9a07b790cb24","isHidden":false,"type":"text"},{"content":{"custom_id":"","custom_class":""},"id":"8737ac3f-ede4-43dc-9a2e-5aa64a05e5f0","isHidden":false,"type":"divider"},{"content":{"level":"h2","text":"Reserve your place (max. 25 places available)"},"id":"4b013018-907e-44fc-a45a-56628c6a942c","isHidden":false,"type":"heading"},{"content":{"text":"<p>Please fill in the fields below to sign up.</p>","custom_id":"","custom_class":""},"id":"1eebde5d-1bb5-4024-8cae-54bb15a4b6b7","isHidden":false,"type":"text"},{"content":{"name":"contact","items":["page://mATt1uHL5chz9Ees","page://5miW0HA9VRqwhDnw","page://hrKJKHkgCsLMskSI"],"optional":[],"show_labels":"false"},"id":"a7176328-7245-4979-8939-21c1b4e7179c","isHidden":false,"type":"form_fields"},{"content":{"custom_id":"","custom_class":""},"id":"3ef93c7b-0814-46e8-b28b-e356228a76a1","isHidden":false,"type":"divider"},{"content":{"hide_title":"true","hide_intro":"true","title":"","text":"","disclaimer":"","custom_id":"","custom_class":""},"id":"ceec8510-7ab2-4261-a6a6-9d96997c4732","isHidden":false,"type":"form_accept_terms"},{"content":{"text":"Next","custom_id":"","custom_class":""},"id":"b040ad47-1e08-4096-86a8-7be90f29e1a8","isHidden":false,"type":"form_next_step_button"}],"id":"a7e2088e-ed33-499e-903f-18c0d3b6d366","width":"1/1"}],"id":"69d6669f-6f28-4d83-9129-020cd28399a0"}]
+
+----
+
+Back-button-text: 
+
+----
+
+Uuid: brPcfaAOfjMU3c78
+
+----
+
+Modified-at: 1760640338

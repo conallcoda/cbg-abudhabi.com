@@ -1,0 +1,57 @@
+Title: Enrico Jakob
+
+----
+
+Picture: - file://sTU3zJGy9TQ8zpRg
+
+----
+
+Picture-color: - file://TZzCxdXHK010OZUQ
+
+----
+
+Picture-cropped: - file://zSk8dI9QCZrJjAPg
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Managing Partner, Awesome Capital
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Enrico is Managing Partner at awesome capital, the first German-Chinese venture capital firm based in Berlin and Hong Kong as well as Beijing and Shenzhen. Managed by a passionate and experienced German-Chinese partner team the company invests in early and growth-stage companies with mature digital technology throughout Europe and on the Bridge to China. Enrico is heading the investment team and is responsible for the awesome capital stock market fund. Prior to this, he co-founded Pando Ventures, one of Europe’s best accelerator programs, headquartered in Frankfurt. Besides he is a mentor at the international startup platform Plug and Play. His main industry focus is on the fields of the internet of things, FinTech, EduTech, New Mobility, Smart City, and Community based business models in German and Chinese markets.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/enrico-jakob/?originalSubdomain=de
+
+----
+
+Email: 
+
+----
+
+Autoid: 0zqlxvia
+
+----
+
+Uuid: B5Zg4VCDKuTEGG8O
+
+----
+
+Modified-at: 1758629933

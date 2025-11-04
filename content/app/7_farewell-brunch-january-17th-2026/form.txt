@@ -1,0 +1,68 @@
+Title: Farewell Brunch - January 17th, 2026
+
+----
+
+Email-notifications:
+
+- 
+  after_step: page://9cJX3T1cR0FxlhGP
+  send_email: page://3AJxu228XtorPkdx
+- 
+  after_step: page://9cJX3T1cR0FxlhGP
+  send_email: page://2wHD2x1faoglKVr4
+
+----
+
+Default-product: page://LbTIORnbDNEGqN5X
+
+----
+
+Test-data-mode: false
+
+----
+
+Test-payment-mode: false
+
+----
+
+Close-on-date: false
+
+----
+
+Close-date: 
+
+----
+
+Close-content: 
+
+----
+
+Restrict-access: true
+
+----
+
+Access-token: RvTmd6QTEmZKbTLz
+
+----
+
+Invited-users: 
+
+----
+
+Restrict-submissions: true
+
+----
+
+Max-submissions: 120
+
+----
+
+Max-submissions-message: 
+
+----
+
+Uuid: IZcO3bPlobe3PJNV
+
+----
+
+Modified-at: 1752226073

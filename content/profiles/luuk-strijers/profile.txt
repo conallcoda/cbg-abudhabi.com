@@ -1,0 +1,67 @@
+Title: Luuk Strijers
+
+----
+
+Picture: - file://njCMnBY7Imsn1sny
+
+----
+
+Picture-color: - file://lN1Jdd2pdDjkk1Xs
+
+----
+
+Picture-cropped: - file://ooNKj606CNvYxHBL
+
+----
+
+Logo: - file://WROCga7f7RDPC3kv
+
+----
+
+Subtitle: CCO
+
+----
+
+Company: Deribit
+
+----
+
+Company-url: https://www.deribit.com/
+
+----
+
+Bio:
+
+Luuk joined Deribit as Chief Commercial Officer in 2019 looking after business development, sales and products. Luuk has an extensive background in exchange trading with almost 20 years of experience in listed products, ETFs, Warrants, Equities, Derivatives, Exchange matching, and Corporate Finance.  
+
+Before Deribit, Luuk was amongst others responsible for listed products for SGX (The Singapore Exchange) and was based in Singapore since 2014.
+
+Luuk holds a Master of Science in Finance from Maastricht University in the Netherlands.
+
+----
+
+Twitter: https://twitter.com/LStrijers
+
+----
+
+Linkedin: https://www.linkedin.com/in/luuk-strijers-a474611
+
+----
+
+Email: 
+
+----
+
+Uuid: tJCEcYbfCQBiPsPv
+
+----
+
+Datecreatedepoch: 1702477998
+
+----
+
+Datemodifiedepoch: 1702478060
+
+----
+
+Modified-at: 1758629967

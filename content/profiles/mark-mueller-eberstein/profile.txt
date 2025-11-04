@@ -1,0 +1,61 @@
+Title: Mark Mueller-Eberstein
+
+----
+
+Picture: - file://9icG6OzL5yGEpRSN
+
+----
+
+Picture-color: - file://wFJm4HAIf4tU5lvZ
+
+----
+
+Picture-cropped: - file://pJQlGb3X7opdxue2
+
+----
+
+Logo: - file://uWHJWS4oAGqFk0O7
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Kednus
+
+----
+
+Company-url: https://www.mueller-eberstein.com
+
+----
+
+Bio: Mark is an active investor, LP and advisor in and to funds, families, companies and projects; keynote speaker, best-selling author in 12 languages. Founder of Codex3 fund (5.6x in 2 years) and digital asset accounting software companies. Mark has been a digital transformation leader for blockchain, crypto currencies, IoT, AI and cloud computing for the last decades. Mark is building on his experience in leadership positions at HP and Microsoft. Mark’s personal passion includes unlocking the economic potential of billions with blockchain technology. www.mueller-eberstein.com
+
+----
+
+Twitter: https://twitter.com/MarkMEberstein
+
+----
+
+Linkedin: https://www.linkedin.com/in/markmuellereberstein/
+
+----
+
+Email: 
+
+----
+
+Autoid: cywr1w6c
+
+----
+
+Uuid: uxsJwO9UdHlR51bE
+
+----
+
+Datemodifiedepoch: 1700814424
+
+----
+
+Modified-at: 1758629972

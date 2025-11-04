@@ -1,0 +1,57 @@
+Title: Frank Holmes
+
+----
+
+Picture: - file://I8aTWuxraKEBDByL
+
+----
+
+Picture-color: - file://byjcSa7LmGg2JnAP
+
+----
+
+Picture-cropped: - file://hxkSc6iTbBcSwMN1
+
+----
+
+Logo: - file://538d4UEq3ENNFgVI
+
+----
+
+Subtitle: Executive Chairman
+
+----
+
+Company: HIVE Blockchain Technologies
+
+----
+
+Company-url: https://www.hiveblockchain.com
+
+----
+
+Bio: Renowned global investor Frank Holmes leads the HIVE board of directors and is interim CEO, contributing to the company's vision and strategy. Frank is chief executive and chief investment officer at U.S. Global Investors, a leading mutual fund and asset management firm. Frank is a sought after keynote speaker at international investment conferences and a regular guest in business media. His Frank Talk CEO Blog is one of the most widely read in finance.
+
+----
+
+Twitter: https://twitter.com/bulldogholmes
+
+----
+
+Linkedin: https://www.linkedin.com/in/frank-holmes-0a941b16/
+
+----
+
+Email: 
+
+----
+
+Autoid: 2b0wupzw
+
+----
+
+Uuid: BT5Vd15ENgQqhuVI
+
+----
+
+Modified-at: 1758629939

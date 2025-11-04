@@ -1,0 +1,61 @@
+Title: Jonathan Hayes
+
+----
+
+Picture: - file://hwD08KN3mS0snFG0
+
+----
+
+Picture-color: - file://uBGafvJT5uaIkG3e
+
+----
+
+Picture-cropped: - file://tO3stCyrFyPm6qxK
+
+----
+
+Logo: - file://VYiH0K7UoxGg3tgn
+
+----
+
+Subtitle: Head Digital Assets Development
+
+----
+
+Company: Bank Julius Baer
+
+----
+
+Company-url: https://www.juliusbaer.com/ch/en/
+
+----
+
+Bio: 
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/jonathan-hayes-01684a/
+
+----
+
+Email: 
+
+----
+
+Uuid: 45afmkPZ0XEZ5sDw
+
+----
+
+Datecreatedepoch: 1703776450
+
+----
+
+Datemodifiedepoch: 1703777151
+
+----
+
+Modified-at: 1758629957

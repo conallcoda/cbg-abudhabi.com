@@ -1,0 +1,17 @@
+Title: Concordium
+
+----
+
+Autoid: 0wr4udb2
+
+----
+
+Picture: partners-data/concordium/29_concordium_website_frame.png
+
+----
+
+Link: https://concordium.com
+
+----
+
+Uuid: gUBemttzg74zn04L

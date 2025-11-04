@@ -1,0 +1,48 @@
+Title: Are you invested in crypto / Web3?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: true
+
+----
+
+Multiple-answers-allow-other: true
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: 'Yes - direct in crypto companies'
+- 
+  title: 'Yes - in ETFs'
+- 
+  title: 'Yes - in crypto dedicated hedge funds'
+- 
+  title: 'Yes - in crypto dedicated venture funds'
+- 
+  title: 'No'
+
+----
+
+Uuid: ypC5B3pd268eTYSN
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1726241165

@@ -1,0 +1,528 @@
+Title: CfC Abu Dhabi
+
+----
+
+Payment-reduction-codes:
+
+- 
+  name: conall_perecentage
+  code: c0n@ll_percentage
+  type: percentage
+  percentage_amount: 99.5
+  fixed_amount: ""
+- 
+  name: conall_fixed
+  code: c0n@ll_fixed
+  type: fixed
+  percentage_amount: ""
+  fixed_amount: 8899
+
+----
+
+Payment-vat-rate: 8.1
+
+----
+
+Footer-contact: <p>For general inquiries you can also contact: </p><p><a href="mailto:info@cfc-stmoritz.com">info@cfc-stmoritz.com</a></p>
+
+----
+
+Apply-cta: apply
+
+----
+
+Update-cta: update
+
+----
+
+Read-more-cta: Read more
+
+----
+
+All-speakers: All Speakers
+
+----
+
+Speakers-title: Speakers
+
+----
+
+Workshops-title: Workshop Hosts
+
+----
+
+Moderators-title: Moderators
+
+----
+
+Back-button: Back
+
+----
+
+Menu-more: about
+
+----
+
+Program-title: Program
+
+----
+
+Speakers-placeholder: Speaker(s) will be announced shortly
+
+----
+
+Partners-title: Partners
+
+----
+
+Close-cta: close
+
+----
+
+Cookie-text: We use cookies and similar technologies to improve the user experience on our websites, analyze our traffic, personalize content and advertising, and provide social media features. By continuing to use this website, you consent to our use of cookies and similar technologies. Learn more (link: /dpp text: here target: _blank).
+
+----
+
+Cookie-cta: OK
+
+----
+
+Blog-featured: Featured
+
+----
+
+Blog-categories: Filter
+
+----
+
+Blog-recommended: Recommended
+
+----
+
+Prev-post: Previous Post
+
+----
+
+Next-post: Next Post
+
+----
+
+Nl-title: Signup to Newsletter
+
+----
+
+Nl-forename-placeholder: First Name
+
+----
+
+Nl-surname-placeholder: Last Name
+
+----
+
+Nl-email-placeholder: E-Mail
+
+----
+
+Nl-cta: Subscribe Now
+
+----
+
+Nl-error-required: Please fill in all fields.
+
+----
+
+Nl-error-unknown:
+
+An unforeseen error has occurred while trying to subscribe.
+
+Please contact support at info@cfc-stmoritz.com.
+
+----
+
+Nl-ty:
+
+You will receive a confirmation E-Mail from our newsletter service provider Mailchimp shortly.
+
+Please follow the instructions to confirm your subscription.
+
+----
+
+Form-please-select: Please select
+
+----
+
+Form-please-specify: Please specify
+
+----
+
+Payment-contact-title: CONTACT DETAILS
+
+----
+
+Payment-profile-title: PROFILE PHOTO
+
+----
+
+Payment-profile-text: In recent years, we have repeatedly had people trying to gain unauthorized access to the conference. We now want to prevent this with an NFC tag - in addition to the name, a photo of the attendee will also be stored on your badge. This way we can ensure that only those participants are in the room who have been screened, selected and accepted by the CfC St. Moritz. Therefore, we kindly ask you to upload your photo.
+
+----
+
+Payment-personal-title: PERSONAL INFORMATION
+
+----
+
+Payment-label-uploadphoto: Upload Profile Photo
+
+----
+
+Payment-error-uploadphoto: Please upload a profile photo.
+
+----
+
+Payment-label-firstname: First Name
+
+----
+
+Payment-label-lastname: Last Name
+
+----
+
+Payment-label-birthday: Birthday
+
+----
+
+Payment-label-country: Country
+
+----
+
+Payment-label-company: Company
+
+----
+
+Payment-label-jobtitle: Job Title
+
+----
+
+Payment-label-email: Email
+
+----
+
+Payment-label-membership: Are you part of a membership network / community/ club? (eg: YPO, Tiger 21, American Express Centurion)
+
+----
+
+Payment-label-linkedin: Linkedin
+
+----
+
+Payment-label-phone: Phone
+
+----
+
+Payment-label-zipcode: Zip/Post Code
+
+----
+
+Payment-accomodation-title: ACCOMMODATION
+
+----
+
+Payment-accomodation-text: Please select the box below if you wish to book a room at Suvretta House. Further details will be provided by the hotel's reservations department.
+
+----
+
+Payment-accomodation-checkbox: I would like to book a room at the Suvretta House. (Please note that the costs are not included in the ticket price and will not be covered by the CfC St. Moritz.)
+
+----
+
+Payment-tos-title: Terms of Attendance (ToA) & Data Protection Policy (DPP)
+
+----
+
+Payment-tos-intro: Before you begin, we kindly ask you to carefully read through our Terms of Attendance (ToA) and our Data Protection Policy (DPP).
+
+----
+
+Payment-tos-text: By checking this box, you agree to our Terms of Attendance and you confirm that you have read our Data Protection Policy. Please click <a href="/toa" target="_blank">here</a> to read the ToA and <a href="/dpp" target="_blank">here</a> to read the DPP.
+
+----
+
+Payment-summary-subtotal: Subtotal
+
+----
+
+Payment-summary-vat: VAT
+
+----
+
+Payment-summary-shipping: Shipping
+
+----
+
+Payment-summary-discount: Reduction
+
+----
+
+Payment-summary-total: Total
+
+----
+
+Payment-title: PAYMENT DETAILS
+
+----
+
+Payment-label-address1: Address 1
+
+----
+
+Payment-label-address2: Address 2
+
+----
+
+Payment-label-postalcode: Postal Code
+
+----
+
+Payment-label-city: City/Town
+
+----
+
+Payment-label-region: State/Region/Province
+
+----
+
+Payment-label-billingfirstname: First Name
+
+----
+
+Payment-label-billinglastname: Last Name
+
+----
+
+Payment-label-billingcountry: Country
+
+----
+
+Payment-label-billingaddress1: Street Address
+
+----
+
+Payment-label-billingcity: City/Town
+
+----
+
+Payment-label-billingregion: State/Region/Province
+
+----
+
+Payment-label-mediaoutlet: Media Outlet / Publication
+
+----
+
+Payment-label-mediajobtitle: Position / Job Title
+
+----
+
+Payment-diet-title: DIETARY REQUIREMENTS
+
+----
+
+Payment-label-diet: Kindly advise us of your dietary requirements
+
+----
+
+Payment-diet-option1: I eat everything
+
+----
+
+Payment-diet-option2: I am a vegetarian
+
+----
+
+Payment-diet-option3: I am a vegan
+
+----
+
+Payment-diet-option4: Other
+
+----
+
+Payment-diet-error: Please let us know what your dietary requirements are.
+
+----
+
+Payment-jam-session-checkbox: I play an instrument and I would like to participate in the jam session.
+
+----
+
+Payment-jam-session-placeholder: What instrument(s) do you play?
+
+----
+
+Payment-error-required: Please make sure all required* fields are filled in correctly.
+
+----
+
+Payment-error-unknown:
+
+An unforeseen error has occurred during submission.
+Please contact support at info@cfc-stmoritz.com.
+
+----
+
+Payment-error-advice: **Please note:** if you are currently connected to a restricted network (eg: workplace, VPN etc) it may be necessary to disable any firewall or anti virus programs which could interfere with completing your reservation. If you have done so and still have any problems, please contact us directly at info@cfc-stmoritz.com.
+
+----
+
+Season: on
+
+----
+
+Site-title-prefix: CfC St. Moritz
+
+----
+
+Site-description: Highly curated digital assets and blockchain conference for investors and decision-makers, set in the breathtaking scenery of the Swiss Alps.
+
+----
+
+Site-logo: - file://WiMhGVgPbEu6mbCo
+
+----
+
+Mountains-desktop: - file://z7xTYucGwdk2KkLg
+
+----
+
+Mountains-mobile: - file://V7HdMAiNywnm8VNR
+
+----
+
+Social-share-image: - file://HlIHFooc6cjduBTX
+
+----
+
+Main-menu-onseason:
+
+- 
+  link: page://z9GQvh4zaJsVc4Ki
+  text: ""
+  new_window: 'false'
+  sublinks: [ ]
+- 
+  link: page://0TVImYEGvKn15jt1
+  text: ""
+  new_window: 'false'
+  sublinks: [ ]
+- 
+  link: page://iDCoH7wUqiw8AT8h
+  text: ""
+  new_window: 'false'
+  sublinks: [ ]
+- 
+  link: ""
+  text: About
+  new_window: 'false'
+  sublinks:
+    - 
+      link: page://SYICvFlMyA3mS0Te
+      text: ""
+      new_window: 'false'
+    - 
+      link: page://tBs3WotfgVthrn6t
+      text: ""
+      new_window: 'false'
+    - 
+      link: page://1OkgATaoxoMvr8HS
+      text: ""
+      new_window: 'false'
+    - 
+      link: page://uBuJAKbE3DhEzifN
+      text: ""
+      new_window: 'false'
+
+----
+
+Main-menu-offseason:
+
+- 
+  link: page://SYICvFlMyA3mS0Te
+  text: ""
+  new_window: 'false'
+  sublinks: [ ]
+- 
+  link: page://tBs3WotfgVthrn6t
+  text: ""
+  new_window: 'false'
+  sublinks: [ ]
+- 
+  link: page://uBuJAKbE3DhEzifN
+  text: ""
+  new_window: 'false'
+  sublinks: [ ]
+- 
+  link: page://1OkgATaoxoMvr8HS
+  text: ""
+  new_window: 'false'
+  sublinks: [ ]
+
+----
+
+Footer-menu:
+
+- 
+  link: page://F97VDpkTMP7JyeKT
+  text: ""
+  new_window: 'false'
+- 
+  link: page://5SZskIs4DhKTGNOZ
+  text: ""
+  new_window: 'false'
+- 
+  link: page://N3LvN7bqBNdJfGLe
+  text: ""
+  new_window: 'false'
+- 
+  link: page://zfzrENflg1HQWUKD
+  text: ""
+  new_window: 'false'
+
+----
+
+Twitter: https://twitter.com/CFCstmoritz
+
+----
+
+Linkedin: https://www.linkedin.com/company/cryptofinanceconference/
+
+----
+
+Instagram: https://instagram.com/cfcstmoritz
+
+----
+
+Youtube: https://www.youtube.com/channel/UClExpOgMY52pOc3OWGkXoeg
+
+----
+
+Show-apply: true
+
+----
+
+Settings-type: menu
+
+----
+
+Active-menu: on
+
+----
+
+Vat-rate: 8.1
+
+----
+
+Site-title: CfC St.Moritz -
+
+----
+
+Show-more: false

@@ -1,0 +1,33 @@
+Title: Media Outlet / Publication
+
+----
+
+Type: text
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options: 
+
+----
+
+Uuid: vRi6nDxDdBH43Dqy
+
+----
+
+Modified-at: 1726081094

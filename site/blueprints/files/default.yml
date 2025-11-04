@@ -1,0 +1,6 @@
+options:
+    update: true
+    changeName: true
+    delete: true
+    read: true
+    replace: true

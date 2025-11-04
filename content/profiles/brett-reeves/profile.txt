@@ -1,0 +1,57 @@
+Title: Brett Reeves
+
+----
+
+Picture: - file://IW6OwbWUtw2cdjpd
+
+----
+
+Picture-color: - file://YRe4YwzsnWSFdMPG
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://GPQoECPdUGBAgrOP
+
+----
+
+Subtitle: Head of European Sales and GoNetwork
+
+----
+
+Company: BitGo
+
+----
+
+Company-url: https://bitgo.com
+
+----
+
+Bio: 
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/brettareeves/?originalSubdomain=uk
+
+----
+
+Email: 
+
+----
+
+Uuid: PAcsstgdDMipFCZJ
+
+----
+
+Created-at: 1734712776
+
+----
+
+Modified-at: 1758629916

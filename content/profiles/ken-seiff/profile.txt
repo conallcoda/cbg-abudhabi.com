@@ -1,0 +1,57 @@
+Title: Ken Seiff
+
+----
+
+Picture: - file://zcyy1GTZ0ZcdMzNv
+
+----
+
+Picture-cropped: - file://n3cS7BVrcoGVBw8N
+
+----
+
+Logo: - file://3oQfUidW9AKy9KBu
+
+----
+
+Subtitle: General Partner
+
+----
+
+Company: Blockchange Ventures
+
+----
+
+Company-url: https://www.linkedin.com/company/blockchange-ventures/about/
+
+----
+
+Bio:
+
+Ken Seiff is General Partner of Blockchange Ventures, a venture capital firm investing exclusively in early stage blockchain companies, protocols and applications that are trying to make a dent in the universe.  Ken oversees of over 100 investments in blockchain technology companies.  
+
+Ken first entered venture capital by founding Beanstalk Ventures, a NY-based venture fund focused on revolutionizing the retail industry through its investments in innovative technology companies. Prior to that, Ken founded Bluefly.com, co-founded both Poppin and Simply Gum. Ken has also consulted for Amazon and served on Google’s Retail Advisory Council.
+
+----
+
+Twitter: https://twitter.com/BlockchangeVC
+
+----
+
+Linkedin: https://www.linkedin.com/in/seiff/
+
+----
+
+Email: 
+
+----
+
+Autoid: 5buisaso
+
+----
+
+Uuid: RQBz2DjqUvrO6oaK
+
+----
+
+Modified-at: 1722848974

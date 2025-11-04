@@ -1,0 +1,21 @@
+Title: Conference Ticket [Normal]
+
+----
+
+Display-name: 1 x CfC St. Moritz Ticket (Core Conference Seat)
+
+----
+
+Button-text: Select Core Conference Seat
+
+----
+
+Price: 9900
+
+----
+
+Uuid: X20VRAB7CUUs0KYt
+
+----
+
+Modified-at: 1758616605

@@ -1,0 +1,61 @@
+Title: Christine Lee
+
+----
+
+Picture: - file://lYluKr6o3UXcxB0L
+
+----
+
+Picture-color: - file://5WPXKrGXzcU0nj2S
+
+----
+
+Picture-cropped: - file://tMrg3ZVWgoLsK4p3
+
+----
+
+Logo: - file://QDSHMV0v6XnDYLwv
+
+----
+
+Subtitle: Senior Anchor
+
+----
+
+Company: CoinDesk
+
+----
+
+Company-url: https://www.coindesk.com
+
+----
+
+Bio: Christine anchors and produces FIRST MOVER at 9am ET in NYC every weekday live, CoinDesk TV's flagship show and first look at the day's global crypto news headlines, and ALL ABOUT BITCOIN at 3pm ET for markets analysis and all things BTC. CoinDesk is the leading news, events and data provider for the blockchain and digital assets industry. Previously, Christine worked at Thomson Reuters, Bloomberg and Pro Publica. Her research and writing on nuisance abatement laws contributed to an investigative series that was awarded the 2017 Pulitzer Prize for Public Service and led the New York City Council to pass sweeping changes to the law.
+
+----
+
+Twitter: https://twitter.com/christinenews
+
+----
+
+Linkedin: https://www.linkedin.com/in/christine-lee-news/
+
+----
+
+Email: 
+
+----
+
+Uuid: WX9IcQRFOjSpqOeD
+
+----
+
+Datecreatedepoch: 1701338645
+
+----
+
+Datemodifiedepoch: 1702327483
+
+----
+
+Modified-at: 1758629924

@@ -1,0 +1,61 @@
+Title: Jim Cunha
+
+----
+
+Picture: - file://zfDt0jNYlEtNJRmK
+
+----
+
+Picture-color: - file://Toe7iZxsEVSjZaAs
+
+----
+
+Picture-cropped: - file://ahlKGadu50kDvNKG
+
+----
+
+Logo: - file://UNHjB2jnzIZ46ViT
+
+----
+
+Subtitle: EVP
+
+----
+
+Company: Federal Reserve Bank of Boston
+
+----
+
+Company-url: https://www.bostonfed.org
+
+----
+
+Bio:
+
+Jim Cunha is the Senior Vice President of Secure Payments and FinTech Research at the Federal Reserve Bank of Boston.  His entire career has focused on the interrelationship of  payments, security, technology and innovation. 
+Cunha leads the Federal Reserve’s Secure Payment efforts, which seeks to help reduce fraud in the U.S. payments system through collaboration with industry participants.  
+Cunha is also spearheading the Boston Fed’s efforts to study distributed ledger technology, or blockchain, to determine potential benefits and risks in financial services for internal and external uses. He is specifically focused on the evolution of the technology and its potential impact on the financial services sector.  He is also responsible for the Bank’s technology research related to central bank digital currencies (CBDC), including a joint research effort with MIT’s Digital Currency Initiative.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/jim-cunha-0b772b8/
+
+----
+
+Email: 
+
+----
+
+Autoid: y88bn6yr
+
+----
+
+Uuid: piI1SQ4mVqQsdWIy
+
+----
+
+Modified-at: 1758629948

@@ -1,0 +1,57 @@
+Title: Dr. Cyrus de la Rubia
+
+----
+
+Picture: - file://fGHlzI6kMdhUnsQ3
+
+----
+
+Picture-color: - file://6IbHfgnjm3BicizG
+
+----
+
+Picture-cropped: - file://XGdcyyziVIE573Us
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Chief Economist, Hamburg Commercial Bank
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Dr. Cyrus de la Rubia is chief economist of Hamburg Commercial Bank with a focus on monetary policy and global economics. Before joining the Hamburg Commercial Bank, de la Rubia headed the Economics Department of the Dresdner Bank Latin America in Hamburg, analyzing Emerging Markets. He is also a lecturer at the Frankfurt School of Finance and Management and works as an economic policy consultant for Berlin Economics. Cyrus de la Rubia wrote his PhD thesis at the University of Potsdam (Germany) about the maturity structure of bond markets, after studying Economics at the University of Kiel (Germany) and Córdoba (Argentina). De la Rubia is the author of the book “Unser Geld in der Krise” (“Our money in trouble”), which was published in spring 2017.
+
+----
+
+Twitter: https://mobile.twitter.com/CyrusdelaRubia
+
+----
+
+Linkedin: https://www.linkedin.com/in/dr-cyrus-de-la-rubia-b27b5478/
+
+----
+
+Email: 
+
+----
+
+Autoid: wfdeylj5
+
+----
+
+Uuid: Js9lhzUqLomTZr54
+
+----
+
+Modified-at: 1758629927

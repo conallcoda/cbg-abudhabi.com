@@ -1,0 +1,61 @@
+Title: Olga Feldmeier
+
+----
+
+Picture: - file://ZkKeMMDQRSARnpcx
+
+----
+
+Picture-color: - file://pkUQf9bK3BU6dCeD
+
+----
+
+Picture-cropped: - file://7FZt9lsHHwg82poB
+
+----
+
+Logo: - file://lV7WSiRHeRmESvdR
+
+----
+
+Subtitle: Co-Founder
+
+----
+
+Company: SMART VALOR
+
+----
+
+Company-url: https://smartvalor.com/en/
+
+----
+
+Bio:
+
+Olga Feldmeier is the Co-Founder and Chairman of the Board of SMART VALOR. SMART VALOR is the only Swiss company offering the full-service investment platform including digital asset brokerage, trading, staking, custody and asset management to retail clients. On B2B side it offers exchange and custody SaaS and NFT marketplace solution. FORBES nominated SMART VALOR into the top 10 most exciting SME in Europe.  
+
+Prior to SMART VALOR, Olga Feldmeier served as Commercial Managing Partner at Xapo, Bitcoin custodian, later partially sold to Coinbase, where she enabled the first custodian authorization in Switzerland. BILANZ nominated Olga multiple times in Digitals Shapers of Switzerland and top 10 Blockchainers.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/olga-feldmeier/?originalSubdomain=ch
+
+----
+
+Email: 
+
+----
+
+Autoid: ce65s3wt
+
+----
+
+Uuid: P0ErSMuhGWqY3jP4
+
+----
+
+Modified-at: 1758629986

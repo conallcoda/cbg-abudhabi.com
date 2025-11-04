@@ -1,0 +1,22 @@
+name: Survey
+icon: survey
+tabs:
+    content:
+        fields:
+            name:
+                label: Name
+                type: slug
+                required: true
+            source:
+                label: Source
+                type: select
+                multiple: false
+                options: query
+                required: true
+                query:
+                    fetch: site.page("surveys").children.template("survey")
+                    text: '{{ page.title }}'
+                    value: '{{ page.uuid }}'
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

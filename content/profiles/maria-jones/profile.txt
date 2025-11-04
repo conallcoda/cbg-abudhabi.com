@@ -1,0 +1,61 @@
+Title: Maria Jones
+
+----
+
+Picture: - file://ETtkArJ9sTCiFs82
+
+----
+
+Picture-color: - file://G0EGuwjiAUbIBRxi
+
+----
+
+Picture-cropped: - file://8oxkummO6ulGoSFr
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Moderator
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+VP at Cointelegraph Media Group (the leading digital media covering bitcoin, Blockchain and the future of finance)
+
+Founder of 'The 3rd Millennium Woman'; the most connected digital entrepreneur in the crypto industry, Bitcoin TV Presenter and interviewer; world-wide special guest and public speaker.
+
+----
+
+Twitter: https://twitter.com/thebitcoinwoman?lang=de
+
+----
+
+Linkedin: https://www.linkedin.com/in/maria-jones-50b39594/?locale=de_DE
+
+----
+
+Email: 
+
+----
+
+Autoid: j3ebmi31
+
+----
+
+Uuid: orgtS88bfkyUJHjb
+
+----
+
+Modified-at: 1758629969

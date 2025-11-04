@@ -1,0 +1,23 @@
+title: Profiles
+
+preview: profiles
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+options:
+    duplicate: false
+    changeTitle: false
+    changeStatus: false
+    changeTemplate: false
+    changeSlug: false
+    preview: false
+    delete: false
+    move: false
+tabs:
+    items:
+        label: Profiles
+        icon: list-numbers
+        sections:
+            items: sections/profiles

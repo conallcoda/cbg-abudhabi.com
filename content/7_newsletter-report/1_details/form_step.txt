@@ -1,0 +1,17 @@
+Title: Details
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"true","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"center","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Get the 2025 \"The CfC St. Moritz Report\""},"id":"b4fcdf9f-9f37-4b1a-ad52-5c6324891e0e","isHidden":false,"type":"heading"},{"content":{"text":"<p>Subscribe here to receive your free copy of the report.</p>","custom_id":"","custom_class":""},"id":"43baec60-74bb-416f-b978-ef4452137181","isHidden":false,"type":"text"},{"content":{"name":"contact","items":["page://mATt1uHL5chz9Ees","page://5miW0HA9VRqwhDnw","page://hrKJKHkgCsLMskSI"],"button":"Submit"},"id":"4eca5a1b-2a2a-45a1-a1c9-67f30bf64285","isHidden":false,"type":"form_newsletter"}],"id":"4756aabb-3e44-4e5d-b633-bcb03169c582","width":"1/1"}],"id":"8f943836-9c60-4e0f-bdae-b1ef6e2c1bc0"}]
+
+----
+
+Back-button-text: 
+
+----
+
+Modified-at: 1738156698
+
+----
+
+Uuid: DUygh9WkLDqAec28

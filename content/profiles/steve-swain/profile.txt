@@ -1,0 +1,61 @@
+Title: Steve Swain
+
+----
+
+Picture: - file://IxJSk4s6WOjeknVM
+
+----
+
+Picture-color: - file://MK3u3xsvzY5YWlkU
+
+----
+
+Picture-cropped: - file://DSM0KbxB4LR5TZ10
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Co-founder & CEO of Lendingblock
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Steve Swain is Co-founder & CEO of Lendingblock, an open exchange for cryptocurrency loans, where institutional borrowers and lenders are instantly matched in a simple, secure and transparent way. Lendingblock is introducing the concept of securities lending to the crypto economy.
+
+Steve Swain is an experienced financial services technology professional, with outstanding record built during 15 years hands-on management roles with top-tier global banks, including Lehman, Credit Suisse, Macquarie and UBS, followed by 5 years as a big-4 technology consulting partner focused on financial services. He has spent his time working advising institutions on regulatory technology and fintech in London, New York and Sydney. Steve has a degree in Computer Science and Mathematics from University of Adelaide.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/steve-swain/
+
+----
+
+Email: 
+
+----
+
+Autoid: zx53z161
+
+----
+
+Uuid: 8aGQrmLDZFfONJSI
+
+----
+
+Modified-at: 1758630006

@@ -1,0 +1,60 @@
+Title: Mikhail Taver
+
+----
+
+Picture: - file://O8SJhtdMzsIleb8A
+
+----
+
+Picture-color: - file://zi7gaiYThFkZO2hL
+
+----
+
+Picture-cropped: - file://XAo4FemLiDtZhGl2
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Co-founder & Managing partner, Gagarin Capital Partners
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Mikhail Taver is Co-founder and Managing partner of Gagarin Capital Partners.
+250+ deals totaling $24 billion in 20 years of strategy consulting, M&A and Private Equity. Ex-executive of Nafta-Moskva. Former executive of AAR consortium (Alfa Group, Access Industries and Renova Group).
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/mtaver/?originalSubdomain=ru
+
+----
+
+Email: 
+
+----
+
+Autoid: qs0k8qfq
+
+----
+
+Uuid: rjq9ql4mIiEZeQOD
+
+----
+
+Modified-at: 1758629981

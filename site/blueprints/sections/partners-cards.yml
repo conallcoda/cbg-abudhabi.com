@@ -1,0 +1,10 @@
+type: pages
+layout: cardlets
+sortBy: modified_at desc
+search: true
+image: page.picture.toFile
+parent: kirby.page("partners-data")
+info: "{{ page.link }}"
+limit: 4
+template:
+  - partner

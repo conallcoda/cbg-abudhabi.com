@@ -1,0 +1,68 @@
+Title: Ralf Wandmacher
+
+----
+
+Picture: - file://b3NAm08J3gTJjIWT
+
+----
+
+Picture-color: - file://qaxYDc5izwnevtsx
+
+----
+
+Picture-cropped: - file://vqnureZpHrQCApzn
+
+----
+
+Logo: - file://GSlZy1h7KjVyxl5v
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: StablR Euro
+
+----
+
+Company-url: https://www.stablr.com/
+
+----
+
+Bio:
+
+Ralf Wandmacher is the chief executive officer of Plutus B.V., a holding company for STB Software Developments B.V. and StablR Limited in Malta (currently in the process to be incorporated).
+
+He is also a Professor of Finance and Entrepreneurship at accadis University in Bad Homburg, Germany with a research focus on Blockchain Finance – Cryptocurrencies, ICO/STOs, Blockchain, and Tokenization.
+
+He is a board member at Bo1 AG and a senior advisor at Roots Advisory, Frankfurt, Germany. Furthermore, he advises Boerse Stuttgart Digital Ventures.
+
+Ralf Wandmacher has more than 20 years of experience in derivatives trading, structuring and sales at Goldman Sachs and Deutsche Bank in Europe. He was a Managing Director with teams in London and Frankfurt working on the European market.
+
+He earned his PhD in Finance about Implied Volatility theories from the University of Cape Town, South Africa.
+His title Diplom-Kaufmann in business administration was received from the University of Goettingen with a thesis about Neural Networks.
+
+----
+
+Twitter: https://twitter.com/rwandmacher
+
+----
+
+Linkedin: https://www.linkedin.com/in/rwandmacher
+
+----
+
+Email: 
+
+----
+
+Autoid: 2ka9qeye
+
+----
+
+Uuid: b5TCIs2r9IJrH3tb
+
+----
+
+Modified-at: 1758629994

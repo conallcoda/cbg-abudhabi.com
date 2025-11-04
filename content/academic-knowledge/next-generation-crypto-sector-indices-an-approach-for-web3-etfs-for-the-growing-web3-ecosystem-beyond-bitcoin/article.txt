@@ -1,0 +1,73 @@
+Title: Next Generation Crypto Sector Indices — An Approach for Web3 ETFs for the Growing Web3 Ecosystem Beyond Bitcoin
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"text":"**Introduction**\n\nAs the world of crypto assets continues to expand, it can be overwhelming for investors to keep track of the multitude of assets available. While FTX and other imploding companies have led to more cautiousness on behalf of investors in the short term, the long term interest in crypto assets is steadily increasing. Yet, the interest in crypto assets is still increasing. “Interest” though, does not necessarily mean that investors are ready to invest – events such as FTX usually force investors to step on the brakes.\n\nWhile some investors may have a clear preference for a specific token, others may have a broader interest in a particular sector of the industry or the market as a whole. A sector could be smart contract platforms, tokens from decentralized finance (DeFi), or tokens from the metaverse space in the future. While such an index cannot replace the value of investing into a single token, it can provide valuable insight into the overall health of a specific sector. Additionally, these indices can provide perspective when considering the overall correlation of the crypto ecosystem. Currently, correlations among crypto assets are high. But with the growth of the ecosystem, a decline in correlations and a stronger emergence of sectors can be expected. Much like the chemical industry or the automotive industry, indices for such industries provide a way for investors to invest in a coherent group of companies (or tokens).\n\n**The case for crypto sector indices**\n\nWell-constructed crypto indices will become highly sought after among all investor groups and are a vital next step toward further adoption of the asset class as a whole. The case for crypto indices is easy to understand if we keep in mind what we already know from global equity markets.\n \nThe market is hard to beat. In fact, the market is very hard to beat. This is true for all asset classes, and it will be not different for crypto assets. **According to S&P SPIVA, between 80% to 90% of large equity funds worldwide underperformed the S&P 500 index over a period of 15 years.[1]** Partly due to this reason, significant inflows into passive index funds in equity markets occurred throughout the last decade. It would be foolish not to expect a similar story in crypto assets.\n\n(media: sandner_1.png)\n*Figure 1: The case for crypto sector indices. (Source: 21e6 Capital AG)*\n\n**Furthermore, a managed index is probably the easiest way to invest into any market. As such, entry barriers for both retail and institutional investors are almost non-existent here.** First, the obvious: no need to self-construct an asset selection and deal with rebalancing, as well as deep-dive into hundreds of crypto assets (currently, thousands of tokens are available on the market). Second, an index tracker in the form of an exchange trade product (ETP) is liquid and tradeable daily on traditional exchanges (as the name suggests). Investors can therefore use the same infrastructure they already have in place for trading any other exchange traded assets – this eliminates switching barriers. They can simply add crypto indices to their existing financial portfolios. Thanks to clear and advanced regulation in the EU and Switzerland, ETPs issued here can deliver physical backing and licensed custody models. This effectively removes technological or trust-related barriers associated with setting up an in-house custody solution or being forced to trust unregulated third parties (like those domiciled in offshore destinations).\n\n**Six relevant crypto sectors can be identified**\nThe International Token Classification (ITC) developed by ITSA is a holistic standardization framework for the classification of DLT- and blockchain-based cryptographic tokens according to their inherent characteristics. This framework is based on a flexible and adaptable approach to classify crypto assets based on the design of various modular dimensions, which allow describing different aspects of a crypto asset in a multi-level hierarchical structure.\n\nCurrently, six classifications of the ITC framework meet the necessary criteria to not only be published as an index but also to launch investible, physically backed trackers. These six sectors are displayed in Figure 3. Some considerations include a minimum total market capitalization within the sector, sufficient volume and liquidity for institutional investment sizes, and high relevance to current and future trends in the market. \n\nUpon first glance at Figure 2, one may complain about the lack of a “Metaverse” or “DeFi” index. While the necessary classifications for constructing such indices are available, these sectors do not yet have sufficient liquidity at this stage to launch ETPs. These sectors will make more sense in the future once the crypto sector grows, and are sure to receive recognition then.\n\n(media: sandner_2.png)\n*Figure 2: Examples for crypto sector indices*\n\nWe believe that Index III and Index V may be particularly interesting here. While the first offers a smart solution to the often debated issue of energy consumption and thus ESG-related ramifications of crypto assets, the latter represents the most dynamic and important sectors of the growing crypto asset economy: smart contract platforms. \n\n**Index III - Ex Proof-of-Work:** Tokens on proof-of-work blockchains are excluded here in favor of more sustainable and energy efficient consensus mechanisms such as proof-of-stake. Proof-of-work is a consensus mechanism used by some crypto assets, primarily Bitcoin, that requires miners to solve complex mathematical puzzles in order to validate transactions and add new blocks to the blockchain. This process requires a significant amount of computing power and electricity. It is frequently criticized due to its high energy consumption. **By excluding proof-of-work tokens from the index, investors with ESG concerns can avoid supporting crypto assets that have a higher carbon footprint than others. This can help to align their investments with their values and priorities, and can also reduce the risk of their investments contributing to environmental degradation.**\n\n**Index V - Smart Contracts:** Smart contract platforms like Ethereum were one of the major narratives pushing adoption throughout 2021 and 2022. **The use of smart contract technology is increasing in a variety of industries, including decentralized finance, NFTs, the metaverse, and gaming. By investing in a crypto index that focuses on these technologies, investors can gain exposure to a range of companies and projects that are using smart contracts to innovate and disrupt traditional business models.** Because the market for smart contract platforms is relatively new and still evolving, there are likely to be a wide range of different projects and companies that investors can choose from. The uncertainty regarding which of the manifold smart contract platforms will gain market share in the future makes it a formidable case for an index. This can help to reduce the risk of any single investment having a significant impact on the overall performance of the index.\n\n**Conclusion**\nIn conclusion, the adoption of crypto sector indices is likely to grow as the industry matures.  These indices will provide investors with an easy and accessible way to invest in the market, and can offer valuable insight into the overall health of a particular sector. By offering a diversified portfolio of assets and reducing the risk of underperforming individual tokens, crypto indices can be a valuable tool for investors looking to make informed decisions about their investments. At the same time, crypto indices allow an easy integration in existing financial portfolios and remove technical hurdles such as the setup or maintenance of custody services. As the market for crypto assets continues to evolve, sector-specific indices will become increasingly important, like their equity-market counterparts.\n\n***\n**About the Authors**\n**Maximilian Bruckner** is Head of Marketing & Sales at (link: https://assets.21e6.io text: 21e6 Capital AG target: blank). Prior to this, he was engaged as Executive Director of the (link: https://my.itsa.global text: International Token Standardization Association target: blank) where he focused on research and classification of crypto assets according to the International Token Classification (ITC) framework. He was heavily involved in the creation of the world’s largest token database for classification and identification data on tokens (TOKENBASE). Maximilian also did academic research at the Frankfurt School Blockchain Center. You can contact Maximilian via e-mail at maximilian.bruckner@21e6.io to request more information on 21e6 Capital AG or ask any questions regarding this article. You can also follow Maximilian on (link: https://www.linkedin.com/in/max-bruckner/ text: LinkedIn target: blank)to stay up to date.\n\n**Prof. Dr. Philipp Sandner** has founded the (link: https://www.frankfurt-school.de/home/research/centres/blockchain text: Frankfurt School Blockchain Center target: blank) (FSBC). From 2018 to 2021, he was ranked among the (link: https://www.faz.net/aktuell/wirtschaft/wirtschaftswissen/f-a-z-oekonomenranking-2021-die-tabellen-17538768.html text: “top 30” economists target: blank) by the Frankfurter Allgemeine Zeitung (FAZ), a major newspaper in Germany. Further, he belonged to the “Top 40 under 40” — a ranking by the German business magazine Capital. He has been a member of the (link: https://www.haufe.de/finance/steuern-finanzen/bmf-gruendet-fintechrat_190_409208.html text: FinTech Council target: blank) and the (link: https://www.bundesfinanzministerium.de/Content/DE/Standardartikel/Themen/Internationales_Finanzmarkt/Digital-Finance-Forum/digital-finance-forum-mitglieder.html text: Digital Finance Forum target: blank)of the Federal Ministry of Finance in Germany. He is also on the Board of Directors of (link: https://fivet.com/fivet-fintech text: FiveT Fintech Fund target: blank), (link: https://assets.21e6.io text: 21e6 Capital target: blank) and (link: https://blockchain-founders.io text: Blockchain Founders Group target: blank)— companies active in venture capital financing for blockchain startups and crypto asset investment management.\n\n***\n**References**\n\n[1] (link: https://www.spglobal.com/spdji/en/research-insights/spiva/#us text: SPIVA | S&P Dow Jones Indices target: blank)\n\n(gap: smal)\n\n**Remarks**\n*This article is an informational document and does not constitute an investment recommendation, investment advice, legal, tax or accounting advice or an offer to sell or a solicitation to purchase any securities and therefore may not be relied upon in connection with any offer or sale of securities. The views expressed in this letter are the subjective views of 21e6 Capital personnel, based on information which is believed to be reliable. Any expression of opinion (which may be subject to change without notice) is personal to the author and the author makes no guarantee of any sort regarding accuracy or completeness of any information or analysis supplied.*\n\n*If you like this article, we would be happy if you forward it to your colleagues or share it on social networks. If you are an expert in the field and want to criticize or endorse the article or some of its parts, please feel free to leave a private note here or contextually, and we will attempt to respond or address the same.*","custom_id":"","custom_class":""},"id":"eab3837d-54d0-470d-8354-0b4766509550","isHidden":false,"type":"markdown"}],"id":"f0b6ac7a-4e1f-49c4-9ccc-733cb46732f9","width":"1/1"}],"id":"db67e002-ce03-4bae-b475-10d78292f357"}]
+
+----
+
+Picture: - file://qEuHENZF4XkBrLff
+
+----
+
+Author: page://XDXEBIjudWCHlOsz
+
+----
+
+Date: 2022-12-14
+
+----
+
+Subtitle: Authors: Prof. Dr. Philipp Sandner, Maximilian Bruckner
+
+----
+
+Tags: 
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Picture-card: 
+
+----
+
+Autoid: gy88h6mg
+
+----
+
+Header-title: 
+
+----
+
+Uuid: AzMc8HClOJh6o3mf
+
+----
+
+Modified-at: 1728385735

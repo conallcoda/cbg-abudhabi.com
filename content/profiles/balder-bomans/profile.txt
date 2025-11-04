@@ -1,0 +1,61 @@
+Title: Balder Bomans
+
+----
+
+Picture: - file://IFlAlef3a8ku0yRT
+
+----
+
+Picture-color: - file://ECD9weQKMds8Tr8G
+
+----
+
+Picture-cropped: - file://yamNzz3Jzo7gogCv
+
+----
+
+Logo: - file://76ULBqeUpnaYGkJ7
+
+----
+
+Subtitle: CIO & Managing Partner
+
+----
+
+Company: Maven 11
+
+----
+
+Company-url: https://www.maven11.com
+
+----
+
+Bio: Balder holds an MSc degree in Economics and Finance, and has a rich traditional financial markets background. Before joining Maven 11 Capital as a partner, Balder traded European cash equities for 8 years at boutique investment bank Kempen & Co, and therefore brings extensive knowledge in the fields of trading strategies and risk management.
+
+----
+
+Twitter: https://twitter.com/BalderBomans
+
+----
+
+Linkedin: https://www.linkedin.com/in/balder-bomans-85a2b331/
+
+----
+
+Email: 
+
+----
+
+Autoid: rv94y8wy
+
+----
+
+Uuid: lnQX4K4BhjkrsPUY
+
+----
+
+Datemodifiedepoch: 1697728215
+
+----
+
+Modified-at: 1758629915

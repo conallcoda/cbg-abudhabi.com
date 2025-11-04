@@ -1,0 +1,50 @@
+Title: Is your FO invested in crypto / Web3?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: true
+
+----
+
+Multiple-answers-allow-other: true
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: 'Yes - directly in tokens'
+- 
+  title: 'Yes - via hedge funds'
+- 
+  title: 'Yes - via venture capital'
+- 
+  title: 'Yes - directly in private companies'
+- 
+  title: 'Yes - via public markets'
+- 
+  title: 'No - we are not invested in crypto / Web3'
+
+----
+
+Uuid: ypC5B3pd268e9876
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1759139067

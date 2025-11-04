@@ -1,0 +1,55 @@
+name: Donwloads
+icon: download
+tabs:
+    content:
+        fields:
+            display:
+                type: select
+                label: Display
+                default: list
+                options:
+                    list: List
+                    table: Table
+            items:
+                type: structure
+                label: Items
+                columns:
+                    title:
+                    type:
+                fields:
+                    type:
+                        type: toggles
+                        label: Type
+                        default: link
+                        options:
+                            - value: file
+                              text: File
+                              icon: page
+                            - value: link
+                              text: Link
+                              icon: url1
+                        width: 1/2
+                    link:
+                        label: Link
+                        type: link
+                        when:
+                            type: link
+                        options:
+                            - url
+                        width: 1/2
+                    file:
+                        label: File
+                        type: files
+                        width: 1/2
+                        when:
+                            type: file
+                    title:
+                        type: text
+                        label: Title
+                    description:
+                        type: textarea
+                        buttons: false
+                        label: Description
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

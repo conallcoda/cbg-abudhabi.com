@@ -1,0 +1,12 @@
+type: toggles
+label: Align
+options:
+    - value: start
+      text: Top
+      icon: text-left
+    - value: center
+      text: Center
+      icon: text-center
+    - value: end
+      text: End
+      icon: text-right

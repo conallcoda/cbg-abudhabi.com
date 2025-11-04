@@ -1,0 +1,14 @@
+type: layout
+label: Content
+layouts:
+    - '1/1'
+    - '1/2, 1/2'
+fieldsets:
+    text: fields/blocks/fieldset-text
+    media: fields/blocks/fieldset-media
+    lists: fields/blocks/fieldsets-lists
+    event: fields/blocks/fieldset-event
+    misc: fields/blocks/fieldset-misc
+settings:
+    fields:
+        _settings: fields/blocks/layout-settings

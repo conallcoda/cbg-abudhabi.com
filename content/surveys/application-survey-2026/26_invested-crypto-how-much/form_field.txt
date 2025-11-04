@@ -1,0 +1,44 @@
+Title: How much did you invest in digital assets / crypto related projects in the last 18 months (in million USD)?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: More than 1
+- 
+  title: '1 - 5'
+- 
+  title: More than 5
+
+----
+
+Uuid: tAh0saO8iGaesP8A
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1723116097

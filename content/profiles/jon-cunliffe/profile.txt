@@ -1,0 +1,61 @@
+Title: Jon Cunliffe
+
+----
+
+Picture: - file://tkSaOXo7nV90oxOp
+
+----
+
+Picture-color: - file://PX8pERADoI4TMzPw
+
+----
+
+Picture-cropped: - file://Sv2OM9h9j4GbtPc6
+
+----
+
+Logo: - file://0BwHwRGvZQ7ztFU3
+
+----
+
+Subtitle: Deputy Governor Financial Stability
+
+----
+
+Company: Bank of England
+
+----
+
+Company-url: https://www.bankofengland.co.uk
+
+----
+
+Bio:
+
+Sir Jon Cunliffe became Deputy Governor for Financial Stability on 1 November 2013. Jon is a member of the Bank’s Financial Policy and Monetary Policy Committees, the Bank’s Court of Directors and the Prudential Regulatory Committee.
+ 
+He has specific responsibility within the Bank for financial stability, for the supervision and oversight of financial market infrastructures and payment systems and for international. He is a member of the G20 Financial Stability Board Steering Committee.  He is Chair of the Bank for International Settlements Committee on Payments and Market Infrastructures.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: 7brviel0
+
+----
+
+Uuid: ZyoIKfwpUeUXxG9a
+
+----
+
+Modified-at: 1758629949

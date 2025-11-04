@@ -1,0 +1,17 @@
+{
+    "type": "module",
+    "private": true,
+    "scripts": {
+        "dev": "npx -y kirbyup panel/index.js --watch",
+        "serve": "kirbyup serve panel/index.js",
+        "build": "kirbyup panel/index.js"
+    },
+    "devDependencies": {
+        "autoprefixer": "^10.4.19",
+        "kirbyup": "^3.1.12",
+        "tailwindcss": "^3.4.4"
+    },
+    "dependencies": {
+        "axios": "^1.7.3"
+    }
+}

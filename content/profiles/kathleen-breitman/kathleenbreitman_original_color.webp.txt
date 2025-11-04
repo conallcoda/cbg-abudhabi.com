@@ -1,0 +1,5 @@
+Uuid: i8EA7sfsnBCtRpP6
+
+----
+
+Template: image

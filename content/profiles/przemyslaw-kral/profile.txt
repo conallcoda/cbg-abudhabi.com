@@ -1,0 +1,61 @@
+Title: Przemysław Kral
+
+----
+
+Picture: - file://vZCa7ZebyOhemDZ3
+
+----
+
+Picture-color: - file://QmbHMFBMyAGFWrFy
+
+----
+
+Picture-cropped: - file://YG9RZJaVLKudtq8z
+
+----
+
+Logo: - file://bXsPVVBaV5FMRvG3
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: zondacrypto
+
+----
+
+Company-url: https://zondacrypto.com/en/home
+
+----
+
+Bio: Przemysław Kral is the CEO of zondacrypto and serves on its board of directors. With a Master's in Law from the University of Silesia, he has a long history of working as an advocate and extensive experience in management. In his tenure as CEO at zondacrypto, Przemyslaw Kral is successfully spearheading the company's global expansion. With in-depth knowledge of cryptocurrencies and extensive experience in the implementation of KYC and AML procedures, Kral was instrumental in securing zondacrypto’s Estonian FIU license and further regulatory approvals.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://ee.linkedin.com/in/przemyslaw-kral
+
+----
+
+Email: 
+
+----
+
+Uuid: h9bolhGrpiMXOjKD
+
+----
+
+Datecreatedepoch: 1696596948
+
+----
+
+Datemodifiedepoch: 1696597006
+
+----
+
+Modified-at: 1759601693

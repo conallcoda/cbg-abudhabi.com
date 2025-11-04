@@ -1,0 +1,57 @@
+Title: Toby Lewis
+
+----
+
+Picture: - file://vbJXMnrhEJK14NFE
+
+----
+
+Picture-color: - file://lC35HZD4dzeTrrnG
+
+----
+
+Picture-cropped: - file://VQ7E4FEbqDJNtJVS
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO of Novum Insights
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Toby Lewis, market monitoring company Novum Insights’ founder and CEO, is a highly energetic serial entrepreneur, prolific writer and analyst, straddling the worlds of technology startups, venture capital and data science
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/toby-lewis-7aa5a533/
+
+----
+
+Email: 
+
+----
+
+Autoid: idkze0g4
+
+----
+
+Uuid: MYDTod0QvXJfs916
+
+----
+
+Modified-at: 1758630009

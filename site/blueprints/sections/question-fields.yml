@@ -1,0 +1,15 @@
+headline: Fields
+status: all
+type: pages
+layout: table
+limit: 50
+image: false
+templates:
+    - form_field
+columns:
+    code:
+        label: Code
+        type: bubbles
+        value: '{{ page._name() }}'
+    title:
+        label: Label

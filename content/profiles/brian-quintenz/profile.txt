@@ -1,0 +1,68 @@
+Title: Brian Quintenz
+
+----
+
+Picture: - file://JjNMIqHlk6kcxovf
+
+----
+
+Picture-color: - file://kUuFcGOAM7pfKRKB
+
+----
+
+Picture-cropped: - file://qIBDBawQapnYGMuI
+
+----
+
+Logo: - file://XFDyseuII0GDmdle
+
+----
+
+Subtitle: Global Head of Policy
+
+----
+
+Company: a16z crypto
+
+----
+
+Company-url: https://a16zcrypto.com/
+
+----
+
+Bio:
+
+Brian Quintenz is the Head of Policy for a16z crypto, where he helps to translate between the crypto and policy communities. Brian initially joined a16z crypto as a senior advisor. In 
+December he moved to the full-time role leading its policy team.
+
+Before joining a16z, he was nominated by both Presidents Obama and Trump to serve as commissioner of the Commodity Futures Trading Commission (CFTC) and was unanimously confirmed by the U.S. Senate. He also led the agency’s Technology Advisory Committee.
+ 
+Before his appointment to the CFTC, Brian was the Founder and Managing Principal of Saeculum Capital Management.
+
+----
+
+Twitter: https://x.com/brianquintenz
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: Igr1vNqFmK50w1DZ
+
+----
+
+Datecreatedepoch: 1696597945
+
+----
+
+Datemodifiedepoch: 1696597992
+
+----
+
+Modified-at: 1758629917

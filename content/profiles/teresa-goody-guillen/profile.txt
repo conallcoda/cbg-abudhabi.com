@@ -1,0 +1,63 @@
+Title: Teresa Goody Guillen
+
+----
+
+Picture: - file://Iuf4vhNcytd29dsZ
+
+----
+
+Picture-color: - file://Iuf4vhNcytd29dsZ
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://OcMjvAbf6lDAbhVA
+
+----
+
+Subtitle: Partner
+
+----
+
+Company: BakerHostetler
+
+----
+
+Company-url: https://www.bakerlaw.com
+
+----
+
+Bio:
+
+Teresa Goody Guillén leads BakerHostetler’s Digital and Innovative Markets team and co-leads its web3 and Digital Assets team. A respected leader in securities law, her practice spans litigation, investigations, and corporate matters with a strong focus on financial and digital asset markets.
+
+Ms. Goody Guillen represents clients in high-stakes litigation before the SEC, other regulators, and is a former attorney in the SEC’s Office of the General Counsel. She advises on corporate governance, compliance, capital raising under Regulations S, D, A+, and CF as well as the adoption of emerging technologies and the development of innovative products, including DLT-based networks, digital assets, and AI. She helps market participants navigate the evolving digital assets regulatory landscape.
+
+A recognized thought leader, Ms. Goody Guillen is engaged in shaping a digital assets regulatory framework. She has hosted Bulls, Bears, and BlockchainTM, previously taught Digital Law & Policy at Georgetown, and is a frequent contributor to leading media outlets including Fox Business, CNBC, The Wall Street Journal, Financial Times, and CoinDesk. She is recognized by Chambers for Blockchain & Cryptocurrencies, Securities Docket as “Enforcement Elite,” and The AmLaw Litigation Daily as Litigator of the Week. She also holds an MBA and is a Certified Cryptocurrency Tracing Examiner and Certified Fraud Examiner.
+
+----
+
+Twitter: https://x.com/teresagoody
+
+----
+
+Linkedin: https://www.linkedin.com/in/teresagoody/
+
+----
+
+Email: 
+
+----
+
+Uuid: jm2hLdsqGKYVLSpr
+
+----
+
+Created-at: 1736329264
+
+----
+
+Modified-at: 1762098683

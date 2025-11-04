@@ -1,0 +1,57 @@
+Title: Dr. Manfred Krischke
+
+----
+
+Picture: - file://YiDaN9pmoEqswuXo
+
+----
+
+Picture-color: - file://dLgqtfpLzGhhmGpF
+
+----
+
+Picture-cropped: - file://a43Vv2VYr7morHTo
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Founder & CEO, CloudEO
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Dr. Manfred Krischke is Founder and CEO of CloudEO an innovative cloud based collaboration platform and marketplace for Geo-services. In 2011 he led the consortium to buy the assets of RapidEye (5 satellites constellation) out of the insolvency and was interim CEO for the restructured company. He originally founded RapidEye in 1998 and was its CEO until 2004. He was the Managing Director of Intermap GmbH and VP at Intermap Corp for six years. Manfred Krischke has been a Senior Advisor to Spacetec Capital Partners. Before that he consulted several companies and spent 8 month at Guildford consulting Surrey Satellite Technologies. He started his career at Kayser-Threde GmbH, Munich (today OHB), where he was Business Development Manager for Navigation, Communication, Small Satellites and Manned Space Transportation. He was awarded a PhD in Aerospace Engineering from the Technical University of Munich. In 1991 he received the Wernher-von-Braun Award of the Deutsche Aerospace (today Airbus) for the best visionary diploma thesis in Germany, which he wrote during his studies at the Harvard-Smithsonian Center for Astrophysics, Cambridge.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/mkrischke/
+
+----
+
+Email: 
+
+----
+
+Autoid: thlzwg7o
+
+----
+
+Uuid: 0wTSJoYMqYblASoT
+
+----
+
+Modified-at: 1758629932

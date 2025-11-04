@@ -1,0 +1,36 @@
+Title: Ski / Fondue Reserved
+
+----
+
+Type: User
+
+----
+
+To: 
+
+----
+
+Bcc:
+
+- 
+  email: hello@si-de.ch
+- 
+  email: ziga@cfc-stmoritz.com
+- 
+  email: flurina@cfc-stmoritz.com
+
+----
+
+Subject: CfC St. Moritz 2026: [product:ski-fondue:Ski & Fondue night] [product:fondue-only:Fondue Dinner]
+
+----
+
+Body: Dear [contact__first_name],<br><br>[product:ski-fondue:Your Ski Night ticket and a seat at our Fondue dinner have both been reserved.] [product:fondue-only:Your seat at our Fondue dinner has been reserved.]<br><br>If you are not able to attend the event you have registered for, we kindly ask you to inform us of your cancelation latest by 5pm on Thursday <u>15 January, 2026</u> (24h before the start of the event) for the full deposit to be refunded.<br><br>Due to organizational reasons, any cancellations after <u>5pm on 15 January, 2026</u> will not be refunded and will be charged in full. <br><br>Thank you very much &amp; Best regards,<br><br>The CfC St. Moritz team
+
+----
+
+Uuid: VB9lRw1V3B41VonQ
+
+----
+
+Modified-at: 1751879869

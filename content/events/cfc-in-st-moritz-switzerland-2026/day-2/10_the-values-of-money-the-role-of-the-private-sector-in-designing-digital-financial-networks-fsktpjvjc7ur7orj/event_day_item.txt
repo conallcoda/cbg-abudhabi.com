@@ -1,0 +1,49 @@
+Title: Stablecoins and Financial Access: Emerging Roles in a Digital Financial System
+
+----
+
+Session: Session 2 - Market Foundations
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Stablecoins are no longer limited to back-end settlement – they are increasingly acting as access points for capital formation, liquidity provisioning, and on-chain participation. Whether used in DeFi lending pools, as institutional collateral, or to facilitate real-world asset issuance, stablecoins are evolving into a versatile tool at the intersection of finance and technology. As adoption grows across use cases and geographies, stablecoins are becoming a key component of the digital financial system’s capital stack. What roles might they play in shaping the creation, distribution, and accessibility of capital?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"75d18b15-7a70-43c4-8c41-d20adedc0c1e","isHidden":false,"type":"text"}],"id":"361d2b63-4347-4c5a-8db2-a23364bfac77","width":"1/1"}],"id":"5e80ad82-7b19-45e0-89a7-d553242400cc"}]
+
+----
+
+Time-start: 12:40:00
+
+----
+
+Time-finish: 13:20:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: ao6tV8nhK7yqSHXQ
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1760127985

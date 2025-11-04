@@ -1,0 +1,53 @@
+title: Email
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+create:
+    title:
+        label: Internal Name
+    fields:
+        - type
+    status: unlisted
+fields:
+    type:
+        label: Type
+        type: toggles
+        options:
+            - User
+            - Internal
+        required: true
+    information_user:
+        label: Info
+        type: info
+        when:
+            type: User
+        text: "Available placeholders are contact\__first_name, contact\__last_name, contact\__email, product\__name"
+    information_internal:
+        label: Info
+        type: info
+        when:
+            type: Internal
+        text: "Available placeholders are: contact\__first_name, contact\__last_name, contact\__email, product\__name, panel\__url, stripe\__url, form\__name, form\__url"
+    to:
+        label: To
+        type: text
+        when:
+            type: Internal
+    bcc:
+        label: Bcc
+        type: structure
+        fields:
+            email:
+                label: Email
+                type: email
+    subject:
+        label: Subject
+        type: text
+    body:
+        label: Body
+        marks: true
+        inline: true
+        nodes: false
+        type: writer

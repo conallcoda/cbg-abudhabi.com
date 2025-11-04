@@ -1,0 +1,57 @@
+Title: Joram Voelklein
+
+----
+
+Picture: - file://jrSrShcBabPXL4ud
+
+----
+
+Picture-color: - file://8N9wSNv6MnbirjAl
+
+----
+
+Picture-cropped: - file://oNrKKnDGbj8Is4Sj
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Co-Founder, Cryptology Asset Group
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Joram Voelklein is an investment banker based in Munich. Joram was involved early in deals in the new space / aerospace sector and looks at an impressive track record financing early stage companies. Today he spends most of his time on companies with blockchain- and crypto asset related business models.
+
+----
+
+Twitter: https://twitter.com/voelklein
+
+----
+
+Linkedin: https://www.linkedin.com/in/joram-voelklein-b9147110a/
+
+----
+
+Email: 
+
+----
+
+Autoid: sga1zky7
+
+----
+
+Uuid: eD6jJ8dV6QU7nZwx
+
+----
+
+Modified-at: 1758629957

@@ -1,0 +1,14 @@
+type: toggles
+label: Spacing
+width: 1/4
+options:
+    - value: '0'
+      text: '0'
+    - value: '4'
+      text: S
+    - value: '8'
+      text: M
+    - value: '12'
+      text: L
+    - value: '32'
+      text: XL

@@ -1,0 +1,61 @@
+Title: Illia Polosukhin
+
+----
+
+Picture: - file://zbP8tvynEBeq3yYm
+
+----
+
+Picture-color: - file://WJ5G8kNrobnVHN3n
+
+----
+
+Picture-cropped: - file://ttZeuENPSNKb83Vk
+
+----
+
+Logo: - file://MrcOyrlK6vjP6QIT
+
+----
+
+Subtitle: Co-Founder
+
+----
+
+Company: NEAR Protocol
+
+----
+
+Company-url: https://near.org
+
+----
+
+Bio: llia Polosukhin is Co-Founder of NEAR Protocol, a decentralized developer platform powered by a sharded smart contract blockchain. NEAR’s vision of a scalable, robust, and highly usable blockchain began in 2018 when they couldn't find a protocol that met the needs of builders. NEAR Protocol launched in 2020 and is focused on scaling to global mainstream adoption with the Blockchain Operating System. Before NEAR, Illia worked in AI research at Google and co-authored the landmark paper, "Attention Is All You Need." Illia has appeared in the Wall Street Journal, CNBC, Bloomberg, TIME, Wired, New York Magazine, Forbes, and TechCrunch.
+
+----
+
+Twitter: https://twitter.com/ilblackdragon
+
+----
+
+Linkedin: https://www.linkedin.com/in/illia-polosukhin-77b6538/
+
+----
+
+Email: 
+
+----
+
+Uuid: 817PPAXIY7VdVe3n
+
+----
+
+Datecreatedepoch: 1698137357
+
+----
+
+Datemodifiedepoch: 1698137445
+
+----
+
+Modified-at: 1758629944

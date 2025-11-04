@@ -1,0 +1,34 @@
+Title: Personal Chauffeur Service
+
+----
+
+Type: User
+
+----
+
+To: 
+
+----
+
+Bcc:
+
+- 
+  email: ziga@cfc-stmoritz.com
+- 
+  email: nicolo@cfc-stmoritz.com
+
+----
+
+Subject: CfC St. Moritz 2026: Personal Chauffeur Service
+
+----
+
+Body: Dear [contact__first_name],<br><br>Thank you for booking the Personal Chauffeur Service. We have received your request and are processing your reservation.<br><br><u><strong>IMPORTANT INFORMATION:</strong></u><br>If you have not yet completed the payment for the chauffeur service, kindly do so by clicking the payment link below. You will be directed to our secure payment page, where you can finalize your booking by entering your credit or debit card details<br><br><a href="https://pay.sumup.com/b2c/Q6SAWR82">PAYMENT LINK</a><br><br>Once your payment is complete, you will receive a separate confirmation email within 36 hours, which will finalize your booking.<br><br>Thank you very much &amp; Best regards,<br><br>The CfC St. Moritz team
+
+----
+
+Uuid: habkhSHPml6e2T7g
+
+----
+
+Modified-at: 1752138399

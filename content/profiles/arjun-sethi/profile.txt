@@ -1,0 +1,61 @@
+Title: Arjun Sethi
+
+----
+
+Picture: - file://GWpJ8D82wDIrygel
+
+----
+
+Picture-color: - file://GWpJ8D82wDIrygel
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://b8N2K4T0owazaJjh
+
+----
+
+Subtitle: Co-CEO
+
+----
+
+Company: Kraken
+
+----
+
+Company-url: https://www.kraken.com/
+
+----
+
+Bio:
+
+Arjun Sethi is Co-CEO of Kraken, one of the largest, longest standing and most secure crypto platforms. He is also Co-Founder and Chairman of Tribe Capital, a leading venture capital firm managing $2B in assets, with investments in xAI, Rippling, Slack, and others. 
+Previously, Arjun was a Partner at Social Capital, where he led the venture team, co founded two startups—LOLapps (acquired by 6waves) and MessageMe (acquired by  Yahoo), and joined Marissa Mayer’s executive team to lead data and analytics teams and  run mobile and emerging products. He also served as a Board Observer, helping to oversee  the investment in Alibaba. 
+Arjun has also incubated and co-founded Termina.ai, Kapital, Ashvattha, Foundation,  Ironfist, and Nanopower Therapeutics.
+
+----
+
+Twitter: https://x.com/arjunsethi
+
+----
+
+Linkedin: https://www.linkedin.com/in/asethi/
+
+----
+
+Email: 
+
+----
+
+Uuid: IZ5PmhtZOeFFj5p6
+
+----
+
+Created-at: 1759604888
+
+----
+
+Modified-at: 1759605024

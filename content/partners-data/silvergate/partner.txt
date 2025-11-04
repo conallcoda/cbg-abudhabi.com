@@ -1,0 +1,17 @@
+Title: Silvergate
+
+----
+
+Autoid: 2u8eftrj
+
+----
+
+Picture: partners-data/silvergate/silvergate_website_logo.png
+
+----
+
+Link: https://www.silvergate.com
+
+----
+
+Uuid: 3VAv9FY6WdREfxYk

@@ -1,0 +1,52 @@
+.cookie-consent {
+  text-align: center;
+  display: none;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  color: black;
+  position: fixed;
+  z-index: 300;
+}
+.cookie-consent .paragraph {
+  font-size: 0.8rem;
+}
+
+.cookie-consent .paragraph a {
+  text-decoration: underline;
+}
+.cookie-consent.active {
+  display: block;
+}
+.cookie-consent .inner {
+  padding: 1rem;
+  background: white;
+  border: 2px solid black;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+@media screen and (max-width: 1024px) {
+  .cookie-consent .inner {
+    width: 80%;
+  }
+}
+@media screen and (min-width: 1024px) {
+  .cookie-consent {
+    text-align: left;
+  }
+  .cookie-consent .inner {
+    display: flex;
+    flex-direction: row;
+  }
+  .cookie-consent .left {
+    padding-right: 0.5rem;
+    flex: 1;
+    align-self: center;
+  }
+  .cookie-consent .right {
+    align-self: center;
+  }
+}

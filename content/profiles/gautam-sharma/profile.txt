@@ -1,0 +1,57 @@
+Title: Gautam Sharma
+
+----
+
+Picture: - file://Hjuhbfq8dE2nvoO5
+
+----
+
+Picture-color: - file://O0lOqSEDiQTeGdDa
+
+----
+
+Picture-cropped: - file://yeiNh9Iz9sqAfT2I
+
+----
+
+Logo: - file://cz59WGkgu2H1C7Vv
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Brevan Howard Digital
+
+----
+
+Company-url: https://www.brevanhoward.com/brevanhoward-digital/
+
+----
+
+Bio: Gautam Sharma is CEO at BH Digital, having previously led the principal investments team at Brevan Howard and worked with Alan Howard to oversee Alan Howard family office’s investments and strategic businesses in crypto, Web 3.0, and digital assets. He has been instrumental in structuring and supporting Alan’s digital assets efforts across asset management, tech infrastructure opportunities and his family office investments. Prior to joining Brevan Howard in January 2021, Gautam worked as an operating partner for 5 years at Steadview Capital, a $5B+ crossover (public & private companies) growth tech fund, focused on investing and building Web 2.0 businesses in fintech, SaaS and consumer internet. Gautam also has 6 years of strategy consulting experience during his time as a Junior Partner at McKinsey & Co.’s London office, where he focused on fintech and digital banking sector. Gautam graduated from Indian Institute of Technology (IIT) with a degree in Chemical Engineering and holds a degree in management (MBA equivalent) with a major in finance from Indian School of Business.
+
+----
+
+Twitter: https://twitter.com/gautam_iit
+
+----
+
+Linkedin: https://www.linkedin.com/in/gautam-sharma-86b44b8/
+
+----
+
+Email: 
+
+----
+
+Autoid: 8jzdqoza
+
+----
+
+Uuid: txZxUdAmg3msKHfx
+
+----
+
+Modified-at: 1758629941

@@ -1,0 +1,6 @@
+label: Page Settings
+preset: page
+icon: settings
+pages: false
+fields:
+  page_settings: field/page-settings

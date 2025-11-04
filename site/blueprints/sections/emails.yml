@@ -1,0 +1,32 @@
+headline: Emails
+status: all
+type: pages
+layout: table
+limit: 50
+image: false
+templates:
+    - email
+columns:
+    title:
+        label: Name
+        width: 1/6
+    type:
+        label: Type
+        type: bubbles
+    to:
+        label: To
+        type: bubbles
+        value: '{{ page._to }}'
+    bcc:
+        label: Bcc
+        type: bubbles
+        value: '{{ page._bcc }}'
+    subject:
+        label: Subject
+        type: html
+    body:
+        label: Body
+        type: text
+    last_modified:
+        label: Last Modified
+        value: '{{ page.getModifiedAgo() }}'

@@ -1,0 +1,57 @@
+Title: Rebecca Barkin
+
+----
+
+Picture: - file://NNLTRmuUYBJ9b2XA
+
+----
+
+Picture-color: - file://NNLTRmuUYBJ9b2XA
+
+----
+
+Picture-cropped: - file://kd3uP2F4tAIdXGVY
+
+----
+
+Logo: - file://H1U8Qo0aQCJzJIcP
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Lamina1
+
+----
+
+Company-url: https://www.lamina1.com
+
+----
+
+Bio: Rebecca Barkin is CEO of Lamina1, a layer one blockchain optimized for the metaverse and its makers. Barkin brings 20+ years of experience leading strategy, design, and development at the intersection of emerging technology and entertainment. Prior to joining Lamina1, Barkin served as VP of Content Strategy & Partner Solutions at the groundbreaking 2B immersive venue Madison Square Garden Sphere. As Vice President at Augmented Reality pioneer Magic Leap, she drove the development of a slate of launch applications like the award-winning immersive music experience Tónandi, as well as branded content experiences with premium partners like Alibaba (Tokyo Olympics), Warner Bros (Fantastic Beasts), and HBO (Game of Thrones). Later, as Vice President of Brand & Platform Design, she led the redesign of both the operating system and brand for the enterprise-focused Magic Leap 2 (winner of multiple design awards). Prior to Magic Leap, she led GTM strategy for pioneering computer vision & AI company Nod Labs which developed foundational 6Dof tracking technology to enable VR and AR. She's held leadership roles at Genius Products, Dell Computers, and Silicon valley startup Lyve (acquired by Seagate), where she's been responsible for brand and strategic partnerships. Since starting her career at EMI-Capitol Records, Barkin has helped companies big and small embrace transformative new technologies and bring them to market in partnership with beloved brands and artists. She is committed to the art of strong leadership, a fierce diversity advocate, published author, wife, and mother of two young boys.
+
+----
+
+Twitter: https://twitter.com/rebeccabarkin
+
+----
+
+Linkedin: https://www.linkedin.com/in/rebeccambarkin/
+
+----
+
+Email: 
+
+----
+
+Autoid: 57klwtjy
+
+----
+
+Uuid: hLDu7hl4gTaSn2vo
+
+----
+
+Modified-at: 1759962611

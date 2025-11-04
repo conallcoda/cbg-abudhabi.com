@@ -1,0 +1,65 @@
+Title: Joseph Lubin
+
+----
+
+Picture: - file://8WcOFM6tx0Ibhr8b
+
+----
+
+Picture-color: - file://fypsMFhovqNqkmXj
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://h3q9fRp7gs0vvm9v
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: Consensys
+
+----
+
+Company-url: https://consensys.io
+
+----
+
+Bio:
+
+Joseph Lubin is a co-founder of Ethereum and the founder and CEO of Consensys, the leading blockchain and web3 software company. Since 2014, Consensys has been at the forefront of innovation, pioneering technological developments within the web3 ecosystem. Through its product suite, including the MetaMask platform, Infura, Linea, Diligence, and Phosphor, the NFT toolkit, Consensys has become a trusted collaborator for users, creators, and developers.
+
+Born and raised in Toronto, Lubin graduated from Princeton University with a degree in Electrical Engineering and Computer Science. He worked in the Princeton Robotics Lab, at tomandandy music developing an autonomous music composition tool, and at private research firm Vision Applications Inc. building autonomous mobile robots.
+
+As a software and AI consultant, Lubin worked with eMagine on the Identrus project and was involved in the founding and operation of a hedge fund with a partner. He held positions as Director of the New York office of Blacksmith Software Consulting, and VP of Technology in Private Wealth Management at Goldman Sachs. Through these posts, Joe focused on the intersection of cryptography, engineering, and finance.
+
+In 2014 he met Vitalik Buterin, a Canadian programmer, writer and Founder of Ethereum and joined the Ethereum Project as a co-founder. After the Project was launched, Joe established Consensys. Since 2014 Joe and the Consensys team have been working on the foundational software for web3, the next wave of the internet for a decentralized future.
+
+----
+
+Twitter: https://x.com/ethereumjoseph?lang=de
+
+----
+
+Linkedin: https://www.linkedin.com/in/joseph-lubin-48406489/
+
+----
+
+Email: 
+
+----
+
+Uuid: EUH7Rjn3kX8HCKFp
+
+----
+
+Created-at: 1733315702
+
+----
+
+Modified-at: 1758629960

@@ -1,0 +1,5 @@
+Uuid: SLi2SZBBjhbRlHRI
+
+----
+
+Template: image

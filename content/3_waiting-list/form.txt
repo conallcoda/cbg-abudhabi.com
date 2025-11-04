@@ -1,0 +1,82 @@
+Title: CfC St. Moritz 2025 - Waiting List
+
+----
+
+Email-notifications:
+
+- 
+  after_step: page://XN9Mb7G5RcxrO1QZ
+  send_email: page://nzLrCqdlb6vmjIOu
+- 
+  after_step: page://XN9Mb7G5RcxrO1QZ
+  send_email: page://3AJxu228XtorPkdx
+
+----
+
+Default-product: page://KQIbmrQx8YDItRrd
+
+----
+
+Test-data-mode: false
+
+----
+
+Test-payment-mode: false
+
+----
+
+Close-on-date: false
+
+----
+
+Close-date: 2025-01-09 08:40:00
+
+----
+
+Close-content: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"center","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Applications Closed"},"id":"1a27f326-38e9-4175-8fbd-ad13a59deb3f","isHidden":false,"type":"heading"},{"content":{"text":"<p>Applications for the CfC St. Moritz 2025 are closed. For further inquiries please contact us on <a href=\"mailto:info@cfc-stmoritz.com\">info@cfc-stmoritz.com</a></p>","custom_id":"","custom_class":""},"id":"48fe7cf1-7731-4bd6-928d-c49f84b5e004","isHidden":false,"type":"text"}],"id":"fdcf9873-c286-4b0d-9212-312865a7b8d6","width":"1/1"}],"id":"b566a664-cbd3-4a49-921e-24b872d784fe"}]
+
+----
+
+Restrict-access: true
+
+----
+
+Access-token: ubIdu15M8hmAxxiK
+
+----
+
+Invited-users:
+
+- 
+  email: conallor@gmail.com
+  first_name: Conall
+  last_name: "O'Reilly"
+  access_token: LJAa43vPiI2D8tfj
+
+----
+
+Restrict-submissions: false
+
+----
+
+Max-submissions: 7
+
+----
+
+Max-submissions-message: 
+
+----
+
+Layout: 
+
+----
+
+Uuid: nDtzzwSzR0YpqW1E
+
+----
+
+Created-at: 1722930750
+
+----
+
+Modified-at: 1752226273

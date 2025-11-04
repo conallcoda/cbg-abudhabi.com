@@ -1,0 +1,53 @@
+Title: Bob McElrath
+
+----
+
+Picture: - file://JJG0V8SUTxVPl95F
+
+----
+
+Picture-cropped: - file://bX8FANvTQHJfufJg
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Blockchain Architect, Fidelity Digital Assets
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Bob is a technology leader and theoretical physicist, now remaking money with cryptography. He's built blockchains, and applications on them using Bitcoin and Ethereum. He's now working on secure custody for Fidelity Digital Assets as well as academic research on cryptography and distributed financial applications.
+
+----
+
+Twitter: https://twitter.com/BobMcElrath
+
+----
+
+Linkedin: https://www.linkedin.com/in/bobmcelrath/
+
+----
+
+Email: 
+
+----
+
+Autoid: nrr4hb2q
+
+----
+
+Uuid: ieEtQ0i9UtU3Sl1X
+
+----
+
+Modified-at: 1723832517

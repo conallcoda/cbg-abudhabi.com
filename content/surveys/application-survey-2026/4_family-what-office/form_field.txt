@@ -1,0 +1,42 @@
+Title: Please indicate what kind of family office you are
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: Single Family Office
+- 
+  title: Mutli Family Office
+
+----
+
+Uuid: bpouKVmdThlu44Gc
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1723116096

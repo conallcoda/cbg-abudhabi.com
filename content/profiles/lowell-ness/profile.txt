@@ -1,0 +1,61 @@
+Title: Lowell Ness
+
+----
+
+Picture: - file://niACZnthM5RHC85w
+
+----
+
+Picture-color: - file://niACZnthM5RHC85w
+
+----
+
+Picture-cropped: - file://o7HX7ijBrun3EL6G
+
+----
+
+Logo: - file://Cxl4ErjUcnMsnCtd
+
+----
+
+Subtitle: Partner
+
+----
+
+Company: Perkins Coie LLP
+
+----
+
+Company-url: https://perkinscoie.com/professionals/lowell-d-ness
+
+----
+
+Bio: With considerable experience in securities law and corporate governance matters, Lowell counsels high-growth emerging companies in their venture capital financings, mergers and acquisitions, public offerings, and private placements.
+
+----
+
+Twitter: https://x.com/LowellDNess
+
+----
+
+Linkedin: https://www.linkedin.com/in/lowellness/
+
+----
+
+Email: 
+
+----
+
+Uuid: EPBItlZ1nsBUG0pJ
+
+----
+
+Datecreatedepoch: 1701335034
+
+----
+
+Datemodifiedepoch: 1703145259
+
+----
+
+Modified-at: 1759875161

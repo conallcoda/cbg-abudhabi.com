@@ -1,0 +1,45 @@
+Title: Enjoy Your Activity!
+
+----
+
+Picture: 
+
+----
+
+Session: Pre-Opening Activities
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 08:00:00
+
+----
+
+Time-finish: 13:30:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: gQ4CcLU2s8vydN30
+
+----
+
+Modified-at: 1734704108

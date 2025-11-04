@@ -1,0 +1,63 @@
+Title: Mason Borda
+
+----
+
+Picture: - file://t4Tu7oqjoE0eR6Xc
+
+----
+
+Picture-color: - file://t4Tu7oqjoE0eR6Xc
+
+----
+
+Picture-cropped: - file://dRpTJETQgEbzVMb0
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO & Co-founder of TokenSoft
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Mason Borda is CEO and Co-founder of TokenSoft, the market leader in launching and supporting compliant security token sales through its white label, SaaS token sale platform. An expert on blockchain compliance, Mr. Borda works closely with private equity funds, investment banks and other financial institutions to implement next-generation, blockchain-based equity structures, and has supported the launch of tokens as compliant securities in over 50 countries.
+
+Prior to launching TokenSoft, Mr. Borda developed and scaled foundational technologies for Bitcoin and Ethereum, the world’s two largest cryptocurrency platforms. His notable achievements include architecting the custody infrastructure for the blockchain launched by the Royal Mint of England, developing the world’s first-ever multi-signature Ethereum web wallet, and helping scale BitGo, a cryptocurrency custody platform, up to $1 billion in transactions per month.
+
+Mr. Borda holds a BS in Electrical Engineering from Cal Poly - San Luis Obispo and an MS in Electrical Engineering from Santa Clara University.
+
+----
+
+Twitter: https://twitter.com/masonic_tweets?lang=de
+
+----
+
+Linkedin: https://www.linkedin.com/in/mason-b-5a965b1a/
+
+----
+
+Email: 
+
+----
+
+Autoid: 6g4snvie
+
+----
+
+Uuid: Nqu5fNMml9no8YZH
+
+----
+
+Modified-at: 1759961741

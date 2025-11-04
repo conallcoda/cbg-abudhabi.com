@@ -1,0 +1,11 @@
+title: Blog Article
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+tabs:
+    content: tabs/article-content
+    media: tabs/page-media
+    settings:
+        extends: tabs/page-settings

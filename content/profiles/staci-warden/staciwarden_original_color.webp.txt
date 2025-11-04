@@ -1,0 +1,5 @@
+Uuid: bfNANRhWmNlG26TS
+
+----
+
+Template: image

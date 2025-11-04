@@ -1,0 +1,61 @@
+Title: Prof. Dr. Philipp Sandner
+
+----
+
+Picture: - file://QJfcwzuzhn4di8Qn
+
+----
+
+Picture-color: - file://jY0qn6m4sciW47PM
+
+----
+
+Picture-cropped: - file://DiutfEOqDcWruJgP
+
+----
+
+Logo: - file://x54U7VnyG1F8kbbu
+
+----
+
+Subtitle: Head of Frankfurt School Blockchain Center
+
+----
+
+Company: Frankfurt School Blockchain Center
+
+----
+
+Company-url: https://www.frankfurt-school.de/home
+
+----
+
+Bio:
+
+Prof. Dr. Philipp Sandner is head of the Frankfurt School Blockchain Center (FSBC) at the Frankfurt School of Finance & Management. In 2018, he was ranked as one of the “Top 30” economists by the Frankfurter Allgemeine Zeitung (FAZ), a major newspaper in Germany. Further, he belongs to the “Top 40 under 40” – a ranking by the German business magazine Capital. The expertise of Prof. Sandner in particular includes blockchain technology, crypto assets, distributed ledger technology (DLT), Euro-on-Ledger, initial coin offerings (ICOs), security tokens (STOs), digital transformation and entrepreneurship.
+
+The FSBC advises companies concerning their blockchain activities, e.g. the first European crypto fund, various startups and corporations. Prof. Sandner is a member of the Fintech Council (FinTechRat) of the Federal Ministry of Finance and also engaged in the Blockchain Observatory established by the European Union and, additionally, founding member of the German Blockchain Association e.V., the International Token Standardization Association (ITSA) e.V., and the Multichain Asset Managers Association.
+
+----
+
+Twitter: https://twitter.com/philippsandner
+
+----
+
+Linkedin: https://www.linkedin.com/in/philippsandner/
+
+----
+
+Email: 
+
+----
+
+Autoid: daakynw4
+
+----
+
+Uuid: W6YIZJhQfhUhYKlh
+
+----
+
+Modified-at: 1758629992

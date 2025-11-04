@@ -1,0 +1,57 @@
+Title: Zachary Murray
+
+----
+
+Picture: - file://AN7C8Km6Z1Jso4Uz
+
+----
+
+Picture-color: - file://f3B9KTlPsFgEl47H
+
+----
+
+Picture-cropped: - file://80zF3OjQ8cF3auXD
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Head of Communications
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Zach has 10 years experience in management, finance and communications, with an MBA from Cass Business School in London. He has worked for top global financial institutions in New York, London and Moscow, and is well connected in the global world of finance. At Saifu, Zach runs communications for ICO participants, businesses and users.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: n0xnkkdq
+
+----
+
+Uuid: VhJlA0IShJVWJN2d
+
+----
+
+Modified-at: 1758630012

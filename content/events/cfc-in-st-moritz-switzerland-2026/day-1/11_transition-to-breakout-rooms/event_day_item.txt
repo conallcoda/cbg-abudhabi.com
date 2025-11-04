@@ -1,0 +1,45 @@
+Title: Transition to BREAKOUT ROOMS
+
+----
+
+Session: Session 2 - Lines of Control
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 15:55:00
+
+----
+
+Time-finish: 16:05:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: DE2lGLJhyZgzO5IN
+
+----
+
+Modified-at: 1759991210

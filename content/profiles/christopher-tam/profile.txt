@@ -1,0 +1,65 @@
+Title: Christopher Tam
+
+----
+
+Picture: - file://Ocfj32EK3uSt2mdR
+
+----
+
+Picture-color: - file://p6zeYS9GVGMx99pX
+
+----
+
+Picture-cropped: - file://JncEIcTnzMUZ9PzN
+
+----
+
+Logo: - file://WXDPoSd1EfTThHwC
+
+----
+
+Subtitle: Head of Partnerships
+
+----
+
+Company: BTQ
+
+----
+
+Company-url: https://www.btq.com/
+
+----
+
+Bio:
+
+B.Sc. Computer Science, M.E.Sc. Software Engineering and AI, Western University. 
+
+Working at the intersection of AI and blockchain. Focused on building zero-knowledge proving infrastructure and post-quantum security solutions at BTQ.
+
+----
+
+Twitter: https://twitter.com/christam96_
+
+----
+
+Linkedin: https://www.linkedin.com/in/christophertam96/
+
+----
+
+Email: 
+
+----
+
+Uuid: mY1mKVrPGS2aGKnz
+
+----
+
+Datecreatedepoch: 1701246431
+
+----
+
+Datemodifiedepoch: 1702373303
+
+----
+
+Modified-at: 1758629927

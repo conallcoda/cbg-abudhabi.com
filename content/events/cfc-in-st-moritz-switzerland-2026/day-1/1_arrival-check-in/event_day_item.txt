@@ -1,0 +1,49 @@
+Title: Arrival & Check-In
+
+----
+
+Session: Arrival & Introduction
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 09:00:00
+
+----
+
+Time-finish: 13:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: hnQNcZ8aBbwUtatU
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1760117446

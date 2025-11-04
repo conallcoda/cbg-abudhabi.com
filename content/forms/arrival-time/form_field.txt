@@ -1,0 +1,33 @@
+Title: Arrival Time
+
+----
+
+Type: time
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options: 
+
+----
+
+Uuid: 5WAfwx2vrOGAmlc2
+
+----
+
+Modified-at: 1725468336

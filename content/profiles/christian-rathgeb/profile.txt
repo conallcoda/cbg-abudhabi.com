@@ -1,0 +1,57 @@
+Title: Christian Rathgeb
+
+----
+
+Picture: - file://QOOqjAOfmiPWnHWX
+
+----
+
+Picture-color: - file://yLzJV6GFMK3w0mhE
+
+----
+
+Picture-cropped: - file://Jsu0bWPngDlVXty2
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Councilor, Canton Graubünden
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: More information on (link: https://christian-rathgeb.ch/ text: Christian Rathgeb)
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: 0cfbp9ev
+
+----
+
+Uuid: JhzsgZumBCdJKkTf
+
+----
+
+Modified-at: 1758629923

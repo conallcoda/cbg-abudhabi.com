@@ -1,0 +1,63 @@
+Title: Jake Brukhman
+
+----
+
+Picture: - file://b0tPVlBCHe17k0q0
+
+----
+
+Picture-color: - file://Ubyw6qCbUXXH3qTI
+
+----
+
+Picture-cropped: - file://4WUGy3DASL8Qwjln
+
+----
+
+Logo: - file://itE80IEiuKZdmwZp
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: CoinFund
+
+----
+
+Company-url: https://www.coinfund.io
+
+----
+
+Bio:
+
+Jake is Founder & CEO at CoinFund. Born in St. Petersburg, Russia to computer scientists, Jake learned how to code at the age of fourteen. Starting from this early age, Jake closely followed the adoption of computing, the Internet, and mobile. Achieving degrees in mathematics and computer science, Jake spent the following 12 years of his career in pure and financial technology, quantitative research, and blockchain. 
+
+Jake founded CoinFund in 2015 with the objective of driving successful innovation and adoption of blockchain through investment. His blockchain development experience dates back to 2011 and gave rise to his belief that “the best way to invest in a network is to be part of it.” Jake has championed active network participation and generalized mining since 2018, and has been an investor and advisor to well-known blockchain projects including Aragon, Balancer, Union Credit, The Graph, Async.art, Rarible, Cent, and Dune Analytics. Today, he is also an advisor to Fair Launch Capital driving new launch models for highly decentralized DeFi projects. Jake’s passion for art and technology inspired his creation of FIRSTEDITION.XYZ, an online art gallery supporting and showcasing blockchain-based digital art creators.
+
+Previously Jake has held roles as Partner & CTO at Triton Research, a technical product manager and engineer at Amazon.com, and financial technologist at Highbridge Capital Management. He studied pure mathematics and computer science at the Courant Institute of Mathematical Sciences at NYU and the honors program at Rutgers University.
+
+----
+
+Twitter: https://twitter.com/jbrukh?s=20
+
+----
+
+Linkedin: https://www.linkedin.com/in/jake-brukhman-6037867/
+
+----
+
+Email: 
+
+----
+
+Autoid: vh0a8txd
+
+----
+
+Uuid: KpLE7YvVeLH8fT6h
+
+----
+
+Modified-at: 1758629945

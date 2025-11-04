@@ -1,0 +1,13 @@
+Alt: 
+
+----
+
+Uuid: SLyZLVvKkBMoU22v
+
+----
+
+Template: image
+
+----
+
+Focus: 51.5% 35.3%

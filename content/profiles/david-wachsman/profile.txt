@@ -1,0 +1,65 @@
+Title: David Wachsman
+
+----
+
+Picture: - file://PGRClNmORssRVjRx
+
+----
+
+Picture-color: - file://PGRClNmORssRVjRx
+
+----
+
+Picture-cropped: - file://fLlaUY2oRbgIFXfa
+
+----
+
+Logo: - file://5vwDUHqP14P3wjfM
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Wachsman
+
+----
+
+Company-url: https://www.wachsman.com
+
+----
+
+Bio:
+
+David Wachsman is the founder and CEO of Wachsman, the largest specialized communications firm in the digital asset industry. Today, Wachsman has more than 120 full-time professionals working from offices in Los Angeles, Miami, Washington DC, New York, London, Dublin, Geneva, and Singapore.
+
+Since 2015, David and his firm have helped to shape the way the global media and their audiences view blockchain technology and everything that it touches. His staff have been counsel to hundreds of pioneering firms and continue to advise many of the largest and highest profile players in the space.
+
+----
+
+Twitter: https://x.com/davidwachsman
+
+----
+
+Linkedin: https://www.linkedin.com/in/davidwachsman/
+
+----
+
+Email: 
+
+----
+
+Autoid: 37dau7lm
+
+----
+
+Uuid: CfAEchxoLWIrG398
+
+----
+
+Datemodifiedepoch: 1696599890
+
+----
+
+Modified-at: 1759873925

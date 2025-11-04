@@ -1,0 +1,57 @@
+Title: Marcos Benitez
+
+----
+
+Picture: - file://EDD179WUcfGnQZEq
+
+----
+
+Picture-color: - file://JmS6GAYGhKKUGzqu
+
+----
+
+Picture-cropped: - file://VTPhQacWRuDF4Ige
+
+----
+
+Logo: - file://9d5v9MQzBMC0npSi
+
+----
+
+Subtitle: Head of Sales, Switzerland
+
+----
+
+Company: Copper
+
+----
+
+Company-url: https://copper.co
+
+----
+
+Bio: Marcos Benitez is Head of Sales, Switzerland for Copper. Previously, Marcos was Client Relationship Manager, Crypto & Blockchain Services at Gazprombank. He also co-founded and is currently General Secretary of the Crypto World Zug Association. Since completing his law degree, Marcos has spent over a decade working in finance. Using his legal background, he has focused on, and developed deep insights into regulatory compliance issues including work on combating international financial crime.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/marcos-ben%C3%ADtez-rubianes-9b19b864/
+
+----
+
+Email: 
+
+----
+
+Autoid: ofq60zcz
+
+----
+
+Uuid: C03jBNz1b3D825pU
+
+----
+
+Modified-at: 1758629969

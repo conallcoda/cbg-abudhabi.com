@@ -1,0 +1,57 @@
+Title: William Peets
+
+----
+
+Picture: - file://4SDnOPU0O6Y2bJ78
+
+----
+
+Picture-color: - file://djOIIQPFr8pLX3NB
+
+----
+
+Picture-cropped: - file://9amdHWAYgkLWBRv0
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CIO of Passport Digital Holdings LLC
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Will Peets is the Chief Investment Officer of Passport Digital Holdings LLC and portfolio manager for the digital currency strategies at Passport Capital, a San Francisco-based investment firm dedicated to investing in secular change. Prior to his focus on digital currency strategies, Will was the Chief Risk Officer for the firm’s long/short equity hedges funds where he and his team informed the portfolio construction process and provided guidance on position sizing, hedging, and the alignment of risk taking with the firm’s investment views. Preceding Passport, Will spent 7.5yrs at MSCI consulting hedge funds on their use of Barra and Risk Metrics in their portfolio construction process. Will is also an active venture investor, with investment themes spanning geospacial analytics, real time data discovery, democratization of housing, remote work market places, and digital asset storage infrastructure and investment platforms. Will graduated from California Polytechnic State University San Luis Obispo, where he earned his B.S. in Business Administration with concentrations in Accounting and Finance. He is a CFA, CAIA Charterholder, and an ASA certified sailor
+
+----
+
+Twitter: https://twitter.com/willpeets
+
+----
+
+Linkedin: https://www.linkedin.com/in/williampeets/
+
+----
+
+Email: 
+
+----
+
+Autoid: of7gfzo2
+
+----
+
+Uuid: FFjnKYY2W1pVMKXZ
+
+----
+
+Modified-at: 1758630011

@@ -1,0 +1,57 @@
+Title: Tom Jessop
+
+----
+
+Picture: - file://Y5HwD0YKIUVi6pFB
+
+----
+
+Picture-color: - file://19hA6BrWT08jadAl
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://vYDfNBjlMr1jZPgO
+
+----
+
+Subtitle: President of Fidelity Brokerage
+
+----
+
+Company: Fidelity Investments
+
+----
+
+Company-url: http://www.fidelity.com
+
+----
+
+Bio: Tom Jessop is president of Fidelity Brokerage, a division of Fidelity Investments. Fidelity Investments is a leading provider of investment management, retirement planning, portfolio guidance, brokerage, benefits outsourcing, and other financial products and services to institutions, financial intermediaries, and individuals. In this role, Tom oversees an organization dedicated to optimizing, modernizing, and personalizing the self-directed customer experience. The business is focused on providing an industry-leading offering to meet our retail customers’ evolving needs, including our trading capabilities, digital assets, digital user experience, and client service teams. Previously, Tom served as president of Fidelity Digital Assets, where he was responsible for daily business operations while directing the company’s long-term vision to create full-service brokerage capabilities for native digital assets and tokenized securities. Tom joined Fidelity in January 2018 as Head of Corporate Business Development. In this role, he led a team focused on identifying and executing strategic opportunities including acquisitions, divestitures, strategic investments and partnerships. Prior to joining Fidelity, Tom served as president of Chain, a leading provider of enterprise blockchain solutions to global financial institutions. Prior to joining Chain, Tom spent 17 years at Goldman Sachs, where he was a founding member of its Principal Strategic Investments group focused on investments and partnerships across several domains including fintech, market structure, and enterprise technology. In 2015 he was named to Institutional Investor’s inaugural “Fintech Finance 35” list.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/tom-jessop-ab00893/
+
+----
+
+Email: 
+
+----
+
+Uuid: ZJ9w5acQvlEonJB1
+
+----
+
+Created-at: 1727337378
+
+----
+
+Modified-at: 1758630010

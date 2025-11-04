@@ -1,0 +1,61 @@
+Title: Leemon Baird
+
+----
+
+Picture: - file://sLcG6vDd0BQg79L7
+
+----
+
+Picture-color: - file://11itfhodZLGL1NTc
+
+----
+
+Picture-cropped: - file://778ISzzz0BpzHq6z
+
+----
+
+Logo: - file://wtaeTa4h7cz0RYiT
+
+----
+
+Subtitle: Co-Founder
+
+----
+
+Company: Hedera & Hashgraph
+
+----
+
+Company-url: https://hedera.com/
+
+----
+
+Bio: Dr. Leemon Baird is the inventor of the hashgraph distributed consensus algorithm, Co-founder of Hedera, and Co-founder and Chief Scientist of Hashgraph. With over 20 years of technology and startup experience, he has held positions as a Professor of Computer Science at the US Air Force Academy and as a senior scientist in several labs. He has been the Co-Founder of several startups, including two identity-related startups, both of which were acquired. Leemon received his PhD in Computer Science from Carnegie Mellon University and has multiple patents and publications in peer-reviewed journals and conferences in computer security, machine learning, and mathematics.
+
+----
+
+Twitter: https://x.com/leemonbaird?lang=en
+
+----
+
+Linkedin: https://www.linkedin.com/in/leemon-baird/
+
+----
+
+Email: 
+
+----
+
+Uuid: jaysIPxTdY4zMdmO
+
+----
+
+Datecreatedepoch: 1697639023
+
+----
+
+Datemodifiedepoch: 1697639201
+
+----
+
+Modified-at: 1758629964

@@ -1,0 +1,14 @@
+title: Download
+icon: download
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+fields:
+    file:
+        type: files
+        label: File
+        multiple: false
+        size: large
+        required: true

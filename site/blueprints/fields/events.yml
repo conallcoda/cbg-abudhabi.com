@@ -1,0 +1,65 @@
+translate: false
+label: Events
+type: structure
+columns:
+    session:
+        width: 1/8
+    time_start:
+        width: 1/8
+    time_finish:
+        width: 1/8
+    title:
+        width: 4/8
+    speakers:
+        width: 2/8
+fields:
+    session:
+        type: radio
+        label: Session
+        options:
+            - '1'
+            - '2'
+            - '3'
+            - '4'
+            - '5'
+            - '6'
+            - '7'
+            - '8'
+            - '9'
+    time_start:
+        width: 1/2
+        type: time
+        label: Begin
+    time_finish:
+        width: 1/2
+        type: time
+        label: End
+    title:
+        type: text
+        label: Title
+    hide_description:
+        width: 1/2
+        label: Hide Description
+        type: toggle
+        text:
+            - 'No'
+            - 'Yes'
+    hide_speakers:
+        width: 1/2
+        label: Hide Speakers
+        type: toggle
+        text:
+            - 'No'
+            - 'Yes'
+    description:
+        type: textarea
+        label: Description
+        buttons: false
+        size: small
+        when:
+            hide_description: false
+    speakers:
+        extends: fields/select-profiles
+        label: Speakers
+        when:
+            hide_speakers: false

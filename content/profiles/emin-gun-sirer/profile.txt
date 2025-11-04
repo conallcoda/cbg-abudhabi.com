@@ -1,0 +1,57 @@
+Title: Emin Gün Sirer
+
+----
+
+Picture: - file://BYRW4yuXwMODALWa
+
+----
+
+Picture-cropped: - file://b9OWROfEHRlnf09q
+
+----
+
+Logo: - file://dUOLsneLzCTyJ63b
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: Ava Labs.
+
+----
+
+Company-url: https://www.avalabs.org/
+
+----
+
+Bio: Emin Gün Sirer, is Co-founder and CEO at Ava Labs. Previously, he was a Professor of Computer Science at Cornell University, where his research focused on operating systems, networking, and distributed systems. He is well-known for having implemented the first currency that used Proof-of-Work (PoW) to mint coins, as well as his research on selfish mining, characterizing the scale and centralization of existing cryptocurrencies, and having proposed the leading protocols for on-chain and off-chain scaling. He is the Co-Director of the Initiative for Cryptocurrencies and Smart Contracts (IC3), which aims to move blockchain-based applications from whiteboards and proofs-of-concept to tomorrow’s fast and reliable financial systems
+
+----
+
+Twitter: https://twitter.com/el33th4xor?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+
+----
+
+Linkedin: https://linkedin.com/in/emin-gun-sirer-0a921a4
+
+----
+
+Email: 
+
+----
+
+Uuid: eOoMKiN3tZmaJCn5
+
+----
+
+Datecreatedepoch: 1699866592
+
+----
+
+Datemodifiedepoch: 1699866697
+
+----
+
+Modified-at: 1722848931

@@ -1,0 +1,45 @@
+Title: Group Instructions & Information
+
+----
+
+Picture: 
+
+----
+
+Session: Pre-Opening
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 19:15:00
+
+----
+
+Time-finish: 19:45:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: HKlqpN9ytn1ZAy6G
+
+----
+
+Modified-at: 1735836990

@@ -1,0 +1,53 @@
+Title: Giulia Solari Bozzi
+
+----
+
+Picture: - file://daqEaSYOF9z4jBDc
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Event Management
+
+----
+
+Company: 
+
+----
+
+Company-url: https://cfc-stmoritz.com
+
+----
+
+Bio: With a Bachelor’s degree in Business Management from ESCP Europe, where she studied in Paris, Turin, and London, Giulia is committed to supporting the team with pre-conference preparations and program development, onsite coordination during the conference, and assisting with side events as well.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/gamsb/
+
+----
+
+Email: giulia@cfc-stmoritz.com
+
+----
+
+Uuid: 06aHm8YhN3D393lU
+
+----
+
+Created-at: 1728487189
+
+----
+
+Modified-at: 1728487308

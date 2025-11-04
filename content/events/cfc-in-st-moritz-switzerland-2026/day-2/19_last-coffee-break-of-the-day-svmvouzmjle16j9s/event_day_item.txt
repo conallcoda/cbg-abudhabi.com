@@ -1,0 +1,49 @@
+Title: Last Coffee Break of the Day
+
+----
+
+Session: Break 2
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 16:45:00
+
+----
+
+Time-finish: 17:05:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: 8Ldza0VBThUTLBjR
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1759996212

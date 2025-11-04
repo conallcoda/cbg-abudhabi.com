@@ -1,0 +1,57 @@
+Title: Timo Grossenbacher
+
+----
+
+Picture: - file://4T3LnfdpiIC5NRs9
+
+----
+
+Picture-color: - file://bQavLy48agbvP7ec
+
+----
+
+Picture-cropped: - file://TSFTUs6IOu5XxMHh
+
+----
+
+Logo: 
+
+----
+
+Subtitle: 
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Timo Grossenbacher (1987) does data research, -analysis and -visualization for SRF Data, the data-driven journalism unit of Swiss Public Broadcast (SRF). Before that, he studied Geography and Computer Science at the University of Zurich and worked for the Zurich daily newspaper „Tages-Anzeiger“. He also teaches data journalism at the University of Zurich and is co-organizer of the Zurich chapter of HacksHackers, a get-together of journalists and developers.
+
+----
+
+Twitter: https://twitter.com/grssnbchr
+
+----
+
+Linkedin: https://www.linkedin.com/in/timo-grossenbacher-3801a668/
+
+----
+
+Email: 
+
+----
+
+Autoid: c2iet7o3
+
+----
+
+Uuid: 3id9VcWbybugAlBH
+
+----
+
+Modified-at: 1758630009

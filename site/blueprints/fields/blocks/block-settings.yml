@@ -1,0 +1,8 @@
+type: group
+fields:
+  custom_id:
+    label: Custom ID
+    type: text
+  custom_class:
+    label: Custom Class
+    type: text

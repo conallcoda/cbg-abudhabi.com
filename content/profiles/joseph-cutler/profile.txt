@@ -1,0 +1,57 @@
+Title: Joseph Cutler
+
+----
+
+Picture: - file://2u65iuO2Kvoqx2EH
+
+----
+
+Picture-color: - file://SLi2SZBBjhbRlHRI
+
+----
+
+Picture-cropped: - file://IrgKiFv2ZzNzFtfh
+
+----
+
+Logo: - file://IkBB2YERPpdR2vu4
+
+----
+
+Subtitle: Partner, Firmwide Co-Chair
+
+----
+
+Company: Perkins Coie LLP
+
+----
+
+Company-url: https://www.perkinscoie.com/en/industries/financial-services-investments/fintech.html
+
+----
+
+Bio: Joe Cutler is a Partner at Perkins Coie LLP in the Privacy and Data Security Subgroup of Commercial Litigation. A co-founding member and current firmwide co-chair of the Fintech and Blockchain Industry Group, Joe’s practice focuses on digital assets, cryptocurrencies, and blockchain technology. He counsels clients regarding their compliance with regulatory and statutory rules related to these technologies—in particular privacy, data security, consumer protection, digital identity, and terms of use. Joe counsels the firm’s fintech and blockchain clients regarding their obligations under the Bank Secrecy Act, FinCEN regulations, anti-money laundering requirements, and state money transmission and financial services laws. He also advises the firm’s technology clients regarding state and federal privacy and data protection (including the CCPA), anti-spamming and anti-phishing statues, computer intrusion laws, state breach notification laws, international data protection laws (like GDPR), and credit protection laws, such as the Fair Credit Reporting Act and Equal Credit Opportunity Act. He also really, really loves to ski, which is the real reason he’s here.
+
+----
+
+Twitter: https://twitter.com/talkhardbeheard
+
+----
+
+Linkedin: https://www.linkedin.com/in/joecutler/
+
+----
+
+Email: 
+
+----
+
+Autoid: pkssqyts
+
+----
+
+Uuid: 554whzEvtSbuNSA6
+
+----
+
+Modified-at: 1758629959

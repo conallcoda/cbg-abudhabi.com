@@ -1,0 +1,57 @@
+Title: Cameron Winklevoss
+
+----
+
+Picture: - file://FuDfE9UtwdyJinEB
+
+----
+
+Picture-color: - file://OmuTVB1xIfvXgetD
+
+----
+
+Picture-cropped: - file://Gdrbg3hCklfeAUwo
+
+----
+
+Logo: - file://5F3CpK4UxJsTT5iH
+
+----
+
+Subtitle: President
+
+----
+
+Company: Gemini
+
+----
+
+Company-url: https://gemini.com/
+
+----
+
+Bio: Cameron Winklevoss - is Co-founder and President of Gemini, a digital asset exchange and custodian. He graduated from Harvard University with a degree in Economics and earned an MBA from Oxford University. He represented the United States at the 2008 Olympics Games in Beijing, China, placing 6th. Cameron has been an angel investor and entrepreneur in emerging technologies since 2003. He began investing in bitcoin in 2012 and launched Gemini in 2015.
+
+----
+
+Twitter: https://twitter.com/winklevoss
+
+----
+
+Linkedin: https://www.linkedin.com/in/cameronwinklevoss/
+
+----
+
+Email: 
+
+----
+
+Autoid: ys4yyhwn
+
+----
+
+Uuid: zNj4yHJUBiHNc44K
+
+----
+
+Modified-at: 1758629917

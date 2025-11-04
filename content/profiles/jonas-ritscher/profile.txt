@@ -1,0 +1,57 @@
+Title: Jonas Ritscher
+
+----
+
+Picture: - file://Q7JcFbUxxP8UGSut
+
+----
+
+Picture-color: - file://ISopoTSkVu67Yl9g
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Event Management
+
+----
+
+Company: 
+
+----
+
+Company-url: https://cfc-stmoritz.com
+
+----
+
+Bio: As a project manager, Jonas supports the conference team on various projects and areas before, during, and after the event. Graduate of the University of Zurich (Bachelor of Law) and the Hospitality School of Lucerne. Over the past few years, Jonas has worked in several luxury hotels in Switzerland, giving him extensive experience managing guest and client relationships.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/jonas-c-ritscher-2544ba34/
+
+----
+
+Email: jonas@cfc-stmoritz.com
+
+----
+
+Uuid: qmSZxKnQ54PdsoRL
+
+----
+
+Created-at: 1727363599
+
+----
+
+Modified-at: 1760534361

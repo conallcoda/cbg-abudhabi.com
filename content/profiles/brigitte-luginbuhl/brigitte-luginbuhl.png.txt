@@ -1,0 +1,5 @@
+Template: image
+
+----
+
+Uuid: AplDVQ890AlE9bt5

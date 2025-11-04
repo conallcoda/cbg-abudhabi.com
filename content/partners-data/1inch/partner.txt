@@ -1,0 +1,17 @@
+Title: 1inch
+
+----
+
+Autoid: 3r6dc1mp
+
+----
+
+Picture: partners-data/1inch/35_1inch_website.png
+
+----
+
+Link: https://1inch.exchange
+
+----
+
+Uuid: dMDC0IPW9r46nF3e

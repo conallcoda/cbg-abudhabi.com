@@ -1,0 +1,61 @@
+Title: Jason Brink
+
+----
+
+Picture: - file://Z7NjaIdHk4BgKKtv
+
+----
+
+Picture-color: - file://uT0zO8KeEDXcYKQ8
+
+----
+
+Picture-cropped: - file://oZlzJcIchCqsSmHz
+
+----
+
+Logo: - file://9jkqdI83xyp6NUen
+
+----
+
+Subtitle: President of Blockchain
+
+----
+
+Company: Gala Games
+
+----
+
+Company-url: https://app.gala.games
+
+----
+
+Bio:
+
+Jason "BitBender" Brink is an entrepreneur, blockchain theorist, and avid gamer. He is currently the President of Blockchain for Gala Games, the world's leading gaming platform with blockchain integration.
+Known in the cryptocurrency community with the moniker “BitBender,” his involvement in the cryptocurrency marketspace started in 2014 focusing on the use of Blockchain for the decentralization of various ecosystems. In 2014, he won the Bill and Melinda Gates Foundation / Global Development Network Prize for the creation of the ""AidDollar"", a novel blockchain-based solution to solve the problems endemic to foreign aid.
+Jason is a strong believer in the ability of blockchain to create transformative change, both in business and society. As the President of Blockchain of Gala Games, he devotes considerable resources to the creation of stable play-to-earn ecosystems as a means to generate new opportunities for gamers around the world.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/bitbender/?originalSubdomain=ca
+
+----
+
+Email: 
+
+----
+
+Autoid: vpt0s29h
+
+----
+
+Uuid: 2i729DPN80PsooYK
+
+----
+
+Modified-at: 1758629947

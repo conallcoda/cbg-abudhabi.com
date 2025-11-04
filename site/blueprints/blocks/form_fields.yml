@@ -1,0 +1,19 @@
+name: Form Fields
+icon: edit
+tabs:
+    content:
+        fields:
+            name:
+                label: Name
+                type: slug
+                required: true
+            items:
+                extends: fields/select-form-fields
+                label: Fields
+            optional:
+                extends: fields/select-form-fields
+                label: Optional
+            show_labels:
+                extends: fields/yes_no
+                label: Show Labels?
+                default: false

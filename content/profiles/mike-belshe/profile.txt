@@ -1,0 +1,57 @@
+Title: Mike Belshe
+
+----
+
+Picture: - file://BXQrmrixMm54OEES
+
+----
+
+Picture-color: - file://APwSsG45EHIVEQKS
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://fT0jnYJAnxmNfevu
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: BitGo
+
+----
+
+Company-url: https://bitgo.com
+
+----
+
+Bio: Mike Belshe is the Co-Founder and CEO of BitGo and Internet Pioneer. At BitGo, Mike Belshe drives product and business strategy for delivering security, compliance, and custodial solutions for blockchain-based currencies. Prior to BitGo, Mike was one of the first engineers dedicated to building Chrome at Google. He is creator of the SPDY protocol and lead author of HTTP/2.0—the internet protocol responsible for loading web pages today. In 2003, Mike co-founded Lookout Software—an email search company acquired by Microsoft—and has held management positions at several startups, including Netscape, Good Technology, and Critical Path. He is also an inventor with over 10 technology patents.
+
+----
+
+Twitter: https://x.com/mikebelshe/
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: faxCtPN74SEPzMwW
+
+----
+
+Created-at: 1728380153
+
+----
+
+Modified-at: 1758629980

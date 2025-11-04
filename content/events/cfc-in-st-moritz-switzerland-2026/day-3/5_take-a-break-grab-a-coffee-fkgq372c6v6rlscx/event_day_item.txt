@@ -1,0 +1,49 @@
+Title: Take a Break, Grab a Coffee
+
+----
+
+Picture: 
+
+----
+
+Session: Break 1
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 11:10:00
+
+----
+
+Time-finish: 11:25:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: WirGWUVaoL7x9xGK
+
+----
+
+Created-at: 1725981746
+
+----
+
+Modified-at: 1728542145

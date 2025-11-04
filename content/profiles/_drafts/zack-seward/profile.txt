@@ -1,0 +1,53 @@
+Title: Zack Seward
+
+----
+
+Picture: - file://aJXcUbSEoFarGyDF
+
+----
+
+Picture-cropped: - file://osmSSoe8Hcwhc6DV
+
+----
+
+Logo: - file://9LSUzkv9wT1Qy0FO
+
+----
+
+Subtitle: Managing Editor
+
+----
+
+Company: CoinDesk
+
+----
+
+Company-url: https://www.coindesk.com
+
+----
+
+Bio: tbd
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/zackseward/#
+
+----
+
+Email: 
+
+----
+
+Autoid: 3xe6k5bj
+
+----
+
+Uuid: k5xwnxJkXteOTOYz
+
+----
+
+Modified-at: 1723833755

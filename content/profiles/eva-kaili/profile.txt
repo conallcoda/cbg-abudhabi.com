@@ -1,0 +1,67 @@
+Title: Eva Kaili
+
+----
+
+Picture: - file://n1fSlsHCokq79mUs
+
+----
+
+Picture-color: - file://gAxwZVDNVnXRLmK2
+
+----
+
+Picture-cropped: - file://vT1vrBOdDguQrZoM
+
+----
+
+Logo: - file://YU1TcHYF0hjewG75
+
+----
+
+Subtitle: Vice President of the European Parliament
+
+----
+
+Company: European Parliament
+
+----
+
+Company-url: https://www.europarl.europa.eu/meps/en/125109/EVA_KAILI/home
+
+----
+
+Bio:
+
+Eva Kaili has been a Member of the European Parliament since 2014. 
+
+In January 2022, she was elected Vice President of the European Parliament for the second half of the 9th legislature. Her responsibilities include the Parliament’s ICT Innovation Strategy, Informatics & Telecommunications, the STOA Panel, CSR, and replacing the President for Middle East, business associations, and multilateral bodies.
+
+She is the first woman to have chaired the STOA Panel and the Centre for Artificial Intelligence. She is a Member of the Committees on Industry, Research and Energy; Economic and Monetary Affairs; Budgets; Artificial Intelligence in a Digital Age; and the Pegasus Committee of Inquiry.
+
+Eva has worked on promoting innovation as a driving force of the European Digital Single Market. She has been the draftsperson of legislation on blockchain, big data, fintech, AI, and cybersecurity, EFSI2, InvestEU, and FuelEU Maritime.
+
+Prior to being elected as MEP, Eva was a Member of the Greek Parliament. Before that, she worked as a journalist. She has a BA in Architecture and Civil Engineering, and a Postgraduate degree in European Politics.
+
+----
+
+Twitter: https://twitter.com/EvaKaili
+
+----
+
+Linkedin: https://www.linkedin.com/in/eva-a-kaili-4465853/
+
+----
+
+Email: 
+
+----
+
+Autoid: k0wxg5xy
+
+----
+
+Uuid: tgDw1SUkRsJufllY
+
+----
+
+Modified-at: 1758629934

@@ -1,0 +1,63 @@
+Title: Giovanni Vicioso
+
+----
+
+Picture: - file://aZ0aIVZbjPRQXuGt
+
+----
+
+Picture-color: - file://KQXzkkTaphuOJbbQ
+
+----
+
+Picture-cropped: - file://Ju4UoXPhQNOu2atx
+
+----
+
+Logo: - file://LY9C4Q5ggaIpyR7X
+
+----
+
+Subtitle: Global Head of Cryptocurrency Products
+
+----
+
+Company: CME Group
+
+----
+
+Company-url: https://www.cmegroup.com
+
+----
+
+Bio:
+
+Giovanni Vicioso serves as CME Group’s Global Head of Cryptocurrency Products. He is responsible for leading the development and execution of the company’s cryptocurrency product strategies, including its innovative suite of tradeable benchmark derivatives such as Bitcoin and Ether futures and options, as well as Micro Bitcoin and Ether futures and options, in addition to its wide range of cryptocurrency reference rates and real-time pricing indices.
+
+Vicioso first joined CME Group in 2012 as Senior Director of Equity Products, in which he also began his involvement in CME Group's Cryptocurrency business. Prior to CME Group, he served as Vice President for RBC Capital Markets' Equity Derivatives Group on their OTC Equity Derivatives desk. Prior to RBC, he worked at Deutsche Bank in the Global Equity Derivatives Division. 
+
+Vicioso is based in New York and holds a bachelor’s degree in mechanical engineering from Rutgers University and an MBA from Columbia Business School.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: 5x2fkgr5
+
+----
+
+Uuid: zOpfd2RwJgUElwdo
+
+----
+
+Modified-at: 1758629942

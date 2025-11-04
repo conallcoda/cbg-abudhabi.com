@@ -1,0 +1,49 @@
+Title: Bringing the Data Center Economy Onchain
+
+----
+
+Session: Session 1 - Inside the Machine
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Tariff on, tariff off. Bitcoin up, bitcoin down. New gold all time high every&nbsp;day. Chaos is everywhere but one thing is certain - the entire economy is basically data centers now.&nbsp;Capital markets and financial flows are being reshaped in real time as the largest physical infrastructure buildout in human history continues unabated.&nbsp;While AI applications may come and go,&nbsp;the demand for energy, compute, and crypto is inevitable, immense, and undercapitalized. In this talk, we'll explore the opportunities ahead for the token economy&nbsp;- intelligence tokens, payment tokens, and well, all our crypto tokens.&nbsp;</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 09:35:00
+
+----
+
+Time-finish: 09:55:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: p0dwlx4nfouSvvbs
+
+----
+
+Created-at: 1725981743
+
+----
+
+Modified-at: 1761633432

@@ -1,0 +1,7 @@
+label: Lists
+type: group
+fieldsets:
+    events: blocks/events
+    partners: blocks/partners
+    profiles: blocks/profiles
+    blog_index: blocks/blog_index

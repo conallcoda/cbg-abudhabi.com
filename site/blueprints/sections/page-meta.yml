@@ -1,0 +1,10 @@
+type: fields
+fields:
+  intro_title:
+    type: textarea
+    buttons: false
+    label: Intro Title
+    help: If blank, we use the page title.
+  intro_text:
+    extends: field/writer
+    label: Intro Text

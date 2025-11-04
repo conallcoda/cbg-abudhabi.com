@@ -1,0 +1,61 @@
+Title: Mark Nuvelstijn
+
+----
+
+Picture: - file://ppTmFCfTaj5T1BTl
+
+----
+
+Picture-color: - file://4HpGog58vYPvuMyO
+
+----
+
+Picture-cropped: - file://NpoPmGpTTuPxuoG0
+
+----
+
+Logo: - file://aSftPRo2UuvZ2pBe
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Bitvavo
+
+----
+
+Company-url: https://bitvavo.com/en
+
+----
+
+Bio: Mark Nuvelstijn is Co-founder and CEO of the Dutch digital currency exchange platform Bitvavo. Mark completed two bachelor's degrees in Groningen: Business Administration and Law with a master's degree in Tax Law / Tax Law. After completing his studies, he worked for Loyens & Loeff as a Tax Lawyer. In 2018 he started Bitvavo together with two other founders. The aim of Bitvavo is to make the new economy of digital currencies accessible.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/mark-nuvelstijn/
+
+----
+
+Email: 
+
+----
+
+Uuid: GgRHUoHK7jESrX0w
+
+----
+
+Datecreatedepoch: 1701698178
+
+----
+
+Datemodifiedepoch: 1701698236
+
+----
+
+Modified-at: 1758629972

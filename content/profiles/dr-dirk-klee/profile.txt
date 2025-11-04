@@ -1,0 +1,65 @@
+Title: Dr. Dirk Klee
+
+----
+
+Picture: - file://wJr1jcIayMadUV0H
+
+----
+
+Picture-color: - file://YNInTJPD9qMb54NK
+
+----
+
+Picture-cropped: - file://46V09qyn25drQEad
+
+----
+
+Logo: - file://KuyYhj1V7hAsEEY1
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Bitcoin Suisse AG
+
+----
+
+Company-url: https://www.bitcoinsuisse.com/
+
+----
+
+Bio:
+
+Dirk Klee is Chief Executive Officer at Bitcoin Suisse AG since April 2022. Throughout his 25+ year career, Dirk has established himself as an experienced, innovative leader who is passionate about building and leading client-focused businesses.
+
+Prior to this, Dirk was CEO Wealth Management & Investments and a member of the Executive Committee at Barclays Bank UK, plc. in London, transforming the franchise into an integrated digital-first model in a market characterized by open banking and fast-changing client needs. At UBS AG in Zurich, as COO International Wealth Management, Dirk delivered an industry-first global wealth management platform (One WMP) at the world’s largest wealth manager.
+
+Prior to that, Dirk was CEO and Regional Manager Germany, Austria & Eastern Europe at BlackRock Asset Management Deutschland AG in Munich, driving double-digit annual business growth with innovative products such as iShares at the world’s largest asset manager. Before, he held different positions at PIMCO/Allianz Global Investors for ten years up to Head of Distribution Germany and Austria.
+
+Dirk is a lawyer by education and initially worked at Freshfields Law Firm. He holds a Master of Law at London School of Economics (LSE) and graduated Dr. jur. from the University of Mainz (summa cum laude).
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/dirkkleeinnovationarchitect/
+
+----
+
+Email: 
+
+----
+
+Autoid: dculixy4
+
+----
+
+Uuid: 078o6Dex3XnjM1oo
+
+----
+
+Modified-at: 1758629932

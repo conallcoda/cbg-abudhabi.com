@@ -1,0 +1,57 @@
+Title: Fabian Vogelsteller
+
+----
+
+Picture: - file://ETqwiDbDYga67SwT
+
+----
+
+Picture-color: - file://T9tkE9AooeziGijJ
+
+----
+
+Picture-cropped: - file://FFA598HrPr1DbyQO
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO, LUKSO
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Fabian is long term open source developer, author and developer of many open source projects including Ethereum's Mist browser and the Ethereum Wallet. Together with Vitalik Buterin he proposed the ERC20 token standard, which spurred a new era of tokenised investment and crowd ownership.
+
+----
+
+Twitter: https://twitter.com/feindura
+
+----
+
+Linkedin: https://www.linkedin.com/in/fabian-vogelsteller-46365042/
+
+----
+
+Email: 
+
+----
+
+Autoid: aq9ezhxt
+
+----
+
+Uuid: MKGZ3b2GLUZJGAwj
+
+----
+
+Modified-at: 1758629937

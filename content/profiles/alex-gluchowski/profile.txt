@@ -1,0 +1,61 @@
+Title: Alex Gluchowski
+
+----
+
+Picture: - file://QPT7vJwvJ2SAovlq
+
+----
+
+Picture-color: - file://aRfBjT5zdjwz1hrQ
+
+----
+
+Picture-cropped: - file://Vxn11XcK4bpnlsGj
+
+----
+
+Logo: - file://3Trr2fnfBY2u0s2u
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Matter Labs / zkSync
+
+----
+
+Company-url: https://matter-labs.io/
+
+----
+
+Bio: Alex is a software architect with over 15 years of experience in engineering and startups. He is the co-inventor of zkSync and currently serves as the co-founder and CEO of Matter Labs. At Matter Labs, he leads a talented team focused on addressing blockchain scalability challenges using zero-knowledge proofs. Alex's passion lies in using technology to advance personal freedom, self-ownership, and decentralization.
+
+----
+
+Twitter: https://twitter.com/gluk64
+
+----
+
+Linkedin: https://www.linkedin.com/in/gluchowski/
+
+----
+
+Email: 
+
+----
+
+Uuid: Rl38mQTgiKsMQYG6
+
+----
+
+Datecreatedepoch: 1702373314
+
+----
+
+Datemodifiedepoch: 1702373402
+
+----
+
+Modified-at: 1758629896

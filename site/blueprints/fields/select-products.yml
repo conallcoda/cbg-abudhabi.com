@@ -1,0 +1,5 @@
+label: Products
+type: pages
+multiple: true
+query: site.page("products").children.template("product")
+image: page.picture.toFile

@@ -1,0 +1,57 @@
+Title: Mona El Isa
+
+----
+
+Picture: - file://iz6UsrqdzeyXjihL
+
+----
+
+Picture-color: - file://JdhL46DXzss9Vs7N
+
+----
+
+Picture-cropped: - file://BGPOV1pvYLW4ofvQ
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Co-founder & CEO, Avantgarde Finance Ltd.
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Co-founder and CEO of Avantgarde Finance Ltd. Mona was formerly the co-founder and CEO of Melonport AG which developed Melon, the first full featured on-chain asset management protocol. Mona is a former market maker and prop trader who spent 8 years at Goldman Sachs, promoted to Vice President by the age of 26 and made the “top 30 under 30” list twice in 2008 with Trader Magazine and in  2011 with Forbes after profitably trading the crashes. She went on to run a long-short equity fund for several years before becoming frustrated with the state of asset management infrastructure which lead her towards conceptualizing Melon. Today, she serves on the Board of Directors to MAMA, Near Protocol and Midas Technologies.
+
+----
+
+Twitter: https://twitter.com/Mona_El_Isa
+
+----
+
+Linkedin: https://www.linkedin.com/in/monaelisa/
+
+----
+
+Email: 
+
+----
+
+Autoid: gscz1ka6
+
+----
+
+Uuid: ohDqRML70CfBAiYY
+
+----
+
+Modified-at: 1758629983

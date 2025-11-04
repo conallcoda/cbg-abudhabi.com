@@ -1,0 +1,17 @@
+Title: FinewsCh
+
+----
+
+Autoid: g2nck66r
+
+----
+
+Picture: partners-data/finnews/logo_finnews_frame.png
+
+----
+
+Link: https://www.finews.ch
+
+----
+
+Uuid: oFyXrRtPnRYlTWyC

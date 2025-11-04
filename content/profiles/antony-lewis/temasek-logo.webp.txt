@@ -1,0 +1,5 @@
+Uuid: 4nEdTsgVSwbvPV67
+
+----
+
+Template: image

@@ -1,0 +1,23 @@
+type: fields
+fields:
+    picture:
+        extends: fields/image
+        width: 1/1
+    author:
+        type: select
+        label: Author
+        options: query
+        query:
+            fetch: site.page("profiles").children
+            text: '{{ page.title }}'
+            value: '{{ page.uuid }}'
+    date:
+        type: date
+        label: Date
+    subtitle:
+        type: textarea
+        buttons: false
+        label: Subtitle
+    tags:
+        type: tags
+        label: Tags

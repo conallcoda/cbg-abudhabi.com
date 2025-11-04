@@ -1,0 +1,23 @@
+title: Blog
+icon: blog
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+options:
+    duplicate: true
+    changeTitle: true
+    changeStatus: true
+    changeTemplate: false
+    changeSlug: false
+    preview: true
+    delete: true
+    move: false
+tabs:
+    items:
+        label: Blogs
+        icon: list-numbers
+        sections:
+            items:
+                extends: sections/pages-blog-articles

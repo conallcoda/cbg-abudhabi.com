@@ -1,0 +1,12 @@
+name: Next Step Button
+icon: bolt
+tabs:
+    content:
+        fields:
+            text:
+                type: text
+                label: Text
+                required: true
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

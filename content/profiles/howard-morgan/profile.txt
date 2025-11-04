@@ -1,0 +1,62 @@
+Title: Howard Morgan
+
+----
+
+Picture: - file://BPHPyWfUI5ajNNbt
+
+----
+
+Picture-color: - file://EEKC8l64SCZItZhI
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://gN3uyzm9IRF4xH1X
+
+----
+
+Subtitle: Chair & General Partner
+
+----
+
+Company: B Capital
+
+----
+
+Company-url: https://b.capital/
+
+----
+
+Bio:
+
+Howard Morgan is Chair and General Partner at B Capital and a pioneer of early-stage investing. He co-founded First Round Capital, helped found Idealab and served as the Founding President of Renaissance Technologies.
+He has served as a professor at the University of Pennsylvania and Cornell University and as an Executive Fellow at UC Berkeley. 
+Howard currently serves as Director of Idealab and on the boards of Cornell University, NY Public Library, Cold Spring Harbor Laboratories and Math for America. 
+He has a PhD from Cornell University and a BS from City College of the City University of New York.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: phRbmz4KKejIxQWs
+
+----
+
+Created-at: 1727344159
+
+----
+
+Modified-at: 1758629944

@@ -1,0 +1,61 @@
+Title: Muneeb Ali
+
+----
+
+Picture: - file://yr66u4mBtaqwc4ES
+
+----
+
+Picture-color: - file://wbYPqvsUgS5bFNiI
+
+----
+
+Picture-cropped: - file://aZi8ZqwrBt4ycUxD
+
+----
+
+Logo: - file://pqnhpIu5RZXRfETJ
+
+----
+
+Subtitle: Founder
+
+----
+
+Company: Stacks
+
+----
+
+Company-url: https://www.stacks.co/
+
+----
+
+Bio: Muneeb Ali is the co-founder of Stacks, a Bitcoin L2. He builds and invests in Bitcoin applications through Trust Machines. Muneeb received his Ph.D. and Masters in Computer Science from Princeton University, where his Ph.D. thesis was nominated for the ACM SIGCOMM dissertation award. Muneeb gives guest lectures on Bitcoin & crypto at Princeton and his research publications have over 1,900 citations. He is one of the main characters in the book Life After Google and was a technical advisor to the HBO show Silicon Valley.
+
+----
+
+Twitter: https://x.com/muneeb
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: 5hCjM7tbEfY2p8Xc
+
+----
+
+Datecreatedepoch: 1700231938
+
+----
+
+Datemodifiedepoch: 1700232344
+
+----
+
+Modified-at: 1758629983

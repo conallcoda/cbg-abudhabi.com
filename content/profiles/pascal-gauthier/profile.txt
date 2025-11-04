@@ -1,0 +1,65 @@
+Title: Pascal Gauthier
+
+----
+
+Picture: - file://uidt2BhqM6EgTIGn
+
+----
+
+Picture-color: - file://aMeypNmZdHyR9Y5v
+
+----
+
+Picture-cropped: - file://NYruIgEsanbPCep2
+
+----
+
+Logo: - file://YNQDiHXH6L4aqJ4T
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Ledger
+
+----
+
+Company-url: https://www.ledger.com
+
+----
+
+Bio:
+
+Pascal started his career at Kelkoo, a price comparison service acquired by Yahoo for EUR 475 million in 2004. He then joined the advertising company Criteo in 2008 where he worked for five years as COO, being instrumental in the pivot to advertising, which led to the company’s global expansion towards a EUR 2.17 billion market capitalisation.
+
+Before being CEO at Ledger, Pascal worked as Venture Partner in Mosaic Ventures, a London based venture capital firm focusing on Series A stage companies. Pascal is also non-executive chairman of Kaiko, a financial data website on Bitcoin.
+
+----
+
+Twitter: https://twitter.com/_pgauthier?lang=en
+
+----
+
+Linkedin: https://www.linkedin.com/in/pascalgauthier1/
+
+----
+
+Email: 
+
+----
+
+Autoid: 5zupd49h
+
+----
+
+Uuid: lcKLojSz1oXAOHZw
+
+----
+
+Datemodifiedepoch: 1702478215
+
+----
+
+Modified-at: 1758629988

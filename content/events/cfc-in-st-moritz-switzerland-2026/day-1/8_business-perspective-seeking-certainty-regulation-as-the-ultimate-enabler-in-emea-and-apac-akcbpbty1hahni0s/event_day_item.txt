@@ -1,0 +1,49 @@
+Title: Take a Break, Get to Know Each Other
+
+----
+
+Session: Break 1
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 14:30:00
+
+----
+
+Time-finish: 14:55:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: VrN0c8omODKM4voR
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1760117830

@@ -1,0 +1,5 @@
+label: Events
+type: pages
+multiple: true
+query: site.page("events").children
+image: page.picture.toFile

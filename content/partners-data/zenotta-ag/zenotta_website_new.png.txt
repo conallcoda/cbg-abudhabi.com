@@ -1,0 +1,5 @@
+Uuid: 714v3pkrNSbSwwdm
+
+----
+
+Template: image

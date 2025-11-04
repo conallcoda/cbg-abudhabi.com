@@ -1,0 +1,61 @@
+Title: Min Wei
+
+----
+
+Picture: - file://QlzxnTCwOsOPxn5t
+
+----
+
+Picture-color: - file://QlzxnTCwOsOPxn5t
+
+----
+
+Picture-cropped: - file://Q5NpotXXgLQPqRip
+
+----
+
+Logo: - file://kDjUmm9kV3fv71jK
+
+----
+
+Subtitle: EVP Ecosystem Growth
+
+----
+
+Company: Algorand Foundation
+
+----
+
+Company-url: https://www.algorand.foundation/
+
+----
+
+Bio: Min is the EVP of Ecosystem Growth at Algorand Foundation, where she is responsible for growing and supporting the ecosystem, building partnerships, and scaling community activations, including efforts in India. Min was previously leading Partnerships at Blockchain.com and co-founded a startup that was acquired by Blockchain.com. Before she ran off to start her own company, Min spent over a decade in the corporate world, at Fortune 500 companies as well as privately held startups leading various functions across bd, product, and strategy.
+
+----
+
+Twitter: https://twitter.com/mintwt
+
+----
+
+Linkedin: https://www.linkedin.com/in/minwei1/
+
+----
+
+Email: 
+
+----
+
+Uuid: WpWJFYFpWts9Jc5o
+
+----
+
+Datecreatedepoch: 1698138088
+
+----
+
+Datemodifiedepoch: 1699866474
+
+----
+
+Modified-at: 1759965638

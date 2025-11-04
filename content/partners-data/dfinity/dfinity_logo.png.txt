@@ -1,0 +1,13 @@
+Sort: 2
+
+----
+
+Focus: {"x":0.5,"y":0.5}
+
+----
+
+Uuid: I89l4MvmwTWArw3X
+
+----
+
+Template: image

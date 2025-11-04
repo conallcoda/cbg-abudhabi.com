@@ -1,0 +1,65 @@
+Title: Moad Fahmi
+
+----
+
+Picture: - file://E0zW5W6Ie4qergLj
+
+----
+
+Picture-color: - file://fjRLDgGjRqvHIZRG
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://KW2f0Huy73LQK6qC
+
+----
+
+Subtitle: Chief Fintech Officer
+
+----
+
+Company: Bermuda Monetary Authority
+
+----
+
+Company-url: https://www.bma.bm/
+
+----
+
+Bio:
+
+Mr Moad Fahmi, CFA is Chief FinTech Officer at the Bermuda Monetary Authority (Authority or BMA). Mr. Fahmi's leads specialised teams that manage the regulatory authorisation and supervision of innovative business models, including InsurTech, digital assets, investments and money service businesses. Mr. Fahmi’s Team is also tasked with fostering FinTech innovation while ensuring robust consumer protections, through the strategic operation of the BMA’s Innovation Hub and Regulatory Sandbox.
+
+Prior to joining the Authority in August 2018, Mr. Fahmi was Director - Fintech and Innovation at the Autorité des Marchés Financiers (AMF), the integrated regulator of the financial services sector for the province of Quebec, Canada.
+
+Before joining the AMF, Mr. Fahmi held senior roles within the Banking sector in Canada.
+
+Mr. Fahmi holds a Bachelor of Business Administration in Finance from HEC Montreal and an executive certificate in Public Policy from Harvard Kennedy School of Government. He obtained his Chartered Financial Analyst (CFA) Charter in 2011.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://bm.linkedin.com/in/moadfahmicfa
+
+----
+
+Email: 
+
+----
+
+Uuid: Xr4bCJSrgfOgnHpS
+
+----
+
+Created-at: 1730466748
+
+----
+
+Modified-at: 1758629982

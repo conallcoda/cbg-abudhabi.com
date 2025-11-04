@@ -1,0 +1,65 @@
+Title: Anton Katz
+
+----
+
+Picture: - file://SaKwi5Kyw8rdWHb4
+
+----
+
+Picture-color: - file://SaKwi5Kyw8rdWHb4
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://I4Cj2gQY5fDGq7ig
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Talos
+
+----
+
+Company-url: https://talos.com
+
+----
+
+Bio:
+
+Anton Katz is the Co-founder and CEO of Talos, the premier provider of institutional digital asset trading and portfolio technology.
+(gap: small)
+Based in New York, Anton is responsible for leading the firm’s strategic initiatives around the world. Talos, now a unicorn, has developed a platform that applies the standards of traditional finance to the digital asset markets and is becoming the primary infrastructure used by institutions active in digital assets, from large asset managers and hedge funds to global banks and neobanks.
+(gap: small)
+Prior to co-founding Talos, Anton served as Head of Trading Technology for AQR Capital Management, one of the world’s most prominent quantitative investment firms. Prior to that he spent six years at Broadway Technology, most recently serving as Director of Software, where he led trading technology development projects for leading banks, asset managers, and vendors. He began his technology career at Microsoft.
+(gap: small)
+Anton was born in Ukraine and is a veteran of the Israel Defense Forces. He was a member of the Israeli National Shooting Team and is a gold medalist from the 1998 World Championships. Anton holds a degree in Computer Science from MIT.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/katzanton/
+
+----
+
+Email: 
+
+----
+
+Uuid: W3CHfb0FJda1YPXq
+
+----
+
+Created-at: 1760458271
+
+----
+
+Modified-at: 1760530045

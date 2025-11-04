@@ -1,0 +1,76 @@
+label: Access
+icon: lock
+sections:
+    form_access:
+        type: fields
+        fields:
+            close_on_date:
+                label: Close on Date?
+                default: false
+                extends: fields/yes_no
+            close_date:
+                label: Close Date
+                type: date
+                time: true
+                when:
+                    close_on_date: true
+            close_content:
+                label: Closed Content
+                extends: fields/layout
+            restrict_access:
+                label: Restrict Access?
+                default: false
+                extends: fields/yes_no
+            access_token:
+                type: text
+                label: Access Token
+                when:
+                    restrict_access: true
+                help: '{{page.url}}?t={{page.access_token}}'
+            download_users:
+                type: janitor
+                command: 'janitor:open --data {{ page._download_invited_users_url }}'
+                icon: download
+                label: Download Invited Users
+                intab: true
+                when:
+                    restrict_access: true
+            invited_users:
+                label: Invited Users
+                type: structure
+                columns:
+                    email:
+                    first_name:
+                    last_name:
+                    access_token:
+                fields:
+                    email:
+                        type: email
+                        label: Email
+                        required: true
+                    first_name:
+                        type: text
+                        label: First Name
+                    last_name:
+                        type: text
+                        label: Last Name
+                    access_token:
+                        type: text
+                        label: Access Token
+                        help: Access token will be automatically generated (page refresh required)
+                when:
+                    restrict_access: true
+            restrict_submissions:
+                label: Restrict Number of Submissions?
+                default: false
+                extends: fields/yes_no
+            max_submissions:
+                type: number
+                label: Max Submissions
+                when:
+                    restrict_submissions: true
+            max_submissions_message:
+                type: textarea
+                label: Max Submissions Message
+                when:
+                    restrict_submissions: true

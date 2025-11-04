@@ -1,0 +1,45 @@
+Title: Last Break of the Day
+
+----
+
+Session: Break 2
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 16:40:00
+
+----
+
+Time-finish: 17:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: RdNGhFFik7WX2qgH
+
+----
+
+Modified-at: 1759990776

@@ -1,0 +1,28 @@
+@import "./assets/css/typography.css";
+@import "./assets/css/grid.css";
+@import "./assets/css/general.css";
+@import "./assets/css/remixicon.css";
+@import "./assets/css/lightbox.css";
+@import "./assets/css/snippets.css";
+@import "./assets/css/button.css";
+@import "./assets/css/embla.css";
+@import "./assets/css/form.css";
+@import "./assets/css/croppie.css";
+@import "./assets/css/cookie.css";
+@import "./assets/css/overrides.css";
+@import "./assets/css/flatpickr.css";
+@import "./assets/css/choices.css";
+
+@layer base {
+  :root {
+    --cfc-black: #000000;
+    --cfc-white: #ffffff;
+    --cfc-grey: #efefef;
+    --cfc-dark-grey: #333333;
+    --cfc-gold: #f1cc0e;
+  }
+}
+
+@layer components {
+  .btn-primary {}
+}

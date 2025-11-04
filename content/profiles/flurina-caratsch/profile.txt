@@ -1,0 +1,61 @@
+Title: Flurina Caratsch
+
+----
+
+Picture: - file://a1X7BfKxnDIZl8vr
+
+----
+
+Picture-color: - file://a1X7BfKxnDIZl8vr
+
+----
+
+Picture-cropped: - file://Pg9J0esoCYGEG0RG
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Project Lead & Marketing
+
+----
+
+Company: 
+
+----
+
+Company-url: https://cfc-stmoritz.com
+
+----
+
+Bio: As marketing and project manager for the CfC St. Moritz, Flurina's responsibilities cover everything content-related and the marketing planning around the conference. Flurina holds a Bachelor of Science in Tourism and Event Communication. Along with attention to detail in planning and implementing events and projects, she has professional experience in marketing and guest relations.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/flurina-caratsch-917571185/
+
+----
+
+Email: flurina@cfc-stmoritz.com
+
+----
+
+Autoid: 8o26dcbf
+
+----
+
+Uuid: hG3pswWbArh1xnfH
+
+----
+
+Datemodifiedepoch: 1710527001
+
+----
+
+Modified-at: 1760533988

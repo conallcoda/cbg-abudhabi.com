@@ -1,0 +1,10 @@
+label: Text
+type: group
+fieldsets:
+    accordion: blocks/accordion
+    button: blocks/button
+    divider: blocks/divider
+    heading: blocks/heading
+    list: blocks/list
+    text: blocks/text
+    markdown: blocks/markdown

@@ -1,0 +1,49 @@
+Title: From Foundations to Fortification: Privacy, Security, and the Next Layer of Trust
+
+----
+
+Session: Session 1 - Inside the Machine
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>As blockchain infrastructure scales and tokenized systems go live, the surface area for attacks and compliance risk grows in tandem. With high-profile hacks and rising regulatory pressure, the next wave of innovation must prioritize safeguarding users, assets, and data. From zero-knowledge proofs and modular architectures to smart contract security and embedded privacy, the focus is shifting toward building resilience. How can current and next-generation blockchain infrastructure meet this demand?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"85714d2e-0812-4f10-8997-7f9de3aea19a","isHidden":false,"type":"text"}],"id":"a3e15036-5273-4b9e-a56d-1d0dac4c2aa5","width":"1/1"}],"id":"c21aba8f-4834-4747-9d0e-35d0691bc87b"}]
+
+----
+
+Time-start: 09:55:00
+
+----
+
+Time-finish: 10:35:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: ixhudVmMCZh1c1G8
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1760127392

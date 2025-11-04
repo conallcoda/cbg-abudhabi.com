@@ -1,0 +1,57 @@
+Title: Eswar Prasad
+
+----
+
+Picture: - file://1yX79UEaSAKV0maj
+
+----
+
+Picture-color: - file://Rm3kpgjH0zQTtxya
+
+----
+
+Picture-cropped: - file://hDJIumL9JBwxXfk3
+
+----
+
+Logo: - file://eHCypNDtiD8RZOCp
+
+----
+
+Subtitle: Professor
+
+----
+
+Company: Cornell University
+
+----
+
+Company-url: http://prasad.dyson.cornell.edu
+
+----
+
+Bio: Eswar Prasad is a professor at Cornell University, a senior fellow at the Brookings Institution, and a research associate at the National Bureau of Economic Research. He is a former head of the IMF’s China Division. His latest book, “The Future of Money: How the Digital Revolution is Transforming Currencies and Finance,” was listed among the best economics books of 2021 by the Financial Times and The Economist.
+
+----
+
+Twitter: https://twitter.com/EswarSPrasad
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: nubcvbra
+
+----
+
+Uuid: vJfHwJ03ERmOKvUf
+
+----
+
+Modified-at: 1758629934

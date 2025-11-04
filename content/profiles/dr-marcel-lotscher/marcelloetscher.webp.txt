@@ -1,0 +1,5 @@
+Uuid: v6qyCPGulsdf2z9m
+
+----
+
+Template: image

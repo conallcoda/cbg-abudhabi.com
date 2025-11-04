@@ -1,0 +1,5 @@
+Uuid: aorNJXSioGrePi1H
+
+----
+
+Template: image

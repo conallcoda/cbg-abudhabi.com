@@ -1,0 +1,57 @@
+Title: David Fauchier
+
+----
+
+Picture: - file://m9H9pm41iibVTJYP
+
+----
+
+Picture-color: - file://WtywLHhjuUoINcAF
+
+----
+
+Picture-cropped: - file://oUFTvhDcGZTN5dMq
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO & CIO, Cambrial Capital
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: David is the CEO/CIO of Cambrial Capital, an institutional-grade ‘fund of funds’ strategy. He has been researching and investing in the crypto space since 2013, and held a number of product and data infrastructure roles at leading FinTech and venture-backed companies.
+
+----
+
+Twitter: https://twitter.com/dfauchier
+
+----
+
+Linkedin: https://www.linkedin.com/in/dfauchier/
+
+----
+
+Email: 
+
+----
+
+Autoid: zfw58ko7
+
+----
+
+Uuid: baReZYw8f0ZVwXBg
+
+----
+
+Modified-at: 1758629929

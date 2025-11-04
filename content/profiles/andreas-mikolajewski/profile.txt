@@ -1,0 +1,57 @@
+Title: Andreas Mikolajewski
+
+----
+
+Picture: - file://LjgExm0RyjDOqfKG
+
+----
+
+Picture-color: - file://wjycfCNAHdVVBbqb
+
+----
+
+Picture-cropped: - file://pp8redUM5toTh2oc
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO of VAEON
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Andreas Mikolajewski is the CEO of the VAEON Protocol. Andreas was part of the IOTA foundation and was the technical advisor for Iconiq Lab (Blockchain accelerator). Previously, he gained around 10 years of work experience as software developer and consultant for example at SAP. He is a blockchain pioneer and holds an M.Sc in computer science.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/andreas-mikolajewski/
+
+----
+
+Email: 
+
+----
+
+Autoid: rejd2bmy
+
+----
+
+Uuid: w82PbbHXNT3NbRv0
+
+----
+
+Modified-at: 1758629910

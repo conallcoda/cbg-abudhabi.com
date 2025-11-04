@@ -1,0 +1,57 @@
+Title: Peter Kerstens
+
+----
+
+Picture: - file://g1EwsDz3T7t0fvBw
+
+----
+
+Picture-color: - file://g1EwsDz3T7t0fvBw
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://4MypaMeIym3UAgvp
+
+----
+
+Subtitle: Advisor
+
+----
+
+Company: European Commission
+
+----
+
+Company-url: https://commission.europa.eu/index_en
+
+----
+
+Bio: Peter Advises on technological Innovation and Cybersecurity at the European Commission's Financial Services Department. He has led work on the EU digital finance strategies, including the design and negotiation of landmark legislation such as the Markets in Crypto Assets Regulation, and the Digital Operational Resilience Act. Peter is a recognised global authority on financial sector digital assets, cyber security and AI policies and regulation.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: GpllXqLBHSThE0iT
+
+----
+
+Created-at: 1759869443
+
+----
+
+Modified-at: 1759869907

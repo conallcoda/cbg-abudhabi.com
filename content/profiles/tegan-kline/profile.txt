@@ -1,0 +1,63 @@
+Title: Tegan Kline
+
+----
+
+Picture: - file://VPaa3G8KAvaInOdU
+
+----
+
+Picture-color: - file://IOxBVbxfMLlVdvLr
+
+----
+
+Picture-cropped: - file://E8j8Lyr4GkwXkScB
+
+----
+
+Logo: - file://lCI2UZWJwSndz7sJ
+
+----
+
+Subtitle: Co-Founder & Business Lead
+
+----
+
+Company: Edge & Node
+
+----
+
+Company-url: https://edgeandnode.com
+
+----
+
+Bio:
+
+Tegan Kline, Co-Founder and Business Lead at Edge & Node (the initial team behind The Graph), helping to ensure a vibrant decentralized future. Tegan is working on The Graph, an indexing and query protocol organizing the world’s open blockchain data and making open data a public good. 
+
+Tegan Kline is the former International Business Development Manager and OXT Relations Lead for Orchid, an A16z and Sequoia backed blockchain company that created tools and protocols for users to obtain digital freedom and an open and accessible internet.
+
+Tegan began her career on Wall Street in Investment Banking at BAML and, prior to discovering blockchain, worked in Sales and Trading at Barclays.
+
+----
+
+Twitter: https://twitter.com/theklineventure
+
+----
+
+Linkedin: https://www.linkedin.com/in/tegan-kline-17306b60
+
+----
+
+Email: 
+
+----
+
+Autoid: jy202zyz
+
+----
+
+Uuid: CtrwIvdJgAR54ScU
+
+----
+
+Modified-at: 1758630006

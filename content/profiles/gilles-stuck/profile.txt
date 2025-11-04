@@ -1,0 +1,64 @@
+Title: Gilles Stuck
+
+----
+
+Picture: - file://eJ7bOT5wEEizCjqV
+
+----
+
+Picture-color: - file://abeVTTUyUEjRyVIW
+
+----
+
+Picture-cropped: - file://yq9xbTVXai6IRcVu
+
+----
+
+Logo: - file://MA3HQYA2p5NrcTFc
+
+----
+
+Subtitle: Market Head Switzerland
+
+----
+
+Company: Bank Julius Baer & Co. Ltd.
+
+----
+
+Company-url: https://www.juliusbaer.com/ch/en/
+
+----
+
+Bio:
+
+Gilles Stuck has been Market Head Switzerland of Bank Julius Baer & Co. Ltd. since 1 November 2021. He joined the bank in 2018 as Head of Structured Finance, M&A and Deputy Chief Credit Officer. Prior to that, he spent more than 12 years in the financial services industry, holding various senior management positions. He started his career as an analyst in the M&A realm. 
+Gilles Stuck holds a Master of Science in Business Administration from the University of Berne.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/gilles-stuck/
+
+----
+
+Email: 
+
+----
+
+Uuid: tqrPgcmMKvsCmDko
+
+----
+
+Datecreatedepoch: 1698386457
+
+----
+
+Datemodifiedepoch: 1698386756
+
+----
+
+Modified-at: 1758629942

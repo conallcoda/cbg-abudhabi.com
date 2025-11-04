@@ -1,0 +1,57 @@
+Title: Melanie Mohr
+
+----
+
+Picture: - file://LnHES3IBpgKcLn2b
+
+----
+
+Picture-color: - file://UfNB041cxOHCC5w8
+
+----
+
+Picture-cropped: - file://5ytMzyZKnyccqI3s
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO, WOM Protocol
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Melanie Mohr is a Berlin-based entrepreneur with 20 years’ experience in media, marketing and mobile applications. In 2016 she founded YEAY - the leading video m-commerce platform providing GenZ with a space to share and shop. In 2018 she became the founder and CEO of WOM Protocol, the blockchain company helping brands tap into peer-to-peer recommendations.
+
+----
+
+Twitter: https://twitter.com/mohrwom
+
+----
+
+Linkedin: https://www.linkedin.com/in/melaniemohrprofile/
+
+----
+
+Email: 
+
+----
+
+Autoid: u1nts3f0
+
+----
+
+Uuid: EHDYnoke2Wxtbfge
+
+----
+
+Modified-at: 1758629978

@@ -1,0 +1,57 @@
+Title: Viktor Fischer
+
+----
+
+Picture: - file://TXk6QJebdeFUqupj
+
+----
+
+Picture-color: - file://iTD7dz29EVJymTOV
+
+----
+
+Picture-cropped: - file://3j7mq9poLDSWVAie
+
+----
+
+Logo: - file://t7AdMb3iwV2X1Fij
+
+----
+
+Subtitle: Managing Partner
+
+----
+
+Company: Rockaway Blockchain Fund
+
+----
+
+Company-url: https://rbf.capital
+
+----
+
+Bio: Viktor is the Managing Partner of Rockaway Blockchain Fund. Prior to Rockaway, Viktor worked at McKinsey & Co focusing on corporate finance and M&A. Before that, he co-founded Innovatrics, a start-up focused on biometric identification, which won multiple awards, such as Deloitte Top 50 growth companies. As a hobby, Viktor has been teaching corporate finance and valuations at Charles University in Prague, University Paris XI, and startup accelerators. Viktor holds a Masters degree from HEC Paris and MBA from INSEAD.
+
+----
+
+Twitter: https://twitter.com/viktorfischer
+
+----
+
+Linkedin: https://www.linkedin.com/in/viktorfischer/
+
+----
+
+Email: 
+
+----
+
+Autoid: 03qhhoel
+
+----
+
+Uuid: XB3zecneXSO6Kuoj
+
+----
+
+Modified-at: 1758630011

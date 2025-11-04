@@ -1,0 +1,17 @@
+Title: CNBC
+
+----
+
+Autoid: q40kupg4
+
+----
+
+Picture: partners-data/cnbc/22_cnbc_website.jpg
+
+----
+
+Link: https://www.cnbc.com
+
+----
+
+Uuid: vVMvAy7ceNMLsBZK

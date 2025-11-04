@@ -1,0 +1,21 @@
+title: Form
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Unlisted
+    listed:
+        label: Published
+options:
+    duplicate: true
+    changeTitle: true
+    changeStatus: true
+    changeTemplate: false
+    changeSlug: true
+    preview: '{{ page._preview_url }}'
+    delete: true
+    move: false
+tabs:
+    content: tabs/form-content
+    access: tabs/form-access
+    submissions: tabs/form-submissions

@@ -1,0 +1,57 @@
+Title: Elizabeth Stark
+
+----
+
+Picture: - file://uI7hw6G9KKAM3OCj
+
+----
+
+Picture-color: - file://jnk9Lvh9dSwVC6zE
+
+----
+
+Picture-cropped: - file://z4qrQbxOeizieu46
+
+----
+
+Logo: - file://l4GIlJgiwrKBfNro
+
+----
+
+Subtitle: CEO and Co-Founder, Lightning Labs
+
+----
+
+Company: Lightning Labs
+
+----
+
+Company-url: https://lightning.engineering
+
+----
+
+Bio: Elizabeth Stark is CEO and Co-Founder of Lightning Labs, where she is building a programmable financial layer for the internet with fast, scalable bitcoin transactions. She is a fellow at Coin Center, the leading digital currency policy organization, and an advisor to numerous cryptocurrency companies and initiatives. Stark previously taught at Stanford and Yale University about the internet's impact on society, the economy, and the law, and was a visiting fellow at Yale’s Information Society Project. She has worked with startups in areas ranging from decentralized technology to AI and was an entrepreneur-in-residence at Stanford StartX. Stark holds a J.D. from Harvard Law School.
+
+----
+
+Twitter: https://twitter.com/starkness
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: rlral3t7
+
+----
+
+Uuid: 4VTWtAdPzpp8vSjn
+
+----
+
+Modified-at: 1758629933

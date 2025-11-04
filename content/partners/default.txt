@@ -1,0 +1,57 @@
+Title: Partners
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"source":"page://SaTCvXy9PZM8UO22","custom_id":"","custom_class":""},"id":"2a5380cd-6c95-46a7-923b-95d45f69eb5c","isHidden":false,"type":"event_partners"}],"id":"8bc793d4-9c81-4d2d-8f4a-ae9a69d0ea4b","width":"1/1"}],"id":"51ab8c67-e865-4658-a73f-250cbae3df2d"}]
+
+----
+
+Layout-off: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"<p>Coming Soon!</p>","custom_id":"","custom_class":""},"id":"ab5de0e6-b5cd-4c04-9387-37c757c27939","isHidden":false,"type":"text"}],"id":"0609288a-bac3-47ba-a94c-dd044b53af99","width":"1/1"}],"id":"b933d7c1-f42f-4164-9fd5-67d1efb57487"}]
+
+----
+
+Restrict-access: false
+
+----
+
+Access-token: OLbjfvNpQ5CpqbQ4
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Uuid: iDCoH7wUqiw8AT8h
+
+----
+
+Created-at: 1722255601
+
+----
+
+Modified-at: 1758203867

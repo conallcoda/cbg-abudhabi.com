@@ -1,0 +1,9 @@
+title: Image
+accept:
+  type: image
+create:
+  format: webp
+fields:
+  alt:
+    type: text
+    label: Alt Text

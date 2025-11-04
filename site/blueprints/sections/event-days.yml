@@ -1,0 +1,16 @@
+type: pages
+label: Agenda
+layout: table
+sortBy: date asc
+search: false
+image: false
+columns:
+    date:
+        label: Date
+        type: html
+        value: '{{ page._date_text() }}'
+    last_modified:
+        label: Last Modified
+        value: '{{ page.getModifiedAgo() }}'
+template:
+    - event_day

@@ -1,0 +1,61 @@
+Title: Pearl Imbach
+
+----
+
+Picture: - file://EgmZEdyf5o5x3sHP
+
+----
+
+Picture-color: - file://EgmZEdyf5o5x3sHP
+
+----
+
+Picture-cropped: - file://kKFKQFPlQFD9ICB9
+
+----
+
+Logo: - file://7K4ZhEyHCFgFuYJB
+
+----
+
+Subtitle: Head of Capital Markets
+
+----
+
+Company: zkSync
+
+----
+
+Company-url: https://zksync.io
+
+----
+
+Bio: 
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/pearl-imbach/?originalSubdomain=ch
+
+----
+
+Email: 
+
+----
+
+Uuid: ptNKxCoOZJhdR19P
+
+----
+
+Datecreatedepoch: 1703009083
+
+----
+
+Datemodifiedepoch: 1703009158
+
+----
+
+Modified-at: 1759962979

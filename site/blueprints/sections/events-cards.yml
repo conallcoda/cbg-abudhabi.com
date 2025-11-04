@@ -1,0 +1,10 @@
+type: pages
+layout: cardlets
+sortBy: start_date desc
+search: true
+image: page.picture.toFile
+parent: kirby.page("events")
+info: "{{ page.date_text }}"
+limit: 4
+template:
+  - event

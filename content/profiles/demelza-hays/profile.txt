@@ -1,0 +1,57 @@
+Title: Demelza Hays
+
+----
+
+Picture: - file://a8NCpL1FDgS3cKPz
+
+----
+
+Picture-color: - file://mGYieTmNvw6qxjXR
+
+----
+
+Picture-cropped: - file://KfhthzdPmJFdx1uB
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Ph.D. Candidate, University of Liechtenstein
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Demelza Hays researches the role of cryptocurrency in asset management as a PhD student in Business Economics at the University of Liechtenstein. She is also a junior fund manager for an Alternative Investment Fund (AIF) regulated cryptocurrency fund in Liechtenstein. Ms. Hays completed her Master’s degree in Economics at the Toulouse School of Economics and she is a U.S. Fulbright Scholar. She also publishes a quarterly research report on cryptocurrencies called the Crypto Research Report.
+
+----
+
+Twitter: https://twitter.com/CryptoPhD
+
+----
+
+Linkedin: https://www.linkedin.com/in/demelza-hays-7211845a/
+
+----
+
+Email: 
+
+----
+
+Autoid: ha1xb86g
+
+----
+
+Uuid: MwNSHESs6BswZKVL
+
+----
+
+Modified-at: 1758629931

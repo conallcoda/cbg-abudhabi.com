@@ -1,0 +1,49 @@
+Title: Growth through Divergence: IPOs, M&A, and the Next Institutional Chapter
+
+----
+
+Session: Session 5 - The Buy-side Perspective
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>A dual narrative is emerging in the digital asset space: high-growth firms are pursuing public listings, while others engage in strategic acquisitions to scale or survive. This divergence reflects an industry at an inflection point – maturing, capitalizing, and realigning in response to market forces. As capital flows deepen and investor expectations evolve, will these parallel paths define a more resilient, scalable crypto ecosystem – or expose the boundaries of its growth?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"5bfa4334-c0b1-418f-9252-388257960b5e","isHidden":false,"type":"text"}],"id":"d6b4d33e-2a80-4e76-acf8-b273f3885b87","width":"1/1"}],"id":"ad33f03e-621c-43c3-948d-4e6a5df39875"}]
+
+----
+
+Time-start: 17:05:00
+
+----
+
+Time-finish: 17:40:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: TOjQ4z5rfpDYdl3R
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1760454339

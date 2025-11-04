@@ -1,0 +1,49 @@
+Title: The New Global Order of Capital: Investing through Transition and Transformation
+
+----
+
+Session: Session 1 - The World Rewired
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Global finance is entering a period of profound transition, shaped by uneven growth, shifting capital flows, and the accelerating impact of technology. Geopolitical realignments and demographic shifts are redrawing the global investment map, while institutions adapt to new expectations of transparency, customization, and trust. As markets evolve across multiple dimensions, how can investors position themselves to thrive amid transformation rather than react to it?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"1e008a27-0b06-4605-aa97-81f60dd9ab8c","isHidden":false,"type":"text"}],"id":"5c347da8-0c4a-43ca-8afc-2f85a211012e","width":"1/1"}],"id":"5194a6e3-b8a3-4706-be4c-965088b294e5"}]
+
+----
+
+Time-start: 12:40:00
+
+----
+
+Time-finish: 13:20:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: uJXt7e9yTbfFH1ph
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1760117657

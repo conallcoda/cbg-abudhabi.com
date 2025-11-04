@@ -1,0 +1,63 @@
+Title: Nick Ducoff
+
+----
+
+Picture: - file://qr9dm6bPcpdiMgFS
+
+----
+
+Picture-color: - file://SGzNg0BUtMLRfGE6
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://8PCdWwdmVdKOTUOB
+
+----
+
+Subtitle: Head of Institutional Growth
+
+----
+
+Company: Solana Foundation
+
+----
+
+Company-url: https://solana.org
+
+----
+
+Bio:
+
+Nick Ducoff leads institutional growth at the Solana Foundation, supporting digital assets, tokenization, and permissioned environments. He previously was a Venture Partner at G20 Ventures, focusing on blockchain investments. Nick co-founded two VC-backed tech companies that were acquired: Infochimps (Big Data systems) and Edmit (college financial decisions).
+
+As an educator, Nick taught entrepreneurship at John Cabot University and served as Vice President for New Ventures at Northeastern University. He co-authored a bestselling book on education finance and was invited to the White House for his work in education by the Obama and Trump administrations.
+
+Nick holds a BBA from Emory University and a JD with honors from the University of Texas. He is licensed to practice law in Texas and Massachusetts.
+
+----
+
+Twitter: https://x.com/nickducoff
+
+----
+
+Linkedin: https://www.linkedin.com/in/nickducoff/
+
+----
+
+Email: 
+
+----
+
+Uuid: kEFVV6uXsMWEUzbM
+
+----
+
+Created-at: 1731491818
+
+----
+
+Modified-at: 1758629985

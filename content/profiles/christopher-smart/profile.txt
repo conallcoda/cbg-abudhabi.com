@@ -1,0 +1,69 @@
+Title: Christopher Smart
+
+----
+
+Picture: - file://2KkNVyJ4qSo9Drqd
+
+----
+
+Picture-color: - file://v7CyJxugqslqc79l
+
+----
+
+Picture-cropped: - file://yAlcrJgYoL4C7kyF
+
+----
+
+Logo: - file://rsdmGYm1IvRdu2st
+
+----
+
+Subtitle: Managing Partner
+
+----
+
+Company: Arbroath Group
+
+----
+
+Company-url: https://arbroathgroup.com/
+
+----
+
+Bio:
+
+Christopher Smart is an accomplished investor, economist, and former senior policymaker, with demonstrated success in portfolio management and investment strategy, complemented by senior roles at the U.S. Treasury and the White House. Currently, he is the founder and managing partner of the Arbroath Group and Senior Fellow at the Milken Institute.
+From 2018 to 2023, Christopher was Chief Global Strategist at Barings, where he also founded, built and led the Barings Investment Institute, which focused on the investment opportunities shaped by macroeconomic and political dynamics and explored the forces driving long-term capital allocation decisions. 
+Before that, he served as Special Assistant to the President at the National Economic Council and the National Security Council, where he was principal advisor on trade, investment and global economic issues. Christopher also spent four years as Deputy Assistant Secretary of the Treasury, where he led the response to the European financial crisis and led U.S. engagement on financial policy across Europe, Russia and Central Asia.
+Prior to his government service, he worked as the Director of International Investments at Pioneer Investments where he managed top-performing Emerging Markets and International portfolios. Early in his career, he was an advisor to the Russian Finance Ministry following the collapse of the Soviet Union and a journalist in Florida and France.  
+Christopher has also served as a Senior Fellow at the Carnegie Endowment for International Peace, at the Harvard Kennedy School’s Mossavar-Rahmani Center for Business and Government, and at the Chatham House Royal Institute of International Affairs where he explored issues at the intersection of financial markets, international relations and national security. 
+Christopher writes regular columns on global markets and international relations that have appeared in Barron’s, Bloomberg Opinion and Foreign Policy, and he is also a frequent guest on CNBC, Bloomberg News and other major media.   
+Christopher holds a B.A. in History from Yale University and a Ph.D. in International Relations from Columbia University. Fluent in French and Russian, he is a member of the Council on Foreign Relations and holds the Chartered Financial Analyst designation.
+
+----
+
+Twitter: https://twitter.com/csmart
+
+----
+
+Linkedin: https://www.linkedin.com/in/csmart-arbroath/
+
+----
+
+Email: 
+
+----
+
+Uuid: 8yNDasEDgsPHCxyU
+
+----
+
+Datecreatedepoch: 1697544594
+
+----
+
+Datemodifiedepoch: 1700142014
+
+----
+
+Modified-at: 1758629926

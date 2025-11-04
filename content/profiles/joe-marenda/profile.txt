@@ -1,0 +1,65 @@
+Title: Joe Marenda
+
+----
+
+Picture: - file://zwqBW5yWK0RnFVAn
+
+----
+
+Picture-color: - file://2N583ET3TXoBhXFh
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://l6GbMhlDPix8CZqZ
+
+----
+
+Subtitle: Head of Digital Assets Research & Head of Hedge Fund Research
+
+----
+
+Company: Cambridge Associates
+
+----
+
+Company-url: https://www.cambridgeassociates.com/
+
+----
+
+Bio:
+
+Joe Marenda is a Partner and the Head of Digital Assets Research and Head of Hedge Fund Research at Cambridge Associates, LLC. Since joining the firm in 2006, Joe has been instrumental in advancing the firm’s focus on alternative assets and launched the firm’s Digital Assets initiative in 2018. He leads a global team of thirteen professionals across five offices. Cambridge manages approximately $80 billion in hedge fund assets.
+
+In 2016, Joe began researching crypto funds, and by 2018, he was actively investing client capital in both crypto venture and crypto hedge funds. His expertise is frequently sought by the media, and he is a regular speaker at industry conferences. Joe also contributes to Cambridge Associates' research on Digital Assets and traditional hedge funds.  He chairs the Hedge Fund Ratings Committee.
+
+Before his tenure at Cambridge Associates, Joe served as the turnaround CEO at Keizon, K.K., a fintech company based in Tokyo.
+
+Joe holds an MBA from the University of Virginia, an MA from Yale University, and a BA from the University of Southern California.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/joe-marenda
+
+----
+
+Email: 
+
+----
+
+Uuid: 1TCSm7HaGC2C99qE
+
+----
+
+Created-at: 1734619874
+
+----
+
+Modified-at: 1758629948

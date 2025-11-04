@@ -1,0 +1,49 @@
+Title: Regulating Tokenization: Securities, Commodities, or Something New? (BREAKOUT ROOM)
+
+----
+
+Session: Session 2 - Lines of Control
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>As tokenization gains traction across assets – from real estate to treasuries – regulators are faced with a fundamental question: How should these digital instruments be classified and governed? Legal definitions and regulation of securities, commodities, and payment instruments are being tested, with growing tension between legacy frameworks and emerging technologies. Are existing legal structures capable of evolving to accommodate the nature of tokenized assets, or is there a need for entirely new frameworks fit for the digital age?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 16:05:00
+
+----
+
+Time-finish: 16:40:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: YiSVu0X5stUg6KYu
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1760384055

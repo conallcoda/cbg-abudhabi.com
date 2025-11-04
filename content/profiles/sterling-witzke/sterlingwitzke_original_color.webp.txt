@@ -1,0 +1,5 @@
+Uuid: 42w5geolSoWx66g0
+
+----
+
+Template: image

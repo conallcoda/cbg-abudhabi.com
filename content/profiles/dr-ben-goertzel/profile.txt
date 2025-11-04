@@ -1,0 +1,57 @@
+Title: Dr. Ben Goertzel
+
+----
+
+Picture: - file://TPV25FTi4EFP8lpm
+
+----
+
+Picture-color: - file://TPV25FTi4EFP8lpm
+
+----
+
+Picture-cropped: - file://v9ybNBOW09PFdp2u
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO, SingularityNET
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Dr. Ben Goertzel is the CEO of the decentralized AI network SingularityNET, a blockchain-based AI platform company, and the Chief Scientist of Hanson Robotics. Dr. Goertzel also serves as Chairman of the Artificial General Intelligence Society, the OpenCog Foundation, the Decentralized AI Alliance and the futurist nonprofit Humanity+. Dr. Goertzel is one of the world’s foremost experts in Artificial General Intelligence, a subfield of AI oriented toward creating thinking machines with general cognitive capability at the human level and beyond. He also has decades of expertise applying AI to practical problems in areas ranging from natural language processing and data mining to robotics, video gaming, national security and bioinformatics. He has published 20 scientific books and 140+ scientific research papers, and is the main architect and designer of the OpenCog system and associated design for human-level general intelligence.
+
+----
+
+Twitter: https://twitter.com/bengoertzel
+
+----
+
+Linkedin: https://www.linkedin.com/in/bengoertzel/
+
+----
+
+Email: 
+
+----
+
+Autoid: osefodcq
+
+----
+
+Uuid: Hca58mTcNWffV5Kb
+
+----
+
+Modified-at: 1759961094

@@ -1,0 +1,49 @@
+Title: Bitcoin’s Strategic Moment: A Global Asset in a Shifting Geopolitical Order
+
+----
+
+Session: Session 3 - The Future of Markets
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Bitcoin’s role has evolved from niche experiment to a macro asset – but its strategic relevance is still unfolding. As the world reassesses monetary risk, reserve composition, and financial sovereignty, Bitcoin is increasingly viewed through a geopolitical and macroeconomic lens. In a world of rising fragmentation and fiscal instability, how might Bitcoin continue to evolve as a tool of economic strategy rather than just speculation?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"41369bcc-bc64-46bc-be25-1225c1e3a7dc","isHidden":false,"type":"text"}],"id":"f93f4d28-dd1c-4ae1-b7a8-9fac93d4b1f3","width":"1/1"}],"id":"0af1485c-f9d8-4d90-adc1-826ad24ffc08"}]
+
+----
+
+Time-start: 17:40:00
+
+----
+
+Time-finish: 18:20:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: Tb8ksDQkdJL7jfzS
+
+----
+
+Created-at: 1725981743
+
+----
+
+Modified-at: 1761731350

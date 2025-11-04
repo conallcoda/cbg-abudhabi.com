@@ -1,0 +1,57 @@
+Title: Frederik Gregaard
+
+----
+
+Picture: - file://hfSBXepchNToCs3L
+
+----
+
+Picture-color: - file://QRYZu5K7oInszxRu
+
+----
+
+Picture-cropped: - file://r9oSsDkrv4PTWH7S
+
+----
+
+Logo: - file://sz5qFfS3unXyhsxI
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Cardano Foundation
+
+----
+
+Company-url: https://cardanofoundation.org
+
+----
+
+Bio: Frederik Gregaard has more than a decade experience in Banking, Wealth Management & Asset Management. He is a certified currency trader and digital asset management expert. He advises Regulators, Banks and Asset Managers on how digital business models will impact their sector and how technology such as Blockchain, DLT, Big Data and AI will affect their businesses in the short and medium term. Frederik is a mentor and driver in the F10 Fintech incubator and mentor in the Fusion Accelerator. He has worked with a larger number of Fintech companies in Switzerland and abroad predominantly covering DLT, Robo Advisors, Asset Allocation and KYC automatization, has built operational and trading infrastructure for more than 100 Asset Managers and been a part of implementing and advising on crypto currencies for Swiss banks. Frederik is passionate about how technology enables new business models, bringing trust back into banking and trail running.
+
+----
+
+Twitter: https://twitter.com/F_Gregaard
+
+----
+
+Linkedin: https://www.linkedin.com/in/gregaard/
+
+----
+
+Email: 
+
+----
+
+Autoid: su0hh3ln
+
+----
+
+Uuid: sO6Fh5CgsiX01gig
+
+----
+
+Modified-at: 1758629941

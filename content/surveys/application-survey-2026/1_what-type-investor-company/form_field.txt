@@ -1,0 +1,46 @@
+Title: What type of investor / company are you representing?
+
+----
+
+Type: radio_boxes
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: Family Office
+- 
+  title: Institutional Investor
+- 
+  title: Private Investor (UHNWI)
+- 
+  title: Other
+
+----
+
+Uuid: tE78Tf6kxyHrtpmv
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1723116097

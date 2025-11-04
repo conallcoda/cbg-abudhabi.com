@@ -1,0 +1,77 @@
+Title: Crypto Fund Performance in 2023: A Mid-Year Examination by 21e6 Capital
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"text":"**The first half of 2023 brought with it a cloud of unpredictability. This in-depth examination evaluates the outcomes of diverse crypto fund strategies during the initial half of 2023, utilizing data from the 21e6 Crypto Fund Database. From the achievements of directional funds during the more bullish start of the year, to the challenges encountered by quantitative and futures-focused funds, this piece explores the primary elements influencing crypto hedge funds. Emphasizing market dynamics, regulatory obstacles, and investor perspectives, this analysis provides a crucial overview of the present crypto fund environment and a preview of the trajectory going forward.**\n \n**Bitcoin lead directional funds through the first half of 2023**\nDirectional funds underperformed Bitcoin for the observed period, leading some investors to question their allocations with these managers. Crypto investors are often happy to forego some upside in return for strong downside protection; unfortunately, a lot of managers were not able to deliver on that promise last year. Because of this, weaker performance throughout 2023 casts a dim light on these funds.\n\nAmongst the sub-categories of directional funds, discretionary (i.e. fundamental) managers performed best this year. Coincidentally, these would also be the managers with the largest drawdowns last year due to the nature of their strategies. More quantitative managers, while positive, left a lot of returns on the road up until June. These managers will have faced some uncomfortable questions recently.\n\nOne important issue to note is regulatory uncertainty and the closure of major banking partners in the U.S. Operational difficulties such as these may have impacted more actively trading funds’ performance as managers were occupied with finding new banking partners or administrators. Discretionary managers, with their longer holding periods and often cold-custodied assets did not experience these adverse effects with the same intensity.\n\n(media: grafik1_ps.png)\n\n**Diving Deeper: Why did quantitative funds limp through the first half of the year?**\nThe uncertainties mentioned, coupled with volatile markets, restrained quantitative funds. We had numerous conversations with quantitative directional fund managers to understand better  why they were struggling to generate higher returns. According to these managers, the main reasons for their underperformance in 2023 are the following:\n\n1)\tFluctuating momentum in sideways markets “misled” the trading algorithms of systematic crypto quant funds, which predominantly adopt trend-folllwing strategies. The algorithms are designed to capitalize on clear market trends and often faltered during the past months “choppy” markets.\n  \n2)\tThe onset of the year also brought the previously noted regulatory dilemmas. On top of the closures of major banking partners, the liquidity in futures markets lost due to FTX was still missing. These challenges were particularly pronounced for quantitative funds due to their reliance on automated strategies and specific infrastructures. Systematic funds, with their intricate operations, might not be as agile in adapting to shifts as discretionary funds with simpler setups.\n  \t\n3)\tFurthermore, some managers may simply not have been able to keep up with changing regimes. Crypto markets evolve and trading algorithms need to be updated. Some strategies that may have worked well 6 months ago or in the last bear market no longer deliver sufficient returns.\n\n**Larger-than-normal cash positions contribute to underperformance**\nHistorically, quantitative crypto hedge funds outperformed Bitcoin during bull runs. We should note here that, although Bitcoin is up for the first half of 2023, we are still far-removed from the bull markets of 2021 when many crypto funds posted their most stellar performance figures.\n\nEven during those times, fund managers are forced to uphold liquidity in the form of cash or short-term money market products. The inherent mechanics of fund operations in the traditional financial worlds mean that the vast majority of funds are denominated in fiat currencies, and only accept fiat subscriptions or redemptions. Consequently, asset liquidations become a prerequisite for redemptions, leading to transient cash-heavy positions. In bear markets or during volatile periods, managers sometimes amplify their cash holdings to reduce volatility in their funds.\n\nUnfortunately, while cash is a valuable tool for seamless fund transactions, it poses a major challenge during market transitions like we experienced from late 2022 leading into 2023. Managers held large cash positions at that time due to the bearish 2022 and redemptions caused by the events of that year. When Bitcoin, somewhat suddenly, bounced back high in January 2023 and the first half of the year, managers found themselves trailing behind due to their larger-than-normal cash reserves. This, coupled with the subpar performance of several prominent altcoins against Bitcoin, is another big reason why funds underperformed.\n\n**Non-directional and futures-related strategies faced major obstacles**\nBeyond the implications of substantial cash holdings, the performance of futures-dependent strategies also came under scrutiny in 1H2023. Out of all non-directional strategies tracked, futures-reliant strategies such as those employed by futures arbitrage funds did the worst. These managers faced some additional, unique challenges:\n\n1)\tFTX, before its collapse, was the premier crypto exchange for perpetual swaps, futures, and options. As FTX collapsed in November 2022, so did most of the futures volume and fund managers had to find new exchanges with much lower liquidity. This low-liquidity environment has plagued them ever since.\n  \t\n2)\tSimilarly, the funding rates on crypto derivatives remain low. This means that the basis trade (one of the major return drivers of crypto futures arbitrage in 2021) is no longer a sufficiently profitable strategy.\n\n(media: grafik2_ps.png)\n\n**Testing the waters with investors in 2023 and beyond**\nCrypto fund managers have tried to increase fundraising efforts in 2023, after a dismal experience in 2022. However, from our conversations with these managers, it’s clear that sentiment among existing LPs as well as future investors is lower than expected, even after a positive start to the year. Managers that lagged behind the market, on top of failing to protect from drawdowns last year, have a hard time presenting a clear value proposition and the temperature among their investors hasn’t warmed up noticeably. As a result, our 21e6 Crypto Fund Database shows that the number of new fund launches is moderate, and that many funds closed down early this year.\n\nSomething to take away: all crypto fund strategies achieved positive results this year. Investor confidence improved slightly, but fund inflows and fund launches are not yet signaling a full recovery in sentiment. Going forward, it’ll be interesting to see when the crater left by FTX will be filled (and by who). OKX and Gemini look like serious contenders at the moment, while managers try to steer clear of Binance.\n\n***\n\n**About 21e6**\n21e6 Capital is a Swiss investment advisor connecting professional investors with optimal crypto investment products. \nPlease find more information about our authors on our homepage: (link: https://assets.21e6.io text: 21e6.io target: blank)\n\n**About the Authors**\n(link: https://www.linkedin.com/in/janspoerer/ text: Jan Spörer target: blank) is Due Diligence Manager at 21e6 and responsible for overseeing the content quality management of the 21e6 Crypto Fund Database.\n\n(link: https://www.linkedin.com/in/max-bruckner/ text: Maximilian Bruckner target: blank) is Head of Marketing & Sales at 21e6 Capital AG. \n\n(link: https://www.linkedin.com/in/philippsandner/ text: Philipp Sandner target: blank) is on the Board of Directors of FiveT Fintech Fund, 21e6 Capital AG and Blockchain Founders Group— companies active in venture capital financing for blockchain startups and crypto asset investment management.","custom_id":"","custom_class":""},"id":"eab3837d-54d0-470d-8354-0b4766509550","isHidden":false,"type":"markdown"}],"id":"f0b6ac7a-4e1f-49c4-9ccc-733cb46732f9","width":"1/1"}],"id":"db67e002-ce03-4bae-b475-10d78292f357"}]
+
+----
+
+Picture: - file://bEetlcr1ZUYJo2Gj
+
+----
+
+Author: page://XDXEBIjudWCHlOsz
+
+----
+
+Date: 2023-09-28
+
+----
+
+Subtitle: Authors: Jan Spörer, Maximilian Bruckner, Philipp Sandner
+
+----
+
+Tags: Crypto Funds
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Picture-card: 
+
+----
+
+Header-title: 
+
+----
+
+Uuid: d8YteHJqY1dg8LHT
+
+----
+
+Datecreatedepoch: 1695881979
+
+----
+
+Datemodifiedepoch: 1695890786
+
+----
+
+Modified-at: 1728385736

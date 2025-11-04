@@ -1,0 +1,37 @@
+Title: How did you find out about the CfC St. Moritz?
+
+----
+
+Type: text
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options: 
+
+----
+
+Uuid: iUwNG6llK6W84DNO
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1726219839

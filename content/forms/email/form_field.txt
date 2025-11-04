@@ -1,0 +1,25 @@
+Title: Email
+
+----
+
+Type: email
+
+----
+
+Checkboxes-options: 
+
+----
+
+Dropdown-options: 
+
+----
+
+Error-message: 
+
+----
+
+Uuid: hrKJKHkgCsLMskSI
+
+----
+
+Modified-at: 1722928632

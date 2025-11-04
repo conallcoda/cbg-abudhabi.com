@@ -1,0 +1,63 @@
+Title: Michael Sung
+
+----
+
+Picture: - file://pBMhWUYpoTBs5XVt
+
+----
+
+Picture-color: - file://RDTCDwgGCeqSGcJh
+
+----
+
+Picture-cropped: - file://28Qpa02ZqpSw6BGv
+
+----
+
+Logo: - file://rDa8U1YGmIdrP4Se
+
+----
+
+Subtitle: Chairman
+
+----
+
+Company: CarbonBlue Innovations
+
+----
+
+Company-url: https://www.carbon.blue
+
+----
+
+Bio:
+
+Michael Sung is a technology venture builder and investor focused on the blockchain, digital finance, and Fintech industries. Prof. Sung is Chairman/CEO of FreeFlow Finance, a leading cross-border payments company developing regulated digital currency interoperability and on-chain FX infrastructure solutions for retail B2B commerce and trade.  
+
+Prof. Sung is also founding partner for LucidBlue Ventures, a digital assets fund focused on DeFi, NFT infrastructure, Gamefi, and Metaverse deals. He is the founding Director for both the Institute of Digital Finance Innovation at the Zhejiang International Business School and the Fintech Research Center at the Fanhai International School of Finance at Fudan University. 
+
+Prof. Sung is a Global Blockchain Business Council ambassador, Professional Council member for the Global Fintech Institute, and Digital Economy Task Force member for the UN ESCAP Sustainable Business Network. Prof. Sung has received various awards for technology entrepreneurship, including MIT Enterprise Forum’s Most Visionary Technology Award and Google’s Solve for X Prize. Prof. Sung received his Ph.D. in EECS at the MIT Media Lab/Computer Science and Artificial Intelligence Laboratory.
+
+----
+
+Twitter: https://www.twitter.com/@surrealucidity
+
+----
+
+Linkedin: http://www.linkedin.com/in/michaelsung99
+
+----
+
+Email: 
+
+----
+
+Autoid: 2ajjsi6m
+
+----
+
+Uuid: GT6DElPeQTbnIDi7
+
+----
+
+Modified-at: 1758629980

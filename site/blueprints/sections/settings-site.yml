@@ -1,0 +1,44 @@
+type: fields
+fields:
+    headline_general:
+        type: headline
+        numbered: false
+        label: General
+    season:
+        type: select
+        label: Active Season
+        options:
+            off: Off Season
+            on: On Season
+        required: true
+    headline_meta:
+        type: headline
+        numbered: false
+        label: Meta Information
+    site_title_prefix:
+        type: text
+        label: Site Title Prefix
+    site_description:
+        type: textarea
+        label: Site Description
+        buttons: false
+    headline_images:
+        type: headline
+        numbered: false
+        label: Images
+    site_logo:
+        extends: fields/image
+        label: Site Logo
+        width: 1/4
+    mountains_desktop:
+        extends: fields/image
+        label: Mountains (Desktop)
+        width: 1/4
+    mountains_mobile:
+        extends: fields/image
+        label: Mountains (Mobile)
+        width: 1/4
+    social_share_image:
+        extends: fields/image
+        label: Social Share Image
+        width: 1/4

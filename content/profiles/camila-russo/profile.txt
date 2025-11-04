@@ -1,0 +1,57 @@
+Title: Camila Russo
+
+----
+
+Picture: - file://Eir2hoRgTgP0fqLj
+
+----
+
+Picture-color: - file://Nhjb9h5tY5f5c5hM
+
+----
+
+Picture-cropped: - file://d78LbedPkFteW0QF
+
+----
+
+Logo: - file://lSliak0zx46C7vEZ
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: The Defiant
+
+----
+
+Company-url: https://thedefiant.io
+
+----
+
+Bio: Camila Russo is the Founder of The Defiant, a media company focusing on decentralized finance, and the author of The Infinite Machine, the most read book on the history of Ethereum. Previously, she was a markets and crypto reporter at Bloomberg News based in New York, Madrid and Buenos Aires. She has an MSc in Journalism from Northwestern University and is originally from Santiago, Chile.
+
+----
+
+Twitter: https://twitter.com/CamiRusso
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: b0zqk7sy
+
+----
+
+Uuid: YR7vxxn7Wdvmi10O
+
+----
+
+Modified-at: 1758629918

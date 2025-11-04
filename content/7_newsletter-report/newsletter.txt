@@ -1,0 +1,57 @@
+Title: Newsletter (Report)
+
+----
+
+Email-notifications:
+
+- 
+  after_step: page://DUygh9WkLDqAec28
+  send_email: page://24w0Y4DQfOhsNWfy
+
+----
+
+Test-data-mode: false
+
+----
+
+Default-product: 
+
+----
+
+Test-payment-mode: true
+
+----
+
+Restrict-access: false
+
+----
+
+Access-token: 
+
+----
+
+Invited-users: 
+
+----
+
+Restrict-submissions: false
+
+----
+
+Max-submissions: 
+
+----
+
+Max-submissions-message: 
+
+----
+
+Created-at: 1725476804
+
+----
+
+Modified-at: 1752226235
+
+----
+
+Uuid: AFGU0ogzYHcSEpHZ

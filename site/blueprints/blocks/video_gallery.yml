@@ -1,0 +1,20 @@
+name: Video Gallery
+icon: video
+tabs:
+    content:
+        fields:
+            items:
+                type: structure
+                fields:
+                    title:
+                        type: text
+                        label: Title
+                    subtitle:
+                        type: text
+                        label: Subtitle
+                    video_url:
+                        label: Url
+                        type: url
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

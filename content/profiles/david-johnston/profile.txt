@@ -1,0 +1,61 @@
+Title: David Johnston
+
+----
+
+Picture: - file://kI8arNHuQgQ1gMFL
+
+----
+
+Picture-color: - file://LeGy0zFPDb3yJZIb
+
+----
+
+Picture-cropped: - file://rNMTR755Zm0sk8Qr
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Open Source Contributor
+
+----
+
+Company: Morpheus
+
+----
+
+Company-url: https://mor.org/
+
+----
+
+Bio: Created the framework for "Dapps" in 2013 & “Smart Agents” in 2023. Weaving humans into the heart of Web3 & AI. Freedom Accelerating Decentralist.
+
+----
+
+Twitter: https://x.com/DJohnstonEC
+
+----
+
+Linkedin: https://www.linkedin.com/in/davidajohnston/
+
+----
+
+Email: 
+
+----
+
+Autoid: 6pu74y4o
+
+----
+
+Uuid: 5bkgNVGNKsT3mg7v
+
+----
+
+Datemodifiedepoch: 1696599516
+
+----
+
+Modified-at: 1758629929

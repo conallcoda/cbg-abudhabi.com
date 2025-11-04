@@ -1,0 +1,53 @@
+Title: Emilie Raffo
+
+----
+
+Picture: - file://jvBpLsnBDg9sqPks
+
+----
+
+Picture-cropped: - file://f6pKjNc0fBzySlRs
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Co-Organizer, Blockchain 4 Humanity
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Emilie has worked with blockchain startups ever since she graduated from business school and wrote her thesis on cryptocurrencies. Her job is to accelerate blockchain startups, but in her free-time, Emilie is the co-organizer of the "Blockchain4Good" meetup in Geneva, and the yearly awards "Blockchain4Humanity" at LaBitConf. If you're using blockchain to bring a positive impact on society, apply to win the award on (link: https://www.b4h.world/ text: www.b4h.world).
+
+----
+
+Twitter: https://twitter.com/EmilieRaffo
+
+----
+
+Linkedin: https://www.linkedin.com/in/emilieraffo/
+
+----
+
+Email: 
+
+----
+
+Autoid: yuvuu3wb
+
+----
+
+Uuid: 5ntD7dE3MuVBPMtO
+
+----
+
+Modified-at: 1722848930

@@ -1,0 +1,57 @@
+Title: Tomoaki Sato
+
+----
+
+Picture: - file://AWcdK2JHuk9tJy9E
+
+----
+
+Picture-color: - file://VWx5CGXEWIju4q7z
+
+----
+
+Picture-cropped: - file://ijSuqalRuKKDhTIh
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Founder & Blockchain engineer of Starbase
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Tomoaki Sato held weekly blockchain meetups and did blockchain development and consulting in Japan from 2014 to 2016. And from Nov, 2016 started Starbase, ICO Platform for innovative projects, in order to lower the technical and legal barrier around token sales between non-blockchain people and blockchain people.
+
+----
+
+Twitter: https://twitter.com/tomorrowaki
+
+----
+
+Linkedin: https://www.linkedin.com/in/tomoaki-sato-086a0555/
+
+----
+
+Email: 
+
+----
+
+Autoid: up5b8s28
+
+----
+
+Uuid: LFc28gUSHzSKQycj
+
+----
+
+Modified-at: 1758630010

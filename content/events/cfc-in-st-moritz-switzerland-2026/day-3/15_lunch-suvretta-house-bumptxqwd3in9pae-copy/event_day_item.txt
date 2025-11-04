@@ -1,0 +1,49 @@
+Title: Time to Reset & Prepare for the Evening
+
+----
+
+Session: Session 5 - Lunch
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 15:00:00
+
+----
+
+Time-finish: 17:30:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: ZtvLOHp7p4F0yUyL
+
+----
+
+Created-at: 1725981746
+
+----
+
+Modified-at: 1760130983

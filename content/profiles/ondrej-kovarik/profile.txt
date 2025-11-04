@@ -1,0 +1,65 @@
+Title: Ondrej Kovarik
+
+----
+
+Picture: - file://kcVnITdANoxtIHDl
+
+----
+
+Picture-color: - file://1GrIwwQuUVmFy8fA
+
+----
+
+Picture-cropped: - file://cB6NL7Rp8CkfKfMs
+
+----
+
+Logo: - file://vQPEfDBLbDLVIO4l
+
+----
+
+Subtitle: Member of the European Parliament (MEP)
+
+----
+
+Company: European Parliament
+
+----
+
+Company-url: https://www.ondrejkovarik.eu
+
+----
+
+Bio:
+
+Ondřej is a Czech MEP, member of Renew Europe. He is a member of the ECON committee and the Chairman of the Working Group for Access to Finance for SMEs. He also sits on two further committees: TRAN and LIBE. His portfolio includes digital finance and payments legislation, SME financing, transport and tourism, research and the practical use of new technologies, for example those based on artificial intelligence.
+
+His career to date has been dedicated to public service, primarily in various roles within the Czech civil service, but also in European public administration. Specifically, he served at the Czech Ministry of Foreign Affairs, the Office of the Government, the Embassy of the Czech Republic in Ottawa, the Czech Ministry of Defence, and the European Parliament.
+
+----
+
+Twitter: https://twitter.com/OKovarikMEP
+
+----
+
+Linkedin: https://www.linkedin.com/in/okovarikmep/
+
+----
+
+Email: 
+
+----
+
+Uuid: 9fZbr0qmrEe9nrlP
+
+----
+
+Datecreatedepoch: 1696595573
+
+----
+
+Datemodifiedepoch: 1696596208
+
+----
+
+Modified-at: 1758629988

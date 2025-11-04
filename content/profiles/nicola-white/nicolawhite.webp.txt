@@ -1,0 +1,5 @@
+Uuid: I3SWIpCl5dnG1nTo
+
+----
+
+Template: image

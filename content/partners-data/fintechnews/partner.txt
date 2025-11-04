@@ -1,0 +1,17 @@
+Title: Fintechnews
+
+----
+
+Autoid: oqt2h5zt
+
+----
+
+Picture: partners-data/fintechnews/fiontechnews-logo.png
+
+----
+
+Link: https://fintechnews.ch/
+
+----
+
+Uuid: I8iVNoIKnaDxZ5tc

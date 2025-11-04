@@ -1,0 +1,53 @@
+title: Survey
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+create:
+    status: unlisted
+options:
+    changeSlug: true
+    delete: true
+columns:
+    - width: 1/1
+      sections:
+          main:
+              type: fields
+              fields:
+                  main_question:
+                      label: Main Question
+                      type: multiselect
+                      max: 1
+                      options: query
+                      query:
+                          fetch: page._panel_main_questions
+                          text: '{{ page.title }}'
+                          value: '{{ page.uuid }}'
+                  sub_questions:
+                      type: structure
+                      label: Sub Questions
+                      fields:
+                          if_answer:
+                              type: multiselect
+                              label: If Answer is...
+                              options: query
+                              max: 1
+                              query:
+                                  fetch: page._panel_sub_question_answers
+                          then_ask:
+                              extends: fields/select-survey-fields
+                  optional:
+                      type: multiselect
+                      label: Optional
+                      options: query
+                      query:
+                          fetch: page._panel_sub_questions
+                          text: '{{ page._name }}'
+                          value: '{{ page.uuid }}'
+    - width: 1/1
+      sections:
+          questions:
+              extends: sections/question-fields
+              label: All Questions
+              icon: question

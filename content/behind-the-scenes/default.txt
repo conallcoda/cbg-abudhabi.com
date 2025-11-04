@@ -1,0 +1,65 @@
+Title: Behind the Scenes
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"32","padding_right":"32","padding_bottom":"32","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"#000000","column_width_1":40},"columns":[{"blocks":[{"content":{"level":"h2","text":"Vision"},"id":"da0350c2-8739-4a86-a595-783df46ba830","isHidden":false,"type":"heading"}],"id":"348c2b01-3970-4dfd-88ab-68c4bbda04fb","width":"1/2"},{"blocks":[{"content":{"text":"<p>We believe contact quality is the key to successful knowledge transfer. That is why we have created a conference well cocooned in the Swiss Alps of St. Moritz at which both private and institutional investors from the traditional and new world meet the leading industry experts in the field of the digital assets and blockchain world. It’s like having your own circle of friends made up of visionaries, analysts and entrepreneurs right by your side helping you to improve your investment acumen on digital assets and blockchain in a matchless open-hearted and open-minded atmosphere.</p>","custom_id":"","custom_class":""},"id":"edad1ab0-5abd-4e3b-a17a-b39577b86521","isHidden":false,"type":"text"}],"id":"0ffb5f6e-1268-4f59-94e4-abbc6c71d0d9","width":"1/2"}],"id":"7cfb32b7-d1a5-4534-990a-424f5727281c"},{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"8","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Team"},"id":"0d587e63-01b3-4ab1-901e-107ba0ee9cda","isHidden":false,"type":"heading"},{"content":{"items_per_row":"4","hide_subtitle":"false","hide_company":"false","hide_email":"false","items":["page://jLkeYnXBJcR558oi","page://hG3pswWbArh1xnfH","page://WdwVY6mLmpJRTRvf","page://o0wUIZGXy2sos3yG","page://drJnNqMrTCAdN76O","page://qmSZxKnQ54PdsoRL","page://06aHm8YhN3D393lU"],"custom_id":"","custom_class":""},"id":"a4f8fd6f-f2ad-497a-9dd9-810cc7e3c254","isHidden":false,"type":"profiles"},{"content":{"custom_id":"","custom_class":""},"id":"851a1d6b-8eea-43ff-a66a-aff4e50cc7e2","isHidden":false,"type":"divider"}],"id":"a73e9fff-116b-4db9-8dbd-b5cfbda932b2","width":"1/1"}],"id":"5a45c655-06ff-49be-98b2-4be85409d35a"},{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Ambassadors"},"id":"0f28c967-5c9e-4513-8a20-0838a282dd53","isHidden":false,"type":"heading"},{"content":{"items_per_row":"4","hide_subtitle":"true","hide_company":"true","hide_email":"true","items":["page://ecviWacEhy5IeuT7","page://7yrFqqjoKMk3MyoO","page://3BvR6JyRoNTdgSiY","page://GF4yw9wBcEBeV0P7","page://sp8RWglNw02ZCy5t"],"custom_id":"","custom_class":""},"id":"e8990fa1-1fbb-4868-aae6-21fe530fbfc1","isHidden":false,"type":"profiles"},{"content":{"custom_id":"","custom_class":""},"id":"bab501b5-e465-41c0-bd9e-ad403f67d6aa","isHidden":false,"type":"divider"}],"id":"ee0b0bee-0318-4d8d-b48d-020be7773f31","width":"1/1"}],"id":"d7ed7aa4-6d0f-4053-b3fe-233dc9107a7f"},{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Board"},"id":"a1e4b201-a2d6-4fd4-b65d-50bd1f5bc98c","isHidden":false,"type":"heading"},{"content":{"items_per_row":"4","hide_subtitle":"false","hide_company":"false","hide_email":"false","items":["page://zTG6htY5MYuV4K8V","page://5FwfHxnnqAK8Fk52","page://YjWWE2CVyvmEjHY3","page://sI1aiHonVRp2GgBZ","page://JryW1koQJkbozOsg","page://jLkeYnXBJcR558oi"],"custom_id":"","custom_class":""},"id":"8200b0f8-8dfc-466a-b7f4-e9521366ce0d","isHidden":false,"type":"profiles"}],"id":"e531eeac-50dc-4bb8-b638-1bf6780e1bf7","width":"1/1"}],"id":"a3ff73cb-d77e-4725-99f6-e8084c4e9184"}]
+
+----
+
+Layout-off: 
+
+----
+
+Restrict-access: false
+
+----
+
+Access-token: Q7yMnanr9s8kok27
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Uuid: tBs3WotfgVthrn6t
+
+----
+
+Created-at: 1721306231
+
+----
+
+Modified-at: 1745610496

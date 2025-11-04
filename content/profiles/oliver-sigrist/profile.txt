@@ -1,0 +1,60 @@
+Title: Oliver Sigrist
+
+----
+
+Picture: - file://iaDwG8ocdP4LlnQ7
+
+----
+
+Picture-color: - file://NdWpD0y9uSdKsqG2
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://kwX8yC9zwjwrcuBl
+
+----
+
+Subtitle: Lead Helvetia pilot
+
+----
+
+Company: SNB
+
+----
+
+Company-url: https://www.snb.ch/en/the-snb/mandates-goals/payment-transactions/general/helvetia-pilotbetrieb
+
+----
+
+Bio:
+
+Oliver Sigrist is leading the Helvetia pilot, the Swiss National Bank’s (SNB) wholesale central bank digital currency (CBDC) initiative on the regulated SIX Digital Exchange platform. He is an expert in CBDCs, tokenisation and financial market innovation.
+Oliver has an extensive background in central banking. Before joining the SNB’s Helvetia pilot in 2023, he served as an Advisor at the BIS Innovation Hub for over three years. In this role, he worked on various CBDC experiments, including Helvetia, Jura, and Mariana, and developed a framework focused on central bank innovation. In the early stage of his career, he was a macroeconomist in the SNB’s Economics Department. Oliver holds a PhD in economics from the University of Basel.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/oliver-sigrist-0a44a888
+
+----
+
+Email: 
+
+----
+
+Uuid: myZpu879awHiTjzi
+
+----
+
+Created-at: 1729760302
+
+----
+
+Modified-at: 1758629986

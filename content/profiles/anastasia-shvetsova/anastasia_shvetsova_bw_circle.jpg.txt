@@ -1,0 +1,5 @@
+Uuid: bc427wVNpamhdQoq
+
+----
+
+Template: image

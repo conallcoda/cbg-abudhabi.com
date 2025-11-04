@@ -1,0 +1,57 @@
+Title: Marcus Ewald
+
+----
+
+Picture: - file://hDFtP9dULKwamq0N
+
+----
+
+Picture-color: - file://urL6c71IqYyqp372
+
+----
+
+Picture-cropped: - file://Wz92RIBJvdrSgr1z
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Managing Partner of Ewald & Rössing
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Marcus Ewald is a crisis manager from Mainz and Managing Partner of Ewald & Rössing. He is the initiator of the federal Blockchain Association of Germany, the Bundesblock, and currently the head of it's political advisory board. He also is the federal chairman of the Young Economic Council "Junger Wirtschaftsrat".
+
+----
+
+Twitter: https://twitter.com/maewald
+
+----
+
+Linkedin: https://www.linkedin.com/in/marcus-ewald-09b69965/
+
+----
+
+Email: 
+
+----
+
+Autoid: fne9mlgs
+
+----
+
+Uuid: hrAd7v67eY3NQGXs
+
+----
+
+Modified-at: 1758629969

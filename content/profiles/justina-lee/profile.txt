@@ -1,0 +1,57 @@
+Title: Justina Lee
+
+----
+
+Picture: - file://IC4RCWp3I4cxre4F
+
+----
+
+Picture-color: - file://aykX00CiU5HJMouB
+
+----
+
+Picture-cropped: - file://ul4Rw8CGvgwyAEOd
+
+----
+
+Logo: - file://le3fISkP5FqgEXSn
+
+----
+
+Subtitle: Reporter
+
+----
+
+Company: Bloomberg
+
+----
+
+Company-url: https://www.bloomberg.com/europe
+
+----
+
+Bio: Justina Lee is a reporter at Bloomberg News, covering financial markets from Taipei, Hong Kong and London since 2013. She started writing about cryptocurrencies in 2016, with a focus on markets and investment strategies.
+
+----
+
+Twitter: https://twitter.com/justinaknope
+
+----
+
+Linkedin: https://www.linkedin.com/in/justina-lee-3a0a4a44/
+
+----
+
+Email: 
+
+----
+
+Autoid: o9i5aiqh
+
+----
+
+Uuid: Zew2AQaide8j4rjb
+
+----
+
+Modified-at: 1758629961

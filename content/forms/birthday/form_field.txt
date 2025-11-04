@@ -1,0 +1,45 @@
+Title: Birthday
+
+----
+
+Type: date
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options: 
+
+----
+
+Checkboxes-options: 
+
+----
+
+Dropdown-options: 
+
+----
+
+Error-message: 
+
+----
+
+Uuid: ERJ9fNeJZQh6p4lk
+
+----
+
+Modified-at: 1728551736

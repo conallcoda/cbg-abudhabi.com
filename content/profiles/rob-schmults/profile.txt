@@ -1,0 +1,57 @@
+Title: Rob Schmults
+
+----
+
+Picture: - file://yCJr2YTLb7BJS2LF
+
+----
+
+Picture-color: - file://ypANelOoiFRQRNoU
+
+----
+
+Picture-cropped: - file://0ZZWN14wpWwALfyG
+
+----
+
+Logo: - file://RIuEsBdFOGgdJ1QQ
+
+----
+
+Subtitle: General Partner
+
+----
+
+Company: Blockchange Ventures
+
+----
+
+Company-url: https://blockchange.vc
+
+----
+
+Bio: Rob is a General Partner with Blockchange Ventures, a firm designed to invest in the early rounds of the largest blockchain outcomes. Previously he served in a digital operating role for MidOcean Partners, private equity firm focused on the mid-market. Rob has held a variety of leadership roles in business and consumer facing companies, including SVP of eCommerce and CRM at Talbots, where he oversaw the company’s modernization and expansion of its digital, direct marketing, and analytical capabilities, Intent Media, a pioneering big data, decisioning, and marketing platform, and Fort Point Partners which helped create some of the earliest, large-scale ecommerce stores.
+
+----
+
+Twitter: https://twitter.com/schmults?s=20
+
+----
+
+Linkedin: https://www.linkedin.com/in/schmults/
+
+----
+
+Email: 
+
+----
+
+Autoid: t1g5ct31
+
+----
+
+Uuid: JpjP9Ugzey1cAUDU
+
+----
+
+Modified-at: 1758629996

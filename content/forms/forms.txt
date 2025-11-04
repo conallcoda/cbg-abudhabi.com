@@ -1,0 +1,17 @@
+Title: Forms
+
+----
+
+Uuid: G8tDl5WxHceZdP2n
+
+----
+
+Created-at: 1722930722
+
+----
+
+Modified-at: 1723724973
+
+----
+
+Body: Dear [contact__first_name],  <br><br>Thank you very much for submitting your application for the upcoming CfC St. Moritz 2024. <br><br> Your application has been successfully received and is now in the review process. <br><br>We will inform you about the board committee’s final decisions as soon as the review process has been completed.  <br><br>Please feel free to contact us on ziga@cfc-stmoritz.com in case you have any questions or should you require any additional information in the meantime.  <br><br>Best regards,  The CfC St. Moritz team

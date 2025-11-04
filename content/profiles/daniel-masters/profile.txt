@@ -1,0 +1,61 @@
+Title: Daniel Masters
+
+----
+
+Picture: - file://0dDnTErLjWejNHsT
+
+----
+
+Picture-color: - file://0dDnTErLjWejNHsT
+
+----
+
+Picture-cropped: - file://q3cxC56L40Wli87R
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Chairman at XBT Provider
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Daniel Masters is currently Chairman at XBT Provider, issuer of Europe’s only exchange traded bitcoin note. He is also Co-Principle and Chief Investment Officer at Global Advisors, the team responsible for GABI (a Jersey based, actively managed, bitcoin investment strategy); and previously responsible for the Global Advisors Commodity Investment Fund and the Global Advisors Commodity Systematic Fund.
+
+Before Global Advisors, Mr. Masters began his career in Oil and Energy trading for the likes of Shell, Solomon, and prior to co-founding Global Advisors in 1999, served as Global Head of Energy and Trading Business at Morgan Guaranty Trust Company (“MGT”) in New York (Now JPMorgan). Mr Masters has a Bachelor of Science (Honours) in Physics from Exeter University, UK, and a Masters in Management Science and Operational Research from Imperial College, London, UK.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/danielmastersuk/
+
+----
+
+Email: 
+
+----
+
+Autoid: e22cbclf
+
+----
+
+Uuid: jFOsiiIdRtBZlxF9
+
+----
+
+Modified-at: 1759961418

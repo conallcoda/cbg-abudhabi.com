@@ -1,0 +1,45 @@
+Title: Welcome Drinks @Suvretta House Powered by Binance and Ava Labs
+
+----
+
+Session: Session 4 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 19:15:00
+
+----
+
+Time-finish: 20:15:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: pTvRsxbAXPPCsmiy
+
+----
+
+Modified-at: 1760132080

@@ -1,0 +1,61 @@
+Title: Johann Gevers
+
+----
+
+Picture: - file://HizXuYwrwTpHRfgg
+
+----
+
+Picture-color: - file://JIWKJWNRx4LGsokB
+
+----
+
+Picture-cropped: - file://WduKZzaqi8bMc3Ic
+
+----
+
+Logo: 
+
+----
+
+Subtitle: 
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Johann is a visionary thought leader and entrepreneur. His mission is to drive the development of a free and prosperous society. He is the founder of Crypto Valley, the world’s leading cryptofinance ecosystem, Monetas, an award-winning transaction platform, the Tezos Foundation, the Digital Finance Compliance Association, and the Bitcoin Association Switzerland.
+
+Johann is rated as a Top 100 finance leader in Switzerland. His talks The Four Pillars of a Decentralized Society and The Age of CryptoFinance have been influential in the decentralized technologies and fintech spaces. He has served as strategic advisor to companies across diverse industries, including award-winning technology startups.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: ulli4jhj
+
+----
+
+Uuid: OkzAh5RxfAEf8dXe
+
+----
+
+Modified-at: 1758629948

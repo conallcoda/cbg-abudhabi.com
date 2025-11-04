@@ -1,0 +1,21 @@
+Title: Yoga - Day 3
+
+----
+
+Display-name: Awaken Body & Mind on 17,01.25 at 9:00 am
+
+----
+
+Button-text: 
+
+----
+
+Price: 0
+
+----
+
+Uuid: 1uLla4XXhel7dyFN
+
+----
+
+Modified-at: 1736941499

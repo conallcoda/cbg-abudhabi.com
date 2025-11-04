@@ -1,0 +1,33 @@
+Title: Day 3
+
+----
+
+Date: 2026-01-16
+
+----
+
+Subtitle: Workshops & Roundtables
+
+----
+
+Sessions: &nbsp;, Session 1 - Workshops & Roundtables, Break 1, Session 2 - Workshops & Roundtables, Break 2, Session 3 - Workshops & Roundtables, Session 4 - Closing of the Conference, Session 5 - Lunch, Session 6 - Socializing
+
+----
+
+Hidden-sessions: Break 1, Break 2
+
+----
+
+Photos: 
+
+----
+
+Uuid: C2Anv4G624WQMKxu
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1758203732

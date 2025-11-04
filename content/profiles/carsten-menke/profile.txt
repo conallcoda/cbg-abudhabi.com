@@ -1,0 +1,61 @@
+Title: Carsten Menke
+
+----
+
+Picture: - file://JDprevnmZHdvHIt0
+
+----
+
+Picture-color: - file://WhapyXLa4jDpmVVw
+
+----
+
+Picture-cropped: - file://eT9jRnbYKbK1O1Qk
+
+----
+
+Logo: - file://MXuiD29DFa47DcSf
+
+----
+
+Subtitle: Head of Next Generation Research
+
+----
+
+Company: Bank Julius Baer
+
+----
+
+Company-url: https://www.juliusbaer.com/ch/en/
+
+----
+
+Bio: Carsten Menke is the head of Bank Julius Baer’s Next Generation Research team, which strives to provide thought leading insights into the long-term structural trends that are shaping the world around us. He has a special focus on the ‘Future Cities’ theme, analysing the economical, societal and environmental impact of urbanisation and related topics. He furthermore possesses profound expertise in the ‘Energy Transition’ and ‘Feeding the World’ themes. Carsten joined Julius Baer in 2009 as a commodity strategist with a focus on industrial and precious metals. Prior to that, he was with Sal. Oppenheim Jr. & Cie. in Cologne, where he was a member of the Alternative Investments Group and set up the Commodity Research unit. He received his degree in Business Administration at the University of Cologne (Germany) in 2007 and became a CFA charterholder in 2011.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: oVP51SUi2yy2OrXO
+
+----
+
+Datecreatedepoch: 1700036827
+
+----
+
+Datemodifiedepoch: 1700138710
+
+----
+
+Modified-at: 1758629920

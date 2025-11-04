@@ -1,0 +1,49 @@
+Title: Transport to Badrutt’s Palace Hotel
+
+----
+
+Session: Session 6 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 20:30:00
+
+----
+
+Time-finish: 21:00:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: 6sQy34bGcCK5KC63
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1760129204

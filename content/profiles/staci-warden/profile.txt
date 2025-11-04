@@ -1,0 +1,62 @@
+Title: Staci Warden
+
+----
+
+Picture: - file://UuqJIowvPqV1kt7E
+
+----
+
+Picture-color: - file://bfNANRhWmNlG26TS
+
+----
+
+Picture-cropped: - file://hBeuKX6gJfpH0Ox7
+
+----
+
+Logo: - file://KuTnQl8VKY69IyhC
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Algorand Foundation
+
+----
+
+Company-url: https://www.algorand.foundation/
+
+----
+
+Bio:
+
+Prior to joining the Board of the Algorand Foundation, Staci ran the Global Market Development practice at the Milken Institute, where she led its work on capital market development, crypto/blockchain solutions, and innovative finance to promote the sustainable development goals. Prior to Milken, Staci ran JPMorgan’s EMEA public sector practice out of London. Before JPMorgan, she led the Nasdaq’s two markets for microcap companies, and in the public and non-profit sectors had senior roles at the U.S. Treasury Department, the Center for Global Development, and the Harvard Institute for International Development.
+
+‍
+Staci has done business in more than 50 countries and has advised and spoken widely on the potential for cryptocurrencies and blockchain to solve real-world problems, and for financial innovation to improve inclusion and reduce global poverty. In addition to the Algorand Foundation, she sits on the Boards of the Global Blockchain Business Council, the Rwandan Capital Market Authority, and the Energy for Growth Hub.  She also serves on the advisory committees of the United Nations Capital Development Fund (UNCDF), the European Parliament’s Science and Technology Committee (STOA), the U.S. Financial Technology Association, and Evolution Environmental Asset Management.
+
+----
+
+Twitter: https://twitter.com/StaciW_DC
+
+----
+
+Linkedin: https://www.linkedin.com/in/staci-warden-b15268b9/
+
+----
+
+Email: 
+
+----
+
+Autoid: g4r3t0yu
+
+----
+
+Uuid: CKHa4v13dP4HGpio
+
+----
+
+Modified-at: 1758630005

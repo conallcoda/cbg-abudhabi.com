@@ -1,0 +1,17 @@
+Title: KulmHotel
+
+----
+
+Autoid: ly7b5mq3
+
+----
+
+Picture: partners-data/kulmhotel/kulm_frame.png
+
+----
+
+Link: https://www.kulm.com/de/
+
+----
+
+Uuid: 5dqPOgWnDmu6zTRM

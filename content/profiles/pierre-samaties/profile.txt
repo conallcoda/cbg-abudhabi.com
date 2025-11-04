@@ -1,0 +1,62 @@
+Title: Pierre Samaties
+
+----
+
+Picture: - file://v5n1vrYtWgU1fbGG
+
+----
+
+Picture-color: - file://GIW0TZWssVJiezYp
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://adIDQqbGeSi9KFSv
+
+----
+
+Subtitle: CBO
+
+----
+
+Company: DFINITY
+
+----
+
+Company-url: https://www.dfinity.org
+
+----
+
+Bio:
+
+Pierre is the Chief Business Officer of DFINITY, a leading contributor to the Internet Computer Protocol (ICP) and the largest R&D organization in Web3. At DFINITY, Pierre oversees strategy, products & ventures, as well as business related activities for DFINITY. Before joining DFINITY, he was a Partner at the international strategy consulting firm Roland Berger, where he founded and led the firm's global Digital Asset and Web3 practice, advising governments, enterprises, and digital asset and Web3 companies on strategy formulation, organizational improvements, venture building, and investments around the technology
+Pierre is also involved in global think tanks, such as the World Economic Forum’s Crypto Impact and Sustainability Accelerator and The Green Block. He regularly publishes thought leadership articles on topics including the first-ever Bitcoin Mining Risk Management Framework, specialized Web3 due diligence frameworks, the tokenization of real-world assets, and the intersection of AI and digital assets. Additionally, Pierre serves as a board advisor at Wisdomise, a UAE/Swiss startup that leverages AI and digital assets to democratize wealth management.
+Prior to Roland Berger, Pierre held several executive roles, including Managing Partner & CEO of RWE Consulting and Venture Investments in the Middle East, a division of the European energy giant RWE. His extensive experience in the power sector also includes multiple executive positions and board roles in AI and crypto startups based in the UK.
+Educationally, Pierre holds an MBA in General Management and a Bachelor's degree in Information Technology. He has also earned executive certificates from globally acclaimed institutions such as MIT Sloan, Wharton, London Business School (LBS), and INSEAD, specializing in AI, Machine Learning, Digital Assets, and Digital Transformation.
+
+----
+
+Twitter: https://x.com/PierreSamaties
+
+----
+
+Linkedin: https://www.linkedin.com/in/pierre-samaties
+
+----
+
+Email: 
+
+----
+
+Uuid: Q6jYK5CwHvJyeF7l
+
+----
+
+Created-at: 1730718057
+
+----
+
+Modified-at: 1758629992

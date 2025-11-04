@@ -1,0 +1,76 @@
+Title: CfC St. Moritz 2026 - Application Process
+
+----
+
+Email-notifications:
+
+- 
+  after_step: page://8ls9yA5bmW91UXMf
+  send_email: page://38s4UfpqNaeL8Kcs
+- 
+  after_step: page://8ls9yA5bmW91UXMf
+  send_email: page://3AJxu228XtorPkdx
+
+----
+
+Default-product: 
+
+----
+
+Test-data-mode: false
+
+----
+
+Test-payment-mode: false
+
+----
+
+Close-on-date: false
+
+----
+
+Close-date: 
+
+----
+
+Close-content: 
+
+----
+
+Restrict-access: false
+
+----
+
+Access-token: 
+
+----
+
+Invited-users: 
+
+----
+
+Restrict-submissions: false
+
+----
+
+Max-submissions: 7
+
+----
+
+Max-submissions-message: 
+
+----
+
+Layout: 
+
+----
+
+Uuid: KdLQ1iVFEQ0v3TQj
+
+----
+
+Created-at: 1722930750
+
+----
+
+Modified-at: 1760532892

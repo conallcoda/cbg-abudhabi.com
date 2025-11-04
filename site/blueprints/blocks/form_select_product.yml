@@ -1,0 +1,10 @@
+name: Select Product
+icon: cart
+tabs:
+    content:
+        fields:
+            items:
+                extends: fields/select-products
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

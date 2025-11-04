@@ -1,0 +1,128 @@
+.section-accordian {
+  display: flex;
+ 
+  flex-wrap: wrap;
+
+
+
+  @media screen and (min-width: $mobile) {
+    &.desktop {
+      .kirbytext {
+
+        ol,
+        ul {
+
+          padding-left: 17px;
+
+          li+li {
+            padding-top: 0.5rem;
+          }
+        }
+      }
+
+      .accordian-item {
+        padding-right: 1rem;
+      }
+
+      .accordian-item+.accordian-item {
+        padding-left: 1rem;
+
+      }
+    }
+
+    &.desktop-5 .accordian-item {
+      flex: 0 0 20%;
+    }
+
+    &.desktop-4 .accordian-item {
+      flex: 0 0 25%;
+    }
+
+    &.desktop-3 .accordian-item {
+      flex: 0 0 33.33%;
+    }
+
+    &.desktop-2 .accordian-item {
+      flex: 0 0 50%;
+    }
+
+    &.desktop-1 .accordian-item {
+      flex: 0 0 100%;
+    }
+  }
+
+  .accordian-item {
+    flex: 0 0 100%;
+    display: block;
+    padding-top: 0.5rem;
+  }
+
+  .accordian-title {
+    display: flex;
+
+
+    .accordian-title-text {
+      cursor: pointer;
+      font-family: BrownStdBold;
+      flex: 1;
+    }
+
+  }
+
+  .accordian-content {}
+
+  &.enable-toggle {
+    .accordian-item {
+      .accordian-content {
+        transition: all 0.3s ease;
+        overflow: hidden;
+        height: 0;
+        transform: scaleY(0);
+      }
+    }
+  }
+
+  .accordian-item {
+    .toggle {
+      .close {
+        display: none;
+      }
+
+      img {
+        cursor: pointer;
+        width: 1rem;
+        height: auto;
+      }
+    }
+
+    .accordian-content {
+
+      ol,
+      ul {
+        margin: 1em 0;
+      }
+
+    }
+
+    &.active {
+
+      .toggle {
+        .open {
+          display: none;
+        }
+
+        .close {
+          display: inline-block;
+        }
+      }
+
+      .accordian-content {
+
+        height: auto;
+        transform: scaleY(1);
+      }
+    }
+  }
+
+
+}

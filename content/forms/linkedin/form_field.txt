@@ -1,0 +1,29 @@
+Title: Linkedin
+
+----
+
+Type: text
+
+----
+
+Label: 
+
+----
+
+Checkboxes-options: 
+
+----
+
+Dropdown-options: 
+
+----
+
+Error-message: 
+
+----
+
+Uuid: 9kpa9uNYsjujrfMB
+
+----
+
+Modified-at: 1722942669

@@ -1,0 +1,78 @@
+Title: Yuval Rooz
+
+----
+
+Picture: - file://pS1e5XxhHzIHtOeY
+
+----
+
+Picture-color: - file://pS1e5XxhHzIHtOeY
+
+----
+
+Picture-cropped: - file://acny53bqKvDzNcWN
+
+----
+
+Logo: - file://9KkV9JIheDmXP6q2
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Digital Asset/Canton Network
+
+----
+
+Company-url: https://www.digitalasset.com
+
+----
+
+Bio:
+
+Yuval is a visionary leader at the intersection of finance and technology.
+
+Yuval co-founded Digital Asset in 2014 to harness the promise of blockchain technology to create an
+open financial network where value flows as freely as information on the internet.
+
+As a Co-Founder and CEO of Digital Asset, Yuval has been instrumental in reshaping global finance by
+merging traditional systems with the power of decentralized technology. Yuval played a pivotal role in the
+formation of the Canton Network, the only public layer-one blockchain with privacy. He is also a Board
+Member and Treasurer of the Global Synchronizer Foundation, which he helped to create with the
+support of the Linux Foundation, to bring fair and transparent decentralized governance and
+organizational neutrality to the adoption and evolution of the Canton Network.
+
+Yuval is a member of the Digital Asset Markets subcommittee of the U.S. Commodities Futures Trading
+Commission (CFTC) Global Market Advisory Committee and serves on the Board of Directors of the
+Global Blockchain Business Council, a leading industry association for the blockchain technology
+ecosystem. He has also testified before the U.S. House Committee on Financial Services.
+
+----
+
+Twitter: https://twitter.com/yuvalrooz
+
+----
+
+Linkedin: https://www.linkedin.com/in/yuvalrooz/
+
+----
+
+Email: 
+
+----
+
+Uuid: WH9elq0X4CeD5xTm
+
+----
+
+Datecreatedepoch: 1700036617
+
+----
+
+Datemodifiedepoch: 1700036705
+
+----
+
+Modified-at: 1759969821

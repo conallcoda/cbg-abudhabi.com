@@ -1,0 +1,10 @@
+name: Partners
+icon: handshake
+tabs:
+    content:
+        fields:
+            items: fields/select-partners
+
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

@@ -1,0 +1,57 @@
+label: Payment
+icon: cart
+columns:
+    - width: 2/3
+      sections:
+          paymment_products:
+              extends: sections/products
+          payment_reduction_codes:
+              type: fields
+              fields:
+                  payment_reduction_codes:
+                      label: Reduction Codes
+                      type: structure
+                      fields:
+                          name:
+                              type: text
+                              label: Name
+                              width: 1/2
+                              required: true
+                          code:
+                              type: text
+                              label: Code
+                              width: 1/2
+                              required: true
+                          type:
+                              type: select
+                              label: Type
+                              width: 1/2
+                              required: true
+                              options:
+                                  percentage: Percentage
+                                  fixed: Fixed
+                          percentage_amount:
+                              width: 1/2
+                              label: %
+                              type: number
+                              min: 0
+                              max: 100
+                              step: 0.1
+                              before: %
+                              when:
+                                  type: percentage
+
+                          fixed_amount:
+                              label: CHF
+                              type: number
+                              min: 0
+                              before: CHF
+                              width: 1/2
+                              when:
+                                  type: fixed
+    - width: 1/3
+      sections:
+          payment_settings:
+              type: fields
+              fields:
+                  payment_vat_rate: fields/vat_rate

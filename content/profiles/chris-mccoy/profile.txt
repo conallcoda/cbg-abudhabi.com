@@ -1,0 +1,63 @@
+Title: Chris McCoy
+
+----
+
+Picture: - file://XKFTr73JkSFGFpLg
+
+----
+
+Picture-color: - file://kuUOb5EXetLgSim7
+
+----
+
+Picture-cropped: - file://FcolKEe6ftEnYszo
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Creator at Storecoin, Member at World Economic Forum
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Chris McCoy is the creator of Storecoin, a new public blockchain powering free transactions for users and app developers using its Dynamic Proof of Stake consensus algorithm (DyPoS).
+
+Chris is a Member at the World Economic Forum, focused on their blockchain and cross-data flows initiatives as part of their Fourth Industrial Revolution headquarters in San Francisco. 
+
+Chris works on bringing data to the understanding of public policy at Data4America, is helping build Footprint, writes at TechCrunch and the Huffington Post, and previously invented YourSports -- a sports social network that worked on integrating Bitcoin-based payments directly into the application layer. He graduated from the University of Washington after studying technology and entrepreneurship. In 2002, he served as the National President of DECA, America's largest student organization for entrepreneurship and marketing.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/chrisamccoy/
+
+----
+
+Email: 
+
+----
+
+Autoid: 4vfhibi1
+
+----
+
+Uuid: uCP3WseFgBVzddiP
+
+----
+
+Modified-at: 1758629923

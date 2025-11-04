@@ -1,0 +1,45 @@
+Title: Institutional Capital in Motion: What’s Real, What’s Driving It, and Where It’s Going
+
+----
+
+Session: Session 5 - The Buy-side Perspective
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Institutional capital is beginning to engage more meaningfully with the digital asset ecosystem, but participation varies widely across asset classes, strategies, and geographies. As market structure matures and integration deepens, understanding both the realities of today and the catalysts for tomorrow will define the next phase of growth. What is driving institutional capital flows into digital assets today – and what catalysts will accelerate adoption in the years to come?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"e753d469-f34b-4621-aecd-6988dedd44d0","isHidden":false,"type":"text"}],"id":"48c52f1d-7c8c-4454-be9e-48d7e75ee016","width":"1/1"}],"id":"91af16c4-38cb-4dd7-90ef-55d34e6b03f2"}]
+
+----
+
+Time-start: 18:20:00
+
+----
+
+Time-finish: 19:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: c23YPvAlEyeep0oC
+
+----
+
+Modified-at: 1760454354

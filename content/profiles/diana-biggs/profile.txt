@@ -1,0 +1,61 @@
+Title: Diana Biggs
+
+----
+
+Picture: - file://0oNSM3IbNwOlZrGf
+
+----
+
+Picture-color: - file://QrlaYDko2g2pAOMn
+
+----
+
+Picture-cropped: - file://DppOu5uCc5BDUYQQ
+
+----
+
+Logo: - file://NJLqpXIkMEbOWZwh
+
+----
+
+Subtitle: Partner
+
+----
+
+Company: 1kx
+
+----
+
+Company-url: https://1kx.capital/
+
+----
+
+Bio: Diana Biggs is a Partner at 1kx, where she focuses on institutional connectivity across the firm and its portfolio. In addition to her role at 1kx, Diana is an Associate Fellow with Saïd Business School, University of Oxford, and a Board Member for HIVE Digital Technologies Switzerland. Before joining 1kx, Diana was Chief Strategy Officer at Valour and served as CEO of its digital asset ETP business from launch to acquisition. Earlier roles include Global Head of Innovation for HSBC Private Banking,  VP, Head of Growth & Partnerships, EMEA for Uphold, Chief Strategy Officer for Soko, and consultant at Oliver Wyman Financial Services.
+
+----
+
+Twitter: https://twitter.com/DianacBiggs
+
+----
+
+Linkedin: https://www.linkedin.com/in/dianabiggs/
+
+----
+
+Email: 
+
+----
+
+Autoid: 8tu6ldue
+
+----
+
+Uuid: qf5itkwrcvoDmJiY
+
+----
+
+Datemodifiedepoch: 1698661420
+
+----
+
+Modified-at: 1758629932

@@ -1,0 +1,13 @@
+Alt: 
+
+----
+
+Uuid: oxDATyOv8eLsv8uk
+
+----
+
+Template: image
+
+----
+
+Focus: 46.3% 46.1%

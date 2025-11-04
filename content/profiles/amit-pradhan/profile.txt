@@ -1,0 +1,66 @@
+Title: Amit Pradhan
+
+----
+
+Picture: - file://8zrLBL8eWvoevOu9
+
+----
+
+Picture-color: - file://8zrLBL8eWvoevOu9
+
+----
+
+Picture-cropped: - file://vQ7asrVBAmaaFGC0
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Executive Chairman
+
+----
+
+Company: Rainfall
+
+----
+
+Company-url: https://rainfall.one
+
+----
+
+Bio:
+
+Amit is a seasoned startup founder, investor and speaker, who spends his time creating, evangelizing and investing in the future of responsible AI and decentralization. A 19-year veteran of Silicon Valley, he has built deep technology startups with multi-million-dollar revenue streams and focuses on technology, startups and systems that have a positive impact on the humans they serve.
+
+Amit travels around the world speaking at events, to evangelize the need and the path to future society that is driven by responsible AI, around Privacy, decentralization of power/control, recognition of bias and the economic agency in a world that is losing jobs to AI-driven automation at a rate and scale that is faster than ever before.
+
+Amit is the co-founder & President of the Silicon Valley Blockchain Society, a network of some of the largest Investors, Thinkers, Practitioners and Creators, with Chapters around the globe – with a core mission to ‘Fund the Revolution’ and bring with it a thoughtful and responsible approach to the impact, value and culture in the Decentralized Ecosystem. As the Executive Chairman at Zero Labs, he and his team are creating a full private ‘brain’ that lives on user devices to listen, learn, reason, adapt and do tasks for its users without sending private data to the cloud and to give users control and economic agency over this rich data.
+As a General Partner at JetVentures, a cross-stage fund, Amit invests in startups that use the power of exponential technology, to become a positive part of the daily life of humans around the world.
+
+Amit serves on multiple Boards, including the Norwegian Refugee Council USA, Advisory Boards and acts as a mentor to startup founders around the world. In his spare time, he’s often found playing, talking or writing about his love for football or on his bicycle riding the beautiful trails around San Francisco.
+
+----
+
+Twitter: https://twitter.com/amitto
+
+----
+
+Linkedin: https://www.linkedin.com/in/amitpradhan/
+
+----
+
+Email: 
+
+----
+
+Autoid: lhw4otbt
+
+----
+
+Uuid: jkPUbHFmByReMkA6
+
+----
+
+Modified-at: 1759962222

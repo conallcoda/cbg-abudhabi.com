@@ -1,0 +1,5 @@
+label: VAT Rate
+type: number
+min: 0
+step: 0.1
+before: %

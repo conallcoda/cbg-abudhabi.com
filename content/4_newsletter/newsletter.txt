@@ -1,0 +1,53 @@
+Title: Newsletter
+
+----
+
+Email-notifications: 
+
+----
+
+Test-data-mode: false
+
+----
+
+Default-product: 
+
+----
+
+Test-payment-mode: true
+
+----
+
+Restrict-access: false
+
+----
+
+Access-token: 
+
+----
+
+Invited-users: 
+
+----
+
+Restrict-submissions: false
+
+----
+
+Max-submissions: 
+
+----
+
+Max-submissions-message: 
+
+----
+
+Uuid: dXbzS3mKd1JUUUnU
+
+----
+
+Created-at: 1725476804
+
+----
+
+Modified-at: 1752226228

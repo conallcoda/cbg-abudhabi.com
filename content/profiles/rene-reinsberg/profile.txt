@@ -1,0 +1,57 @@
+Title: Rene Reinsberg
+
+----
+
+Picture: - file://ZicEsxdbGsh0uBFp
+
+----
+
+Picture-color: - file://MdpLqlC4FANNKNhN
+
+----
+
+Picture-cropped: - file://Umnx7H41W4zO2MmU
+
+----
+
+Logo: - file://bn5WR9pi3AYrSNe7
+
+----
+
+Subtitle: Co-Founder
+
+----
+
+Company: Celo Foundation
+
+----
+
+Company-url: https://celo.org
+
+----
+
+Bio: Rene Reinsberg is a co-founder of Celo, an open platform that makes financial tools accessible to anyone with a mobile phone. He's been working at the intersection of finance, technology, and development for the past 15+ years, including at Morgan Stanley, McKinsey, General Catalyst Partners, the World Bank, and TechnoServe. His previous company, Locu, was acquired by GoDaddy where he served as VP of Emerging Products post-acquisition.
+
+----
+
+Twitter: https://twitter.com/followrene
+
+----
+
+Linkedin: https://www.linkedin.com/in/reinsberg/
+
+----
+
+Email: 
+
+----
+
+Autoid: 2k0hw1kl
+
+----
+
+Uuid: aEJbqHwln9mjNXhl
+
+----
+
+Modified-at: 1758629995

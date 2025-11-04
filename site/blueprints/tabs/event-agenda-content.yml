@@ -1,0 +1,72 @@
+title: Content
+label: Content
+icon: survey
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+columns:
+    - width: 2/3
+      sections:
+          content:
+              type: pages
+              label: Steps
+              layout: cardlets
+              search: false
+              image: false
+              limit: 50
+              text: '{{ model._panel_title }}'
+              templates:
+                  - form_step
+          emails:
+              type: fields
+              fields:
+                  email_notifications:
+                      type: structure
+                      label: Email Notifications
+                      fields:
+                          after_step:
+                              label: After Step
+                              type: select
+                              multiple: false
+                              options: query
+                              required: true
+                              query:
+                                  fetch: page.children.listed.template('form_step')
+                                  text: '{{ page._panel_title }}'
+                                  value: '{{ page.uuid }}'
+                          send_email:
+                              label: Send
+                              type: select
+                              multiple: false
+                              options: query
+                              required: true
+                              query:
+                                  fetch: site.find('forms/emails').children.template('email')
+                                  text: '{{ page._panel_title }}'
+                                  value: '{{ page.uuid }}'
+    - width: 1/3
+      sections:
+          settings:
+              type: fields
+              fields:
+                  headline_settings:
+                      type: headline
+                      label: Settings
+                  default_product:
+                      label: Default Product
+                      type: select
+                      options: query
+                      query:
+                          fetch: site.page("products").children.template("product")
+                          text: '{{ page._panel_title }}'
+                          value: '{{ page.uuid }}'
+                  test_data_mode:
+                      extends: fields/yes_no
+                      label: Test Data Mode?
+                      default: false
+                  test_payment_mode:
+                      extends: fields/yes_no
+                      default: true
+                      label: Test Payment Mode?

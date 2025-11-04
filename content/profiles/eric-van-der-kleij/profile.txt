@@ -1,0 +1,77 @@
+Title: Eric van der Kleij
+
+----
+
+Picture: - file://EL7iysl7sKseXAV1
+
+----
+
+Picture-color: - file://EL7iysl7sKseXAV1
+
+----
+
+Picture-cropped: - file://UVrV8CGIuQZkab3S
+
+----
+
+Logo: - file://kNMvPzZUwb3MD8dw
+
+----
+
+Subtitle: Co-Founder & Partner
+
+----
+
+Company: EdenBase
+
+----
+
+Company-url: https://www.edenbase.com/
+
+----
+
+Bio:
+
+Eric Van der Kleij is a Partner at the EdenBase Fund, a London based Venture Capital firm investing in the next game changing companies powered by AI and Frontier Technologies. 
+
+Eric is a known for having created and led some of the U.K. and Switzerland’s most prestigious technology ecosystems and hubs, including the world’s leading Fintech hub - Level39.co in London’s Canary Wharf, the Fintech vertical of the Kickstart Accelerator for Digital Switzerland, as well as the UK’s ground breaking Tech City/TechNation.io initiative where he was appointed by the former UK Prime Minister David Cameron to develop the tech economy of the U.K.  
+
+Eric was also instrumental in establishing the UK’s leading trade body for fintech - Innovate Finance. 
+
+Prior to that he pioneered the UK Governments highly successful Global Entrepreneur Inward Investment Programme, which has attracted over 1500 startups and $2.5Bn of investment to the U.K.  
+
+Together these initiatives have supported the growth of one third of the UK’s tech unicorns as well as  accelerating UK and international technology ecosystems and economies.  
+
+As a Fintech entrepreneur himself, he previously cofounded, built and sold fraud prevention Fintech company Adeptra, which was acquired by the listed US giant FICO in 2012. 
+
+Eric is passionate about entrepreneurship and when returning to the private sector Eric continued to serve for many years in a voluntary role as Honorary Chairman of the UK Government’s Global Entrepreneur Programme Advisory Group, and was a founding volunteer Advisory Board member of Tech London Advocates. 
+
+Eric has been involved in blockchain since 2014 when he launched one of the first blockchain labs in the U.K. and has chaired the annual CfC St. Moritz event in since its inception.
+
+----
+
+Twitter: https://twitter.com/ericvanderkleij?lang=en
+
+----
+
+Linkedin: https://www.linkedin.com/in/evanderkleij
+
+----
+
+Email: 
+
+----
+
+Autoid: tz18rsrv
+
+----
+
+Uuid: GEypJVB1EGf1oYic
+
+----
+
+Datemodifiedepoch: 1702048234
+
+----
+
+Modified-at: 1759965666

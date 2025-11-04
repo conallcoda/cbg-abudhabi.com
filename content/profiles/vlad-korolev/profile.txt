@@ -1,0 +1,65 @@
+Title: Vlad Korolev
+
+----
+
+Picture: - file://Q8UoVAQmVOVAqALN
+
+----
+
+Picture-color: - file://xqveppwscv3lLGSx
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://Y6pIWKTAfheZUnaU
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Gunzilla Games
+
+----
+
+Company-url: https://gunzillagames.com/en/
+
+----
+
+Bio:
+
+CEO and co-founder Vlad Korolev started Gunzilla from the desire to “make something that gamers want”. 
+
+Vlad began his career in digital banking, running the commercial department of payment-processing company. He then launched a financial-tech startup, where he devised an integrated IT system to facilitates communication between banks and clients, which was used by 40+ banks.   
+
+After an incredibly successful decade in Fintech, where he earned valuable experience in building cutting-edge tech from scratch, Vlad left to pursue his true calling… videogames. He entered the industry by combining his deep expertise in tech with a lifelong love for games, co-founding the popular matchmaking app PLINK with Alex Zoll. Following PLINK’s continued success (over 5 million users in the US alone), Vlad and Alex joined forces to found Gunzilla Games in early 2020.   
+
+Vlad’s love for gaming is lifelong, having blossomed in 8th grade when he single-handedly launched a website offering free videogames. This passion, plus the comprehensive background in digital platforms and technology, demonstrates that he possesses the knowledge to lead a player-focused studio to its ambitious goals. He is also a partner and board member of GAMEGROOVE, ensuring Gunzilla has a strong financial and advisory foundation to build from.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/vlad-korolev-52715b52
+
+----
+
+Email: 
+
+----
+
+Uuid: f2eYGRalrnOYhIpB
+
+----
+
+Created-at: 1733245396
+
+----
+
+Modified-at: 1758630011

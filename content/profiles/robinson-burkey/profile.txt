@@ -1,0 +1,61 @@
+Title: Robinson Burkey
+
+----
+
+Picture: - file://t6ETAtIAMDQLvllG
+
+----
+
+Picture-color: - file://t6ETAtIAMDQLvllG
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://jBhFwEW3qITC6ww8
+
+----
+
+Subtitle: Co-Founder
+
+----
+
+Company: Wormhole Foundation
+
+----
+
+Company-url: https://wormhole.foundation/
+
+----
+
+Bio: Robinson Burkey is the Co-Founder of the Wormhole Foundation. With an impressive track record spanning nearly a decade, Robinson has consistently excelled in leading growth and go-to-market strategies for startups, making a significant impact in the crypto industry since 2021. Prior to joining the Wormhole Foundation, Robinson held a key position at Acala, where he spearheaded Business Development and Ecosystem efforts within the Polkadot ecosystem. As a co-founder, Robinson is dedicated to accelerating the foundation's growth trajectory and fostering the widespread adoption of Wormhole as the leading interoperability platform powering multichain applications and bridges at scale. Wormhole has enabled over $60 billion in all-time multichain volume, the most of any protocol in the world.
+
+----
+
+Twitter: https://x.com/robinson
+
+----
+
+Linkedin: https://www.linkedin.com/in/robinsonburkey/
+
+----
+
+Email: 
+
+----
+
+Uuid: yuCDFnw5c1kJ9hxk
+
+----
+
+Datecreatedepoch: 1703090574
+
+----
+
+Datemodifiedepoch: 1704808109
+
+----
+
+Modified-at: 1759870646

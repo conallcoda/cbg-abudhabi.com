@@ -1,0 +1,15 @@
+type: pages
+label: Submissions
+layout: table
+sortBy: modified_at desc
+search: true
+create: false
+columns:
+    step_number:
+        label: Step
+        value: '{{ page.step_number }}'
+    last_modified:
+        label: Last Modified
+        value: '{{ page.getModifiedAgo() }}'
+template:
+    - form_submission

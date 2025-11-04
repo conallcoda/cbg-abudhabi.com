@@ -1,0 +1,63 @@
+Title: Evgeny Vigovsky
+
+----
+
+Picture: - file://sEWCplsTd3aVfZPa
+
+----
+
+Picture-color: - file://4xU1FV6bzrOQGDD3
+
+----
+
+Picture-cropped: - file://VLR864HWkVJVuWCy
+
+----
+
+Logo: 
+
+----
+
+Subtitle: COO & CTO, Co-founder
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Evgeny is a senior executive, with vast experience successfully creating and bringing high-tech products and services to the global market.
+
+Evgeny has been a blockchain enthusiast since 2013. He is skilled in global business development, information security and technology, FinTech, blockchain, products and services management, development and marketing.
+
+In Saifu Evgeny is in charge of operational side of the business, development of new products for corporate and private clients, as well as technological development and security of the service.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: gbdffyd0
+
+----
+
+Uuid: nq4uk5I2JbYqEjjl
+
+----
+
+Modified-at: 1758629937

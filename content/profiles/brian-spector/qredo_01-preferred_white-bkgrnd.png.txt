@@ -1,0 +1,5 @@
+Uuid: bb2z94RQsIId41Ws
+
+----
+
+Template: image

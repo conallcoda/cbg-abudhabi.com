@@ -1,0 +1,49 @@
+Title: Good Morning Breakfast @Suvretta House
+
+----
+
+Session: &nbsp;
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 07:00:00
+
+----
+
+Time-finish: 10:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: ZEJBJbclOPjyFIHu
+
+----
+
+Created-at: 1725981743
+
+----
+
+Modified-at: 1760643757

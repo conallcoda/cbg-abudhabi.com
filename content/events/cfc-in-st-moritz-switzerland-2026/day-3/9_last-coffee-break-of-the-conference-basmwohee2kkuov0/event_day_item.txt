@@ -1,0 +1,49 @@
+Title: Last Coffee Break of the Conference
+
+----
+
+Picture: 
+
+----
+
+Session: Break 2
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 12:20:00
+
+----
+
+Time-finish: 12:35:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: w3BBS47YJ2toLN2p
+
+----
+
+Created-at: 1725981746
+
+----
+
+Modified-at: 1732800947

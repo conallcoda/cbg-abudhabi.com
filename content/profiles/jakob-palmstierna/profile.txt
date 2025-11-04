@@ -1,0 +1,57 @@
+Title: Jakob Palmstierna
+
+----
+
+Picture: - file://iPwkuDjDqM1pyhFi
+
+----
+
+Picture-color: - file://69a0pVt5TJSSFKGS
+
+----
+
+Picture-cropped: - file://HU8AoLscKmBtg9fM
+
+----
+
+Logo: - file://qgLfe1qSo2p7JlXE
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: GSR
+
+----
+
+Company-url: https://www.gsr.io
+
+----
+
+Bio: Jakob is CEO of GSR, a leading crypto market maker and ecosystem partner. Prior to joining GSR, he was Head of EMEA business at Two Sigma Investments and a board director of Two Sigma International. He has over a decade of experience developing business and investment solutions in systematic investment management, including roles at Winton Capital Management and Barclays Global Investors (BGI).
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/jakob-palmstierna-4032901/
+
+----
+
+Email: 
+
+----
+
+Autoid: 9kjcdb0z
+
+----
+
+Uuid: mWF4XAUkYOWKN8l2
+
+----
+
+Modified-at: 1758629946

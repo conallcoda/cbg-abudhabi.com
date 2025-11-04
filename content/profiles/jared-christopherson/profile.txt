@@ -1,0 +1,61 @@
+Title: Jared Christopherson
+
+----
+
+Picture: - file://xcb6qvSV9Sg5zwre
+
+----
+
+Picture-color: - file://xcb6qvSV9Sg5zwre
+
+----
+
+Picture-cropped: - file://epmgG7Qw1soNhFBi
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Co-founder of TAP
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Jared is an award-winning digital performance marketer and data expert with 15+ years experience in the advertising industry. He is the co-founder of YellowHammer Media Group, which counts Casper, Campbell's, Warby Parker, LivingSocial, and Postmates as past clients, generating upwards of $100M annual advertising revenue.  He is also the co-founder of SpringServe, an open video ad serving platform for brands.  
+
+After exiting the centralized advertising world, Jared co-founded TAP, a decentralized Blockchain advertising platform for Fortune 500 brands. TAP allows brands to manage millions of micro-campaigns and relationships directly with consumers on a 1-to-1 basis, with measurable performance results.
+
+----
+
+Twitter: https://twitter.com/jaredchris?lang=de
+
+----
+
+Linkedin: https://www.linkedin.com/in/jaredchristopherson/?locale=de_DE
+
+----
+
+Email: 
+
+----
+
+Autoid: kvcg5udt
+
+----
+
+Uuid: YRgHTVDP5Sn5Cdaa
+
+----
+
+Modified-at: 1759961951

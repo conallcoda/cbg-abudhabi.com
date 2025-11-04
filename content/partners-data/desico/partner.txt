@@ -1,0 +1,17 @@
+Title: DESICO
+
+----
+
+Autoid: g1zy01he
+
+----
+
+Picture: partners-data/desico/desico-logo.jpg
+
+----
+
+Link: https://www.desico.io/
+
+----
+
+Uuid: 2nWRtPyH6pn4CIBG

@@ -1,0 +1,19 @@
+name: Partners
+icon: handshake
+tabs:
+    content:
+        fields:
+            source:
+                label: Source
+                type: select
+                multiple: false
+                options: query
+                required: true
+                query:
+                    fetch: site.page("events").children
+                    text: '{{ page.title }}'
+                    value: '{{ page.uuid }}'
+
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

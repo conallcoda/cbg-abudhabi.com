@@ -1,0 +1,61 @@
+Title: Markus Infanger
+
+----
+
+Picture: - file://bdNTe61kgnKa0XEA
+
+----
+
+Picture-color: - file://ItHQq6do01QfBrCs
+
+----
+
+Picture-cropped: - file://36XJe04iqR3RVhDP
+
+----
+
+Logo: - file://AWOBTMCbqOyA0zUA
+
+----
+
+Subtitle: Senior Vice President
+
+----
+
+Company: Ripple
+
+----
+
+Company-url: https://ripple.com/
+
+----
+
+Bio: Markus Infanger joined Ripple in January 2019 and currently is the SVP of RippleX, a business unit supporting partnerships and developer growth around the XRP Ledger. Prior to Ripple, Markus was in banking for over 20 years leading global teams in Foreign Exchange. He has completed an Executive MBA with TRIUM (LSE, NYU, HEC Paris).
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://linkedin.com/in/markus-infanger-8a6ba747
+
+----
+
+Email: 
+
+----
+
+Uuid: YEScU4xbkccUM7OA
+
+----
+
+Datecreatedepoch: 1702477403
+
+----
+
+Datemodifiedepoch: 1702477492
+
+----
+
+Modified-at: 1758629975

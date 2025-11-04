@@ -1,0 +1,154 @@
+Title: Application Survey 2026
+
+----
+
+Main-question: page://tE78Tf6kxyHrtpmv
+
+----
+
+Sub-questions:
+
+- 
+  if_answer: Family Office
+  then_ask: >
+    page://vGb0sjQyPsXeMsAf,
+    page://J1Bcks6DamaXtsrY,
+    page://bpouKVmdThlu44Gc,
+    page://Dbvv3dmhrZy1ZkUW,
+    page://iihFbK5k7pjGPvgW,
+    page://ypC5B3pd268e9876,
+    page://5KEXwJhicC11xLQx,
+    page://WSWk9B5992sr8owz,
+    page://TuXOwA35FqEE0hv6,
+    page://5jj2x6E0s3KCmZEN,
+    page://iUwNG6llK6W84DNO,
+    page://0w736auIeC1uaIYI,
+    page://ItBTz1RpiWbygGW8
+- 
+  if_answer: Institutional Investor
+  then_ask: >
+    page://vGb0sjQyPsXeMsAf,
+    page://J1Bcks6DamaXtsrY,
+    page://JorUUbfuOhdawwRo,
+    page://Dbvv3dmhrZy1ZkUW,
+    page://gcC3yVLkLedEi9W8,
+    page://gi8ROnb1S5sRjP93,
+    page://kJY0AdhJl2WUS0bQ,
+    page://qaApgpPfQGRw6jFg,
+    page://WSWk9B5992sr8owz,
+    page://TuXOwA35FqEE0hv6,
+    page://iUwNG6llK6W84DNO,
+    page://0w736auIeC1uaIYI
+- 
+  if_answer: Private Investor (UHNWI)
+  then_ask: >
+    page://n8TamQlGsBdLGBaL,
+    page://ge5XmF6zqVgwu4Cr,
+    page://scTbnk2WA6W6EdZ3,
+    page://2rwoxKKRkISo1QV7,
+    page://TuXOwA35FqEE0hv6,
+    page://WSWk9B5992sr8owz,
+    page://iUwNG6llK6W84DNO,
+    page://0w736auIeC1uaIYI
+- 
+  if_answer: Other
+  then_ask: >
+    page://vGb0sjQyPsXeMsAf,
+    page://J1Bcks6DamaXtsrY,
+    page://Dbvv3dmhrZy1ZkUW,
+    page://AY2b6QdMOVsNKbZd,
+    page://b0RJkVeQy8bcJY8z,
+    page://scTbnk2WA6W6EdZ3,
+    page://2rwoxKKRkISo1QV7,
+    page://TuXOwA35FqEE0hv6,
+    page://WSWk9B5992sr8owz,
+    page://iUwNG6llK6W84DNO,
+    page://0w736auIeC1uaIYI
+
+----
+
+Optional: page://J1Bcks6DamaXtsrY, page://0w736auIeC1uaIYI
+
+----
+
+Logic:
+
+- 
+  if_question_is: ""
+  and_answer_is: ""
+  then_ask: page://tE78Tf6kxyHrtpmv
+- 
+  if_question_is: page://tE78Tf6kxyHrtpmv
+  and_answer_is: Family Office
+  then_ask: >
+    page://vGb0sjQyPsXeMsAf,
+    page://J1Bcks6DamaXtsrY,
+    page://bpouKVmdThlu44Gc,
+    page://Dbvv3dmhrZy1ZkUW,
+    page://iihFbK5k7pjGPvgW,
+    page://ItBTz1RpiWbygGW8,
+    page://TuXOwA35FqEE0hv6,
+    page://WSWk9B5992sr8owz,
+    page://ypC5B3pd268eTYSN,
+    page://0w736auIeC1uaIYI,
+    page://iUwNG6llK6W84DNO
+- 
+  if_question_is: page://tE78Tf6kxyHrtpmv
+  and_answer_is: Institutional Investor
+  then_ask: >
+    page://vGb0sjQyPsXeMsAf,
+    page://J1Bcks6DamaXtsrY,
+    page://JorUUbfuOhdawwRo,
+    page://Dbvv3dmhrZy1ZkUW,
+    page://gcC3yVLkLedEi9W8,
+    page://gi8ROnb1S5sRjP93,
+    page://TuXOwA35FqEE0hv6,
+    page://WSWk9B5992sr8owz,
+    page://qaApgpPfQGRw6jFg,
+    page://0w736auIeC1uaIYI,
+    page://iUwNG6llK6W84DNO
+- 
+  if_question_is: page://tE78Tf6kxyHrtpmv
+  and_answer_is: Private Investor (UHNWI)
+  then_ask: >
+    page://n8TamQlGsBdLGBaL,
+    page://ge5XmF6zqVgwu4Cr,
+    page://TuXOwA35FqEE0hv6,
+    page://WSWk9B5992sr8owz,
+    page://ypC5B3pd268eTYSN,
+    page://2rwoxKKRkISo1QV7,
+    page://0w736auIeC1uaIYI,
+    page://iUwNG6llK6W84DNO
+- 
+  if_question_is: page://tE78Tf6kxyHrtpmv
+  and_answer_is: Other
+  then_ask: >
+    page://vGb0sjQyPsXeMsAf,
+    page://J1Bcks6DamaXtsrY,
+    page://Dbvv3dmhrZy1ZkUW,
+    page://AY2b6QdMOVsNKbZd,
+    page://b0RJkVeQy8bcJY8z,
+    page://TuXOwA35FqEE0hv6,
+    page://WSWk9B5992sr8owz,
+    page://0w736auIeC1uaIYI,
+    page://iUwNG6llK6W84DNO
+- 
+  if_question_is: page://ypC5B3pd268eTYSN
+  and_answer_is: 'Yes'
+  then_ask: page://scTbnk2WA6W6EdZ3
+
+----
+
+Survey-id: 
+
+----
+
+Questions: 
+
+----
+
+Uuid: 9LfVdkI8J4lXbypw
+
+----
+
+Modified-at: 1759140220

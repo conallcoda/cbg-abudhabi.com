@@ -1,0 +1,17 @@
+Title: Audi
+
+----
+
+Autoid: ogo6ddmr
+
+----
+
+Picture: partners-data/audi/audi_new_frame.png
+
+----
+
+Link: https://www.audi.com
+
+----
+
+Uuid: giwG3ZQmx4yUpx39

@@ -1,0 +1,5 @@
+label: Fields
+icon: edit
+sections:
+    form_fields:
+        extends: sections/form-fields

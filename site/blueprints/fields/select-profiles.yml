@@ -1,0 +1,5 @@
+label: Profiles
+type: pages
+multiple: true
+query: site.page("profiles").children
+image: page.picture.toFile

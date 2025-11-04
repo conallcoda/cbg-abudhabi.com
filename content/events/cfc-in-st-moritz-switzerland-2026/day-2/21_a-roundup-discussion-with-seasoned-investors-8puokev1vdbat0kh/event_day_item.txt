@@ -1,0 +1,49 @@
+Title: From Parallel to Integrated: What Institutions Need to Fully Embrace Digital Assets
+
+----
+
+Session: Session 5 - The Buy-side Perspective
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Despite growing interest, true institutional integration of digital assets remains elusive. Operational, regulatory, and risk management challenges continue to create friction points across traditional investment frameworks. Understanding what is still missing is critical to bridging ambition with practical adoption. What is needed for traditional institutions to fully integrate digital assets into their portfolios – and what are the most critical barriers that still need to be addressed?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[],"id":"22f0c690-c06c-44c7-a929-91a792bd5642","width":"1/1"}],"id":"73b86e24-9276-4fc8-9d9c-e00b6f16336b"}]
+
+----
+
+Time-start: 17:40:00
+
+----
+
+Time-finish: 18:20:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: hGAnstCCRck80dBs
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1760454345

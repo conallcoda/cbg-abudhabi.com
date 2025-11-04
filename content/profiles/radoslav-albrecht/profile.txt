@@ -1,0 +1,57 @@
+Title: Radoslav Albrecht
+
+----
+
+Picture: - file://y1N0My0S1RWBFwna
+
+----
+
+Picture-color: - file://LYbYfmeeDFWDcFvc
+
+----
+
+Picture-cropped: - file://RMI0a4yD37rX7doe
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Founder & CEO, Bitbond
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Radoslav Albrecht is the Founder & CEO of Bitbond, a financial technology company that utilizes blockchain to provide innovative financing solutions. Bitbond is a regulated financial institution with a license from the German financial regulator BaFin. In 2019 Bitbond conducted Germany's first regulated security token offering. Before founding Bitbond, Radoslav worked for Roland Berger Strategy Consultants and Deutsche Bank London in sales & trading of structured products.
+
+----
+
+Twitter: https://twitter.com/RadkoAlbrecht
+
+----
+
+Linkedin: https://www.linkedin.com/in/radoslavalbrecht/
+
+----
+
+Email: 
+
+----
+
+Autoid: pn019gez
+
+----
+
+Uuid: s3HYzsRJJPMnqRXN
+
+----
+
+Modified-at: 1758629993

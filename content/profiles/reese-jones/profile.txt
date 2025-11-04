@@ -1,0 +1,57 @@
+Title: Reese Jones
+
+----
+
+Picture: - file://CTQ0LYDhRmZMvNv0
+
+----
+
+Picture-color: - file://myECzCTX02n2uV5h
+
+----
+
+Picture-cropped: - file://lgnPPaZQOugzu1U4
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Associate Founder at Singularity University
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Reese Jones is a biophysicist and an associate founder of Singularity University. Reese has helped launch multiple companies, innovations, and patents. He likes building infrastructure companies for emerging technologies in health, biology, mobile, and internet.
+
+----
+
+Twitter: https://twitter.com/reese_jones?lang=de
+
+----
+
+Linkedin: https://www.linkedin.com/in/reesejones1/
+
+----
+
+Email: 
+
+----
+
+Autoid: h0bv81lq
+
+----
+
+Uuid: BjLMcqrGhpcVhYh6
+
+----
+
+Modified-at: 1758629995

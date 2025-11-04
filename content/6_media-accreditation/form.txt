@@ -1,0 +1,68 @@
+Title: Media Accreditation
+
+----
+
+Email-notifications:
+
+- 
+  after_step: page://06dNGRwyEcS4u4ce
+  send_email: page://3bUdeUZDQHyrq9yz
+- 
+  after_step: page://06dNGRwyEcS4u4ce
+  send_email: page://3AJxu228XtorPkdx
+
+----
+
+Default-product: 
+
+----
+
+Test-data-mode: false
+
+----
+
+Test-payment-mode: false
+
+----
+
+Close-on-date: false
+
+----
+
+Close-date: 
+
+----
+
+Close-content: 
+
+----
+
+Restrict-access: false
+
+----
+
+Access-token: mgnQopW07AotOf1Q
+
+----
+
+Invited-users: 
+
+----
+
+Restrict-submissions: false
+
+----
+
+Max-submissions: 
+
+----
+
+Max-submissions-message: 
+
+----
+
+Uuid: MdFpUkLkNSPntGhK
+
+----
+
+Modified-at: 1758615340

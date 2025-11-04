@@ -1,0 +1,63 @@
+Title: Talia Klein
+
+----
+
+Picture: - file://SKf7kZBC8nMG8cCK
+
+----
+
+Picture-color: - file://SKf7kZBC8nMG8cCK
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://MixeYNjTWXgnVkoK
+
+----
+
+Subtitle: Managing Director
+
+----
+
+Company: DTCC
+
+----
+
+Company-url: https://www.dtcc.com/
+
+----
+
+Bio:
+
+Talia Klein serves as Managing Director and Head of Wealth Solutions at DTCC, where she oversees the firm’s Wealth Solutions organization, including Mutual Funds, Insurance and Retirement Services and Alternative Investment Products. Within this role, she focuses on driving centralization and greater automation across Wealth Management processes to mitigate risk, reduce cost and deliver greater operational efficiencies for the industry.
+
+Prior to DTCC, Talia served as Head of Tokenization at BNY where she spearheaded the development of the firm's digital asset product suite, including the Digital Asset Custody platform, an industry-first solution designed to support institutional investors.
+
+For over a decade, Talia has developed innovative technology solutions to meet the evolving needs of wealth managers and institutional investors. Prior to BNY, she held several product management roles at JPMorgan Chase and blockchain startup, Digital Asset Holdings, where she developed groundbreaking collateral management systems using blockchain technology.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/talia-klein-bb006947/
+
+----
+
+Email: 
+
+----
+
+Uuid: iD2ZAf1qg2FWEvRm
+
+----
+
+Created-at: 1759870903
+
+----
+
+Modified-at: 1759871012

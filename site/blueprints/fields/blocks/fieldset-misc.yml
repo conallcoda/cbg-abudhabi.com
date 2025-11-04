@@ -1,0 +1,9 @@
+label: Miscellaneous
+type: group
+open: false
+fieldsets:
+    home_agenda: blocks/home_agenda
+    home_audience_facts: blocks/home_audience_facts
+    home_header: blocks/home_header
+    home_why_join: blocks/home_why_join
+    newsletter: blocks/newsletter

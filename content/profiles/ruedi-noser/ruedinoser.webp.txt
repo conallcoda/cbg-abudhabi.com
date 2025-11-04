@@ -1,0 +1,5 @@
+Uuid: rco505oIZg889hrc
+
+----
+
+Template: image

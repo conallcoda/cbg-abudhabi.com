@@ -1,0 +1,57 @@
+Title: Philipp Schaerer
+
+----
+
+Picture: - file://8Hj5mLL4gbYdQRUF
+
+----
+
+Picture-color: - file://7VGYXZn3bVtIVYcg
+
+----
+
+Picture-cropped: - file://OO9extNPe7vFVkWh
+
+----
+
+Logo: - file://nS2vb2StuYugSMxK
+
+----
+
+Subtitle: Visual artist
+
+----
+
+Company: Philipp Schaerer
+
+----
+
+Company-url: https://www.philippschaerer.ch
+
+----
+
+Bio: Philipp Schaerer, Swiss artist, works at the interface between photography and computer art - constructed (visual) worlds that thematise the increasing blurring of the boundary between the worlds of digital images and material objects.His works are present in several private and public collections, including those at the Museum of Modern Art (MoMA) in New York, the Centre Pompidou in Paris, the Museum of Contemporary Photography (MoCP) in Chicago, the Center for Art and Media Karlsruhe (ZKM) and Fotomuseum Winterthur. Philipp has been teaching at various Swiss universities and since 2014 as a visiting professor at the EPFL School of Architecture - course series "Constructing the View". Philipp lives and works in Zurich and Steffisburg, Switzerland.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://ch.linkedin.com/in/philipp-schaerer-59a580b
+
+----
+
+Email: 
+
+----
+
+Autoid: nrtku1ix
+
+----
+
+Uuid: EaQDa8XejDJvXw6y
+
+----
+
+Modified-at: 1758629991

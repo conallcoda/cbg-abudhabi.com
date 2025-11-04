@@ -1,0 +1,34 @@
+.form-row {
+  border: 2px solid transparent;
+  padding: 0.5rem 0;
+}
+
+.form-row.newsletter {
+  padding: 0.2rem;
+}
+
+.form-row:not([data-field-type="input"]):not(
+    [data-field-type="select"]
+  ).has-error {
+  border-color: red;
+}
+
+.form-row[data-field-type="input"].has-error input,
+.form-row[data-field-type="select"].has-error select {
+  border-color: var(--cfc-red);
+}
+
+.photo-field {
+  border: 2px solid transparent;
+}
+.photo-field.has-error {
+  border-color: red;
+}
+
+.newsletter-step {
+  display: none;
+}
+
+.newsletter-step.active {
+  display: block;
+}

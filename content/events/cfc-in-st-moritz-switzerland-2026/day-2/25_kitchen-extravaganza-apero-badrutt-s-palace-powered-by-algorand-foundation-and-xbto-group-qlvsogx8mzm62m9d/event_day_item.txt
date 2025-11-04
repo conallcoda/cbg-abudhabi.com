@@ -1,0 +1,49 @@
+Title: Kitchen Extravaganza Apéro & Dinner Powered by Algorand Foundation @Badrutt’s Palace Hotel
+
+----
+
+Session: Session 6 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 21:00:00
+
+----
+
+Time-finish: 23:45:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: x8t9fAbK9KWCOS13
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1760454401

@@ -1,0 +1,65 @@
+Title: Young Sohn
+
+----
+
+Picture: - file://6lq2ZjB76AIVLYwB
+
+----
+
+Picture-color: - file://3Nd6pjpSmEFDX2Dj
+
+----
+
+Picture-cropped: - file://0Mm2XjxuYcOKUVhv
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Corporate President & CSO, Samsung Electronics
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Young Sohn is a Silicon Valley entrepreneur whose passion is building businesses and fostering emerging technologies that have the potential to transform the world for the better. Currently, Sohn serves as Corporate President and Chief Strategy Officer of Samsung Electronics and Chairman of the Board of HARMAN. He leads Samsung’s strategy for global innovation, investment, and new business creation, and led the company’s $8 billion acquisition of HARMAN. 
+ 
+Prior to joining Samsung Electronics, Sohn served as CEO of two successful, public Silicon Valley companies and on the boards of Arm, Cadence, Cymer (ASML), and others. Under his leadership as CEO and board member, he took PLX Technologies, Synnex Technologies, and Inphi public. He was also a seed investor in some of the industry’s most innovative companies, including Bitfury, Fungible, Graphcore, and Zoom.
+ 
+Sohn is a leader of the global Tech for Good movement. He helped launch the Extreme Tech Challenge (XTC), the world’s largest startup competition for entrepreneurs addressing global challenges.  He also serves as a North America board member at MIT Sloan, a senior advisor to the private equity firm Silver Lake Partners, a board member at Cadence, and an advisor for the University of California Innovation Council. 
+
+Sohn holds a BS in electrical engineering from the University of Pennsylvania and an MS from the MIT Sloan School of Management. An avid outdoorsman, Sohn spends his personal time kite surfing, cycling, running, hiking, and competing in triathlons.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: 3n0xwi0p
+
+----
+
+Uuid: uCOY0ztutlU3u8L1
+
+----
+
+Modified-at: 1758630012

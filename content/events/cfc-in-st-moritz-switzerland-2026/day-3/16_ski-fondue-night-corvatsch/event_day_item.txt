@@ -1,0 +1,45 @@
+Title: Ski & Fondue Night @Corvatsch
+
+----
+
+Session: Session 6 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 17:30:00
+
+----
+
+Time-finish: 23:00:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: tvYsJa2ibm5RGDec
+
+----
+
+Modified-at: 1760384222

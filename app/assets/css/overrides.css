@@ -1,0 +1,7 @@
+.block-type-event_agenda .button-toggles .break_pre_opening,
+.block-type-event_agenda .button-toggles .break_day_3 {
+  display: block;
+  @media screen and (min-width: 1024px) {
+    display: none;
+  }
+}

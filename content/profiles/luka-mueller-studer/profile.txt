@@ -1,0 +1,57 @@
+Title: Luka Mueller-Studer
+
+----
+
+Picture: - file://RIIWsBr0LwM5Q3uo
+
+----
+
+Picture-color: - file://SBtCG1QhPWN8CRuC
+
+----
+
+Picture-cropped: - file://lcfSTm4MlF35Inar
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Dr., LL.M. Dipl. Swiss Fund Officer FA/IAF
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Dr. Luka Muller, LL.M., Dipl. Swiss Fund Officer FA/IAFs. Co-founder and partner at MME Legal Tax Compliance, Zürich/Zug, at KYC Spider AG and at Blockhaus Investment AG. Specialised in regulatory compliance and blockchain applications. He and his team are advising several Blockchain Foundations, companies, start-ups and TGE (ICOs). Graduate of the University of Zurich and Basel (PhD), LL.M. degree from the London School of Economics (LSE). In 2013, Dr. Muller also earned the Dipl. Swiss Fund Officer FA/IAF.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/luka-m%C3%BCller/
+
+----
+
+Email: 
+
+----
+
+Autoid: np3agptd
+
+----
+
+Uuid: i5zjDUzA6TFFruf2
+
+----
+
+Modified-at: 1758629965

@@ -1,0 +1,61 @@
+Title: David Newns
+
+----
+
+Picture: - file://ugjdA8MWASuMFoJ5
+
+----
+
+Picture-color: - file://abful7ot6CZ7A0Jx
+
+----
+
+Picture-cropped: - file://aIkhfRjGyRJrw4vR
+
+----
+
+Logo: - file://9f6ppVcgdUnnYiML
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: SDX
+
+----
+
+Company-url: https://www.sdx.com/
+
+----
+
+Bio: David Newns joined SIX Group in 2021 as Head of SIX Digital Exchange (SDX), which in October of 2021 became the world’s first fully regulated blockchain-based financial market infrastructure in production offering integrated issuance, trading, settlement and custody of digital securities. Under his leadership, SDX achieved numerous industry-firsts, including the first issuance of a digital bond on regulated financial markets infrastructure in 2021 and the first securities settlement using wholesale central bank digital currency (CBDC) in 2023. Newns is an advocate for wholesale CBDC as a critical component for adoption of blockchain in the wholesale market.  In June 2024, the SNB announced that it will support settlement of securities transaction on SIX Digital Exchange in wCBDC for at least the next two years as part of the groundbreaking Helvetia Pilot. In addition SDX offers groundbreaking services for the crypto space including crypto custody and  digital  collateral management specifically designed to enable the usage of selected crypto assets as collateral alongside traditional collateral.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/davidnewns/
+
+----
+
+Email: 
+
+----
+
+Autoid: 4ran00d2
+
+----
+
+Uuid: FJGrMGxTHAUvhwzc
+
+----
+
+Datemodifiedepoch: 1696594665
+
+----
+
+Modified-at: 1758629929

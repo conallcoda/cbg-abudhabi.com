@@ -1,0 +1,63 @@
+Title: Dario Thürkauf
+
+----
+
+Picture: - file://jo0fkzf6C8r3bXUm
+
+----
+
+Picture-color: - file://jo0fkzf6C8r3bXUm
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://ZpcY5PaOX42t1gUF
+
+----
+
+Subtitle: Ph.D. Candidate & Research Assistant
+
+----
+
+Company: University of Basel
+
+----
+
+Company-url: https://cif.unibas.ch/en/
+
+----
+
+Bio:
+
+I am a Ph.D. student at the Professorship for Distributed Ledger Technology (Blockchain) and Fintech at the Faculty of Business and Economics at the University of Basel, Switzerland. 
+
+My primary fields of interest include public permissionless blockchains, consensus protocols, and blockchain scaling solutions (Layer 2). I also explore specialized topics such as Maximal Extractable Value (MEV), address clustering, Decentralized Finance (DeFi), and the Metaverse.
+
+I hold both an MSc in Business & Technology and a BA in Business and Economics from the University of Basel.
+
+----
+
+Twitter: https://x.com/dario_thuerkauf
+
+----
+
+Linkedin: https://www.linkedin.com/in/dario-thuerkauf/
+
+----
+
+Email: 
+
+----
+
+Uuid: 1YggfZmuLEQAWE7s
+
+----
+
+Created-at: 1762098843
+
+----
+
+Modified-at: 1762099749

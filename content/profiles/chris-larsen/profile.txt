@@ -1,0 +1,57 @@
+Title: Chris Larsen
+
+----
+
+Picture: - file://MB5nE1gk3LFwWCqV
+
+----
+
+Picture-color: - file://9cwZLS9k3x6D5CNL
+
+----
+
+Picture-cropped: - file://j469CzHPeVJ7usgz
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Executive Chairman of Ripple’s board of directors
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Chris Larsen is Executive Chairman of Ripple’s board of directors and former CEO and co-founder of Ripple. Prior to Ripple, Chris cofounded and served as CEO of Prosper, a peer-to-peer lending marketplace, and E-LOAN, a publicly traded online lender. During his tenure at E-LOAN, he pioneered the open access to credit scores movement by making E-LOAN the first company to show consumers their FICO scores.
+
+----
+
+Twitter: https://twitter.com/chrislarsensf?lang=de
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: f0jo4kbt
+
+----
+
+Uuid: zpYz7l4Yy2afp6Vy
+
+----
+
+Modified-at: 1758629923

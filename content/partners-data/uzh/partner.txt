@@ -1,0 +1,21 @@
+Title: UZH
+
+----
+
+Picture: - file://UBg4zPwnvnDQ051G
+
+----
+
+Link: https://www.blockchain.uzh.ch
+
+----
+
+Uuid: c2HzkBT381Lvcc5u
+
+----
+
+Datecreatedepoch: 1697124229
+
+----
+
+Datemodifiedepoch: 1697124263

@@ -1,0 +1,5 @@
+Uuid: rh48KFMwsVDcHUb5
+
+----
+
+Template: image

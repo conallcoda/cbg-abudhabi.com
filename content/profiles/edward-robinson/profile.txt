@@ -1,0 +1,57 @@
+Title: Edward Robinson
+
+----
+
+Picture: - file://PAmBbxci6MdOTNhd
+
+----
+
+Picture-color: - file://XeDFtkX1KGVwd3fe
+
+----
+
+Picture-cropped: - file://3qHPsgJVdoqLNHW8
+
+----
+
+Logo: - file://jK4iF1VNlGQi6pnd
+
+----
+
+Subtitle: Contributing Editor
+
+----
+
+Company: The Defiant
+
+----
+
+Company-url: https://thedefiant.io
+
+----
+
+Bio: Edward Robinson is an award-winning editor and writer with 25 years of experience in financial and business journalism. As a senior writer at Bloomberg News, Edward wrote about banking, venture capital, hedge funds, ESG, and Brexit. He was also regular commentator on Bloomberg Television. In 2015, he co-wrote a cover story for Bloomberg Markets magazine on Blythe Masters' embrace of blockchain technology, which introduced cryptocurrencies to many traditional finance professionals. Edward is now a contributing editor at The Defiant, and writes a column on cryptocurrencies for Institutional Investor.
+
+----
+
+Twitter: https://twitter.com/EddieRob235
+
+----
+
+Linkedin: https://www.linkedin.com/in/erobinson3/
+
+----
+
+Email: 
+
+----
+
+Autoid: l2lpdthn
+
+----
+
+Uuid: 6ZLa6GcaHo1lv9T5
+
+----
+
+Modified-at: 1758629932

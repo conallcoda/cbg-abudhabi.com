@@ -1,0 +1,60 @@
+Title: Sadie Raney
+
+----
+
+Picture: - file://tHJEWJcPKEwUM60s
+
+----
+
+Picture-color: - file://e3uH2f1UuPqIdZyn
+
+----
+
+Picture-cropped: - file://GS7fH6JZM1oFRqV1
+
+----
+
+Logo: - file://zZxF6PtEB3AC6e8c
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Strix Leviathan
+
+----
+
+Company-url: https://strixleviathan.com
+
+----
+
+Bio:
+
+Sadie holds an MBA from the Foster School of Business at the University of Washington and attended the IE Business School in Madrid for an International MBA exchange during her MBA, focusing on courses in Entrepreneurship and Corporate Governance. After completing her MBA she joined Blue Box, a Seattle startup in private cloud which was subsequently acquired by IBM.  In her most recent adventure she is the co-founder and Chief Executive Officer of Strix Leviathan. Strix Leviathan is a systematic hedge fund that actively trades a diverse portfolio of digital assets. Sadie has been navigating the legal, financial and formation challenges of starting a business in a rapidly evolving and highly scrutinized industry. 
+In 2021, Sadie and Jesse, co-founders of Strix Leviathan, launched a spinout along with two others called Makara.  Makara is the first SEC Registered robo advisor for digital assets. Sadie is an active mentor for the Barcelona Technology Transfer Group at IESE University and works with a number of early stage startups. She is also a board member for Veriledger, a Blockchain accounting company based in New York and a member of the Female Founder’s Alliance.
+
+----
+
+Twitter: https://twitter.com/SadieRaney?s=20
+
+----
+
+Linkedin: https://www.linkedin.com/in/sadieraney/
+
+----
+
+Email: 
+
+----
+
+Autoid: dzn0lcus
+
+----
+
+Uuid: HxiIm3TZfq2mDhmm
+
+----
+
+Modified-at: 1758630001

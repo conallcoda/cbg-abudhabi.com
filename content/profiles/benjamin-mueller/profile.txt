@@ -1,0 +1,61 @@
+Title: Benjamin Mueller
+
+----
+
+Picture: - file://ubms8sjkvyXsBQY2
+
+----
+
+Picture-color: - file://vqnHtFVMNROLGzoK
+
+----
+
+Picture-cropped: - file://CDlwSlE33AgcSO59
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Advisor
+
+----
+
+Company: Swiss National Bank
+
+----
+
+Company-url: https://www.snb.ch/en/
+
+----
+
+Bio: Benjamin Müller is an Advisor at the Swiss National Bank (SNB). Benjamin leads SNB’s wholesale CBDC pilot project named Helvetia Phase III. He represents the SNB in international working groups on tokenization. Benjamin holds a PhD in economics.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/benjamin-m%C3%BCller-11a79a133?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+
+----
+
+Email: 
+
+----
+
+Uuid: NTHRZUVieiWpCIo9
+
+----
+
+Datecreatedepoch: 1701246048
+
+----
+
+Datemodifiedepoch: 1701247970
+
+----
+
+Modified-at: 1758629916

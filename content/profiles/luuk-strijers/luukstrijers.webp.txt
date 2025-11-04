@@ -1,0 +1,13 @@
+Alt: 
+
+----
+
+Uuid: njCMnBY7Imsn1sny
+
+----
+
+Template: image
+
+----
+
+Focus: 51.3% 25.3%

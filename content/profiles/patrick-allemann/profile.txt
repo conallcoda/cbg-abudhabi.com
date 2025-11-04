@@ -1,0 +1,57 @@
+Title: Patrick Allemann
+
+----
+
+Picture: - file://d6Y1E549SVwhqvrp
+
+----
+
+Picture-color: - file://b4D8ei5eN53UlslR
+
+----
+
+Picture-cropped: - file://bZRVCWs9VRxp7iBj
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Co-Founder, Proxeus
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Patrick has extensive knowledge of security and cryptography, having worked in various projects in the context of secure data storage. He is founder of futuretek AG, a technology solution provider, and has been actively involved in Cryptocurrencies since 2012. Previously, he gained a broad experience in various technology and business positions across several sectors, with a focus on banking.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: 4l9qttx9
+
+----
+
+Uuid: yTK3tZoqNaAfAxWW
+
+----
+
+Modified-at: 1758629988

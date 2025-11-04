@@ -1,0 +1,61 @@
+Title: Thomas Restout
+
+----
+
+Picture: - file://z8BdZmO3VUogsIn6
+
+----
+
+Picture-color: - file://biCOz71AyQIirjnU
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://v4xaIM6LPz0dyTZG
+
+----
+
+Subtitle: Group CEO
+
+----
+
+Company: B2C2
+
+----
+
+Company-url: https://www.b2c2.com/
+
+----
+
+Bio:
+
+Thomas Restout is Group CEO of B2C2, a digital asset pioneer building the ecosystem of the future.
+
+Prior to B2C2, Thomas was Global Head of MacroElectronic Trading at Morgan Stanley, leading strategy, product innovation, and execution across a broad range of disciplines, assets, and trading protocols. Amongst his responsibilities, he was a member of the Morgan Stanley Securities Digital Currencies working group and spearheaded Crypto trading for the Fixed Income division. Thomas Restout was previously at Goldman Sachs and began his career at Natixis.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/thomas-restout-b2c2
+
+----
+
+Email: 
+
+----
+
+Uuid: O2VpUpnc2SEROmL0
+
+----
+
+Created-at: 1728379799
+
+----
+
+Modified-at: 1758630008

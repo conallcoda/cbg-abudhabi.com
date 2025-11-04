@@ -1,0 +1,57 @@
+Title: Adelyn Zhou
+
+----
+
+Picture: - file://JZjSjN11t0o17Mql
+
+----
+
+Picture-color: - file://9QI8E4v4XygdOxRc
+
+----
+
+Picture-cropped: - file://bbFHm5Ivm7mSEnwW
+
+----
+
+Logo: - file://LZq1UrfZj0kDgkYd
+
+----
+
+Subtitle: Chief Ecosystem Growth Officer
+
+----
+
+Company: Chainlink Labs
+
+----
+
+Company-url: https://chain.link
+
+----
+
+Bio: Adelyn Zhou is a technology leader who is passionate about the intersection of blockchain, automation, and the future of work. Adelyn spent over four years as Chainlink Labs’ CMO, guiding the organization through crucial stages of rapid growth. She currently serves as the company’s Chief Ecosystem Growth Officer, leading the development of Chainlink’s broader ecosystem. She has experience at BCG, Amazon, Eventbrite, and Nextdoor. She is an internationally recognized speaker at conferences such as SXSW, CES, Inbound, and DLD.​ She graduated with honors from Harvard College and received her MBA from Harvard Business School
+
+----
+
+Twitter: https://twitter.com/adelynzhou
+
+----
+
+Linkedin: https://linkedin.com/in/adelynzhou
+
+----
+
+Email: 
+
+----
+
+Autoid: 7xpiykvr
+
+----
+
+Uuid: AVOpsJVLDzZruEbr
+
+----
+
+Modified-at: 1758629807

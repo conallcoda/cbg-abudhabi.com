@@ -1,0 +1,73 @@
+Title: The Metaverse as an Attention Economy
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"text":"Recently, the metaverse has received a lot of attention. People spend more time in virtual environments than ever before, various businesses are entering the space and the media regularly report on the matter. Nonetheless, most metaverse discussions only revolve around the related visualization technologies (e.g., Augmented/Virtual Reality) and the underlying economics are often overlooked.\n\nThe metaverse itself isn’t simply about the visualization of 3D environments. Instead, it’s much more about the social and economic interactions that are enabled by shared virtual worlds through the internet. The economies that grow from these interactions can be described as “attention economies” where commercially-motivated investors compete over the eyeballs of users. The main goal is to attract (potential) customers through immersive, interactive scenes. Non-commercial land use is essentially non-existent because avatars don’t need food or shelter, and virtual goods are created by developers and designers in the physical world as opposed to factories in the virtual domain. Thus, investors may be especially interested in acquiring virtual land that attracts a lot of users.\n\n### On the Choice of the Virtual World\nSimilar to websites, businesses can create and host their own virtual worlds. However, if they want to benefit from potential spillover effects of other businesses or communities, they have strong incentives to build a presence on the most dominant platforms. This is very similar to agglomeration economies in the physical world or network effects on social media platforms.\n\nThe past has shown that platform economies are prone to rent extraction and unilateral rule changes by the operator. This can lead to severe hold-up problems where third-parties fear this position of power, and thus, don’t engage in the platform at all. This could lead to secondary effects which undermine the platform’s value as an attention economy. If only a handful of businesses engage in a virtual world, they will potentially attract a lower number of users. For these reasons, businesses shouldn’t only consider the number of active users when deciding on building a presence in a specific virtual world, but also the underlying governance structure.\n\nBlockchain technology has sparked a novel approach to these issues. Decentralized virtual worlds try to mitigate hold-up problems by distributing power and control among their users. For instance, they often rely on fungible and non-fungible tokens (NFTs) on public blockchains to track the ownership of metaverse-related assets. This can be done in a completely neutral way where no single party controls the underlying database.\n\nNevertheless, there are some processes that can’t be replaced by immutable smart contracts on public blockchains. Most prominently, user-generated content must be moderated. Social media has shown that the line between content moderation and censorship is often very thin and that the operator sometimes has to make controversial decisions in this regard. This can disappoint, or even alienate, some of the platform’s users.\n\nSome decentralized virtual worlds employ so-called Decentralized Autonomous Organizations (DAOs) for their governance systems. These novel institutions allow various stakeholders, e.g., landowners, businesses, users and developers, to actively participate in important governance decisions. This may be better than the operator-rules-all-approach, but it shouldn’t be compared to a democratic system. DAOs often rely on token-based voting schemes where the wealthiest participants also hold the highest voting power.\n\n### Location Choice Within the Virtual World\nBusinesses not only need to decide on which metaverse platforms they want to engage on, but also where exactly they want to build their scenes in these virtual worlds.\n\nLocational preferences within a virtual world are driven by two separate factors. \nFirst, investors have a preference for land parcels with high expected user densities. The empirical evidence shows that investors in Decentraland were willing to pay significantly higher prices for land in close proximity to the most prominent landmarks when the world was launched. This suggests that landowners expect to generate random encounters, i.e., foot traffic, from spillover effects of their neighboring parcels.\nSecond, investors are willing to pay more for easily memorable addresses. This is similar to more memorable phone numbers or domain names as it helps users to more easily (re-)visit a specific scene. The effect is further amplified by the capability of users to teleport quasi-instantaneously from one parcel to another. In a way, the metaverse combines traditional modes of transportation in geographic settings with direct links on the web.\n\nThe dream of computer-generated virtual worlds has existed for many decades and it appears as if technology is finally catching up to it. Nevertheless, it’s unclear how the metaverse will develop as a whole, if it will prevail as the next generation of the web, and which platforms will be the dominant ones in the future.\n\nFor a more thorough discussion about blockchain-based metaverse platforms, the metaverse as an attention economy and the empirical work on locational preferences, consider our working paper entitled (link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932189 text:“Land Valuation in the Metaverse: Location Matters” target: blank) which was co-authored by Prof. Peter Kugler and Prof. Fabian Schär.\n\n***\n### About the Author\nThis article has been authored by Authored by (link: https://wwz.unibas.ch/de/personen/mitchell-goldberg/ text: Mitchell Goldberg target: blank)","custom_id":"","custom_class":""},"id":"eab3837d-54d0-470d-8354-0b4766509550","isHidden":false,"type":"markdown"}],"id":"f0b6ac7a-4e1f-49c4-9ccc-733cb46732f9","width":"1/1"}],"id":"db67e002-ce03-4bae-b475-10d78292f357"}]
+
+----
+
+Picture: - file://T9W7VMykgfh79Qlw
+
+----
+
+Author: page://M2MWUsqbw2BIIlkc
+
+----
+
+Date: 2022-11-16
+
+----
+
+Subtitle: 
+
+----
+
+Tags: Metaverse
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Picture-card: 
+
+----
+
+Autoid: eb62vs9a
+
+----
+
+Header-title: 
+
+----
+
+Uuid: d1wxuDUrR3yI4AQv
+
+----
+
+Modified-at: 1728385736

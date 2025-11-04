@@ -1,0 +1,61 @@
+Title: Yuri Emelin
+
+----
+
+Picture: - file://02PSON8MHYhigBFs
+
+----
+
+Picture-color: - file://GNtRn6JFZQorhnSA
+
+----
+
+Picture-cropped: - file://nAD7chT29tbAKHyQ
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO, IPStock
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Yuri is CEO and Co-Founder of IPStock, a company based in Switzerland and Singapore since 2015 and going ICO in 2018. IPStock implements visual digital content registry on blockchain and license management through smart-contracts. Yuri is also a Senior partner of FP Wealth Solutions, a Swiss multi-family office. Yuri has an extensive work experience with stock market, private equity and venture investments.
+
+Previously he worked in Fleming Family & Partners, Russian Nanotechnologies Corporation (RUSNANO) and Renaissance Capital. Yuri graduated with honours from the Law Faculty and did postgraduate research in Saint Petersburg State University of Aerospace Instrumentation, Russia.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/yuryemelin/
+
+----
+
+Email: 
+
+----
+
+Autoid: 0kirj4zo
+
+----
+
+Uuid: 9eNvZNGq11aSA1MI
+
+----
+
+Modified-at: 1758630012

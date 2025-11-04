@@ -1,0 +1,9 @@
+title: Error
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+tabs:
+    content:
+        extends: tabs/page-content

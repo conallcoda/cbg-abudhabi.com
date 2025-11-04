@@ -1,0 +1,362 @@
+label: Language
+icon: title
+fields:
+    footer_contact:
+      type: writer
+      label: Footer Contact
+    apply_cta:
+      label: Apply CTA
+      type: text
+      width: 1/2
+    update_cta:
+      label: Update CTA
+      type: text
+      width: 1/2
+    read_more_cta:
+      label: Read More CTA
+      type: text
+      width: 1/2
+    all_speakers:
+      label: All Speakers
+      type: text
+      width: 1/2
+    speakers_title:
+      label: Speakers Title
+      type: text
+      width: 1/2
+    workshops_title:
+      label: Workshops Title
+      type: text
+      width: 1/2
+    moderators_title:
+      label: Moderators Title
+      type: text
+      width: 1/2
+    back_button:
+      label: Back
+      type: text
+      width: 1/2
+    menu_more:
+      type: text
+      label: Sub Menu Label
+    program_title:
+      label: Program Title
+      type: text
+      width: 1/2
+    speakers_title:
+      label: Speakers Title
+      type: text
+      width: 1/2
+    speakers_placeholder:
+      label: Speakers Placeholder
+      type: text
+      width: 1/2
+    partners_title:
+      label: Partners Title
+      type: text
+      width: 1/2
+    close_cta:
+      label: Close CTA
+      type: text
+      width: 1/2
+    cookie_text:
+      label: Cookie Consent Text
+      type: textarea
+      buttons:
+        - link
+    cookie_cta:
+      type: text
+      label: Cookie Consent OK
+    blog_featured:
+      type: text
+      label: Featured Title
+      width: 1/2
+    blog_categories:
+      type: text
+      width: 1/2
+      label: Categories Title
+    blog_recommended:
+      type: text
+      width: 1/2
+      label: Recommended Title
+    prev_post:
+      type: text
+      width: 1/2
+      label: Previous Post
+    next_post:
+      type: text
+      width: 1/2
+      label: Next Post
+    nl_headline:
+      type: headline
+      label: Newlsetter
+      numbered: false
+    nl_title:
+      type: text
+      width: 1/2
+      label: Title
+    nl_forename_placeholder:
+      type: text
+      label: Forename Label
+      width: 1/2
+    nl_surname_placeholder:
+      type: text
+      label: Surname Label
+      width: 1/2
+    nl_email_placeholder:
+      type: text
+      label: E-Mail Label
+      width: 1/2
+    nl_cta:
+      type: text
+      width: 1/2
+      label: Subscribe CTA
+    nl_error_required:
+      type: textarea
+      width: 1/2
+      label: Required Fields Error Message
+    nl_error_unknown:
+      type: textarea
+      width: 1/2
+      label: Unknown Error Message
+    nl_ty:
+      type: textarea
+      width: 1/2
+      label: Newsletter Thank You Message
+    form_please_select:
+      type: text
+      label: Please select
+      width: 1/2
+    form_please_specify:
+      type: text
+      label: Please specify
+      width: 1/2
+    payment_headline:
+      type: headline
+      label: Payment
+      numbered: false
+    payment_contact_title:
+      type: text
+      label: Contact Title
+    payment_profile_title:
+      type: text
+      label: Profile Photo Title
+    payment_profile_text:
+      type: textarea
+      label: Profile Photo Text
+    payment_personal_title:
+      type: text
+      label: Personal Information Title
+    payment_label_uploadPhoto:
+      type: text
+      label: Upload Photo Button
+    payment_error_uploadPhoto:
+      type: text
+      label: Upload Photo Error
+    payment_label_firstName:
+      type: text
+      label: First Name
+      width: 1/2
+    payment_label_lastName:
+      type: text
+      label: Last Name
+      width: 1/2
+    payment_label_birthday:
+      type: text
+      label: Birthday
+      width: 1/2
+    payment_label_country:
+      type: text
+      label: Country
+      width: 1/2
+    payment_label_company:
+      type: text
+      label: Company
+      width: 1/2
+    payment_label_jobTitle:
+      type: text
+      label: Job Title
+      width: 1/2
+    payment_label_email:
+      type: text
+      label: E-Mail
+      width: 1/2
+    payment_label_membership:
+      type: text
+      label: Membership
+      width: 1/2
+    payment_label_linkedIn:
+      type: text
+      label: LinkedIn
+      width: 1/2
+    payment_label_phone:
+      type: text
+      label: Phone
+      width: 1/2
+    payment_label_zipCode:
+      type: text
+      label: Zip Code
+      width: 1/2
+    payment_accomodation_title:
+      type: text
+      label: Accomodation Title
+      width: 1/2
+    payment_accomodation_text:
+      type: text
+      label: Accomodation Text
+      width: 1/2
+    payment_accomodation_checkbox:
+      type: text
+      label: Accomodation Checkbox
+      width: 1/2
+    payment_tos_title:
+      type: textarea
+      buttons:
+        - link
+      label: ToS Title
+    payment_tos_intro:
+      type: textarea
+      buttons:
+        - link
+      label: ToS Intro
+    payment_tos_text:
+      type: writer
+      inline: true
+      label: ToS Text
+    payment_summary_subtotal:
+      label: Subtotal
+      width: 1/2
+      type: text
+    payment_summary_vat:
+      width: 1/2
+      label: VAT
+      type: text
+    payment_summary_shipping:
+      width: 1/2
+      label: Shipping
+      type: text
+    payment_summary_discount:
+      width: 1/2
+      label: Discount
+      type: text
+    payment_summary_total:
+      label: Total
+      width: 1/2
+      type: text
+    payment_title:
+      label: Payment Title
+      type: text
+    payment_label_FirstName:
+      label: First Name
+      type: text
+      width: 1/2
+    payment_label_LastName:
+      label: Last Name
+      type: text
+      width: 1/2
+    payment_label_address1:
+      width: 1/2
+      label: Address Line 1
+      type: text
+    payment_label_address2:
+      width: 1/2
+      label: Address Line 2
+      type: text
+    payment_label_country:
+      label: Country
+      type: text
+      width: 1/2
+    payment_label_postalCode:
+      width: 1/2
+      label: Postal Code
+      type: text
+    payment_label_city:
+      width: 1/2
+      label: City
+      type: text
+    payment_label_region:
+      width: 1/2
+      label: State/Region/Province
+      type: text
+    payment_label_billingFirstName:
+      label: First Name
+      type: text
+      width: 1/2
+    payment_label_billingLastName:
+      label: Last Name
+      type: text
+      width: 1/2
+    payment_label_billingCountry:
+      label: Country
+      type: text
+      width: 1/2
+    payment_label_billingAddress1:
+      width: 1/2
+      label: Address Line 1
+      type: text
+    payment_label_billingCity:
+      width: 1/2
+      label: City
+      type: text
+    payment_label_billingRegion:
+      width: 1/2
+      label: State/Region/Province
+      type: text
+    payment_label_mediaOutlet:
+      type: text
+      buttons: false
+      label: Meida Outlet
+      width: 1/2
+    payment_label_mediaJobTitle:
+      type: text
+      buttons: false
+      label: Job Title
+      width: 1/2
+    payment_diet_title:
+      type: text
+      label: Dietary Requirements Title
+    payment_label_diet:
+      type: textarea
+      buttons: false
+      label: Dietary Requirements Label
+    payment_diet_option1:
+      type: text
+      label: Diet Option 1
+      width: 1/2
+    payment_diet_option2:
+      type: text
+      label: Diet Option 2
+      width: 1/2
+    payment_diet_option3:
+      type: text
+      label: Diet Option 3
+      width: 1/2
+    payment_diet_option4:
+      type: text
+      label: Diet Option 4
+      width: 1/2
+    payment_diet_error:
+      type: text
+      label: Diet Error
+      width: 1/2
+    payment_jam_session_checkbox:
+      type: text
+      label: Jam Session Checkbox
+      width: 1/2
+    payment_jam_session_placeholder:
+      type: text
+      label: Jam Session Placeholder
+      width: 1/2
+    payment_error_required:
+      type: textarea
+      buttons: false
+      label: Required Fields Error
+    payment_error_unknown:
+      buttons: false
+      type: textarea
+      label: Unknown Error
+      help: "Error message of last resort eg: if something unexpected happens, server is down, stripe not working"
+    payment_error_advice:
+      label: Error Advice
+      type: textarea
+      buttons: false

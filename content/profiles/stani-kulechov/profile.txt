@@ -1,0 +1,61 @@
+Title: Stani Kulechov
+
+----
+
+Picture: - file://xk77T97VtnBrnvxw
+
+----
+
+Picture-color: - file://E9tD24gsoeg9myX1
+
+----
+
+Picture-cropped: - file://8k1d6Pn3nOzzAmpu
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: Avara
+
+----
+
+Company-url: https://avara.xyz
+
+----
+
+Bio: Stani Kulechov is a pioneer in the fields of decentralized finance (DeFi) and web3 technologies. He is the Founder and CEO of Avara Companies the software technology company that builds web3 infrastructure, composable social features and products based on blockchain technologies. The company created the pioneering Aave Protocol, the Aave-native stablecoin GHO, and social networking protocol Lens – the social layer for web3. Aave’s vision is a people-powered internet that benefits all.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/stani-kulechov-361284132/
+
+----
+
+Email: 
+
+----
+
+Autoid: xtjsuiz1
+
+----
+
+Uuid: 5ha3Qq7c6U35lYUC
+
+----
+
+Datemodifiedepoch: 1701188054
+
+----
+
+Modified-at: 1758630005

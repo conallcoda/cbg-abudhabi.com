@@ -1,0 +1,22 @@
+label: Off Season
+icon: page
+columns:
+    main:
+        width: 3/3
+        sections:
+            page_content_off:
+                type: fields
+                fields:
+                    on_off_info:
+                        type: info
+                        icon: info
+                        label: Info
+                        text: >
+                            Use this section to define how this page should look like during the off season. If the page should look the same regardless of the season (eg: imprint, contact) just leave this section blank and we will always use the on season content as default.
+                    copy_on_season:
+                        type: janitor
+                        command: 'copy-on-season'
+                        icon: copy
+                        label: Copy On Season Content
+                        intab: true
+                    layout_off: fields/layout

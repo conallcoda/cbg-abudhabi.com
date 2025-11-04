@@ -1,0 +1,57 @@
+Title: Albert Wenger
+
+----
+
+Picture: - file://iyVtgvaryMjqbZPw
+
+----
+
+Picture-color: - file://UTISidRotBENrMU8
+
+----
+
+Picture-cropped: - file://a9pzyxtVQEr1nF4G
+
+----
+
+Logo: - file://xsaMnxoCWSuWgdfB
+
+----
+
+Subtitle: Partner
+
+----
+
+Company: Union Square Ventures
+
+----
+
+Company-url: https://www.usv.com/
+
+----
+
+Bio: Albert Wenger is a managing partner at Union Square Ventures. Before joining USV, Albert was the president of del.icio.us through the company’s sale to Yahoo and an angel investor (Etsy, Tumblr). He previously founded or co-founded several companies, including a management consulting firm and an early-hosted data analytics company. Albert graduated from Harvard College in economics and computer science and holds a Ph.D. in Information Technology from MIT.
+
+----
+
+Twitter: https://twitter.com/albertwenger
+
+----
+
+Linkedin: https://www.linkedin.com/in/albertwenger/
+
+----
+
+Email: 
+
+----
+
+Autoid: 4rmn6e7s
+
+----
+
+Uuid: dvbd2pkkC6C4EiR9
+
+----
+
+Modified-at: 1758629808

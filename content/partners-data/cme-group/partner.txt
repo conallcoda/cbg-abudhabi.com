@@ -1,0 +1,17 @@
+Title: CME Group
+
+----
+
+Autoid: 1ec439ri
+
+----
+
+Picture: partners-data/cme-group/cmegroup_website_frame.png
+
+----
+
+Link: https://www.cmegroup.com
+
+----
+
+Uuid: q8f1Gl63XHJ8KW7S

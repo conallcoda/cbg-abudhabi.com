@@ -1,0 +1,57 @@
+Title: Matt Harrop
+
+----
+
+Picture: - file://TVxxe56jrteadgJP
+
+----
+
+Picture-color: - file://d4K1WFFBfF3h9doK
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://M6PYGQyhzii96430
+
+----
+
+Subtitle: Co-Founder & CTO
+
+----
+
+Company: Figment
+
+----
+
+Company-url: https://figment.io
+
+----
+
+Bio: 
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/matt-harrop-141b2/?originalSubdomain=ca
+
+----
+
+Email: 
+
+----
+
+Uuid: zhUkhRkL1gSmS90m
+
+----
+
+Created-at: 1734620444
+
+----
+
+Modified-at: 1758629976

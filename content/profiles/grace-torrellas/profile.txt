@@ -1,0 +1,57 @@
+Title: Grace Torrellas
+
+----
+
+Picture: - file://p4qXI13ZrPcTiLR7
+
+----
+
+Picture-color: - file://kyyF08UAuMRexWVL
+
+----
+
+Picture-cropped: - file://GvZy2YYxD5Mspfb2
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Founder and Executive Director, Blockchain for Humanity Foundation (b4H)
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Early adopter, Co-founder of the Blockchain for Humanity (b4H) Foundation and Giveth.io (First Ethereum-based smart contract powered donation tracking platform). Grace is an entrepreneur and business specialist focusing on Strategy, Brand & Product alignment for decentralised protocols. She focus on driving projects that carry a positive and transformational Impact. American-Venezuelan-Dutch; Grace is a Systems and Information Engineer, with an Executive MBA from EPFL and with a strong Consulting background in the digital transformation in Aviation space. Grace is recognised amongst the top 100 Digital Shaper In Switzerland by Bilanz.
+
+----
+
+Twitter: https://twitter.com/GraceTorrellas
+
+----
+
+Linkedin: https://www.linkedin.com/in/gtorrellas/
+
+----
+
+Email: 
+
+----
+
+Autoid: ti10ouoh
+
+----
+
+Uuid: xIvQblXvtGymDAdd
+
+----
+
+Modified-at: 1758629942

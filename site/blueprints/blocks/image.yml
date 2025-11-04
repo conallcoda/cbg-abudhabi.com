@@ -1,0 +1,32 @@
+name: Image
+icon: image
+preview: image
+tabs:
+    content:
+        fields:
+            location: false
+            image:
+                extends: fields/image
+                translate: false
+                width: 1/1
+                label: field.blocks.image.name
+            alt:
+                label: field.blocks.image.alt
+                type: text
+                icon: title
+            width:
+                label: Width
+                type: range
+                min: 10
+                max: 100
+                step: 10
+                tooltip:
+                    after: %
+            caption:
+                label: field.blocks.image.caption
+                type: hidden
+                icon: text
+                inline: true
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

@@ -1,0 +1,57 @@
+Title: Federico Demicheli
+
+----
+
+Picture: - file://D0SlqVExi2qsiale
+
+----
+
+Picture-color: - file://jNd15rImZgvFEMGN
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://5V8MUvlvT3H4nyE3
+
+----
+
+Subtitle: Director of Financial Services
+
+----
+
+Company: Algorand Foundation
+
+----
+
+Company-url: https://algorand.co
+
+----
+
+Bio: Federico, an economist by training, has been interested in distributed systems and cryptography since 2012 and joined Algorand in 2018. His main area of expertise is financial services, focusing on ways for regulated entities to generate efficiency gains by migrating some of their products and processes to blockchain-based applications.
+
+----
+
+Twitter: https://x.com/FreddyDemicheli
+
+----
+
+Linkedin: https://www.linkedin.com/in/federico-demicheli-2b882b2/?originalSubdomain=uk
+
+----
+
+Email: 
+
+----
+
+Uuid: 2pD7aVYvvULjpos7
+
+----
+
+Created-at: 1732800512
+
+----
+
+Modified-at: 1758629939

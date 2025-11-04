@@ -1,0 +1,27 @@
+name: Accordion
+icon: angle-down
+tabs:
+    content:
+        fields:
+            title:
+                label: field.blocks.heading.text
+                type: writer
+                inline: true
+                placeholder: field.blocks.heading.placeholder
+                required: true
+            layout:
+                type: layout
+                label: Content
+                layouts:
+                    - '1/1'
+                    - '1/2, 1/2'
+                fieldsets:
+                    text:
+                        label: Text
+                        type: group
+                        fieldsets:
+                            heading: blocks/heading
+                            text: blocks/text
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

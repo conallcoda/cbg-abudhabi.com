@@ -1,0 +1,21 @@
+Title: HEAD
+
+----
+
+Picture: - file://hr5ZROq1zKG4OhO8
+
+----
+
+Link: https://www.head.com/en/
+
+----
+
+Uuid: WtLaXECSItc6wnco
+
+----
+
+Created-at: 1759888034
+
+----
+
+Modified-at: 1759888123

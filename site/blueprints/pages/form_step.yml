@@ -1,0 +1,61 @@
+title: Form
+create:
+    status: listed
+options:
+    preview: '{{ page.parent._preview_url }}'
+    duplicate: false
+status:
+    draft:
+        label: Draft
+    listed:
+        label: Published
+columns:
+    - width: 2/3
+      sections:
+          content:
+              type: fields
+              fields:
+                  layout:
+                      type: layout
+                      label: Content
+                      layouts:
+                          - '1/1'
+                          - '1/2, 1/2'
+                      fieldsets:
+                          text:
+                              label: Text
+                              type: group
+                              fieldsets:
+                                  accordion: blocks/accordion
+                                  divider: blocks/divider
+                                  heading: blocks/heading
+                                  text: blocks/text
+                                  button: blocks/button
+                          form:
+                              label: Form
+                              type: group
+                              fieldsets:
+                                  form_accept_terms: blocks/form_accept_terms
+                                  form_dietary_requirements: blocks/form_dietary_requirements
+                                  form_fields: blocks/form_fields
+                                  form_jam_session: blocks/form_jam_session
+                                  form_payment: blocks/form_payment
+                                  form_profile_photo: blocks/form_profile_photo
+                                  form_newsletter: blocks/form_newsletter
+                                  form_next_step_button: blocks/form_next_step_button
+                                  form_seat_options: blocks/form_seat_options
+                                  form_select_product: blocks/form_select_product
+                                  form_survey: blocks/form_survey
+
+                      settings:
+                          fields:
+                              _settings: fields/blocks/layout-settings
+    - width: 1/3
+      sections:
+          settings:
+              type: fields
+              fields:
+                  back_button_text:
+                      type: text
+                      label: Back Button Text
+                      placeholder: Back

@@ -1,0 +1,67 @@
+Title: Alain Falys
+
+----
+
+Picture: - file://Ie2c6Qfcxe1cUhNo
+
+----
+
+Picture-color: - file://9TaxIMnxhjZt9cgl
+
+----
+
+Picture-cropped: - file://gvhxep1VZ9ZMbTUb
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO, Keybox
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Alain is a technology entrepreneur and investor. His sectors of predilection are data, identity management, payments and transformative business models enabled by Blockchain. He is the Honorary Chair of the Keybox Project which uses decentralisation to eliminate the risk of data breaches. 
+
+As Partner at technology fund Firestartr.co and founding LP at Blockchain fund Fabric.vc. Alain invested in Polkadot, Zeppelin_os, Ocean Protocol and Orchid to name but a few. 
+
+He founded London-based Yoyo Wallet - Europe's fastest growing mobile payment and loyalty marketing platform - where he is now Chairman and he is a member of the Royal Bank of Scotland Technology Advisory Board. 
+
+A former Senior Vice President at Visa International, he co-founded the OB10 global e-invoicing network which floated on AIM. 
+
+Alain has lived and worked in multiple cities including Milan, Paris, Berlin, Kuala Lumpur, London and now lives in Zurich with his family.
+
+----
+
+Twitter: https://twitter.com/AlainFalys
+
+----
+
+Linkedin: https://www.linkedin.com/in/alainfalys/
+
+----
+
+Email: 
+
+----
+
+Autoid: c8wtn914
+
+----
+
+Uuid: e4AuBFVcND8QQ0Xl
+
+----
+
+Modified-at: 1758629807

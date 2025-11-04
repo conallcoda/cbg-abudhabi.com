@@ -1,0 +1,57 @@
+Title: Daniel Yang
+
+----
+
+Picture: - file://7rsUlsDlTIpRSoIz
+
+----
+
+Picture-color: - file://Jj8wgghodv0c9VMY
+
+----
+
+Picture-cropped: - file://PWoI0M7nZ5K6icEA
+
+----
+
+Logo: - file://1QJuZQSYIzLjisUK
+
+----
+
+Subtitle: Head of Markets Strategy
+
+----
+
+Company: Algorand Foundation
+
+----
+
+Company-url: https://www.algorand.foundation
+
+----
+
+Bio: 
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/daniel-yang-b7989217/
+
+----
+
+Email: 
+
+----
+
+Autoid: m5xd1f3c
+
+----
+
+Uuid: uGQsAoOaxQlw1YfU
+
+----
+
+Modified-at: 1758629928

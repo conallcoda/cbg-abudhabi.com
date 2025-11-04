@@ -1,0 +1,67 @@
+Title: Mathias Imbach
+
+----
+
+Picture: - file://Rv5gGrqLkEvRs2Vk
+
+----
+
+Picture-color: - file://Rv5gGrqLkEvRs2Vk
+
+----
+
+Picture-cropped: - file://HLXSJqQsHhUFANvq
+
+----
+
+Logo: - file://eA9h45MnmAg8dx1z
+
+----
+
+Subtitle: Co-Founder & Group CEO
+
+----
+
+Company: Sygnum Bank
+
+----
+
+Company-url: https://www.sygnum.com/
+
+----
+
+Bio:
+
+Mathias is the Co-Founder and Group CEO of Sygnum Bank, the world’s first digital asset bank. Sygnum is a digital asset technology group with a Swiss banking and securities dealer licence (issued by FINMA), as well as a capital markets services (CMS) licence in Singapore. With a broad product and service offering focusing on digital assets, incl. a convenient gateway between fiat and digital assets, Sygnum empowers institutional investors to invest into this new asset class with complete trust. 
+
+Prior to Sygnum, Mathias was General Manager at RNT Associates, Mr. Ratan N. Tata's personal investment platform, where he joined as first employee. He led multiple venture capital and private equity investments and participated in Blockchain/ DLT related equity deals globally.
+Mathias started his career at Bain & Company where he led advisory projects for Private Equity Funds, Family Offices and Technology companies.
+He holds a PhD from the University of St. Gallen and a Master of Science from the London School of Economics (LSE).
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://ch.linkedin.com/in/dimbach
+
+----
+
+Email: 
+
+----
+
+Autoid: 6210jf6o
+
+----
+
+Uuid: DYNoMJ35QD6eihW4
+
+----
+
+Datemodifiedepoch: 1696596494
+
+----
+
+Modified-at: 1760563007

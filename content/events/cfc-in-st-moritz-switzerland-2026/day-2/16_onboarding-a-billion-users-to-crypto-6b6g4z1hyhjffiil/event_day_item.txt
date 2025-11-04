@@ -1,0 +1,49 @@
+Title: Reimagining Private Markets: Tokenization, Liquidity, and the Future of Alternatives
+
+----
+
+Session: Session 4 - Capital Formation in a Digital Era
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Private markets are entering a new phase. As tokenization shifts from theory to practice, capital market infrastructure is is evolving – offering greater transparency, fractional access, and the potential for real secondary liquidity. This transformation opens new opportunities across traditional and alternative asset classes, yet challenges remain. Will tokenized private markets simply digitize old systems - or fundamentally reshape how capital is raised and distributed?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"9298fc6f-b221-41b8-82d3-6e7117d50fa0","isHidden":false,"type":"text"}],"id":"0b401973-3582-45f5-a662-e094de6be4f3","width":"1/1"}],"id":"8f376975-db75-470a-b9fd-4838fc0bfaf8"}]
+
+----
+
+Time-start: 14:45:00
+
+----
+
+Time-finish: 15:20:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: NS63POsXzljcggXD
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1760128196

@@ -1,0 +1,7 @@
+name: Divider
+icon: divider
+tabs:
+    content:
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

@@ -1,0 +1,5 @@
+@font-face {
+  font-family: "BrownStdRegular";
+  font-display: fallback;
+  src: url("./BrownStd-Regular.otf") format("opentype");
+}

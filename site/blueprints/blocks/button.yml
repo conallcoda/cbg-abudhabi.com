@@ -1,0 +1,27 @@
+name: Button
+icon: bolt
+tabs:
+    content:
+        fields:
+            align: fields/align-horizontal
+            color:
+                type: color
+                mode: options
+                options:
+                    - '#ffffff'
+                    - '#000000'
+                    - '#F1CC0E'
+            link:
+                type: link
+                label: Link
+                options:
+                    - page
+            text:
+                type: text
+                label: Text
+            new_window:
+                extends: fields/yes_no
+                label: New window?
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

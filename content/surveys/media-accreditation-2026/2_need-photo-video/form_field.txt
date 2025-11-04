@@ -1,0 +1,40 @@
+Title: Do you need video or photo material rom the conference?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: true
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: Video
+- 
+  title: Photo
+- 
+  title: Audio Recordings
+
+----
+
+Uuid: 5nixBjjIJ2Pqf54W
+
+----
+
+Modified-at: 1726080615

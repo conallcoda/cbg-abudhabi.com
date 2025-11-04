@@ -1,0 +1,5 @@
+Uuid: 72VNhtQByVLnHLTB
+
+----
+
+Template: image

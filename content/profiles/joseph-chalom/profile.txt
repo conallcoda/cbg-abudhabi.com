@@ -1,0 +1,65 @@
+Title: Joseph Chalom
+
+----
+
+Picture: - file://qAUXjHBQ7DIpibmv
+
+----
+
+Picture-color: - file://uroXV2GG1MehrJCl
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://1MU1UcwDIT24iPkX
+
+----
+
+Subtitle: Managing Director
+
+----
+
+Company: BlackRock
+
+----
+
+Company-url: https://www.blackrock.com
+
+----
+
+Bio:
+
+Joseph Chalom is the Head of Strategic Ecosystem Partnerships at BlackRock and is responsible for executing BlackRock's strategy in the digital assets, data, and technology innovation ecosystems. This includes product innovation and strategic partnerships to drive digital asset ecosystem innovation and institutional client adoption. In 2024, BlackRock launched its IBIT and ETHA exchange traded products and the BUIDL tokenized treasury fund, making it the largest manager of digital assets.
+
+Prior to this role, Joseph served as BlackRock's Deputy Chief Operating Officer and, for over a decade, was the Chief Operating Officer of BlackRock Solutions, which delivers the firm's Aladdin financial technology capabilities clients globally. Joseph is a member of BlackRock’s Global Operating Committee.
+
+Joseph serves on the boards of Securitize, a leading provider in the tokenized assets and digital transfer agency space for real world assets, and ClarityAI, a leading AI-powered sustainability platform and data provider. 
+
+Joseph earned a B.A. degree, with honors, in International Affairs from Johns Hopkins University and a J.D. degree from Columbia University School of Law.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/josephchalom
+
+----
+
+Email: 
+
+----
+
+Uuid: FX6BCEHB0ZNExtbl
+
+----
+
+Created-at: 1731601618
+
+----
+
+Modified-at: 1758629959

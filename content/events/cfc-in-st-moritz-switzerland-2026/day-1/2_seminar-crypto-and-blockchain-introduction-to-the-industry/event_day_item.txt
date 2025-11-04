@@ -1,0 +1,49 @@
+Title: Seminar: Crypto and Blockchain – Introduction to the Industry
+
+----
+
+Session: Arrival & Introduction
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Crypto Basics &amp; Concepts – A Quick Refresher</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 11:00:00
+
+----
+
+Time-finish: 11:45:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: LnMO1081YBlcobwZ
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1760640423

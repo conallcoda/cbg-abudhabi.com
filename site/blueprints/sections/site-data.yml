@@ -1,0 +1,15 @@
+type: pages
+label: Data
+layout: cardlets
+sortBy: title asc
+search: false
+image: false
+limit: 50
+create: false
+templates:
+    - profiles
+    - partners
+    - events
+    - form_fields
+    - surveys
+    - forms

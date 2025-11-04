@@ -1,0 +1,17 @@
+Title: The Sandbox
+
+----
+
+Autoid: pr01ek87
+
+----
+
+Picture: partners-data/the-sandbox/thesandbox_logo_websiteframe.png
+
+----
+
+Link: https://www.sandbox.game/en/
+
+----
+
+Uuid: xN42IVtN3cDzi2Rq

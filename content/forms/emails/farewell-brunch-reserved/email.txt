@@ -1,0 +1,38 @@
+Title: Farewell Brunch Reserved
+
+----
+
+Type: User
+
+----
+
+To: 
+
+----
+
+Bcc:
+
+- 
+  email: nicolo@cfc-stmoritz.com
+- 
+  email: hello@si-de.ch
+- 
+  email: flurina@cfc-stmoritz.com
+- 
+  email: ziga@cfc-stmoritz.com
+
+----
+
+Subject: CfC St. Moritz 2025: Farewell Brunch Reserved
+
+----
+
+Body: Dear [contact__first_name],<br><br>Thank you for reserving your place with us at the Farewell Brunch.<br><br>If you are not able to attend the event you have registered for, we kindly ask you to inform us of your cancelation latest by 11am on Friday 17 January, 2025 (24h before the start of the event) for the full deposit to be refunded.<br><br>Due to organizational reasons, any cancellations after 11am on Friday 17 January, 2025 will not be refunded and will be charged in full. <br><br>Thank you very much &amp; Best regards,<br><br>The CfC St. Moritz team
+
+----
+
+Uuid: 2wHD2x1faoglKVr4
+
+----
+
+Modified-at: 1737045414

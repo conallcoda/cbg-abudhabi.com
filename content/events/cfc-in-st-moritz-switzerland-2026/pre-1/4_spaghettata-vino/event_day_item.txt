@@ -1,0 +1,45 @@
+Title: Spaghettata & Vino
+
+----
+
+Session: Pre-Opening
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 19:45:00
+
+----
+
+Time-finish: 22:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: tNW5VDnYZrUL2moJ
+
+----
+
+Modified-at: 1760384387

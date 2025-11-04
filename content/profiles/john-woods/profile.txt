@@ -1,0 +1,65 @@
+Title: John Woods
+
+----
+
+Picture: - file://fCvzGjIn4Vf54ETj
+
+----
+
+Picture-color: - file://ngSonMtW5TMmS9DX
+
+----
+
+Picture-cropped: - file://Hr7hyvYIWp3IF0MA
+
+----
+
+Logo: - file://zjSi7UcQwr2LM4aM
+
+----
+
+Subtitle: CTO
+
+----
+
+Company: Algorand Foundation
+
+----
+
+Company-url: https://www.algorand.foundation/
+
+----
+
+Bio:
+
+John Woods joined the Algorand Foundation as CTO in 2022. Prior to joining the leadership team he worked as Chief Architect of Cardano at IOHK. John has held roles leading software architecture and applied cryptography at a number of firms including Informatica and ConsenSys.
+
+John is particularly passionate about food, coffee and decentralized self-sovereign privacy preserving technology!
+
+----
+
+Twitter: https://twitter.com/JohnAlanWoods
+
+----
+
+Linkedin: https://www.linkedin.com/in/johnalanwoods
+
+----
+
+Email: 
+
+----
+
+Uuid: WiEARz5BdtLh6efa
+
+----
+
+Datecreatedepoch: 1696597732
+
+----
+
+Datemodifiedepoch: 1696597918
+
+----
+
+Modified-at: 1758629949

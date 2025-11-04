@@ -1,0 +1,9 @@
+Uuid: huwvm7QTdbDbFVmg
+
+----
+
+Focus: 55.1% 48.2%
+
+----
+
+Template: image

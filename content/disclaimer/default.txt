@@ -1,0 +1,65 @@
+Title: Disclaimer
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"text":"<h3>Representations and warranties</h3><p>The Crypto Finance Conference (the “Conference”) is organized by the Crypto Finance Conference AG (the “Event Organizer”). The Event Organizer is not a broker-dealer and is not facilitating any investments in any company attending the Conference or any securities transaction in which any Conference participant (a “Participant”) may be involved, whether as an investor, broker, finder, issuer, seller of securities or otherwise. Compliance with applicable federal and state securities laws in connection with any public or private securities offerings is each Participant’s sole responsibility. By participating in the Conference, a Participant agrees, during or in connection with the Conference, to (a) comply with all applicable federal or state securities laws (b) not engage in any activities that would be illegal or require registration under applicable federal or state securities laws of any Participant, whether as a broker-dealer, securities dealer or otherwise, and (c) not engage in any activities that would (i) require the registration of any Participant’s securities offering under federal or state securities law or (ii) violate the conditions for any exemption from such registration requirement.</p><h3>No warranties or representations</h3><p>The Event Organizer has exercised the utmost care in compiling the information being published. All information maid available by the Event Organizer, is based on carefully selected sources that are deemed to be reliable. However, neither the Event Organizer nor its contracting partners make or purport to make, and hereby disclaim, any representation, warranty or undertaking in any form whatsoever (whether expressed or implied) to any entity or person, that any information contained on or accessed from any platform or source of the Event Organizer is accurate, true, reliable, up-to-date, non-infringemental of intellectual property rights, fit for a particular purpose, or complete. In particular, the Event Organizer is under no obligation whatsoever to update or remove outdated information or opinions or to mark them as being outdated. The published information and opinions are subject to change at any time without notice. Furthermore, no warranty is given that the Event Organizer’s e-mails, website or social media will operate error free or without interruption, that any faults will be corrected, or that e-mails, the website or social media and the servers from which information is accessible will be free of viruses, trojan horses, worms, software bombs, or other harmful components and programs, and the Event Organizer accepts no liability in respect thereof.</p><h3>No advice or offer</h3><p>Information and opinions published by the Event Organizer are provided for information purposes only. Moreover, information and opinions published ormaid accessible do not constitute, nor are they intended to provide or be construed as any form of promotion, recommendation, inducement, offer, investment advice, solicitation to (a) purchase or sell any cryptocurrencies, (b) transact any other business, or (c) enter into any other legal transactions, or any legal, tax, financial, or other advice. Such information and opinions should not be relied upon or used as a basis for decision-making. Services described may not be suitable for you or may be unavailable.</p><h3>No liability</h3><p>No information contained on or accessed from sources or platforms of the Event Organizer should be construed as creating any contractual relationship between the providers of such information and users hereof. To the maximum extent permitted by the applicable laws, regulations and rules, the Event Organizer shall not be liable for any direct, indirect, special, incidental, consequential or other losses or damages of any kind, in tort, contract or otherwise (including without limitation loss of profit or income and loss of revenue), that may be suffered as a result of information and opinions provided by the Event Organizer, or for any loss or damage resulting either directly or indirectly from use of the sources or platform of the Even Organizer and the information contained therein or from risks associated with the financial markets.</p>","custom_id":"","custom_class":""},"id":"4d04f720-0d1e-42eb-b845-f07d5574d3b4","isHidden":false,"type":"text"}],"id":"3c6acd43-1092-49af-97d1-5224e9a5f056","width":"1/1"}],"id":"4568bed6-afb4-4de3-9943-3a735dd1bd15"}]
+
+----
+
+Layout-off: 
+
+----
+
+Restrict-access: false
+
+----
+
+Access-token: 6UAnAHKi04mJQmQY
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Uuid: F97VDpkTMP7JyeKT
+
+----
+
+Created-at: 1721315916
+
+----
+
+Modified-at: 1728385739

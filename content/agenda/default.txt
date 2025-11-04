@@ -1,0 +1,65 @@
+Title: Agenda
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"source":"page://SaTCvXy9PZM8UO22","custom_id":"","custom_class":""},"id":"258c290c-db2b-4847-aa2e-550d61a9d48f","isHidden":false,"type":"event_agenda"}],"id":"155f1b6f-ad90-45af-9935-7337c0ab54a9","width":"1/1"}],"id":"a2721813-aacf-4a25-b171-5ad70e09a772"}]
+
+----
+
+Layout-off: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"<p>We are currently finalising the agenda for our next event. Please check back soon.</p>","custom_id":"","custom_class":""},"id":"ddda19dd-e35a-421c-928e-0030cd778e5f","isHidden":false,"type":"text"}],"id":"1f712caf-7078-44a9-af76-049850e10568","width":"1/1"}],"id":"dde9f7f5-f8f5-40bf-bd9d-18393d5cca3a"}]
+
+----
+
+Restrict-access: false
+
+----
+
+Access-token: oOIxhNiztH2RN7Jf
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Uuid: 0TVImYEGvKn15jt1
+
+----
+
+Created-at: 1721306275
+
+----
+
+Modified-at: 1758203798

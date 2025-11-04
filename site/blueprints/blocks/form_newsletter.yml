@@ -1,0 +1,15 @@
+name: Newsletter
+icon: email
+tabs:
+    content:
+        fields:
+            name:
+                type: text
+                default: contact
+                disabled: true
+            items:
+                extends: fields/select-form-fields
+                label: Fields
+            button:
+                type: text
+                label: Button

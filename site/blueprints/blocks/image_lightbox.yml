@@ -1,0 +1,14 @@
+name: Image Lightbox
+icon: image
+preview: image
+tabs:
+    content:
+        fields:
+            image:
+                extends: fields/image
+                translate: false
+                width: 1/1
+                label: field.blocks.image.name
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

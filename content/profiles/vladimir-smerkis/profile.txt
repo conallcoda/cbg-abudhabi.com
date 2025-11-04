@@ -1,0 +1,53 @@
+Title: Vladimir Smerkis
+
+----
+
+Picture: - file://Rqa1OVHCNApsqk2i
+
+----
+
+Picture-cropped: - file://bu9FBYpTBcHdXYXn
+
+----
+
+Logo: 
+
+----
+
+Subtitle: 
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Vladimir Smerkis is an entrepreneur and private investor in blockchain projects of early stages from Moscow. He writes about the blockchain community in Russia, altcoin development and launching ICO's. Co-founder of crypto-assets fund (The Token Fund, 2017), an author and host of the radio show "Silikonovie Dali" (Silicon Valley) about digital business and innovations on Radio Megapolis 89,5 FM. Former deputy vice-president for international development at Mail.ru Group.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/smerkis/
+
+----
+
+Email: 
+
+----
+
+Autoid: 9a0qmaum
+
+----
+
+Uuid: FnvFI4CvEaezmcAz
+
+----
+
+Modified-at: 1722849080

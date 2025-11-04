@@ -1,0 +1,67 @@
+Title: Rostin Behnam
+
+----
+
+Picture: - file://l2d9v2ANfLo9MyxS
+
+----
+
+Picture-color: - file://9fiEUhXOgF9XBqfp
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://vKK3qHDxbL7aW5uM
+
+----
+
+Subtitle: Chairman
+
+----
+
+Company: CFTC
+
+----
+
+Company-url: https://www.cftc.gov/
+
+----
+
+Bio:
+
+Rostin Behnam was sworn in as the CFTC’s 15th Chairman on January 4, 2022 after being unanimously confirmed by the U.S. Senate. President Biden nominated Chairman Behnam to lead the agency.
+ 
+Previously, Chairman Behnam served as CFTC Commissioner since September, 2017.  The members of the Commission elected Commissioner Behnam as Acting Chairman effective January 21, 2021.
+ 
+Chairman Behnam’s arrival at the CFTC followed extensive experiences in financial markets.  As Senior Counsel to Senator Debbie Stabenow of Michigan, Chairwoman of the U.S. Senate Committee on Agriculture, Nutrition, and Forestry, he primarily focused on policy and legislative matters related to the CFTC, including advising Senator Stabenow on the implementation of the Dodd-Frank Wall Street Reform and Consumer Protection Act and related matters affecting the Treasury Department, the U.S. prudential regulators, and the Securities and Exchange Commission.
+ 
+After graduating from Georgetown University, Chairman Behnam worked as a proprietary equities trader in New York City before pursuing a Juris Doctorate at Syracuse University. 
+
+Upon graduation, he returned to his home state of New Jersey and joined the Bureau of Securities within the state’s Office of the Attorney General.  Following his time with the Bureau of Securities, Chairman Behnam practiced law in New York City.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/company/commodity-futures-trading-commission
+
+----
+
+Email: 
+
+----
+
+Uuid: cBn02S6HIbOkemCw
+
+----
+
+Created-at: 1727341359
+
+----
+
+Modified-at: 1758629998

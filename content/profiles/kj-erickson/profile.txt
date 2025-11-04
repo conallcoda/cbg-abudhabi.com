@@ -1,0 +1,65 @@
+Title: KJ Erickson
+
+----
+
+Picture: - file://wt0QgwaHrCZjP3rZ
+
+----
+
+Picture-color: - file://cX1GmYaWFiC95Xq0
+
+----
+
+Picture-cropped: - file://JGJ6VfFiTBsQXcD7
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO & Co-founder of Public Market
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+KJ Erickson is the CEO & Co-Founder of Public Market, a venture-backed blockchain company that is building a decentralized protocol for fair, competitive, and commission-free eCommerce. A graduate of Stanford University and Oxford Business School, KJ is trained in economics and game theory and is passionate about building consumer-facing web products and marketplaces backed by alternative currencies.
+
+KJ has 14 years experience as an entrepreneur, having been backed by top VCs including Greylock, Foundation Capital, Norwest, Maveron. Her Y Combinator-backed company Abundance Labs created Simbi, the world’s largest services marketplace run on a digital currency. 
+
+KJ has received numerous awards including Rolling Stone’s “People Shaping the Future”, The New Leaders Council’s “Top 40 Leaders Under 40” and CNN’s “People You Should Know.” KJ is also a Skoll Scholar and a Clinton Foundation Honoree who spent her early professional life in refugee camps and post-conflict zones in Africa, partnering with UNHCR to bring innovative development services to victims of war.
+
+KJ’s work has been featured in numerous publications, including the Los Angeles Times, TechCrunch, Forbes, the Wall Street Journal, CNN, NPR, INC. Glamour, Stanford Social Innovation Review, Fast Company, Rolling Stone, and Entrepreneur.
+
+----
+
+Twitter: https://twitter.com/kjer
+
+----
+
+Linkedin: https://www.linkedin.com/in/kjerstine/
+
+----
+
+Email: 
+
+----
+
+Autoid: 3jlai5ix
+
+----
+
+Uuid: RyeISXy8lbB1NOUQ
+
+----
+
+Modified-at: 1758629964

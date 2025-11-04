@@ -1,0 +1,68 @@
+Title: Awaken Body & Mind - January 16th, 2026
+
+----
+
+Email-notifications:
+
+- 
+  after_step: page://t8Bz5uioiEi6xQ02
+  send_email: page://jcWy0IFJFDwl1yoV
+- 
+  after_step: page://t8Bz5uioiEi6xQ02
+  send_email: page://3AJxu228XtorPkdx
+
+----
+
+Default-product: page://1uLla4XXhel7dyFN
+
+----
+
+Test-data-mode: false
+
+----
+
+Test-payment-mode: false
+
+----
+
+Close-on-date: false
+
+----
+
+Close-date: 
+
+----
+
+Close-content: 
+
+----
+
+Restrict-access: true
+
+----
+
+Access-token: 9udsUcXspp4LMQP1
+
+----
+
+Invited-users: 
+
+----
+
+Restrict-submissions: true
+
+----
+
+Max-submissions: 25
+
+----
+
+Max-submissions-message: 
+
+----
+
+Uuid: kcBhsw4J7jFIcPEH
+
+----
+
+Modified-at: 1752226056

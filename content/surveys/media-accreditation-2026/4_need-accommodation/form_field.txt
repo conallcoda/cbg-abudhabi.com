@@ -1,0 +1,40 @@
+Title: Do you need hotel accommodation organized by CfC St. Moritz?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: 'Yes'
+- 
+  title: 'No'
+- 
+  title: "I don't know yet"
+
+----
+
+Uuid: 2mZy4B4NDHKEj4eJ
+
+----
+
+Modified-at: 1726080631

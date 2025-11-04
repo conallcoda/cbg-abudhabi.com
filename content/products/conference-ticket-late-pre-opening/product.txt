@@ -1,0 +1,21 @@
+Title: Conference Ticket [Late] + Pre-Opening
+
+----
+
+Display-name: 1 x CfC St. Moritz Ticket (Full Conference Seat)
+
+----
+
+Button-text: Select Full Conference Seat
+
+----
+
+Price: 14400
+
+----
+
+Uuid: fqMqmOBGesTBolMq
+
+----
+
+Modified-at: 1758616583

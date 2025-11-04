@@ -1,0 +1,57 @@
+Title: Maja Vujinovic
+
+----
+
+Picture: - file://C0HEe3Thw2WwYW2H
+
+----
+
+Picture-color: - file://v80QfeS3zbWv9aUi
+
+----
+
+Picture-cropped: - file://rY0vepICThk3Msks
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Managin Director
+
+----
+
+Company: OGroup
+
+----
+
+Company-url: https://www.linkedin.com/in/majavujinovic/
+
+----
+
+Bio: Maja is an operator and strategist focused on customer success and integration of new technologies such as blockchain and AI. She has been an investor in mobile payments and digital assets including crypto and DeFi since 2008 and is currently a thought leader in digital payments, change management and customer adoption of new financial tools. Maja was a catalyst in General Electric, to test and use blockchain and is an avid investor and builder in digital asset space with over 25 + investments. Maja brings more than 15+ years of navigating complex business and technology systems and integration.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/majavujinovic/
+
+----
+
+Email: 
+
+----
+
+Autoid: 3h47id52
+
+----
+
+Uuid: nFkRagFpjMLPqsLp
+
+----
+
+Modified-at: 1758629968

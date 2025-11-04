@@ -1,0 +1,82 @@
+Title: Dan Keyworth
+
+----
+
+Picture: - file://cRN8KG0Hc9fYMNg7
+
+----
+
+Picture-color: - file://gnEgN1DeiEw7Aqoh
+
+----
+
+Picture-cropped: - file://PVuh8DDFKiiw1qc1
+
+----
+
+Logo: - file://iAY5ka1aD8yM2jxC
+
+----
+
+Subtitle: Director of Business Technology
+
+----
+
+Company: McLaren Racing
+
+----
+
+Company-url: https://www.mclaren.com/racing/
+
+----
+
+Bio:
+
+Dan leads the technology portfolio across the McLaren Racing Team; one of three divisions
+that falls under the globally recognised McLaren brand.
+
+McLaren Racing is most known for its Formula 1 programme where technology plays a key
+role in the Team’s ability to design, build and race competitively throughout the season. In
+addition, McLaren has ventures in IndyCar and other emerging formulas where technology
+plays a key role in providing the competitive edge engrained in the brand’s DNA.
+
+Dan is responsible for all things IT on and off the track, from the core infrastructure and
+business technologies used at the factory through to the bespoke capabilities McLaren takes
+around the world to perform at the highest level in motorsport.
+
+Dan works closely with the Racing leadership team to ensure the technology strategy is
+aligned to the Team’s vision, complementing its journey back to the front of the grid and how
+it operates under the new cost regulations introduced to F1 in 2021 and technical regulations
+in 2022.
+
+Dan has been with McLaren for 4 years after spending 9 years working for Fujitsu within the
+UK Government delivering IT services into the Armed Forces. Prior to this, Dan was involved
+in Fujitsu’s Global Services Team delivering enterprise service desks, engineering services
+and management capabilities. He held several senior service management positions during
+this time.
+
+In his free time, you’ll find Dan running, horse riding and volunteering.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/dan-keyworth-76311451/
+
+----
+
+Email: 
+
+----
+
+Autoid: 2rv72lqa
+
+----
+
+Uuid: HFqhF96v96yRzHqK
+
+----
+
+Modified-at: 1758629928

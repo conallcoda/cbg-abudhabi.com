@@ -1,0 +1,21 @@
+title: Partners Data
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+options:
+    duplicate: false
+    changeTitle: false
+    changeStatus: false
+    changeTemplate: false
+    changeSlug: false
+    preview: false
+    delete: false
+    move: false
+tabs:
+    items:
+        label: Partners
+        icon: list-numbers
+        sections:
+            items: sections/partners

@@ -1,0 +1,61 @@
+Title: John Nahas
+
+----
+
+Picture: - file://GGDjMFR2sSGOqF8h
+
+----
+
+Picture-color: - file://GGDjMFR2sSGOqF8h
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://CG9cE537Ba5vhAUF
+
+----
+
+Subtitle: CBO
+
+----
+
+Company: Ava Labs
+
+----
+
+Company-url: https://www.avalabs.org
+
+----
+
+Bio:
+
+John Nahas is the Chief Business Officer at Ava Labs. John oversees ecosystem growth for the Avalanche blockchain across numerous verticals, jurisdictions, and asset classes, including: institutional, enterprise, wallets and exchanges, retail and consumer, gaming, decentralized finance (DeFi), and crypto native applications. He also oversees business development efforts for Ava Labs, and international growth efforts with teams in Korea, Japan, India, Singapore, Hong Kong, Latin America, SE Asia, Turkey, and the Middle East.
+
+John previously was a founding team member at TokenVault, a digital assets platform, which was acquired by Franklin Templeton. Prior to TokenVault, John worked in international trade and trade finance for several years, and was a founding team member at digital news site Mic.com. He has a Masters in Public Diplomacy and dual degrees in Communication and Political Science from the University of Southern California.
+
+----
+
+Twitter: https://x.com/JohnNahas84
+
+----
+
+Linkedin: https://www.linkedin.com/in/john-nahas/
+
+----
+
+Email: 
+
+----
+
+Uuid: Ch8sK7N7TLvpGkp8
+
+----
+
+Created-at: 1730283300
+
+----
+
+Modified-at: 1759875187

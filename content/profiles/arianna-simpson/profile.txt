@@ -1,0 +1,57 @@
+Title: Arianna Simpson
+
+----
+
+Picture: - file://2DhTNeGrBuktq013
+
+----
+
+Picture-color: - file://DFIIQd6A7FzMBpEr
+
+----
+
+Picture-cropped: - file://Ss3fkjuGsGNaZeZ2
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Managing Director of Autonomous Partners
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Arianna Simpson is the founder and managing director of Autonomous Partners, an investment fund focused on cryptocurrencies and digital assets. She is also an active angel investor and venture partner at Crystal Towers Capital, an early-stage VC fund which Arianna and her partner launched in 2015. Prior to Crystal Towers, Arianna spent time working in sales and product roles at Facebook and BitGo, an enterprise security company for bitcoin and other digital currencies.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/ariannasimpson/
+
+----
+
+Email: 
+
+----
+
+Autoid: 52hr49hc
+
+----
+
+Uuid: M5lTYcnr2Q5ViHwW
+
+----
+
+Modified-at: 1758629914

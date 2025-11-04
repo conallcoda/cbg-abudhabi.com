@@ -1,0 +1,42 @@
+name: Program Overview [Home]
+icon: calendar
+tabs:
+    content:
+        fields:
+            pre_title:
+                label: Pre Title
+                type: text
+                width: 1/2
+            pre_subtitle:
+                label: Pre Subtitle
+                type: text
+                width: 1/2
+            pre_text:
+                label: Pre Text
+                type: writer
+            core_title:
+                label: Core Title
+                type: text
+                width: 1/2
+            core_subtitle:
+                label: Core Subtitle
+                type: text
+                width: 1/2
+            items:
+                type: structure
+                columns:
+                    title:
+                    text:
+                fields:
+                    title:
+                        type: text
+                        label: Title
+                    text:
+                        type: writer
+                        label: Text
+                    link:
+                        type: text
+                        label: Link
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

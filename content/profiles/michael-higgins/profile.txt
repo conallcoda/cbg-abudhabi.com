@@ -1,0 +1,63 @@
+Title: Michael Higgins
+
+----
+
+Picture: - file://sKfIg9WmwfhYoGea
+
+----
+
+Picture-color: - file://sKfIg9WmwfhYoGea
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://lKnYYgK957NGbuiP
+
+----
+
+Subtitle: International CEO
+
+----
+
+Company: Hidden Road
+
+----
+
+Company-url: https://hiddenroad.com/
+
+----
+
+Bio:
+
+Mike Higgins is Global Head of Business Development at Hidden Road and is Partner, Head of EMEA & UK. A highly articulate, motivated and experienced director with nearly two decades of experience within the financial markets, Mike possesses deep understanding across the spectrum of the global digital assets, equity index and commodity-based synthetic futures, exchange-based futures, spot FX and precious metals markets with a strong emphasis on e-trading technologies, methodologies and workflows. His specific skills in E-Commerce, APIs, GUI, price generation algorithms, risk management and hedging strategies to a diverse group of market participants prove invaluable as Hidden Road’s network continues to expand.
+ 
+Prior to joining Hidden Road, Mike was co-founder and Managing Partner of Coronam ec, a London-based multi-asset algorithmic trading specialist that helped build and manage the distribution network for two large high frequency trading firms across both equity indices and foreign exchange.  Prior roles include senior positions at FXCM, where he served as Director of Institutional FX Sales – EMEA and Vice President of Institutional Sales supporting the firm’s FXCM Prime Brokerage and FastMatch (now Euronext FX) products.  
+   
+Mike earned a bachelor’s degree in economics and statistics from Fordham University in New York.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/michael-higgins-960a9810/
+
+----
+
+Email: 
+
+----
+
+Uuid: DoKhaGoLxFs24kfa
+
+----
+
+Created-at: 1727338988
+
+----
+
+Modified-at: 1759875201

@@ -1,0 +1,37 @@
+Title: Please provide a short description of the company you’re representing (investment activities & focus/ source of funds / principals & team etc.)
+
+----
+
+Type: text
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options: 
+
+----
+
+Uuid: Dbvv3dmhrZy1ZkUW
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1726143905

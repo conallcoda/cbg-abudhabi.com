@@ -1,0 +1,57 @@
+Title: Hany Rashwan
+
+----
+
+Picture: - file://AazJY0xW7thbYw1x
+
+----
+
+Picture-color: - file://dIZG4BTY3nQ1sIsn
+
+----
+
+Picture-cropped: - file://HwpLLTDMwIExMdrH
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO, Amun AG
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Hany is co-founder and CEO of Amun AG, the world's leading provider of crypto exchange-traded provider (ETPs). Amun has twenty-five crypto ETPs representing single assets, income generating, and index baskets on the Swiss Stock Exchange. Previously he co-founded a fin-tech technology company that was acquired. Hany studied at Columbia University where he received a BA in History graduating magna cum laude.
+
+----
+
+Twitter: https://twitter.com/hany
+
+----
+
+Linkedin: https://www.linkedin.com/in/ihany/
+
+----
+
+Email: 
+
+----
+
+Autoid: h0i3brxb
+
+----
+
+Uuid: rGVLBVo9A2Pnot6W
+
+----
+
+Modified-at: 1758629943

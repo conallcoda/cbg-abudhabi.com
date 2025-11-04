@@ -1,0 +1,49 @@
+Title: Crypto and Capital in a Fragmented World: Dynamics, Risks, and Opportunities
+
+----
+
+Session: Session 1 - The World Rewired
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>As global economic and political fragmentation accelerates, the flows of capital, money, and trade are being fundamentally reshaped. Against this backdrop, growing uncertainty around trade, regulatory divergence, and shifts in monetary policy are directly influencing crypto capital markets. What role will crypto play in an increasingly fragmented world – and what will this mean for its long-term growth, stability, and global relevance?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"242e0e55-409d-4705-a365-3d0f12f8c7fd","isHidden":false,"type":"text"}],"id":"76c21026-30c9-4ba4-aa37-c90c436aaa11","width":"1/1"}],"id":"af419dcf-8eaa-4fd8-99d5-84e8f104d714"}]
+
+----
+
+Time-start: 13:50:00
+
+----
+
+Time-finish: 14:30:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: qJBRu08QnDT6XodL
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1760117802

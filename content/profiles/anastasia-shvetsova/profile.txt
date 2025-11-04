@@ -1,0 +1,57 @@
+Title: Anastasia Shvetsova
+
+----
+
+Picture: - file://U1WsENPkmX7WkbNe
+
+----
+
+Picture-color: - file://ZnoSGhqfMUAPFuZi
+
+----
+
+Picture-cropped: - file://bc427wVNpamhdQoq
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Moderator
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Anastasia Shvetsova is the founder and managing partner at M&A PR studio. Anastasia is one of the most trusted public relations and communications professionals in the technology industry, having worked with web giants such as Facebook, WeWork, PayPal, Houzz, Gett and others. Anastasia is a partner at Gagarin Capital Partners, ambassador of the CFC conference and contributor to Forbes.
+
+----
+
+Twitter: https://twitter.com/anashvets?lang=de
+
+----
+
+Linkedin: https://www.linkedin.com/in/anastasia-shvetsova-00604388/
+
+----
+
+Email: 
+
+----
+
+Autoid: wzoppi72
+
+----
+
+Uuid: XOyXdLk7Ss7TEUPt
+
+----
+
+Modified-at: 1758629910

@@ -1,0 +1,61 @@
+Title: Nick Percoco
+
+----
+
+Picture: - file://kJTyocSLtNzrPA1W
+
+----
+
+Picture-color: - file://RVcvsrbZDhC3MeYf
+
+----
+
+Picture-cropped: - file://ha7OfL6NOTVl6Ti2
+
+----
+
+Logo: - file://qB1XLigmTXMDv9zo
+
+----
+
+Subtitle: Chief Security Officer
+
+----
+
+Company: Kraken
+
+----
+
+Company-url: https://www.kraken.com
+
+----
+
+Bio: Nick Percoco, Chief Security Officer at Kraken, has been an active member of the security industry for over two decades, working as both a security practitioner and advisor. He’s presented research on targeted malware, iOS and Android vulnerabilities, and IoT security at events such as DEF CON, Black Hat, RSA Conference and SXSW. He’s also designed, led and advised in the development of security products and services used by millions of people and businesses while working for Internet Security Systems, VeriSign, Trustwave and Rapid7. Nick founded SpiderLabs and led global teams of hackers that discovered real-world 0-day vulnerabilities to help secure the most targeted businesses such as Las Vegas casinos, global financial institutions, major retail brands and video game companies to ensure their facilities, products, employees and clients were kept safe and secure.
+
+----
+
+Twitter: https://twitter.com/c7five
+
+----
+
+Linkedin: https://www.linkedin.com/in/c7five
+
+----
+
+Email: 
+
+----
+
+Uuid: ypkeTOWl2pM8CAlA
+
+----
+
+Datecreatedepoch: 1697787467
+
+----
+
+Datemodifiedepoch: 1697787544
+
+----
+
+Modified-at: 1758629985

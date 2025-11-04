@@ -1,0 +1,33 @@
+Title: Telegram
+
+----
+
+Type: text
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: @ your telegram handle
+
+----
+
+Options: 
+
+----
+
+Uuid: 9tAbk1hpvbLNnRTh
+
+----
+
+Modified-at: 1724337854

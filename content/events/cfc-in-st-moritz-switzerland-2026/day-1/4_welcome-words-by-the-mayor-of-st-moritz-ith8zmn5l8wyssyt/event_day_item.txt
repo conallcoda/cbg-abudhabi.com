@@ -1,0 +1,49 @@
+Title: Welcome Words
+
+----
+
+Session: Session 1 - The World Rewired
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 12:30:00
+
+----
+
+Time-finish: 12:35:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: P7sZx9x6Vn0QFZ7o
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1760454157

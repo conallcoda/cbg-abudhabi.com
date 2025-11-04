@@ -1,0 +1,57 @@
+Title: Steven Haft
+
+----
+
+Picture: - file://K1AabRCmjsFv9MAx
+
+----
+
+Picture-color: - file://Wn2mFr1jkPjA1fUJ
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Co-Founder
+
+----
+
+Company: Ethereum Climate Fund
+
+----
+
+Company-url: https://ethereumclimate.com/home
+
+----
+
+Bio: 
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: Whtxd5k9UGSWfh2K
+
+----
+
+Created-at: 1734101878
+
+----
+
+Modified-at: 1758630006

@@ -1,0 +1,22 @@
+type: fields
+fields:
+    headline_social:
+        label: Social Links
+        type: headline
+        numbered: false
+    twitter:
+        label: Twitter
+        type: text
+        width: 1/2
+    linkedin:
+        label: LinkedIn
+        type: text
+        width: 1/2
+    instagram:
+        label: Instagram
+        type: text
+        width: 1/2
+    youtube:
+        label: YouTube
+        type: text
+        width: 1/2

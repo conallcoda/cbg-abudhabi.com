@@ -1,0 +1,57 @@
+Title: Joel Khalili
+
+----
+
+Picture: - file://bqaFOoy8J0xdHkix
+
+----
+
+Picture-color: - file://9cUxxMldhmIs4J3P
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://38Q3EWL6fyR2Ua9j
+
+----
+
+Subtitle: Reporter, Crypto
+
+----
+
+Company: WIRED
+
+----
+
+Company-url: https://www.wired.com/
+
+----
+
+Bio: Joel Khalili is an award-winning business reporter, currently covering crypto and courts at WIRED.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/joel-khalili-9653b0b1/
+
+----
+
+Email: 
+
+----
+
+Uuid: VbMOVksrBmQB7oNA
+
+----
+
+Created-at: 1732609863
+
+----
+
+Modified-at: 1758629948

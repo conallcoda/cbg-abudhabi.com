@@ -1,0 +1,17 @@
+Title: Celo
+
+----
+
+Autoid: 3b5pifox
+
+----
+
+Picture: partners-data/celo/celo_website_frame.png
+
+----
+
+Link: https://celo.org
+
+----
+
+Uuid: LRKtCZdAngdtvmYl

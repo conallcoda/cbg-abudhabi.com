@@ -1,0 +1,13 @@
+label: Media
+icon: file-image
+sections:
+    images:
+        type: files
+        headline: Images
+        layout: cardlets
+        template: image
+    other:
+        type: files
+        headline: Other
+        layout: cardlets
+        template: default

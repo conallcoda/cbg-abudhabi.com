@@ -1,0 +1,63 @@
+Title: Charles Hoskinson
+
+----
+
+Picture: - file://Q5kLXwpin0dGJUKc
+
+----
+
+Picture-color: - file://enA7VAqrwNKVH6cW
+
+----
+
+Picture-cropped: - file://xJ9zYRUpnaritJUd
+
+----
+
+Logo: - file://QhUmjDREIOTXtWi1
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: IOHK
+
+----
+
+Company-url: https://iohk.io
+
+----
+
+Bio:
+
+A visionary and pioneer in the development of blockchain technology since the industry’s formative times, Charles Hoskinson has been involved in blockchain since the very early days of Bitcoin and remains at the cutting edge of the industry. 
+
+A serial entrepreneur and leading industry commentator, Hoskinson is a co-founder and former CEO of Ethereum and co-founder and current CEO of the world’s leading blockchain engineering company, IOHK.
+
+Now leading that company’s development of the next generation of blockchain systems - with the ability to meet the needs of global commerce and bring the benefits of blockchain technology to the global population, IOHK is involved in partnerships with governments and corporations across the globe.
+
+----
+
+Twitter: https://twitter.com/IOHK_Charles
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: fae2rjwa
+
+----
+
+Uuid: EPjUYeSmo179G29h
+
+----
+
+Modified-at: 1758629922

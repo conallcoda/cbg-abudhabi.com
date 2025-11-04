@@ -1,0 +1,63 @@
+Title: Brian Spector
+
+----
+
+Picture: - file://iT6SC7p6eN6FXbZP
+
+----
+
+Picture-color: - file://6XVkSw2How7T8skB
+
+----
+
+Picture-cropped: - file://d6fU3nmyd354BHJk
+
+----
+
+Logo: - file://bb2z94RQsIId41Ws
+
+----
+
+Subtitle: Chief Product and Technology Officer
+
+----
+
+Company: Qredo
+
+----
+
+Company-url: https://www.qredo.com
+
+----
+
+Bio:
+
+Brian Spector is Co-Founder and Chief Product and Technology Officer at Qredo, the provider of digital asset management infrastructure for institutional investors. 
+
+He is a recognized technology leader in zero knowledge proof cryptography and spearheaded the development of Qredo’s unique implementation of decentralized Multi-Party Computation (MPC). 
+
+Brian led global teams (McAfee, RSA Security) in enterprise cryptography for over two decades, and founded MIRACL (formerly CertiVox) before pursuing his true passion in digital assets.
+
+----
+
+Twitter: https://twitter.com/bspector
+
+----
+
+Linkedin: https://uk.linkedin.com/in/brianspector
+
+----
+
+Email: 
+
+----
+
+Autoid: 92uv5ppb
+
+----
+
+Uuid: vQfl825vMeWAdDVE
+
+----
+
+Modified-at: 1758629917

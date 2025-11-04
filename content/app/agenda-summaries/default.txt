@@ -1,0 +1,25 @@
+Title: Agenda Summaries
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Title"},"id":"8a235c5c-1bf9-49d9-bb7f-958956e4bc8a","isHidden":false,"type":"heading"},{"content":{"text":"<p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.</p>","custom_id":"","custom_class":""},"id":"95edfad8-73bf-409a-860d-18617dc7fdc5","isHidden":false,"type":"text"},{"content":{"source":"page://8rWRsWcSgNQldy1V","custom_id":"","custom_class":""},"id":"053b2d4d-35cc-40eb-b0ff-31a8bf6d1969","isHidden":false,"type":"event_summaries"}],"id":"87fc2c45-11d2-456f-be7f-bc97e9f6db1a","width":"1/1"}],"id":"e1ee1a92-9409-4057-89c2-9aa0c40186c8"}]
+
+----
+
+Layout-off: 
+
+----
+
+Restrict-access: true
+
+----
+
+Access-token: 5o8h52cba2g1FFuN
+
+----
+
+Uuid: Qsxnl4wGjRuV9Gdk
+
+----
+
+Modified-at: 1728385736

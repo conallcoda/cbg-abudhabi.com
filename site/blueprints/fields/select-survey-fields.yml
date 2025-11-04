@@ -1,0 +1,5 @@
+label: Questions
+type: pages
+multiple: true
+query: page.children.template("form_field")
+image: false

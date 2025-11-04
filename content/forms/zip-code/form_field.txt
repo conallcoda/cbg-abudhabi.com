@@ -1,0 +1,25 @@
+Title: Zip Code
+
+----
+
+Type: text
+
+----
+
+Checkboxes-options: 
+
+----
+
+Dropdown-options: 
+
+----
+
+Error-message: 
+
+----
+
+Uuid: NSFFLiK7OVAijD6E
+
+----
+
+Modified-at: 1722928737

@@ -1,0 +1,57 @@
+Title: Vance Spencer
+
+----
+
+Picture: - file://14YVUvhr2MpOvzlG
+
+----
+
+Picture-cropped: - file://cNdWqLib4QIR9wvC
+
+----
+
+Logo: - file://QTCFY0ldiqDp69uS
+
+----
+
+Subtitle: Co-Founder
+
+----
+
+Company: Framework Ventures
+
+----
+
+Company-url: https://framework.ventures
+
+----
+
+Bio: Vance Spencer is the co-founder of Framework Ventures, one of the largest VC firms in the blockchain industry. Under Vance’s leadership, Framework was arguably the first VC firm to “go all in” on the emerging Decentralized Finance (“DeFi”) ecosystem, notching up major early investments in several multi-billion dollar apps and networks like Chainlink, Aave, Synthetix, The Graph, and more. Over the last year, the firm has raised $400M for its third fund, and has also expanded into additional maturing verticals like web3 gaming, real world assets, and social crypto. Before Framework, Vance and his co-founder Michael launched and sold Hashletes, a digital collectible startup with official licensing from the NFL. Prior to entering the crypto space, Vance worked at Netflix in Los Angeles and Tokyo, where he was part of the team responsible for the relaunch of the Japan business, eventually joining the team leading corporate development for most of northern Asia.
+
+----
+
+Twitter: https://twitter.com/pythianism?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: 6euslmm4
+
+----
+
+Uuid: TfbDonMHl1KMrz87
+
+----
+
+Datemodifiedepoch: 1701946633
+
+----
+
+Modified-at: 1722849078

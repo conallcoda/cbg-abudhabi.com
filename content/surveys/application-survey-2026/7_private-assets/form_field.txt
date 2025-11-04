@@ -1,0 +1,44 @@
+Title: What are your investable assets (in million USD)?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: '< 50'
+- 
+  title: '50 - 100'
+- 
+  title: '> 100'
+
+----
+
+Uuid: ge5XmF6zqVgwu4Cr
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1758900511

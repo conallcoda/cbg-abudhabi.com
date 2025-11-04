@@ -1,0 +1,57 @@
+Title: Mark Stephen Meadows
+
+----
+
+Picture: - file://3ypWFLQ0jHpEdBRf
+
+----
+
+Picture-color: - file://j7f5tksFwqMAb5yy
+
+----
+
+Picture-cropped: - file://zdPgwYr4K9U03JCS
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Founder & CEO of Botanic Technologies
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Mark Stephen Meadows is an American author, inventor, artist, and entrepreneur. With 18 years in AI, 22 in VR, and 7 years in blockchain he has designed and developed AI applications at some of the world’s top research labs including Xerox-PARC and SRI. In 2017 Mark co-founded Seed Vault, Ltd, a nonprofit dedicated to building a blockchain-driven platform and marketplace for companies, developers, and individuals to create, sell, and use conversational AI interfaces for bots. Since 2011 Mark has led Botanic.io, which is pioneering the development of AI, blockchain, and conversational interfaces for bots in finance, healthcare, and other industries. Botanic customers include Fortune 100 companies, three government agencies, and startups around the globe. Mark is the author of four books and eight patents related to social robotics, AI, avatars and blockchain.
+
+----
+
+Twitter: https://twitter.com/meadovian
+
+----
+
+Linkedin: https://www.linkedin.com/in/pighed/
+
+----
+
+Email: 
+
+----
+
+Autoid: ekc3le2n
+
+----
+
+Uuid: 3hMK0bgbfsKflkcS
+
+----
+
+Modified-at: 1758629972

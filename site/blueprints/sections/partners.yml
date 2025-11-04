@@ -1,0 +1,15 @@
+type: pages
+layout: table
+sortBy: title asc
+search: true
+image: page.picture.toFile
+limit: 50
+columns:
+  link:
+    label: Url
+    value: "{{ page.link() }}"
+  last_modified:
+    label: Last Modified
+    value: "{{ page.getModifiedAgo() }}"
+template:
+  - partner

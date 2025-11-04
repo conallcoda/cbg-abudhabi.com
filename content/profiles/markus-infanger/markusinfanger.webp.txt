@@ -1,0 +1,13 @@
+Alt: 
+
+----
+
+Uuid: bdNTe61kgnKa0XEA
+
+----
+
+Template: image
+
+----
+
+Focus: 62.7% 30.4%

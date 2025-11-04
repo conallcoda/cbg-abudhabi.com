@@ -1,0 +1,57 @@
+Title: Andrew Romans
+
+----
+
+Picture: - file://OFYFkA27k3VsvPcQ
+
+----
+
+Picture-color: - file://NlppCgMXB9rJ4gYr
+
+----
+
+Picture-cropped: - file://xlk52V6iGe0653ba
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO & General Partner at 7BC.VC
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Andrew Romans is a successful VC-backed entrepreneur, author of Masters of Blockchain & Initial Coin Offerings, Masters of Corporate Venture Capital, and The Entrepreneurial Bible to Venture Capital: Inside Secrets from the Leaders in the Startup Game, former tech VC and M&A investment banker, cofounder of an angel group, CEO and General Partner of blockchain focused VC & hedge fund 7BC.VC and General Partner of tech VC Rubicon Venture Capital. Romans raised over $48m for tech startups he founded by the age of 28. Romans founded and raised VC funding for numerous companies and led startups to exits including The Founders Club (VC secondaries and equity exchange fund backed by 42 VCs), Sentito Networks ($58m in VC funding, acquired by Verso Technologies), The Global TeleExchange (raised $50m) and Motive Communications (enterprise sales Europe, NASDAQ IPO). Fluent in English, French & German. MBA, Georgetown University completed on scholarship.
+
+----
+
+Twitter: https://twitter.com/romansventures?lang=de
+
+----
+
+Linkedin: https://www.linkedin.com/in/romans/
+
+----
+
+Email: 
+
+----
+
+Autoid: v10ghzce
+
+----
+
+Uuid: FLNOYfdXGrCQJhYZ
+
+----
+
+Modified-at: 1758629910

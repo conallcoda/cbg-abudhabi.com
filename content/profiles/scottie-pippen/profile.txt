@@ -1,0 +1,57 @@
+Title: Scottie Pippen
+
+----
+
+Picture: - file://U9AjFeAVLZvYuWc5
+
+----
+
+Picture-color: - file://E4bTLXnTfH0RtD3V
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://0QP0xA1DB3oQWEtY
+
+----
+
+Subtitle: Founder
+
+----
+
+Company: Game 5 BALL
+
+----
+
+Company-url: https://www.game5ball.com
+
+----
+
+Bio: Father, Hall of Famer, 6-time NBA champion, 2-time Olympic gold medalist.
+
+----
+
+Twitter: https://x.com/scottiepippen
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: FVSRg9yMKdArz6w6
+
+----
+
+Created-at: 1734085598
+
+----
+
+Modified-at: 1758630003

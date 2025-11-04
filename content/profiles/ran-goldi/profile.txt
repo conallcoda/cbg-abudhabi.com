@@ -1,0 +1,57 @@
+Title: Ran Goldi
+
+----
+
+Picture: - file://7gpOcqUlvrIGYEny
+
+----
+
+Picture-color: - file://4JPUk8KI67FgGa0J
+
+----
+
+Picture-cropped: - file://1vv4xJkCGgm3geny
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Founder & CEO, First
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Seasoned entrepreneur with technological and financial background. Former Captain in the Israeli Intelligence Corps, co-founded and managed an algorithmic trading company, was former head of IT investments for a private equity fund, exited an Ad-tech company which he later on took public on AIM (LON:CROS). Holds a B.A. in Business Management.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/rangoldi/
+
+----
+
+Email: 
+
+----
+
+Autoid: xnktoeiy
+
+----
+
+Uuid: 2XwbvqbjyNeZn62q
+
+----
+
+Modified-at: 1758629994

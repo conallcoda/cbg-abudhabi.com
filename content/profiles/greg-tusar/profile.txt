@@ -1,0 +1,63 @@
+Title: Greg Tusar
+
+----
+
+Picture: - file://LcTYgZdT1WXmLLpZ
+
+----
+
+Picture-color: - file://iO26BwazxPZAZPBu
+
+----
+
+Picture-cropped: - file://ixnEE1iTSOod4BLJ
+
+----
+
+Logo: - file://gHUnn1ql8OnWPfaV
+
+----
+
+Subtitle: Head of Institutional Product
+
+----
+
+Company: Coinbase
+
+----
+
+Company-url: https://www.coinbase.com
+
+----
+
+Bio:
+
+Greg Tusar serves as VP, Institutional Product for Coinbase, leading the development of the firm’s efforts in areas such as Prime Brokerage and Custody, Financing, and its Exchange. Greg joined from Tagomi Systems, where he was co-founder and CTO. Coinbase acquired Tagomi in August, 2020 to expand its Institutional offerings.
+
+Prior to founding Tagomi in 2017, Greg was Head of Global Execution Services and Platforms at KCG Holdings, responsible for its Retail Market Making and Institutional efforts. Mr. Tusar joined KCG in August 2013 from Goldman Sachs, where he spent 13 years, most recently as a Partner and global head of the firm’s equities electronic trading business. Mr. Tusar helped Goldman Sachs expand its electronic trading franchise working closely with Institutions to help improve their execution costs, and also helping the firm invest in and shape industry infrastructure including several exchanges and technology providers.
+
+Greg was previously a limited partner at Spear, Leeds and Kellogg (“SLK”), when Goldman Sachs acquired the firm in 2000. He also worked for seven years at TLW Securities, most recently as its Chief Executive Officer, before it was acquired by SLK in 1999. He began his career at Mentor Graphics, an electronic design automation firm.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/greg-tusar-a7b419/
+
+----
+
+Email: 
+
+----
+
+Autoid: ypy3gogy
+
+----
+
+Uuid: 4NQLq58niWzllFZ6
+
+----
+
+Modified-at: 1758629942

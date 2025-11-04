@@ -1,0 +1,10 @@
+label: Forms
+icon: cart
+sections:
+    forms:
+        extends: sections/forms
+        headline: Website Forms
+    app_forms:
+        extends: sections/forms
+        parent: site.find('app')
+        headline: Signup Forms

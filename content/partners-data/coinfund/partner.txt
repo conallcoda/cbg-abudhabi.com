@@ -1,0 +1,17 @@
+Title: CoinFund
+
+----
+
+Autoid: vqtvft5g
+
+----
+
+Picture: partners-data/coinfund/coinfund_website_frame.png
+
+----
+
+Link: https://www.coinfund.io
+
+----
+
+Uuid: grdswOf7pFoqfhDe

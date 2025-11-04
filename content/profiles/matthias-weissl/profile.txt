@@ -1,0 +1,57 @@
+Title: Matthias Weissl
+
+----
+
+Picture: - file://AN0hfSUVvyNvk24C
+
+----
+
+Picture-color: - file://Qau7PPhVA5BouhuH
+
+----
+
+Picture-cropped: - file://smOXrJY35EPgVUPN
+
+----
+
+Logo: - file://cqf0bjVXGsFIIKnq
+
+----
+
+Subtitle: CEO & Co-Founder
+
+----
+
+Company: Verum Capital
+
+----
+
+Company-url: https://verum.capital
+
+----
+
+Bio: Matthias Weissl is CEO and co-founder (2018) of Verum Capital AG, Blockchain venture capital boutique in Zurich, lecturer at the University of St. Gallen & Bocconi University and a Working Group member of the WEF (Digital Transformation). Verum Capital has built/implemented/invested in more than 70 Blockchain solutions globally in the Blockchain, Crypto and DEFI space. Their clients are Global Corporations, Central Banks, Governments, Startups and NGOs. His background is in strategy consulting and corporate finance working with global corporates in financial services, automotive, Consumer goods as well as for governments. He held positions at PWC, TALOS, and BBDO before founding Verum Capital. He holds a BA in economics from Fort Lewis College (USA) and a MSc in Finance from Leeds Business School (UK) and is a certified Blockchain specialist. Matthias played professional Basketball in the US and UK and served as the captain of the Austrian national team.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/matthiasweissl/
+
+----
+
+Email: 
+
+----
+
+Autoid: eoqc88pk
+
+----
+
+Uuid: bRSN4CLZ3FDFxZIW
+
+----
+
+Modified-at: 1758629977

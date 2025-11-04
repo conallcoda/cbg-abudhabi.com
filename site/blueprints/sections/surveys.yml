@@ -1,0 +1,12 @@
+type: pages
+layout: table
+sortBy: title asc
+search: true
+image: page.picture.toFile
+limit: 50
+columns:
+  last_modified:
+    label: Last Modified
+    value: "{{ page.getModifiedAgo() }}"
+template:
+  - survey

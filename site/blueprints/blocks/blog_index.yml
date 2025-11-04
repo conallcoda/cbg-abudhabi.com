@@ -1,0 +1,27 @@
+name: Blog Index
+icon: blog
+tabs:
+    content:
+        fields:
+            sources:
+                type: structure
+                label: Sources
+                fields:
+                    source:
+                        type: select
+                        options: query
+                        query:
+                            fetch: site.filterByTemplates('blog,event')
+                            text: '{{ page.title }}'
+                            value: '{{ page.uuid }}'
+                    title:
+                        type: text
+                        label: Title
+                    description:
+                        type: textarea
+                        label: Description
+                        buttons: false
+
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

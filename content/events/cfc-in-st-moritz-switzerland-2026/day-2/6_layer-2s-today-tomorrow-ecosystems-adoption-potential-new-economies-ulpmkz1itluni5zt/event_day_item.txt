@@ -1,0 +1,49 @@
+Title: Laying the Rails: Infrastructure and Intelligence for a Tokenized (Financial) System (BREAKOUT ROOM)
+
+----
+
+Session: Session 1 - Inside the Machine
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>As tokenization moves from pilots to real-world deployment, the foundational rails – identity, messaging, asset standards, and interoperability – are being tested at scale. At the same time, access to reliable, real-time market data is becoming a prerequisite for valuation, compliance, and automation in tokenized markets. What infrastructure and data layers must align to support the global rollout of scalable, compliant, and interconnected tokenized financial products and services?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"7e247e76-7398-4d0c-bc1b-fa329097f574","isHidden":false,"type":"text"}],"id":"4dec8484-39f6-4271-a339-30c2cc81d326","width":"1/1"}],"id":"c968eae8-eeab-4966-896c-938b88cc9253"}]
+
+----
+
+Time-start: 10:45:00
+
+----
+
+Time-finish: 11:25:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: dXJKpEQqLNwURln1
+
+----
+
+Created-at: 1725981743
+
+----
+
+Modified-at: 1760127713

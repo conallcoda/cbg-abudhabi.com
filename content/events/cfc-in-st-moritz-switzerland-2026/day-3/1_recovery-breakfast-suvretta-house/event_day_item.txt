@@ -1,0 +1,49 @@
+Title: Recovery Breakfast @Suvretta House
+
+----
+
+Session: &nbsp;
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 07:00:00
+
+----
+
+Time-finish: 10:00:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: YKvYxIawee9ey2Ch
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1760384295

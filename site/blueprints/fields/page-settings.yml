@@ -1,0 +1,23 @@
+type: group
+fields:
+  headline_page_settings:
+    type: headline
+    label: Page Settings
+    numbered: false
+  header_title:
+    type: text
+    label: Header Title
+    help: This the text that appears in the header. If the actual page title is very long, best to provide a shortened version here.
+  ps_page_title:
+    label: Page Title
+    type: text
+    help: The page title that appears in the top of the browser. If empty, we use the title of the page.
+  ps_meta_description:
+    label: Page Description
+    type: textarea
+    help: Description Text for SEO
+  ps_custom_css:
+    label: Custom CSS
+    type: textarea
+    buttons: false
+    size: small

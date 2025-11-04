@@ -1,0 +1,50 @@
+Title: Is your company invested in crypto / Web3?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: true
+
+----
+
+Multiple-answers-allow-other: true
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: 'Yes - directly in tokens'
+- 
+  title: 'Yes - via hedge funds'
+- 
+  title: 'Yes - via venture capital'
+- 
+  title: 'Yes - directly in private companies'
+- 
+  title: 'Yes - via public markets (equity, debt)'
+- 
+  title: 'No - we are not invested in crypto / Web3'
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1759742184
+
+----
+
+Uuid: kJY0AdhJl2WUS0bQ

@@ -1,0 +1,57 @@
+Title: Jamie Crawley
+
+----
+
+Picture: - file://qIwveOECysG9vlvU
+
+----
+
+Picture-color: - file://WY2yDNv4rVklmhou
+
+----
+
+Picture-cropped: - file://1Aj9lpYU94HpPHEV
+
+----
+
+Logo: - file://gcohLoCHnUgcXbL1
+
+----
+
+Subtitle: News Reporter
+
+----
+
+Company: CoinDesk
+
+----
+
+Company-url: https://www.coindesk.com
+
+----
+
+Bio: 
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/jamie-crawley-08ab95107/?originalSubdomain=uk
+
+----
+
+Email: 
+
+----
+
+Autoid: fucnriqo
+
+----
+
+Uuid: aRZQxIxxu1x0RSD5
+
+----
+
+Modified-at: 1758629946

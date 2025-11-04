@@ -1,0 +1,62 @@
+Title: Jeff Horowitz
+
+----
+
+Picture: - file://hpD9skrg7txo3GJF
+
+----
+
+Picture-color: - file://0sG6EreuIF22Pjhg
+
+----
+
+Picture-cropped: - file://vQrGOGeh1YSL8Ndz
+
+----
+
+Logo: - file://MMO7aDjytRzmnZpZ
+
+----
+
+Subtitle: CCO
+
+----
+
+Company: BitGo
+
+----
+
+Company-url: https://www.bitgo.com
+
+----
+
+Bio:
+
+Jeff Horowitz is the Chief Compliance Officer of BitGo where he’s responsible for the company’s global compliance program. Jeff will oversee BitGo’s Compliance and AML programs across the entire enterprise to meet the highest standards of compliance and regulatory requirements.
+Prior to joining BitGo, Jeff was the CCO for Coinbase, where he led the firm’s global compliance program, managed regulatory and bank partner relationships and helped to shape Crypto, AML and FATF regulation with both foreign and domestic regulators. Prior to joining Coinbase, Jeff spent over 12 years with Pershing in various leadership roles including as Managing Director and Global Head of Compliance; CCO, as well as the Firm’s Chief Anti-Money Laundering and OFAC Officer, responsible for the development and implementation of the firm’s Global AML Program.
+Jeff was also a past co-chair of the Securities Industry and Financial Markets Association (SIFMA) Anti-Money Laundering Committee, member of FINRA’s Large Firm Advisory Committee and the U.S Treasury’s Bank Secrecy Act Advisory Group (BSAAG), representing both the Securities and Crypto industries as well as an active participant in FATF’s private sector consultative initiatives.
+Prior to joining Pershing, Jeff held leadership roles for compliance and AML programs for Citigroup, Goldman Sachs and Salomon Brothers. He began his career as a regulator with the Federal Deposit Insurance Corporation (FDIC) in the Division of Resolutions. He earned a Bachelor of Science degree in Economics from Trenton State College and holds the FINRA Series 7, 14, and 24 registrations.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/jeff-horowitz-3381977/
+
+----
+
+Email: 
+
+----
+
+Autoid: ysjjr9kz
+
+----
+
+Uuid: xOPagyWTUg0rGSI7
+
+----
+
+Modified-at: 1758629947

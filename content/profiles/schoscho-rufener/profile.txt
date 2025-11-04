@@ -1,0 +1,64 @@
+Title: Schoscho Rufener
+
+----
+
+Picture: - file://3weZnMRuDb1dwEK4
+
+----
+
+Picture-color: - file://mRfJXtrIsk2eGjgI
+
+----
+
+Picture-cropped: - file://MHFw3VKGPkgdTcZQ
+
+----
+
+Logo: 
+
+----
+
+Subtitle: President of the Board / Founder, Rufener Events Ltd
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Schoscho Rufener (1964) is the founder of Switzerland’s largest event agency, Rufener Events Ltd., with offices in Zurich, Buenos Aires, Hamburg, Barcelona and London.
+Rufener Events Ltd. organizes more than 100 events per year worldwide (for FIFA, the Dalai Lama, UBS, IWC, etc.). Hans-Jürg is founder and owner of various restaurants, bars, clubs and music labels. He holds a postgraduate qualification in scenography.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/hans-jurg-rufener-3bb48610/
+
+----
+
+Email: 
+
+----
+
+Autoid: y976dm79
+
+----
+
+Uuid: zTG6htY5MYuV4K8V
+
+----
+
+Datemodifiedepoch: 1719825862
+
+----
+
+Modified-at: 1761174305

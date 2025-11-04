@@ -1,0 +1,5 @@
+Uuid: GbMBMQnVqPUnAX70
+
+----
+
+Template: image

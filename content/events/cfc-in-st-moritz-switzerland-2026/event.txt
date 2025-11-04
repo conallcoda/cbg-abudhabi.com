@@ -1,0 +1,1462 @@
+Title: Grisons - Switzerland 2026
+
+----
+
+Picture: 
+
+----
+
+Date-text: January 14-16, 2026
+
+----
+
+Location: St. Moritz, Switzerland
+
+----
+
+Start-date: 2025-01-16
+
+----
+
+Show-summaries: false
+
+----
+
+Speakers:
+
+- page://1PeW3schAEeFqyMP
+- page://Yvdr5m1VYAmJdV5Z
+- page://rj5VRoldg1ZiSNIO
+- page://QkFqnWM1IesPEjeF
+- page://ecviWacEhy5IeuT7
+- page://GpllXqLBHSThE0iT
+- page://WpWJFYFpWts9Jc5o
+- page://7yrFqqjoKMk3MyoO
+- page://K2t40vy3DvWwy0zA
+- page://7c1oKWE4j5TYVLk8
+- page://ROaCfAgB7BOkSYj7
+- page://6RzfZacDATFr0yQA
+- page://iD2ZAf1qg2FWEvRm
+- page://LXAuz9X9m6Nx7iN1
+- page://u0Cs7ZuYUu4JCblb
+- page://ogACXOroZW8BIGLG
+- page://WH9elq0X4CeD5xTm
+- page://5kXMHecGVG3AiiZK
+- page://IZ5PmhtZOeFFj5p6
+- page://DoKhaGoLxFs24kfa
+- page://yMG6Q3Q4gtvHGBxb
+- page://v6uybYRfGh6zuOaH
+- page://yuCDFnw5c1kJ9hxk
+- page://Ch8sK7N7TLvpGkp8
+- page://scIrq8sM5m0ybJFo
+- page://l34yTrfpKyJ8iNX9
+- page://EPBItlZ1nsBUG0pJ
+- page://DYNoMJ35QD6eihW4
+- page://xIExYJAPEmyscev4
+- page://W3CHfb0FJda1YPXq
+- page://DH4UqVDpZPFuMDg9
+- page://BT5JlzBsctgW5qM7
+- page://8Utcuej5mshfbnJB
+- page://jm2hLdsqGKYVLSpr
+- page://vH47q9nIAEpDmvh0
+- page://1YggfZmuLEQAWE7s
+
+----
+
+Workshops: - page://uSannuWW1sNrSEfv
+
+----
+
+Moderators:
+
+- page://2bDjDnR1TikuRbu1
+- page://GEypJVB1EGf1oYic
+- page://6urLa605k2P7YL5l
+- page://sjnFnb0QDhi9kTv6
+- page://CKHa4v13dP4HGpio
+- page://GF4yw9wBcEBeV0P7
+- page://bSOkT1qp2jYVXFrA
+- page://CfAEchxoLWIrG398
+- page://7KIZs5c8Ftefe7Ca
+
+----
+
+Partners:
+
+- 
+  title: Main Partner
+  partners:
+    - page://4gMf14Yi3rk9p3ot
+  id: "0"
+- 
+  title: Conference Partners
+  partners:
+    - page://GaaKr7A7po6biy3A
+    - page://zLFX8XiYjVZZkIpC
+    - page://9UZXnl1MMvkyo3M5
+    - page://5rq3jYV3YAirIGnx
+    - page://dv701BOi313g6uEK
+    - page://q2Yn4TxIbDtNSi5D
+    - page://mnKT1Jk2vgBZaZVd
+    - page://EJjm4i9XIFeqceSE
+    - page://LVdA5N93Ry2uZWJy
+    - page://SLrO6dmb6P6zylJC
+    - page://Kb37LgX6bFVbFvTd
+    - page://S7gqTJ2NFyYUhaZN
+    - page://q0zzaeWFmk4kx1c3
+    - page://09LbXzihQc3PrMmX
+    - page://0NM6xz3BLO4TCBLf
+    - page://yLxT8jKSAhALGXwS
+    - page://RJWGBvQyrwqiCd6A
+    - page://C3Z614vW0r3Any3F
+    - page://GSir54iGbhze2Fc5
+    - page://i6XNBAOLz6Yco7nv
+    - page://YZF1LZLHipEjZ1tK
+    - page://ozi9qdwmfjod1Z7W
+    - page://MtbK56IinZn4nyxj
+    - page://RtQN1B0ZD25k2gVn
+  id: "1"
+- 
+  title: Exhibition Partners
+  partners: [ ]
+  id: "2"
+- 
+  title: Academic Partners
+  partners:
+    - page://rJzPTumtBSdO5AAW
+  id: "3"
+- 
+  title: Media Partners
+  partners:
+    - page://KII9ejmeyStqhywv
+  id: "4"
+- 
+  title: Accomodation Partners
+  partners:
+    - page://IsjVrkaZVFZXtel8
+    - page://XgXXr4UhESR9CUI2
+    - page://xvcjvapI2tGzS0fH
+    - page://wT5JQh1L7JVTjOAg
+    - page://wPnikIU1CnIvQ1F1
+    - page://5dqPOgWnDmu6zTRM
+    - page://TMuC2VTPnxoB4zzb
+  id: "5"
+- 
+  title: Leisure Partners
+  partners:
+    - page://WtLaXECSItc6wnco
+    - page://mMjig6ZjbqPS9iWd
+
+----
+
+Header-title: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Speakers-test:
+
+- page://Wb4PXm9U60CfxDc0
+- page://QkFqnWM1IesPEjeF
+- page://OcZllkXBe1dvlpWU
+- page://6RzfZacDATFr0yQA
+- page://ZJ9w5acQvlEonJB1
+- page://1t1RMpHLbheW1BdU
+- page://phRbmz4KKejIxQWs
+- page://ZjC9NQawSnNMOc9F
+- page://cBn02S6HIbOkemCw
+- page://vH47q9nIAEpDmvh0
+- page://7yrFqqjoKMk3MyoO
+- page://ecviWacEhy5IeuT7
+- page://DoKhaGoLxFs24kfa
+- page://rLCHjqqgFQXeBFVD
+- page://DYNoMJ35QD6eihW4
+- page://WH9elq0X4CeD5xTm
+- page://fJ1hzJOoSIZKOmAp
+- page://tK9j20iYvlC1vUnt
+- page://7KIZs5c8Ftefe7Ca
+- page://h9bolhGrpiMXOjKD
+- page://g6gfk1bjEwN7oKas
+
+----
+
+Day1-subtitle: Macro-Perspective on the industry
+
+----
+
+Day1-sessions:
+
+- 
+  title: 'Arrival & Introduction'
+- 
+  title: 'Session 1 - Setting the Stage'
+- 
+  title: 'Session 2 - Global Regulation'
+- 
+  title: 'Session 3 - Outlook on the Industry'
+- 
+  title: 'Session 4 - Socializing '
+
+----
+
+Day1:
+
+- 
+  session: "1"
+  time_start: 09:00:00
+  time_finish: 13:00:00
+  title: 'Arrival & Check-in'
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 9ibnjpta
+- 
+  session: "1"
+  time_start: 11:00:00
+  time_finish: 11:45:00
+  title: 'SEMINAR: CRYPTO AND BLOCKCHAIN - INTRODUCTION TO THE INDUSTRY'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Refresher about crypto basics and
+    concepts
+  speakers: page://GnCztkIshA16eMq0
+  gap_below: 'false'
+  hide_contact: 'false'
+- 
+  session: "2"
+  time_start: 12:15:00
+  time_finish: 12:30:00
+  title: CfC St. Moritz Welcome address
+  hide_description: 'true'
+  hide_speakers: 'false'
+  description: ""
+  speakers: page://jLkeYnXBJcR558oi
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 8oghq3yv
+- 
+  session: "2"
+  time_start: 12:30:00
+  time_finish: 12:35:00
+  title: Welcome words by the mayor of St. Moritz
+  hide_description: 'true'
+  hide_speakers: 'false'
+  description: ""
+  speakers: page://7T70YF7Tx3Vw3Bex
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: aig569fu
+- 
+  session: "2"
+  time_start: 12:40:00
+  time_finish: 13:15:00
+  title: 'Global outlook: The state of the financial markets'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    From central banks increasing interest
+    rates at an unprecedented pace, to
+    widespread inflation, to geopolitical
+    tensions. The world has experienced
+    profound changes, impacting economies
+    and beyond. Taking stock of where we are
+    today – what are the promising and
+    cautionary signals we should be aware
+    of, and what is the outlook for the
+    industry?
+  speakers: >
+    page://8yNDasEDgsPHCxyU,
+    page://ecviWacEhy5IeuT7
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: ukf2mup9
+- 
+  session: "2"
+  time_start: 13:20:00
+  time_finish: 13:55:00
+  title: 'GLOBAL CRYPTO PULSE: A “STATE OF THE CRYPTO NATIONS” INDUSTRY REVIEW OF THE PRECEDING AND FORTHCOMING 12 MONTHS'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    The downfall of major crypto companies,
+    the crackdown, and acceptance of
+    regulators around the world, and other
+    developments in the industry intensified
+    the geographic and product focus of
+    market participants and investors. This
+    fireside chat brings together three
+    industry leaders, each with vast
+    experience in the Americas, Europe, and
+    Asia to explore the most salient
+    regional, technical, regulatory,
+    business, and cultural developments,
+    impacting the crypto industry. Are we
+    closer to stability to allow the
+    industry to flourish, or what more needs
+    to happen?
+  speakers: >
+    page://OcZllkXBe1dvlpWU,
+    page://lcKLojSz1oXAOHZw,
+    page://DH4UqVDpZPFuMDg9,
+    page://ecviWacEhy5IeuT7
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: vr8siupp
+- 
+  session: "2"
+  time_start: 13:55:00
+  time_finish: 14:25:00
+  title: Take a break, get to know each other
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: cz09gk1a
+- 
+  session: "3"
+  time_start: 14:25:00
+  time_finish: 15:00:00
+  title: 'Business perspective: Seeking certainty - regulation as the ultimate enabler in EMEA and APAC'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Crypto industry leaders worldwide have
+    called for smart regulation of digital
+    assets. There has been a concerted
+    effort in EMEA and APAC to allow
+    innovation to flourish under supportive
+    legal frameworks. Are businesses and
+    investors in the industry finding the
+    certainty they need from regulatory
+    developments thus far, and what else
+    should they seek from policymakers?
+  speakers: >
+    page://h9bolhGrpiMXOjKD,
+    page://UwZvvFsAT9aFmu0k,
+    page://8tOuFbKT4EQs6aRf,
+    page://fJ1hzJOoSIZKOmAp,
+    page://7KIZs5c8Ftefe7Ca
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: pbhj8zat
+- 
+  session: "3"
+  time_start: 15:05:00
+  time_finish: 15:40:00
+  title: 'Regulators perspective: Building sustainable legal frameworks for digital assets across EMEA and APAC'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: 'From the EU Commission’s introduction of MiCA, to the UK’s Financial Services and Markets Act, to the Monetary Authority of Singapore’s stablecoin framework, jurisdictions around the world are approaching crypto regulation very differently. Despite this, many policymakers claim to have a common mission: to protect users and investors. What are the driving forces behind their policies and what role do actual crypto companies play in this process?'
+  speakers: >
+    page://dFXJHmYbshP7G7gM,
+    page://vH47q9nIAEpDmvh0,
+    page://9fZbr0qmrEe9nrlP,
+    page://SS18TStI6iEirwmW,
+    page://7KIZs5c8Ftefe7Ca
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 471cueor
+- 
+  session: "3"
+  time_start: 15:45:00
+  time_finish: 16:20:00
+  title: 'View from across the pond: Assessing the status of digital asset regulation in the United States'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    The actions of the SEC, CFTC and other
+    U.S. regulators against leading crypto
+    companies have made headlines over the
+    past year. Many have speculated about
+    the potential negative impact this may
+    have on the U.S.’ status as a leader
+    in tech, innovation, and investments.
+    What’s the outlook of the leaders in
+    the industry?
+  speakers: >
+    page://Igr1vNqFmK50w1DZ,
+    page://ecviWacEhy5IeuT7,
+    page://EPBItlZ1nsBUG0pJ,
+    page://aac5b0PAohx7WQRD
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: xlr38myx
+- 
+  session: "3"
+  time_start: 16:20:00
+  time_finish: 16:45:00
+  title: Take the last break of the day
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: n6i8nmdo
+- 
+  session: "4"
+  time_start: 16:45:00
+  time_finish: 17:20:00
+  title: 'THE ROAD AHEAD FOR WEB3 AND BEYOND: UNRAVELING ITS TRUE VALUE'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    The term “web3” has increasingly
+    entered mainstream discourse. Companies
+    are building web3 solutions and making
+    them more powerful by merging
+    blockchain, AI, and machine learning.
+    What is the impact on modern digital
+    ecosystems, and what does the future
+    hold for consumer and enterprise
+    adoption in this field?
+  speakers: >
+    page://QkFqnWM1IesPEjeF,
+    page://AdX8Y9rPEMGzvD91,
+    page://vbatlVykFuxwrHDW
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 0mnzuvqj
+- 
+  session: "4"
+  time_start: 17:25:00
+  time_finish: 18:00:00
+  title: "Beyond the halving: Bitcoin's role in a maturing industry and climate-conscious world"
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    In previous years, we discovered and
+    drew attention to crypto’s carbon
+    footprint, specifically focusing on
+    mining and energy-intensive consensus
+    mechanisms. As the original catalyst for
+    the burgeoning crypto finance world, how
+    will the halving, set for April 2024,
+    impact the future of Bitcoin and what
+    role will Bitcoin play in an
+    increasingly climate-conscious world?
+  speakers: >
+    page://rj5VRoldg1ZiSNIO,
+    page://sC36CFuU79JHPjbg,
+    page://5hCjM7tbEfY2p8Xc,
+    page://ENqrD3WQgnpn512M
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 07bdca6l
+- 
+  session: "4"
+  time_start: 18:05:00
+  time_finish: 18:35:00
+  title: Exploring Decentralization
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Decentralization is the fundamental
+    principle of cryptocurrency. Yet, too
+    often it’s described as black and
+    white. We discuss the relativism and
+    nuance of decentralization, why digital
+    assets (and especially money) should be
+    decentralized in the first place, how
+    decentralization is typically at odds
+    with regulation, and why
+    decentralization is so powerful – and
+    perhaps, unstoppable?
+  speakers: >
+    page://XmcAwH3QWdCfDDXK,
+    page://ENqrD3WQgnpn512M
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 64uduy9j
+- 
+  session: "4"
+  time_start: 18:35:00
+  time_finish: 18:55:00
+  title: The age of AI
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Leveraging computers and online data to
+    mimic — and sometimes rival — the
+    capabilities of the human mind,
+    artificial intelligence will bring
+    countless benefits to society, while
+    also presenting specific challenges. How
+    will the rise of AI intersect with the
+    world of crypto finance and how will
+    blockchain technology advance as a
+    result of AI’s seemingly limitless
+    potential?
+  speakers: page://817PPAXIY7VdVe3n
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: g0wajevt
+- 
+  session: "5"
+  time_start: 18:55:00
+  time_finish: 19:30:00
+  title: >
+    Welcome drinks @Suvretta House powered
+    by GlobeAir
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: dekewb1b
+- 
+  session: "5"
+  time_start: 19:30:00
+  time_finish: 19:55:00
+  title: "Transport to Badrutt's Palace Hotel"
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: sixoa4n5
+- 
+  session: "5"
+  time_start: 20:00:00
+  time_finish: 23:00:00
+  title: "Networking Dinner @Badrutt's Palace Hotel powered by Bank Julius Baer & zkSync"
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: sifwkn0u
+
+----
+
+Day2-subtitle: Micro-Perspective on the industry
+
+----
+
+Day2-sessions:
+
+- 
+  title: '&nbsp;'
+- 
+  title: 'Session 1 - Infrastructure'
+- 
+  title: 'Session 2 - Future of Finance'
+- 
+  title: 'Session 3 - Lunch'
+- 
+  title: 'Session 4 - Gateways to Mainstream Adoption'
+- 
+  title: 'Session 5 - Investing'
+- 
+  title: 'Session 6 - Socializing'
+
+----
+
+Day2:
+
+- 
+  session: "1"
+  time_start: 07:00:00
+  time_finish: 09:00:00
+  title: Good morning Breakfast @Suvretta House
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: imrdkeac
+- 
+  session: "2"
+  time_start: 09:00:00
+  time_finish: 09:35:00
+  title: 'Layer 1 Superpowers: Consensus & Execution at scale'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: 'Advancements in smart contract computation, the evolution of scaling technologies and consensus mechanisms, and a new focus on interoperability mean that L1s face both opportunities and challenges. Exploring the drive by layer 1 for enabling functionality and differentiation, and how can they ultimately compete with traditional rails & systems?'
+  speakers: >
+    page://WiEARz5BdtLh6efa,
+    page://jaysIPxTdY4zMdmO,
+    page://WH9elq0X4CeD5xTm,
+    page://eOoMKiN3tZmaJCn5,
+    page://5bkgNVGNKsT3mg7v
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: zb247dw3
+- 
+  session: "2"
+  time_start: 09:40:00
+  time_finish: 10:15:00
+  title: 'LAYER 2S TODAY & TOMORROW: ECOSYSTEMS, ADOPTION & POTENTIAL NEW ECONOMIES'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Scaling technologies have seen the
+    lion’s share of growth from an
+    onboarding standpoint through
+    technological innovation, effective
+    ecosystem development and commercial
+    partnerships. What should layer 2s be
+    doing to ensure that they remain
+    relevant in order to navigate their way
+    to prosperity and purpose?
+  speakers: >
+    page://Rl38mQTgiKsMQYG6,
+    page://qf5itkwrcvoDmJiY,
+    page://GnCztkIshA16eMq0,
+    page://sp8RWglNw02ZCy5t,
+    page://5bkgNVGNKsT3mg7v
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 8axqrsl1
+- 
+  session: "2"
+  time_start: 10:20:00
+  time_finish: 10:55:00
+  title: The (new) world of financial services
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    The digital transformation of capital
+    markets and financial services through
+    the advent of blockchain and crypto is
+    upon us. Services such as brokerage,
+    custody, and tokenization are some of
+    the pioneering building blocks that
+    enable new products to flourish and
+    potentially disrupt or vastly augment
+    the financial services industry. How do
+    those at the forefront of this kind of
+    financial innovation see this
+    transformation unfolding?
+  speakers: >
+    page://Qf4JChMnxWZdnuBF,
+    page://v6uybYRfGh6zuOaH,
+    page://DYNoMJ35QD6eihW4,
+    page://YEScU4xbkccUM7OA,
+    page://6urLa605k2P7YL5l
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: j8qlyl0k
+- 
+  session: "2"
+  time_start: 10:55:00
+  time_finish: 11:20:00
+  title: Take a break, grab a coffee
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: b4jdngjf
+- 
+  session: "3"
+  time_start: 11:20:00
+  time_finish: 11:55:00
+  title: 'The tokenization of everything - or just some things?'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    The promise of tokenization of
+    real-world assets is beguiling. From art
+    to real estate, to mutual funds and
+    treasuries, the potential enables these
+    new asset classes that were once out of
+    reach for investors. Are we there yet,
+    and what are the remaining challenges to
+    overcome to ensure that tokenized assets
+    can thrive?
+  speakers: >
+    page://LXAuz9X9m6Nx7iN1,
+    page://bSOkT1qp2jYVXFrA,
+    page://XBFcTXeEeTrSnMBo,
+    page://CfAEchxoLWIrG398
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 966k34ek
+- 
+  session: "3"
+  time_start: 11:55:00
+  time_finish: 12:30:00
+  title: >
+    Lending, borrowing, and the intersection
+    of traditional and crypto finance
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: 'On-chain lending has historically been dominated by the crypto-native community. More recently, there have been green shoots of institutional participation in on-chain lending & borrowing. What should this nascent sector focus on to succeed, what tools exist or need to be built to enable this, and what are the pitfalls?'
+  speakers: >
+    page://5ha3Qq7c6U35lYUC,
+    page://urkXhfPbRDNPPUSS,
+    page://lnQX4K4BhjkrsPUY,
+    page://C03jBNz1b3D825pU,
+    page://8RkpgePArg4AwKku
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: m62zl5la
+- 
+  session: "3"
+  time_start: 12:35:00
+  time_finish: 12:55:00
+  title: 'The Values of Money: The role of the Private Sector in Designing Digital Financial Networks'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: "Both CBDCs and stablecoins are quickly coming to the global economy. In his remarks, “CryptoDad” J. Christopher Giancarlo, former Chairman of the U.S. Commodity Futures Trading Commission, will make the case that the choice for free people is not one or the other. It is rather between financial freedom and economic liberty – if we get it right – and capricious political control and big tech coercion and censorship, if we don't."
+  speakers: page://7yrFqqjoKMk3MyoO
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: aovvh810
+- 
+  session: "3"
+  time_start: 12:55:00
+  time_finish: 13:35:00
+  title: Unpacking the CBDC and stablecoin topic
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Central Bank Digital Currencies went
+    from being proposed as an innovative
+    financial tool, to being critiqued by
+    privacy advocates. Despite this, over
+    130 countries are moving forward with
+    CBDC projects. At the same time,
+    stablecoins are gaining traction in more
+    sectors than crypto settlement because
+    of reduced friction and supervision
+    (e.g., large enterprises and retail
+    users). What is the right level of
+    supervision of these kinds of
+    innovations, and can central bank and
+    private money coexist?
+  speakers: >
+    page://NTHRZUVieiWpCIo9,
+    page://XWmWOdcP3ZivvJqV,
+    page://FJGrMGxTHAUvhwzc,
+    page://U5RdeYAXo7Gl4NS1,
+    page://7yrFqqjoKMk3MyoO
+  gap_below: 'false'
+  hide_contact: 'false'
+- 
+  session: "4"
+  time_start: 13:35:00
+  time_finish: 14:55:00
+  title: 'Awesome Lunch (Networking & Rountables area) powered by Algorand Foundation'
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: cln52t6w
+- 
+  session: "4"
+  time_start: 13:35:00
+  time_finish: 14:55:00
+  title: 'Lunch - Roundtable: Breaking through to the next billion: hurdles and opportunities'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Onboarding the next billion web3 users
+    could profoundly impact our world, but
+    the path to get there is fraught with
+    hurdles. Join Algorand Foundation’s
+    Global Head of Ecosystem Growth, Min
+    Wei, to discuss the regulatory hurdles,
+    market resistance, and also
+    opportunities for widespread adoption.
+  speakers: page://WpWJFYFpWts9Jc5o
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: t10daj7v
+- 
+  session: "4"
+  time_start: 13:35:00
+  time_finish: 14:55:00
+  title: 'Lunch - Roundtable: The art of a connected world'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: "Join world-renowned artist Cole Sternberg for a lunch discussion of his process, his work with generative art and social policy, and why he's been spending time in the Engadin creating a series that bridges concepts of connectivity, community and the environment. Cole’s work is in the permanent collections of institutions such as the Los Angeles County Museum of Art (LACMA) and the Pérez Art Museum Miami (PAMM) and featured in outlets such as the New York Times, Architectural Digest and the Wall Street Journal. On Thursday night, three unique new works of his will be auctioned to benefit Giga. Come and hear how art, infrastructure, and finance can connect to address global issues."
+  speakers: page://tK9j20iYvlC1vUnt
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: rdmn7qw8
+- 
+  session: "4"
+  time_start: 13:35:00
+  time_finish: 14:55:00
+  title: 'Lunch - Roundtable: It’s Liquidity, Stupid! Crypto Lending in 2024'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: "Following 2022's credit crisis, attitudes towards crypto lending have soured considerably. Mainstream media have portrayed it as something with little economic value or a recent desperate attempt by exchanges to diversify their revenue streams in crypto winter. In this roundtable, David Olsson, Kraken’s Head of OTC Lending, will open the floor to discuss the role lending can play in a vibrant, healthy crypto ecosystem. How it can create fresh opportunities for long-time holders, and open up the asset class to new entrants. In addition, there’ll be discussion around the different lending models, how they meet institutional client needs and can future-proof against crises, as experienced in 2022."
+  speakers: page://dMlhjl0VYMQGvYPx
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 7ovnudbv
+- 
+  session: "4"
+  time_start: 13:35:00
+  time_finish: 14:55:00
+  title: 'Lunch - Roundtable: Crypto Wealth and Private Banking: Opportunities & Challenges'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    The roads from fiat to crypto and back
+    are beset with friction. Still, many
+    crypto wealthy enter discussions with
+    banks – be it to diversify custody
+    risk, to create optionality at the
+    interface to fiat, or to access wealth
+    management services. We look forward to
+    the casual atmosphere of a lunch table
+    conversation to discuss opportunities
+    and challenges where crypto wealth and
+    (private) banks come together.
+  speakers: >
+    page://tqrPgcmMKvsCmDko,
+    page://45afmkPZ0XEZ5sDw,
+    page://ERn1EP0JRmwTuKSd
+  gap_below: 'false'
+  hide_contact: 'false'
+  autoid: o4w59dzy
+- 
+  session: "4"
+  time_start: 13:35:00
+  time_finish: 14:55:00
+  title: 'Lunch - Roundtable: Why and How the next billion users will come to crypto?'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: |
+    Our discussion will focus on how we are at a point where the world's activity for both users and business now have clear incentives and benefits in using blockchains as their underlying technology. User experience, cost, speed, security, are obstacles that are being solved. With the maturation of private, custom blockchains that are already being used for use cases such as digital ID, tokenization of real world assets, and much more, it has now become extremely convenient and easy for any entity to deploy their own blockchain.
+    How can enterprises from any industry or vertical benefit from deploying their chains? What are the growth opportunities? How will this work?
+  speakers: page://Rl38mQTgiKsMQYG6
+  gap_below: 'false'
+  hide_contact: 'false'
+- 
+  session: "4"
+  time_start: 13:35:00
+  time_finish: 14:55:00
+  title: 'Lunch - Roundtable: The role of digital assets in strategic asset allocation'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: "Our discussion will focus on incorporating digital assets into institutional investors' strategic asset allocation, highlighting their role in enhancing portfolio performance and diversification. We will also examine the critical need for specialized knowledge transfer in managing the inherent risks of digital assets and evaluate the benefits of active management strategies in this emerging asset class."
+  speakers: page://v6uybYRfGh6zuOaH
+  gap_below: 'false'
+  hide_contact: 'false'
+- 
+  session: "5"
+  time_start: 14:55:00
+  time_finish: 15:15:00
+  title: Onboarding a Billion Users to Crypto
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Crypto’s objective of decentralized,
+    inclusive financial networks is
+    profound, and reaching mass adoption of
+    crypto requires global, accessible
+    onboarding systems that preserve
+    privacy. What is missing and what is
+    needed to onboard billions of people to
+    web3?
+  speakers: >
+    page://PpQ9slyFPGtudQgH,
+    page://GEypJVB1EGf1oYic
+  gap_below: 'false'
+  hide_contact: 'false'
+- 
+  session: "5"
+  time_start: 15:15:00
+  time_finish: 15:45:00
+  title: 'Web3 & (Luxury) Brands - Building Communities and Enhancing Customer Experience to Expand Reach and Revenue'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Traditional consumer brands are
+    increasingly using Web3 technology to
+    engage and reward loyal communities that
+    increase reach, engagement, and
+    ultimately revenues through enhanced
+    multichannel strategies and token-gated
+    access programs. If data is the new oil
+    and these technologies and digital
+    communities represent more than passing
+    fads, do they connect the real-world and
+    digital behaviours of both existing and
+    potential customers for the brands?
+  speakers: >
+    page://yfNM4iQcNorO9xGQ,
+    page://Tq8nM8VewwCC5kdP,
+    page://vbatlVykFuxwrHDW
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: k7loxg8j
+- 
+  session: "5"
+  time_start: 15:50:00
+  time_finish: 16:25:00
+  title: >
+    INNOVATION AND THE BUILDING BLOCKS
+    TOWARD MAINSTREAM ADOPTION
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Very few industries are more creative
+    and innovative than the crypto industry,
+    but we still have a long way to go to
+    become mainstream. In addition to
+    beautiful user experiences, what are the
+    key building blocks needed to drive mass
+    adoption and a more seamless crypto /
+    Trad-Fi experience?
+  speakers: >
+    page://hlS6DKtC5vMHwO1i,
+    page://GgRHUoHK7jESrX0w,
+    page://IEg5iN1jP1F8m1So,
+    page://tJCEcYbfCQBiPsPv,
+    page://CfAEchxoLWIrG398
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 3dlj7yra
+- 
+  session: "5"
+  time_start: 16:30:00
+  time_finish: 17:05:00
+  title: 'WORD ON THE STREET: BOOSTING ADOPTION WITH INSTITUTIONAL ENGAGEMENT AND PROFESSIONALIZED PRODUCTS'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: 'In 2022, a record influx of financial institutions acquired crypto assets and designed/offered new digital asset financial products & services for the first time. Since then, some say this interest has waned, while others argue that this market segment has only just begun. What in addition to ETFs will catalyze much broader productization and adoption by institutions in 2024 and beyond?'
+  speakers: >
+    page://tqrPgcmMKvsCmDko,
+    page://lD9S7mmQ7qm8qsyu,
+    page://scIrq8sM5m0ybJFo,
+    page://zOpfd2RwJgUElwdo,
+    page://CfAEchxoLWIrG398
+  gap_below: 'false'
+  hide_contact: 'false'
+- 
+  session: "5"
+  time_start: 17:05:00
+  time_finish: 17:30:00
+  title: Last coffee break of the day
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 6z8g9che
+- 
+  session: "6"
+  time_start: 17:30:00
+  time_finish: 17:50:00
+  title: >
+    Does crypto have a problem with “due
+    diligence”?
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    After FTX, many admitted they hadn’t
+    done any due diligence because they
+    thought others had done it. This
+    wasn’t an isolated incident; ironic
+    for an industry built on the maxim of
+    “don’t trust, verify.” As
+    institutions re-engage with the asset
+    class, it has never been as important as
+    it is now for investors to perform
+    effective due diligence to identify red
+    flags much faster. It’s time to ask if
+    crypto is doing its DD and if so, what
+    does it look like?
+  speakers: page://ypkeTOWl2pM8CAlA
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: otzml0ki
+- 
+  session: "6"
+  time_start: 17:50:00
+  time_finish: 18:25:00
+  title: 'Managing risks - get it right and the prize is yours for the taking'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Crypto trading is very compelling. The
+    trick is to balance the risk/reward
+    ratio by deeply understanding issues
+    like volatility, counterparty, rug
+    pulls, regulatory, liquidity, taxes,
+    hacks, exploits, and lack of accurate
+    data. Both new and traditional investors
+    need the best information, tools, and
+    processes to mitigate these risks. How
+    should investors approach risk?
+  speakers: >
+    page://iEq1PZeJyVBYz2AD,
+    page://9i5kuBsrGCzQtdQm,
+    page://pHaz2RldvjdMuXrP,
+    page://8RkpgePArg4AwKku
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: xi9mhu55
+- 
+  session: "6"
+  time_start: 18:30:00
+  time_finish: 19:05:00
+  title: >
+    A roundup discussion with seasoned
+    investors
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Reflecting on what we learned over the
+    last two days, seasoned investors
+    discuss their approach and strategies
+    for the next 6–12 months. What areas
+    will they focus on, will they do
+    anything different, or is it business as
+    usual?
+  speakers: >
+    page://1t1RMpHLbheW1BdU,
+    page://TfbDonMHl1KMrz87,
+    page://WX9IcQRFOjSpqOeD
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: oasgelf9
+- 
+  session: "7"
+  time_start: 19:05:00
+  time_finish: 20:25:00
+  title: 'Get ready for the evening - Lounge Drinks @Suvretta House powered by UNICEF Giga'
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: ngak6dbn
+- 
+  session: "7"
+  time_start: 19:30:00
+  time_finish: 20:25:00
+  title: 'CREATING CONNECTIONS – DIGITAL ART FOR CONNECTIVITY: UNICEF ART AUCTION TO BENEFIT GIGA'
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'false'
+- 
+  session: "7"
+  time_start: 20:30:00
+  time_finish: 21:00:00
+  title: "Transport to Badrutt's Palace Hotel"
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: kuke5mel
+- 
+  session: "7"
+  time_start: 21:00:00
+  time_finish: 21:30:00
+  title: "Kitchen Extravaganza Apéro @Badrutt's Palace powered by Algorand Foundation and XBTO Group"
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: l07agxq9
+- 
+  session: "7"
+  time_start: 21:30:00
+  time_finish: 23:45:00
+  title: "Kitchen Extravaganza Dinner @Badrutt's Palace powered by Algorand Foundation"
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: cojpm8op
+- 
+  session: "7"
+  time_start: 23:45:00
+  time_finish: 04:00:00
+  title: Awe-inspiring Party powered by Kraken
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: mh0007x5
+
+----
+
+Day3-subtitle: Workshops & Roundtables
+
+----
+
+Day3-sessions:
+
+- 
+  title: '&nbsp;'
+- 
+  title: Academic conference
+- 
+  title: 'Session 1 - Workshops & Roundtables'
+- 
+  title: 'Session 2 - Workshops & Roundtables '
+- 
+  title: 'Session 3 - Workshops & Roundtables '
+- 
+  title: 'Session 4 - Closing of the Conference'
+- 
+  title: 'Session 5 - Lunch'
+- 
+  title: 'Session 6 - Socializing '
+
+----
+
+Day3:
+
+- 
+  session: "1"
+  time_start: 07:30:00
+  time_finish: 10:00:00
+  title: Recovery Breakfast @Suvretta House
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: ncmp5j0i
+- 
+  session: "2"
+  time_start: 09:00:00
+  time_finish: 18:30:00
+  title: Academic conference
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'false'
+- 
+  session: "3"
+  time_start: 09:30:00
+  time_finish: 10:15:00
+  title: >
+    Can 1+1=3? Is AI the Catalyst to a
+    Decade of Supergrowth for Blockchain?
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: 'With the Generative AI market growing from $40Bn in 2022 to $1.3Trillion by 2032. (CAGR of 42% - source Bloomberg Intelligence), will the intersection of blockchain and AI accelerate growth in both markets? This workshop explores AI Investment, Supervision, Safety, Sustainability and Adoption, and shines a light on the role of blockchain in enabling valuable services and applications that leverage the convergence of these two powerful technologies.'
+  speakers: >
+    page://GEypJVB1EGf1oYic,
+    page://ENqrD3WQgnpn512M
+  gap_below: 'false'
+  hide_contact: 'false'
+- 
+  session: "3"
+  time_start: 10:15:00
+  time_finish: 11:15:00
+  title: 'DECENTRALIZING NETWORK INFRASTRUCTURE: GIGA, TOKENIZING NETWORK ASSETS, A PATHWAY FOR FUTURE CONNECTIVITY'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: "Last year at CfC St. Moritz, Giga announced its intention to work on tokenizing telecom network infrastructure in emerging markets. We have tried, failed once, and are trying again in four more counties. Come and learn about our work with tokenizing gigabytes, creating a tradable commodity out of electrons, and building a connectivity credits marketplace. Current explorations are underway in Brazil, South Africa, Malawi, and Sierra Leone. We will share what's working, what's failed, and ask for participation in thinking through next steps and opportunities."
+  speakers: >
+    page://tK9j20iYvlC1vUnt,
+    page://ENqrD3WQgnpn512M
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: d9mo8w2w
+- 
+  session: "3"
+  time_start: 10:15:00
+  time_finish: 11:15:00
+  title: Retailing in the Metaverse
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: "Join Mitchell Goldberg, a PhD Candidate at the University of Basel, for an insightful presentation on metaverse retailing. You'll delve into a recent research paper examining retail events in the avatar-driven economy of Decentraland, utilizing blockchain transaction data and spatial information from avatar locations. Uncover the early stages of metaverse retailing, influenced by major events like music festivals and trade shows, where well-known brands like Tommy Hilfiger, Samsung, and Coca-Cola actively participate, offering digital wearables or even real-world goods."
+  speakers: page://M2MWUsqbw2BIIlkc
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: zz5qa6nd
+- 
+  session: "3"
+  time_start: 10:15:00
+  time_finish: 11:15:00
+  title: 'THE ROLE OF HARMONIZATION: ADDRESSING THE INCREASING RISKS OF DIGITAL ASSET REGULATORY FRAGMENTATION'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Countries around the world are
+    increasingly focused on developing rules
+    and standards for digital assets. A
+    closer look into these frameworks, both
+    being proposed and implemented, reveals
+    regulatory frictions inherent to
+    harmonized jurisdictional regimes. While
+    individually they seek to address
+    similar policy objectives, the lack of
+    alignment across principles could
+    counteract intended benefits, create
+    unwanted extraterritorial impacts, and
+    risk continued global regulatory
+    fragmentation and increased arbitrage
+    opportunities. Global policymakers and
+    regulatory bodies like the G20, the BIS,
+    and the FSB have begun to stress the
+    importance of not only sound policies
+    – but global regulatory alignment.
+    During this roundtable, we will discuss
+    practical approaches for national and
+    regional policymakers as well as the
+    role of the industry in supporting this
+    critical work.
+  speakers: >
+    page://XWmWOdcP3ZivvJqV,
+    page://aac5b0PAohx7WQRD
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 8be7a5v9
+- 
+  session: "3"
+  time_start: 11:15:00
+  time_finish: 11:30:00
+  title: Take a break, grab a coffee
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: yra7lvnv
+- 
+  session: "4"
+  time_start: 11:30:00
+  time_finish: 12:30:00
+  title: 'Mass Crypto Adoption across Africa - Could it be a driver for the next bull run?'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: 'Many African countries are uniquely positioned to succeed with digital money for payments, mobile remittances, saving, lending, and borrowing and therefore leapfrog the traditional financial system. We find a high share of the informal economy, a high sense of community, and a large need for cashless transactions across African countries. While the cost of remittances worldwide is just below 7% according to World Bank data, the cost of remittances to Africa is especially high. At the same time, we find high mobile penetration and an understanding of mobile money and web3. In the workshop, we want to dive deeper into the African market microstructure, regulation, and opportunities for the web3 industry. We describe the conditions that technology must fulfill when it comes to user experience, to cross the chasm to mainstream adoption.'
+  speakers: page://LSRhmLQOB6jtwhc4
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: x2knh4jd
+- 
+  session: "4"
+  time_start: 11:30:00
+  time_finish: 12:30:00
+  title: 'Blockchain Interoperability: Fundamentals, Practical Cross-Chain Messaging Use Cases, and the Future'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: "This foundational workshop covers the core principles of cross-chain messaging and its role in achieving a decentralized web that mirrors the connectivity of today's internet. We'll examine the challenges and trade-offs in developing cross-chain protocols, delve into different approaches, highlight the importance of security and decentralization, showcase live use cases (e.g. Uniswap), and provide insights into the future of cross-chain from both technical and business perspectives."
+  speakers: >
+    page://5eMDSn9b7fzYIE3F,
+    page://yuCDFnw5c1kJ9hxk
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 4sg4bn2m
+- 
+  session: "4"
+  time_start: 11:30:00
+  time_finish: 12:30:00
+  title: >
+    Liquidity in market cycles for Web3
+    investors
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: 'The liquidity in crypto markets is impacted by various market and non-market events. Many names struggled posting high double-digit percentage losses in both liquid token & web3 VC funds at every stage. Access to liquidity via tokens usually happens within a few years of the initial investment. The tokens are volatile and subject to crypto market conditions and global macro developments. Besides having a great investment thesis and investments, timing is crucial in crypto. Join this workshop to understand market cycles and exit liquidity in web3 VC funds. The tools, partners to optimize LP returns, and the optimal way to transfer proceeds to LP (fiat, tokens, another liquid vehicle).'
+  speakers: >
+    page://3m08L9wAVCn8KeJ8,
+    page://vbatlVykFuxwrHDW
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: f98a84qj
+- 
+  session: "4"
+  time_start: 11:30:00
+  time_finish: 12:30:00
+  title: "Unlocking AI's Full Potential with Blockchain"
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: "There has been a recent surge in interest around both AI and blockchain technology. However, the question arises: Is there a genuine advantage to merging these technologies, or is it simply a passing trend? Blockchain holds the key to unleashing AI's true capabilities by introducing transparency and trust into a technology that has become integral to many aspects of our lives. Currently, there's a lack of insight and a means to validate the sources of data used to train AI models. This includes not knowing the exact data being collected, how it informs the model, and the resulting accuracy. By harnessing permissionless and open blockchain networks, AI systems can enhance their credibility, accountability, and security, ultimately fostering greater trust among users."
+  speakers: page://g6gfk1bjEwN7oKas
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 7fcxeopw
+- 
+  session: "4"
+  time_start: 12:30:00
+  time_finish: 12:45:00
+  title: Last coffee break of the conference
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: z967ud6z
+- 
+  session: "5"
+  time_start: 12:45:00
+  time_finish: 13:45:00
+  title: 'Real World Asset Tokenization: Bridging the Gap Between Ideation and Implementation'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: 'Join Algorand Foundation’s Global Head of Business Development & Capital Markets Eric Wragge for a roundtable discussion to explore the state of RWA tokenization: the social contract that underpins its (or not) purpose, legal basis, challenges, and opportunities.'
+  speakers: page://Wb4PXm9U60CfxDc0
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: xzh4rbd7
+- 
+  session: "5"
+  time_start: 12:45:00
+  time_finish: 13:45:00
+  title: "Zero compromises: An introduction to custom zk-powered blockchains'"
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: "In this workshop we will show how and why launching a custom blockchain powered by zero-knowledge proofs is designed to meet any enterprise's specific needs. Advancements in the blockchain space, boosted by zero-knowledge technology allow enterprises to set up their own parameters around privacy, speed, data storage and much more with a seamless and fast launch process. These custom blockchains are private, but still benefit from being connected to the broader ecosystem for its users and liquidity. This opens up a world where entities can set up up custom permissions regarding the interoperability with the broader network."
+  speakers: page://ptNKxCoOZJhdR19P
+  gap_below: 'false'
+  hide_contact: 'false'
+- 
+  session: "5"
+  time_start: 12:45:00
+  time_finish: 13:45:00
+  title: 'Banking on Crypto: Navigating new assets, new wealth'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    Crypto was created as an alternative to,
+    not for, banks. Still, it has turned out
+    that banks have a role to play in
+    crypto, be it for facilitating
+    investment flows into the ecosystem, or
+    by offering private banking services to
+    the crypto wealthy. As a pioneer for
+    integrating digital assets into wealth
+    management services, we would like to
+    discuss with you whether and how crypto
+    plays a role in a wealth portfolio and
+    what is needed to cater to the needs of
+    traditional and crypto wealth.
+  speakers: >
+    page://oVP51SUi2yy2OrXO,
+    page://45afmkPZ0XEZ5sDw,
+    page://ERn1EP0JRmwTuKSd
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 3v78rzbe
+- 
+  session: "5"
+  time_start: 12:45:00
+  time_finish: 13:45:00
+  title: 'Future-Proofing Digital Assets: Exploring the Sustainability of Digital Assets in the Quantum Era'
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: >
+    This workshop explores the impact of
+    quantum technologies on digital
+    currencies and assets, with a focus on
+    Bitcoin, Ethereum and Central Bank
+    Digital Currencies (CBDCs) as studied by
+    the Bank of International Settlements.
+    We will dive into the challenges and
+    potential of post-quantum cryptography
+    (PQC), aiming to equip the audience with
+    insights into the quantum security of
+    decentralized networks.
+  speakers: page://mY1mKVrPGS2aGKnz
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: 1ja4agmf
+- 
+  session: "6"
+  time_start: 13:45:00
+  time_finish: 13:50:00
+  title: Closing speech
+  hide_description: 'true'
+  hide_speakers: 'false'
+  description: ""
+  speakers: page://jLkeYnXBJcR558oi
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: kxpwfg71
+- 
+  session: "7"
+  time_start: 13:50:00
+  time_finish: 15:45:00
+  title: Lunch @Suvretta House
+  hide_description: 'true'
+  hide_speakers: 'true'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+  hide_contact: 'true'
+  autoid: bnwaa029
+
+----
+
+Day4-subtitle: Farewell Brunch
+
+----
+
+Day4-sessions: 
+
+----
+
+Day4:
+
+- 
+  session: "1"
+  time_start: 12:00:00
+  time_finish: 16:30:00
+  title: Farewell Brunch on a mountain hut
+  hide_description: 'false'
+  hide_speakers: 'false'
+  description: ""
+  speakers: ""
+  gap_below: 'false'
+
+----
+
+Datecreatedepoch: 1705328661
+
+----
+
+Datemodifiedepoch: 1705669498
+
+----
+
+Uuid: SaTCvXy9PZM8UO22
+
+----
+
+Modified-at: 1762099825

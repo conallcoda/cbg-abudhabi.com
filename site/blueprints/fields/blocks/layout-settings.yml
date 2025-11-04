@@ -1,0 +1,53 @@
+type: group
+fields:
+    custom_id:
+        type: text
+        label: Custom Id
+        width: 1/2
+    custom_class:
+        type: text
+        label: Custom Class
+        width: 1/2
+    full_width:
+        extends: fields/yes_no
+        label: Full Width
+    padding_top:
+        extends: fields/spacing
+        label: Padding Top
+    padding_right:
+        extends: fields/spacing
+        label: Padding Right
+    padding_bottom:
+        extends: fields/spacing
+        label: Padding Bottom
+    padding_left:
+        extends: fields/spacing
+        label: Padding Left
+    margin_top:
+        extends: fields/spacing
+        label: Margin Top
+    margin_right:
+        extends: fields/spacing
+        label: Margin Right
+    margin_bottom:
+        extends: fields/spacing
+        label: Margin Bottom
+    margin_left:
+        extends: fields/spacing
+        label: Margin Left
+    align_vertical:
+        extends: fields/align-vertical
+        label: Vertical Align
+        width: 1/2
+    align_horizontal:
+        extends: fields/align-horizontal
+        label: Horizontal Align
+        width: 1/2
+    background_color:
+        type: color
+        label: Background Color
+        mode: options
+        options:
+            - '#ffffff'
+            - '#000000'
+            - '#EFEFEF'

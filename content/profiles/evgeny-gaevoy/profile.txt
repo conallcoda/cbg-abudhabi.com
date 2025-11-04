@@ -1,0 +1,69 @@
+Title: Evgeny Gaevoy
+
+----
+
+Picture: - file://DWeyKaDTRYWg3uLJ
+
+----
+
+Picture-color: - file://DWeyKaDTRYWg3uLJ
+
+----
+
+Picture-cropped: - file://99JlFQknB0dT2kbh
+
+----
+
+Logo: - file://FbL3gdH6YOhJynk9
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: Wintermute
+
+----
+
+Company-url: https://www.wintermute.com/
+
+----
+
+Bio:
+
+Evgeny Gaevoy is the founder and CEO of Wintermute, a global algorithmic trading firm, leading  OTC desk,  and  liquidity  provider  in  digital  assets.  Since  launching  in  2017, Wintermute  has  grown  rapidly,  providing  liquidity  across  60+  centralized  and decentralized exchanges, offering advanced trading solutions, and backing early-stage web3 teams through its Ventures arm. 
+
+Before Wintermute, Evgeny spent nearly a decade at Optiver, one of the worldʼs leading trading firms in
+traditional finance, where he built and ran the ETF desk. His background in both traditional and crypto
+markets gives him a unique vantage point on the evolution of global finance. 
+
+Wintermute is headquartered in London, with offices in Singapore and New York. Evgeny splits his time between the three and regularly shares his views on crypto and market structure on Twitter (@EvgenyGaevoy).
+
+----
+
+Twitter: https://x.com/EvgenyGaevoy
+
+----
+
+Linkedin: https://www.linkedin.com/in/evgeny-gaevoy-3148a61/?originalSubdomain=uk
+
+----
+
+Email: 
+
+----
+
+Autoid: 472vxri3
+
+----
+
+Uuid: scIrq8sM5m0ybJFo
+
+----
+
+Datemodifiedepoch: 1702477617
+
+----
+
+Modified-at: 1760480493

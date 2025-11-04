@@ -1,0 +1,28 @@
+name: Accept Terms
+icon: handshake
+tabs:
+    content:
+        fields:
+            hide_title:
+                extends: fields/yes_no
+                label: Hide Title?
+                width: 1/2
+            hide_intro:
+                extends: fields/yes_no
+                label: Hide Intro?
+                width: 1/2
+            title:
+                label: Title
+                placeholder: '{{site.payment_tos_title}}'
+                type: text
+            text:
+                label: Text
+                type: writer
+                placeholder: '{{site.payment_tos_intro}}'
+            disclaimer:
+                type: writer
+                label: Disclaimer
+                placeholder: '{{site.payment_tos_text}}'
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

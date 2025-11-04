@@ -1,0 +1,61 @@
+Title: Changpeng Zhao
+
+----
+
+Picture: - file://CbJ4r2deb0iz1qhG
+
+----
+
+Picture-color: - file://L7o6ZlcKns90ddVW
+
+----
+
+Picture-cropped: - file://C88Yf3unVnx8uf5q
+
+----
+
+Logo: - file://3SEVYu3MKd8sqhOf
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: Binance
+
+----
+
+Company-url: https://www.binance.com
+
+----
+
+Bio:
+
+Changpeng Zhao, known as CZ, is a serial entrepreneur with an impressive track record of successful startups. He launched Binance in July 2017 and within 180 days, grew Binance into the largest cryptocurrency exchange in the world. An expert in blockchain and trading systems, CZ has built Binance into the leading blockchain ecosystem, comprised of Binance Exchange, Labs, Launchpad, Info, Academy, Research, Trust Wallet, Charity, NFT and more.
+
+CZ is a Chinese-Canadian coder who spent time in Tokyo and New York in his earlier life, first building systems for matching trade orders, then developing software for Bloomberg's futures trading on Wall Street. In 2005, CZ quit his role as head of the Bloomberg Tradebook Futures Research & Development team and moved to Shanghai to start Fusion Systems. Soon thereafter, he learned about Bitcoin and joined Blockchain.info as Head of Technology. In 2020, CZ was recognized in the Bloomberg 50 as one of the most influential people of the year.
+
+----
+
+Twitter: https://twitter.com/cz_binance
+
+----
+
+Linkedin: https://www.linkedin.com/in/cpzhao/
+
+----
+
+Email: 
+
+----
+
+Autoid: 05w52orz
+
+----
+
+Uuid: zImJVfnhyt6B9pAp
+
+----
+
+Modified-at: 1759598033

@@ -1,0 +1,61 @@
+Title: Mike Cagney
+
+----
+
+Picture: - file://G74tuJCTYypq8GMi
+
+----
+
+Picture-color: - file://eKpWVk6CLQ9mmpFO
+
+----
+
+Picture-cropped: - file://0Ae46RRCV2ZUqhZ1
+
+----
+
+Logo: - file://xzvAiPm9bnIh1Td3
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Figure
+
+----
+
+Company-url: https://www.figure.com
+
+----
+
+Bio:
+
+Mike Cagney is the Co-founder and Chief Executive Officer of Figure, where he leads corporate strategy and development. Mike brings decades of experience in the financial industry to his leadership of the company, previously serving as CEO, chairman and co-founder of SoFi, a leading marketplace lender providing student loan refinancing, mortgages and personal loans, as well as a range of wealth management services.
+ 
+He is also co-founder and managing member of Cabezon Investment Group, a global macro hedge fund, in addition to serving as a non-executive chairman of ReFlow. Before Cabezon, Mike founded, was CEO and then vice chairman and chief architect of Finaplex, a leader in wealth management software that was sold to Broadridge (NYSE: BR). Prior to Finaplex, Mike was Senior Vice President and head trader for the proprietary trading and financial products group at Wells Fargo Bank. Mike holds an M.S. management degree from the Stanford Graduate School of Business, where he was a Sloan Fellow. He also holds a M.S. in Applied Economics and a B.A. in Economics from UC Santa Cruz.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/mikecagney/
+
+----
+
+Email: 
+
+----
+
+Autoid: d3tbtze2
+
+----
+
+Uuid: We49BsVfIm3sxSxP
+
+----
+
+Modified-at: 1758629980

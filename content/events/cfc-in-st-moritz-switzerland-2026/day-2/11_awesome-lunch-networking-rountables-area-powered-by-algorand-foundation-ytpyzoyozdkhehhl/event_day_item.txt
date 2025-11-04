@@ -1,0 +1,49 @@
+Title: Awesome Lunch (Networking & Rountables Area) Powered by Algorand Foundation
+
+----
+
+Session: Session 3 - Lunch
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 13:20:00
+
+----
+
+Time-finish: 14:45:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: NT6b7OgVjPyrZQRT
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1760128004

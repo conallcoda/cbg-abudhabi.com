@@ -1,0 +1,57 @@
+Title: Priyanka Desai
+
+----
+
+Picture: - file://mFUyHFY27WJ10UwW
+
+----
+
+Picture-color: - file://SJRnAtrBzW9x7UgS
+
+----
+
+Picture-cropped: - file://ixSdx25VZEjnwSlt
+
+----
+
+Logo: - file://eJGDWAZM8MXRhQ65
+
+----
+
+Subtitle: Chief Operating Officer
+
+----
+
+Company: Tribute Labs
+
+----
+
+Company-url: https://tributelabs.xyz
+
+----
+
+Bio: Priyanka graduated from Benjamin N. Cardozo School of Law. During law school, she spent time at blockchain FinTech consortium R3. In addition, she worked for the New York State Department of Financial Services assisting the Capital Markets division on cryptocurrency enforcement and “Bit Licensing." Prior to this, Priyanka worked for the U.S. House Foreign Affairs Committee. Priyanka is a graduate of Wake Forest University.
+
+----
+
+Twitter: https://twitter.com/pridesai
+
+----
+
+Linkedin: https://www.linkedin.com/in/priyankadesai10/
+
+----
+
+Email: 
+
+----
+
+Autoid: fxds0d30
+
+----
+
+Uuid: RcR7GK2tsWxuZKH6
+
+----
+
+Modified-at: 1759601549

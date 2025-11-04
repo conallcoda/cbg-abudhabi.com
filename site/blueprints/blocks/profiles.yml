@@ -1,0 +1,30 @@
+name: Profiles
+icon: users
+tabs:
+    content:
+        fields:
+            items_per_row:
+                type: select
+                label: Items per row
+                default: 4
+                required: true
+                options:
+                    - 3
+                    - 4
+            hide_subtitle:
+                extends: fields/yes_no
+                label: Hide Subtitle?
+                width: 1/3
+            hide_company:
+                extends: fields/yes_no
+                label: Hide Company?
+                width: 1/3
+            hide_email:
+                extends: fields/yes_no
+                label: Hide Email?
+                width: 1/3
+            items: fields/select-profiles
+
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

@@ -1,0 +1,61 @@
+Title: Ryan Selkis
+
+----
+
+Picture: - file://J3asDID4bDjQ3xms
+
+----
+
+Picture-color: - file://rLPPV1spy75CMzef
+
+----
+
+Picture-cropped: - file://lgnEPdkJuocRURTY
+
+----
+
+Logo: - file://70xN0gOHDCnzFgCo
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: Messari
+
+----
+
+Company-url: https://messari.io
+
+----
+
+Bio: Ryan Selkis is co-founder and CEO of Messari, a leading crypto asset data and research company. Prior to founding Messari, he was an entrepreneur-in-residence at ConsenSys, and was on the founding teams of Digital Currency Group, where he managed the firm’s seed investing activity, and CoinDesk, where he led the company’s restructuring and annual Consensus conferences. He has been an investor and prolific writer in the crypto industry since 2013.
+
+----
+
+Twitter: https://twitter.com/twobitidiot
+
+----
+
+Linkedin: https://www.linkedin.com/in/ryanselkis/
+
+----
+
+Email: 
+
+----
+
+Autoid: 0y82ti30
+
+----
+
+Uuid: pHaz2RldvjdMuXrP
+
+----
+
+Datemodifiedepoch: 1699866566
+
+----
+
+Modified-at: 1758629999

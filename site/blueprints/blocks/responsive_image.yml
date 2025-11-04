@@ -1,0 +1,31 @@
+name: Responsive Image
+icon: image
+preview: image
+tabs:
+    content:
+        fields:
+            location: false
+            image:
+                extends: fields/image
+                label: Image (Desktop)
+                translate: false
+                width: 1/2
+                label: field.blocks.image.name
+            image_mobile:
+                extends: fields/image
+                label: Image (Mobile)
+                translate: false
+                width: 1/2
+                label: field.blocks.image.name
+            alt:
+                label: field.blocks.image.alt
+                type: text
+                icon: title
+            caption:
+                label: field.blocks.image.caption
+                type: hidden
+                icon: text
+                inline: true
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

@@ -1,0 +1,63 @@
+Title: Jez Mohideen
+
+----
+
+Picture: - file://KpcvnYtQ0kYEoqE1
+
+----
+
+Picture-color: - file://YyNXNcOs9c0LNaHG
+
+----
+
+Picture-cropped: - file://2j9sQko0rvgBTzPG
+
+----
+
+Logo: - file://TuAxpq8TtfA8nClL
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Laser Digital
+
+----
+
+Company-url: https://www.laserdigital.com
+
+----
+
+Bio:
+
+Jez has over 20 years of financial services experience in macro trading. Now CEO of Laser Digital, he was previously Chief Digital Officer and Co-Head of Global Markets EMEA at Nomura, and prior to this was leading the development of systematic trading capabilities with a focus on AI/ML at Brevan Howard.
+
+Jez has been involved in the crypto ecosystem since 2013 in a number of ventures personally and at institutions including Nomura and Brevan Howard. He was one of the founding members of Digital Asset custodian Komainu, and of Nomura's Digital Asset vertical.
+
+He has a PhD in Process Systems Engineering and a masters in Chemical Engineering from Imperial College, London, and over 10 publications in reputed international mathematical journals.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/dr-jez-mohideen-b5622522/
+
+----
+
+Email: 
+
+----
+
+Autoid: xr021hwp
+
+----
+
+Uuid: bcoaG67rYm4UjhmG
+
+----
+
+Modified-at: 1758629948

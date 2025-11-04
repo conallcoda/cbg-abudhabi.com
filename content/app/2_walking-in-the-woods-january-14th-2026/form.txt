@@ -1,0 +1,68 @@
+Title: Walking in the Woods - January 14th, 2026
+
+----
+
+Email-notifications:
+
+- 
+  after_step: page://4rq5GtVrTCdf3xhc
+  send_email: page://3AJxu228XtorPkdx
+- 
+  after_step: page://4rq5GtVrTCdf3xhc
+  send_email: page://jcWy0IFJFDwl1yoV
+
+----
+
+Default-product: page://wqE1ZZ4tqJnOAnnE
+
+----
+
+Test-data-mode: false
+
+----
+
+Test-payment-mode: false
+
+----
+
+Close-on-date: false
+
+----
+
+Close-date: 
+
+----
+
+Close-content: 
+
+----
+
+Restrict-access: true
+
+----
+
+Access-token: M6rPOwVUhm06TUDf
+
+----
+
+Invited-users: 
+
+----
+
+Restrict-submissions: true
+
+----
+
+Max-submissions: 30
+
+----
+
+Max-submissions-message: 
+
+----
+
+Uuid: 0Q7Y1W0JY9A6SrMc
+
+----
+
+Modified-at: 1752476546

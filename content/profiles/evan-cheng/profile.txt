@@ -1,0 +1,61 @@
+Title: Evan Cheng
+
+----
+
+Picture: - file://nDRbc6dCRmBKUSs6
+
+----
+
+Picture-color: - file://JdBr6wjJBpduh36V
+
+----
+
+Picture-cropped: - file://zv5krRiDHt0MrFfW
+
+----
+
+Logo: - file://3zLANIWkWn4gWUya
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Mysten Labs
+
+----
+
+Company-url: https://mystenlabs.com/
+
+----
+
+Bio: Evan Cheng is the co-founder & CEO of Mysten Labs, the developer behind the groundbreaking Sui layer 1 protocol. In addition to being the winner of the the winner of the prestigious 2012 ACM Software System Award, Evan has an extensive background in platform development, with more than 24 years building developer-facing technology and leading engineering teams at companies such as Apple and Facebook. Prior to founding Mysten Labs, Evan led the Novi Research at Meta developing cutting-edge blockchain technologies.
+
+----
+
+Twitter: https://twitter.com/EvanWeb3
+
+----
+
+Linkedin: https://www.linkedin.com/in/chengevan/
+
+----
+
+Email: 
+
+----
+
+Uuid: AdX8Y9rPEMGzvD91
+
+----
+
+Datecreatedepoch: 1697033449
+
+----
+
+Datemodifiedepoch: 1702728445
+
+----
+
+Modified-at: 1758629935

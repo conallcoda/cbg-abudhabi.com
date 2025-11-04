@@ -1,0 +1,8 @@
+type: fields
+fields:
+    download_submissions:
+        type: janitor
+        command: 'janitor:open --data {{ page._download_submissions_url }}'
+        icon: download
+        intab: true
+        label: Download Submissions

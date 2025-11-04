@@ -1,0 +1,17 @@
+Title: Thank you
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Thank you &amp; Payment link"},"id":"ccef2c71-a412-4a5e-b510-dffbfa83e8d6","isHidden":false,"type":"heading"},{"content":{"text":"<p>Thank you for submitting your booking information. </p><p>There is just one final step to complete your reservation. Please click the payment link below, which will take you to our secure payment site, where you can finalize the booking by submitting your credit or debit card details.</p><ul><li><p><a href=\"https://pay.sumup.com/b2c/Q6SAWR82\" title=\"SumUp payment link\">PAYMENT LINK </a></p></li></ul><p>Once your payment is complete, we at CfC St. Moritz will send you a separate confirmation email confirming that your booking has been successful. Please note, it may take up to 36 hours for the confirmation email to arrive.</p><p>Best regards,</p><p>The CfC St. Moritz team&nbsp;</p>","custom_id":"","custom_class":""},"id":"3eb2a9aa-fadd-47c1-9de0-e28a8a0d6a28","isHidden":false,"type":"text"}],"id":"d5d504bf-dbaf-4ea5-8e65-e3cb573bec37","width":"1/1"}],"id":"8ca1c861-6c9f-41de-b855-59849e9ab7df"}]
+
+----
+
+Back-button-text: 
+
+----
+
+Uuid: OpLTRYykWq5p5c6j
+
+----
+
+Modified-at: 1752066335

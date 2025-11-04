@@ -1,0 +1,57 @@
+Title: Mable Jiang
+
+----
+
+Picture: - file://Laedc7eYl9bbvlkS
+
+----
+
+Picture-color: - file://uR005lyJh9Zituma
+
+----
+
+Picture-cropped: - file://N3ePJelhZV3cIcMD
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Principal, Multicoin Capital
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Mable Jiang leads the investment team in Beijing as a principal at Multicoin Capital. She’s passionate about the paradigm shift in business models driven by blockchain technology, the crypto-economy, and the Web 3.0 stack. Prior to Multicoin Capital, Mable was a junior partner at Nirvana Capital, a respected crypto-investment fund based in Beijing. She also worked in corporate strategy at Didi and acquired banking experience at Citigroup in New York. Mable received her B.A. from Columbia University in New York City.
+
+----
+
+Twitter: https://twitter.com/Mable_Jiang
+
+----
+
+Linkedin: https://www.linkedin.com/in/mable-jiang/
+
+----
+
+Email: 
+
+----
+
+Autoid: 2mq5uild
+
+----
+
+Uuid: Rw6nY2pkvmmIfEb0
+
+----
+
+Modified-at: 1758629968

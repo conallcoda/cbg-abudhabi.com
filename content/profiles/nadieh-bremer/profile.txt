@@ -1,0 +1,57 @@
+Title: Nadieh Bremer
+
+----
+
+Picture: - file://b9IcVJiC6kgrlcxM
+
+----
+
+Picture-color: - file://LWv6MB5JcOtxx3di
+
+----
+
+Picture-cropped: - file://lXrX9hnpXnZiPuks
+
+----
+
+Logo: - file://uCgUrnPox6PlIm7e
+
+----
+
+Subtitle: Data Visualization Artist
+
+----
+
+Company: Visual Cinnamon
+
+----
+
+Company-url: https://www.visualcinnamon.com
+
+----
+
+Bio: Nadieh Bremer is a data visualization artist who graduated as an Astronomer, started working as a data scientist before finding her true passion in the visualization of data. As 2017's "Best Individual" in the Information is Beautiful Awards, she focuses on visuals that are uniquely crafted for each specific dataset, often using large and complex datasets while employing vibrant color palettes. She's made visualizations and art for companies such as Google News Lab, Sony Music, the New York Times and UNESCO and has recently ventured into creating data art NFT collections.
+
+----
+
+Twitter: https://twitter.com/nadiehbremer
+
+----
+
+Linkedin: https://www.linkedin.com/in/nbremer/
+
+----
+
+Email: 
+
+----
+
+Autoid: 1qargxe9
+
+----
+
+Uuid: GZxDEKue2SuACbpQ
+
+----
+
+Modified-at: 1758629984

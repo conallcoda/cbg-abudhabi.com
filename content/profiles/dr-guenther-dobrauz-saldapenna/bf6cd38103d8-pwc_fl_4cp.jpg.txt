@@ -1,0 +1,5 @@
+Uuid: RbtPRlYCvfVAXU3n
+
+----
+
+Template: image

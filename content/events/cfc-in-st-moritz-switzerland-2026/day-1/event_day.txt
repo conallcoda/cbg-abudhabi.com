@@ -1,0 +1,41 @@
+Title: Day 1
+
+----
+
+Date: 2026-01-14
+
+----
+
+Subtitle: Macro Perspective on the Industry
+
+----
+
+Sessions: Arrival & Introduction, Session 1 - The World Rewired, Break 1, Session 2 - Lines of Control, Break 2, Session 3 - The Future of Markets, Session 4 - Socializing
+
+----
+
+Hidden-sessions: Break 1, Break 2
+
+----
+
+Photos:
+
+- file://6g6LbHcwc20CZ3z6
+- file://5gynyTuwdBP5wMYC
+- file://HhaeTN1otNMWaonI
+
+----
+
+Hide-session-titles: Break 1, Break 2
+
+----
+
+Uuid: uOAbDaVIaV7NguPq
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1761731334

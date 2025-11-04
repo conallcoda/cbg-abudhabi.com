@@ -1,0 +1,21 @@
+Title: Safe Ecosystem Foundation
+
+----
+
+Picture: - file://SOyIgqOLAdi44r59
+
+----
+
+Link: https://status.safe.global
+
+----
+
+Uuid: CS95ixKlVqNB9gZK
+
+----
+
+Datecreatedepoch: 1701703146
+
+----
+
+Datemodifiedepoch: 1701703191

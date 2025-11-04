@@ -1,0 +1,21 @@
+Title: Bitstamp
+
+----
+
+Picture: - file://ZqBwB5bXXIvMEYVY
+
+----
+
+Link: https://www.bitstamp.net
+
+----
+
+Autoid: uddyp7ik
+
+----
+
+Uuid: 5nO2w8wI03D01rHA
+
+----
+
+Modified-at: 1731602455

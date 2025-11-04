@@ -1,0 +1,49 @@
+Title: Banking on Blockchain: Institutional Lending, Tokenized Assets, and the Evolution of Capital Markets
+
+----
+
+Session: Session 4 - Capital Formation in a Digital Era
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Banks and regulated institutions are entering crypto lending markets, while tokenization of capital assets – from treasuries to credit instruments – is gaining real traction. As issuance becomes programmable and distribution goes on-chain, institutional lending and liquidity models are evolving rapidly. How will the integration of tokenized assets and institutional lending reshape access to capital?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"36908e11-df12-46ed-8dc0-b7753459f2f3","isHidden":false,"type":"text"}],"id":"bee41279-9d4e-4789-8c37-65211e8f11da","width":"1/1"}],"id":"112c9ca5-f1bc-4b09-af2f-f3f47942dcc8"}]
+
+----
+
+Time-start: 15:25:00
+
+----
+
+Time-finish: 16:05:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: lmZ14qlzySpFCz9A
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1760128282

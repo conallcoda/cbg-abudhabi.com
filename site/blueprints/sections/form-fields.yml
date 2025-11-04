@@ -1,0 +1,12 @@
+headline: Fields
+status: all
+type: pages
+layout: table
+limit: 50
+image: false
+templates:
+    - form_field
+columns:
+    title:
+        label: Label
+    type: true

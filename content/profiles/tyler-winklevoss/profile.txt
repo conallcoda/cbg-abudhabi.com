@@ -1,0 +1,57 @@
+Title: Tyler Winklevoss
+
+----
+
+Picture: - file://LlId6FhVPSOCH2Xv
+
+----
+
+Picture-color: - file://OG2EiTcx8IvKhMaC
+
+----
+
+Picture-cropped: - file://NQZ1Oy3Ls7jWzPr2
+
+----
+
+Logo: - file://OCcPh1HpgwMr73v6
+
+----
+
+Subtitle: CEO, Gemini
+
+----
+
+Company: Gemini
+
+----
+
+Company-url: https://gemini.com
+
+----
+
+Bio: Tyler Winklevoss - is Co-founder and CEO of Gemini, a digital asset exchange and custodian. He graduated from Harvard University with a degree in Economics and earned an MBA from Oxford University. He represented the United States at the 2008 Olympics Games in Beijing, China, placing 6th. Tyler has been an angel investor and entrepreneur in emerging technologies since 2003. He began investing in bitcoin in 2012 and launched Gemini in 2015.
+
+----
+
+Twitter: https://twitter.com/tylerwinklevoss
+
+----
+
+Linkedin: https://www.linkedin.com/in/tylerwinklevoss/
+
+----
+
+Email: 
+
+----
+
+Autoid: rsiocwmm
+
+----
+
+Uuid: 4gBKfuBBkhOUHUhK
+
+----
+
+Modified-at: 1758630011

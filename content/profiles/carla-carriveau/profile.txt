@@ -1,0 +1,57 @@
+Title: Carla Carriveau
+
+----
+
+Picture: - file://nQXHegYqDtUGcGam
+
+----
+
+Picture-color: - file://ZXBqO871PuwcwwEX
+
+----
+
+Picture-cropped: - file://0ZLsOWdSjpWbCdZF
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Senior Regulatory Counsel at Circle
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Carla Carriveau is a seasoned Securities & Regulatory Affairs attorney. She currently serves as Senior Regulatory Counsel at Circle working from its San Francisco location. Carla was previously Senior Counsel at the United States Securities and Exchange Commission serving in a number of capacities including as a top government affairs aide to former SEC Chair Mary Jo White. During her tenure with the SEC, she led teams in the FinTech space with respect to policy, rulemakings, and market operations and advised as to the potential application of securities regulations to virtual currency.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/carlacarriveau/
+
+----
+
+Email: 
+
+----
+
+Autoid: f1c3mbj2
+
+----
+
+Uuid: Tk5gWRvC0fjyWBUW
+
+----
+
+Modified-at: 1758629918

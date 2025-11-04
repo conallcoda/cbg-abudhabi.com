@@ -1,0 +1,65 @@
+Title: Jenny Johnson
+
+----
+
+Picture: - file://D4EAvG1fJVfKEBgY
+
+----
+
+Picture-color: - file://D4EAvG1fJVfKEBgY
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://SCcU1ASJOPABtRXS
+
+----
+
+Subtitle: President & CEO
+
+----
+
+Company: Franklin Templeton
+
+----
+
+Company-url: https://www.franklintempleton.com/
+
+----
+
+Bio:
+
+Jenny Johnson is President and Chief Executive Officer of Franklin Templeton. In a career spanning over 35 years, she has been a key driver of the company's transformation to what is now one of the largest global investment managers across public and private asset classes with $1.5 trillion in assets under management.
+
+Ms. Johnson held leadership roles in all major divisions of the business, including investment management, distribution, technology, operations and wealth management before becoming CEO in February 2020. She has led the evolution of the business in recent years, further diversifying the company's investment capabilities and solutions for clients through key strategic acquisitions and investments.
+
+Ms. Johnson has received many recognitions, including being named to Forbes' "World's 100 Most Powerful Women" list in 2023 and 2022, as well as its "50 Over 50" list in 2022. She has been named to Barron's list of the "100 Most Influential Women in US Finance" for six consecutive years, most recently in 2025. The Committee for Economic Development, the public policy center of The Conference Board, honored Ms. Johnson with a 2024 Distinguished Leadership Award. She was also named to Pensions & Investments' inaugural class of "Influential Women in Institutional Investing" in 2023.
+
+Ms. Johnson serves on a variety of boards, including Thermo Fisher Scientific and the Investment Company Institute's Board of Governors where she also serves on its Executive Committee. In an advisory capacity, she is a member of the International Advisory Panel of the Monetary Authority of Singapore and serves on the NYSE Board Advisory Council. In addition, Ms. Johnson is a board member of the Memorial Sloan Kettering Cancer Foundation and Catalyst. Previously, she has served on several other boards, including Stanford's Lucille Packard Children's Hospital and the San Francisco Giants.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/jennyjohnsonfranklintempleton/
+
+----
+
+Email: 
+
+----
+
+Uuid: Yvdr5m1VYAmJdV5Z
+
+----
+
+Created-at: 1759872479
+
+----
+
+Modified-at: 1759872936

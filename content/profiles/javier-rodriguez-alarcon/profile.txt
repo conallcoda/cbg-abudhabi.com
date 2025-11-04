@@ -1,0 +1,61 @@
+Title: Javier Rodriguez
+
+----
+
+Picture: - file://jWkGWATDtl40EH0D
+
+----
+
+Picture-color: 
+
+----
+
+Picture-cropped: - file://nPLQOR20lZB3KD3z
+
+----
+
+Logo: - file://ab0kz6fSfdgTey3R
+
+----
+
+Subtitle: CCO
+
+----
+
+Company: XBTO
+
+----
+
+Company-url: https://www.xbto.com
+
+----
+
+Bio: Javier is XBTO's Chief Commercial Officer and Head of Asset Management. Before joining XBTO, he gained extensive experience in traditional finance (TradFi) and quantitative investing. He served as the EMEA Head of the Quantitative Investment Group and Global Head of Client Portfolio Management for Public Equities at Goldman Sachs investment management division. Prior to his tenure at Goldman, Javier held various senior investment roles at Barclays Global Investors (now BlackRock) and Barclays PLC.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/rodriguezjavier/
+
+----
+
+Email: 
+
+----
+
+Uuid: v6uybYRfGh6zuOaH
+
+----
+
+Datecreatedepoch: 1697787356
+
+----
+
+Datemodifiedepoch: 1702047999
+
+----
+
+Modified-at: 1760562339

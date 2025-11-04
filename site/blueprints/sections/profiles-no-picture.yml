@@ -1,0 +1,22 @@
+type: pages
+layout: table
+sortBy: title asc
+label: Items (No Picture)
+search: true
+image: page.picture.toFile
+query: page.childrenWithoutPicture
+limit: 50
+columns:
+    subtitle:
+        label: Subtitle
+    company:
+        label: Company
+    company_url:
+        label: Company URL
+    bio:
+        label: Bio
+    last_modified:
+        label: Last Modified
+        value: '{{ page.getModifiedAgo() }}'
+template:
+    - profile

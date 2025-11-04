@@ -1,0 +1,33 @@
+Title: Arrival Date
+
+----
+
+Type: date
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options: 
+
+----
+
+Uuid: 6PnSV2u2TiyJPJT6
+
+----
+
+Modified-at: 1725468312

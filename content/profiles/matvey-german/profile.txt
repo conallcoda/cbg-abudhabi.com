@@ -1,0 +1,57 @@
+Title: Matvey German
+
+----
+
+Picture: - file://I1P1D5KYwqqaCJCJ
+
+----
+
+Picture-color: - file://I1P1D5KYwqqaCJCJ
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Entrepreneur / Angel Investor
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Trained as a mathematician with a specialization in algebra, Matvey has applied his deep technical insight across a diverse career that bridges traditional finance, technology, and digital innovation. He is the founder and managing partner of an algorithmic trading firm and an active angel investor with a focus on early-stage ventures in finance and technology. Prior to his current roles, he built one of Eastern Europe’s leading online travel agencies, which today serves over one million customers annually. Matvey began his professional journey at McKinsey & Company and Morgan Stanley, gaining experience in strategy and global markets. He holds an MBA from Harvard Business School.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: JryW1koQJkbozOsg
+
+----
+
+Created-at: 1745610368
+
+----
+
+Modified-at: 1760534752

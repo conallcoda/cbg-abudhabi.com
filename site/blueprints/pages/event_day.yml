@@ -1,0 +1,38 @@
+title: Event Day
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+tabs:
+    agenda:
+        icon: calendar
+        sections:
+            content:
+                type: fields
+                fields:
+                    date:
+                        type: date
+                        label: Date
+                        required: true
+                    subtitle:
+                        type: text
+                        label: Subtitle
+                    sessions:
+                        label: Sessions
+                        type: tags
+                    hidden_sessions:
+                        label: Hidden Session Titles
+                        type: tags
+            day_items: sections/event-day-items
+
+    photos:
+        label: Photos
+        icon: file-image
+        fields:
+            photos:
+                extends: fields/image
+                multiple: true
+                width: 1/1
+                label: Images
+                size: medium

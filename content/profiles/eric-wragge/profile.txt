@@ -1,0 +1,65 @@
+Title: Eric Wragge
+
+----
+
+Picture: - file://2FTAC5gTFNyvVgxD
+
+----
+
+Picture-color: - file://4EbudOxTdpMXYYpJ
+
+----
+
+Picture-cropped: - file://flN5ZvwnhEbEfEbc
+
+----
+
+Logo: - file://jIUwSr7dRq29r44h
+
+----
+
+Subtitle: Global Head of Business Development & Capital Markets
+
+----
+
+Company: Algorand Foundation
+
+----
+
+Company-url: https://algorand.co/
+
+----
+
+Bio:
+
+Eric Wragge is Global Head of Business Development & Capital Markets at the Algorand Foundation.  Previously, he was employed by J.P. Morgan in various Structured Finance and Solutions roles, ultimately serving in its Securitised Products Group as Managing Director.  
+ 
+He based in London and is a member of the Investment Advisory Board for the U.N. Office of Disaster Risk Reduction, is an advisory Board Member of Pan American Finance, and is co-founder of Rochester Square, a socially engaged project transforming a formerly derelict inner city garden nursery into a thriving hub for the arts.
+
+----
+
+Twitter: https://x.com/eric_ldn
+
+----
+
+Linkedin: https://www.linkedin.com/in/eric-wragge/
+
+----
+
+Email: 
+
+----
+
+Autoid: tmckovyw
+
+----
+
+Uuid: Wb4PXm9U60CfxDc0
+
+----
+
+Datemodifiedepoch: 1698681315
+
+----
+
+Modified-at: 1758629933

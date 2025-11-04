@@ -1,0 +1,57 @@
+Title: Anthony Day
+
+----
+
+Picture: - file://E6LH3znvXjLzmMwo
+
+----
+
+Picture-color: - file://E6LH3znvXjLzmMwo
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://Xp7D3LwJyRS27E65
+
+----
+
+Subtitle: Marketing Director
+
+----
+
+Company: VeChain
+
+----
+
+Company-url: https://vechain.org
+
+----
+
+Bio: Anthony has been driving growth and adoption of Blockchain technology for organisations such as Deloitte, IBM, Parity, Input Output and now VeChain. He has led all aspects of growth, go-to-market and ecosystem development for major L1 protocols and has 20 years’ experience in technology-led growth for enterprises and start-up. He is also the Founder of the Blockchain Won’t Save the World podcast.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://linkedin.com/in/anthonyjjday
+
+----
+
+Email: 
+
+----
+
+Uuid: sjnFnb0QDhi9kTv6
+
+----
+
+Created-at: 1728483820
+
+----
+
+Modified-at: 1759874031

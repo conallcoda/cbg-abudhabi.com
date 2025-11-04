@@ -1,0 +1,63 @@
+Title: Ben Reynolds
+
+----
+
+Picture: - file://DljBsl1TvTqWCF4V
+
+----
+
+Picture-color: - file://h74yHtiE5VZ9aL6c
+
+----
+
+Picture-cropped: - file://yYUdbbFTC7qwnDNf
+
+----
+
+Logo: - file://GTs6l2RcSqUZlybM
+
+----
+
+Subtitle: CSO
+
+----
+
+Company: Silvergate
+
+----
+
+Company-url: https://www.silvergate.com
+
+----
+
+Bio:
+
+Ben Reynolds joined Silvergate in January 2016. He is the Chief Strategy Officer and is responsible for crafting our strategy, product development, marketing and M&A activities. Prior to his current role, Ben was responsible for growing the digital currency business.
+
+Over the past twenty years, Ben was an entrepreneur for two different businesses that he co-founded, VP of product at HSBC and a CPA in the audit practice at KPMG. He is an experienced builder who is passionate about creating remarkable products for customers and extraordinary businesses for shareholders.
+
+Ben earned a B.S. in accounting from San Diego State University, an MBA from Pepperdine University, and is a licensed CPA.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/ben-reynolds-2257b19/
+
+----
+
+Email: 
+
+----
+
+Autoid: 150drmq6
+
+----
+
+Uuid: 3WBYSPp0zoTE2D2q
+
+----
+
+Modified-at: 1758629916

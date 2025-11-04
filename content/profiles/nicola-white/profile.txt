@@ -1,0 +1,67 @@
+Title: Nicola White
+
+----
+
+Picture: - file://I3SWIpCl5dnG1nTo
+
+----
+
+Picture-color: - file://BsKmyJLUHRcvXVmh
+
+----
+
+Picture-cropped: - file://c2hzSc7U5ronvOQL
+
+----
+
+Logo: - file://LI5UyxleIiJYVT9P
+
+----
+
+Subtitle: Group CEO
+
+----
+
+Company: B2C2
+
+----
+
+Company-url: https://b2c2.com
+
+----
+
+Bio:
+
+Nicola White joined the firm in 2021 as President of B2C2 USA to build out the regulated businesses for the Americas and partner with clients to help solve market structure problems. She was appointed CEO of B2C2 USA in May 2022.
+
+Nicola has deep expertise in building institutional market-making businesses with an electronic overlay.  She has over 19 years’ experience in financial services, spanning trading, software development and C-suite positions.  
+
+Prior to B2C2, Nicola was Global COO of fixed income at Citadel Securities where she defined and implemented a strategy to establish an electronically enabled fixed income market-making business, growing it into a top ranked firm.  Achievements included Citadel Securities becoming the only non-bank market-making member of TradeWeb and driving positive market structure changes for clients in the treasury and swap arena.
+
+Previously, Nicola was global head of electronic markets within the fixed income division at Morgan Stanley, where she held numerous leadership roles since joining in 2003. Two of her most significant accomplishments include the electronification of interest rate trading for the bank and the launch of a Canadian fixed income business.
+
+Throughout her career, Nicola has been involved in the governance of many initiatives including Dodd-Frank and MiFID compliance for rates electronic markets at Morgan Stanley.  In addition, Nicola was a TradeWeb board member as well as an alternate board member of NYSE Liffe.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/nicola-white-b691003/
+
+----
+
+Email: 
+
+----
+
+Autoid: 2ypb6055
+
+----
+
+Uuid: iOu4ccXDJr0GRtrK
+
+----
+
+Modified-at: 1758629985

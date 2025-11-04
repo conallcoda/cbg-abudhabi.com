@@ -1,0 +1,37 @@
+Title: How is your involvement in crypto?
+
+----
+
+Type: text
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options: 
+
+----
+
+Uuid: 9DXdVKwUBlzJLvLp
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1723116096

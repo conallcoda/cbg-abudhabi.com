@@ -1,0 +1,61 @@
+Title: Payal Shah
+
+----
+
+Picture: - file://RQXoIT2FG5mWv4D4
+
+----
+
+Picture-color: - file://TMmmOcSKSWbmgOSo
+
+----
+
+Picture-cropped: - file://GD9egOYQeCM2MqUT
+
+----
+
+Logo: - file://W1w3YgsVgB8iN4yI
+
+----
+
+Subtitle: Director, Equity Research and Product Development
+
+----
+
+Company: Coinbase
+
+----
+
+Company-url: https://www.coinbase.com
+
+----
+
+Bio:
+
+Payal Shah serves as CME Group’s Director of Equity Research and Product Development.  She is responsible for leading the research and development of new and innovative products in the equity and alternative investment markets. This includes a comprehensive suite of futures and options contracts on key benchmark indices such as the S&P 500, NASDAQ-100, Dow Jones and Russell Indexes, as well as international access through the FTSE Indexes, Ibovespa, Nikkei 225 and TOPIX indices.  Since joining the company in 2016, Shah has been heavily involved in the crypto space and the creation of Cryptocurrency Reference Rates, Bitcoin Futures and Options Contracts, and Ether Futures.  She also serves on the CME CF Cryptocurrencies Oversight Committee.
+ 
+Before joining CME Group, Shah was an ETF Specialist at MSCI and held trading roles within the Equity Derivatives Group at Morgan Stanley.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/payalshah-lakhani/
+
+----
+
+Email: 
+
+----
+
+Autoid: z1lfhcj6
+
+----
+
+Uuid: dE8LxCwHCYu0K7TK
+
+----
+
+Modified-at: 1758629990

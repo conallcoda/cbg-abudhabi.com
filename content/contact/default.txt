@@ -1,0 +1,65 @@
+Title: Contact
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"4","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h4","text":"Address:"},"id":"3a6b3a38-0d23-472a-96a1-9497b072ae25","isHidden":false,"type":"heading"},{"content":{"text":"<p>Crypto Finance Conference AG</p><p>Via Maistra 7</p><p>CH-7500 Sankt Moritz</p><p>Switzerland</p>","custom_id":"","custom_class":""},"id":"d63e47f3-29b2-4a94-972f-7df01c667fa1","isHidden":false,"type":"text"}],"id":"370446f4-66a0-40ec-b3df-15c2d654c84d","width":"1/1"}],"id":"3ee98273-34a6-4fc4-b2cc-0ed05e3f96ae"},{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"4","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h4","text":"Email:"},"id":"9e89b3f1-138b-451c-bc14-d3a846cbb93d","isHidden":false,"type":"heading"},{"content":{"text":"<p><a href=\"mailto:info@cfc-stmoritz.com\"></a><a href=\"mailto:info@cfc-stmoritz.com\">info@cfc-stmoritz.com</a></p>","custom_id":"","custom_class":""},"id":"836452fb-3dc1-43ca-9543-a9f96736f21b","isHidden":false,"type":"text"}],"id":"fd66ed67-19fa-466e-ab3b-96793254bb9f","width":"1/1"}],"id":"d4d27d37-75ed-4a75-9b4a-811295621def"}]
+
+----
+
+Layout-off: 
+
+----
+
+Restrict-access: false
+
+----
+
+Access-token: MSltHQ1cYSFEcOp9
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Uuid: 5SZskIs4DhKTGNOZ
+
+----
+
+Created-at: 1721231611
+
+----
+
+Modified-at: 1728385739

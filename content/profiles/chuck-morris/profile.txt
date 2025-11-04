@@ -1,0 +1,56 @@
+Title: Charles Morris
+
+----
+
+Picture: - file://LO2GdGmQMzU0DJ1n
+
+----
+
+Picture-cropped: - file://MSVrqOqgB7zKFhzo
+
+----
+
+Logo: - file://xtKokeRTQRKlVlto
+
+----
+
+Subtitle: Senior Quantitative Trader
+
+----
+
+Company: Strix Leviathan
+
+----
+
+Company-url: https://strixleviathan.com
+
+----
+
+Bio:
+
+Charles has been trading capital markets professionally for more than two decades. He is a member of the Chicago Mercantile Exchange and the Chicago Board of Trade. He has been trading cryptocurrency markets since 2018, and has built a profitable, proprietary trading desk for a well-known Swiss cryptocurrency exchange.
+He holds an M.S. degree in computer science from the University of Chicago where he also studied as an undergraduate.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/charles-morris-0aa0046b/
+
+----
+
+Email: 
+
+----
+
+Autoid: k4wi3q00
+
+----
+
+Uuid: nBYNA3Qh5LYMg2Mb
+
+----
+
+Modified-at: 1722848918

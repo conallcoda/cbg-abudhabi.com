@@ -1,0 +1,87 @@
+Title: Meltem Demirors
+
+----
+
+Picture: - file://Kn9cDHLtWpPOUbYi
+
+----
+
+Picture-color: - file://Kn9cDHLtWpPOUbYi
+
+----
+
+Picture-cropped: - file://TOUpnkIAuYqFPOp2
+
+----
+
+Logo: - file://XyiRNTWRoufbrs3h
+
+----
+
+Subtitle: Managing Partner
+
+----
+
+Company: Crucible Capital
+
+----
+
+Company-url: https://www.cruciblecap.xyz/
+
+----
+
+Bio:
+
+Meltem Demirors is Founder and General Partner at Crucible, an investment firm focused on the intersection of energy, compute, and crypto. Throughout her career, Meltem has earned her place as one of the most respected - and distinctive - investors in crypto. 
+
+Before launching Crucible in May of 2024, she served as Chief Strategy Officer at [CoinShares](https://coinshares.com/), Europe’s largest and longest standing digital asset investment firm - which oversees $10B in AUM. CoinShares has been publicly listed since 2021. Before that, Meltem was on the founding team at Digital Currency Group, where she raised $25M and grew the company portfolio from 40 to 200 companies . Beyond her corporate positions, Meltem has lectured at MIT and Oxford and is an angel investor in over 100 startups. She leverages her vast network – ranging from global financial institutions to builders at the fringe – to find and fund unique opportunities for Crucible. 
+
+Before joining the crypto industry in 2015, Meltem began her career trading and working in operations in the oil and gas industry. She studied math and econ at Rice University and has an MBA from MIT’s Sloan School of Management.  When she isn’t talking about bitcoin or data centers, she can be found reading sci-fi, collecting vintage furniture, or on the seacoast of New Hampshire taking her house off the grid and making herself a cybernetic human.
+
+----
+
+Twitter: https://x.com/Melt_Dem
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: d6rda9v0
+
+----
+
+Picture-clip: 
+
+----
+
+Facebook: 
+
+----
+
+Instagram: 
+
+----
+
+Talk-title: 
+
+----
+
+Company-name: 
+
+----
+
+Uuid: QkFqnWM1IesPEjeF
+
+----
+
+Datemodifiedepoch: 1696597714
+
+----
+
+Modified-at: 1759870075

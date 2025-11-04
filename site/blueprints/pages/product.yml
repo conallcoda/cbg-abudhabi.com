@@ -1,0 +1,24 @@
+title: Product
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+create:
+    title:
+        label: Internal Name
+    fields:
+        - display_name
+        - price
+    redirect: false
+    status: unlisted
+fields:
+    display_name:
+        label: Display Name
+        type: text
+        help: As appears on payment form
+    button_text:
+        label: Button Text
+        type: text
+        help: As appears on select product form
+    price: fields/price

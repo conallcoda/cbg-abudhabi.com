@@ -1,0 +1,49 @@
+Title: From Hype to Infrastructure: AI, Energy, and the Foundations of the Digital Economy
+
+----
+
+Session: Session 3 - The Future of Markets
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>As AI becomes core infrastructure, decentralized compute, autonomous agents, and distributed data markets are driving demand for scalable, sovereign systems pushing the limits of existing compute capacity. Infrastructure players are repositioning as energy hubs and compute brokers, operating at the intersection of finance, digital assets, grid stability, and even national defense. As demand for AI compute accelerates, how will energy infrastructure evolve and what are the broader implications for the digital asset ecosystem?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"87c10937-331b-4919-9615-489d1a490002","isHidden":false,"type":"text"}],"id":"a05166cf-51f0-4f54-aa34-8ea693f59919","width":"1/1"}],"id":"905377e3-6521-4c48-b7d0-8d770e7777a4"}]
+
+----
+
+Time-start: 17:00:00
+
+----
+
+Time-finish: 17:40:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: sRaeyvim9IFFO2fB
+
+----
+
+Created-at: 1725981743
+
+----
+
+Modified-at: 1761731343

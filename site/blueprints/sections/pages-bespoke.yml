@@ -1,0 +1,12 @@
+label: Bespoke Pages
+status: all
+image: false
+type: pages
+layout: cardlets
+sortBy: title asc
+size: small
+info: "Updated on"
+limit: 50
+templates:
+  - home
+  - error

@@ -1,0 +1,57 @@
+Title: Nicolas de Skowronski
+
+----
+
+Picture: - file://7HLgoaVpEKZKfofe
+
+----
+
+Picture-color: - file://T6h5pnpUoZZaBlQT
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://xTDbXsq82OEmM1Gr
+
+----
+
+Subtitle: Executive Board Member & Head Wealth Managament Solutions
+
+----
+
+Company: Bank Julius Baer & Co Ltd.
+
+----
+
+Company-url: https://www.juliusbaer.com
+
+----
+
+Bio: Nicolas de Skowronski is an Executive Board Member and Head of Wealth Management Solutions at Julius Baer & Co Ltd.  He joined the Julius Bär Group in 2003 and has held a range of senior positions including leading the Geneva Investment Advisory Unit, heading the Investment Advisory Group, Chief of Staff and Head of Global Client Solution to his present role which he started in 2019.  Nicolas graduated, from the Swiss Federal Institute of Technology in Lausanne, with a master degree in Physics, specialising in Numerical Simulation. He is also a Certified International Investment Analyst. Nicolas is passionate about innovation and technology.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/nicolas-de-skowronski-ciia-0728a22/
+
+----
+
+Email: 
+
+----
+
+Uuid: YYfd1syZjjqCRGXz
+
+----
+
+Created-at: 1731408250
+
+----
+
+Modified-at: 1758629985

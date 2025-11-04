@@ -1,0 +1,25 @@
+Title: BTQ Technologies
+
+----
+
+Picture: - file://4wnDK9JLOCXExSLl
+
+----
+
+Link: https://www.btq.com
+
+----
+
+Uuid: NIBAl4v2p3NttqjM
+
+----
+
+Datecreatedepoch: 1701339553
+
+----
+
+Datemodifiedepoch: 1701339595
+
+----
+
+Modified-at: 1730123539

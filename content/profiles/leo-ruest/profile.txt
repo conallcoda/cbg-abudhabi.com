@@ -1,0 +1,61 @@
+Title: Leo Ruest
+
+----
+
+Picture: - file://5GMA1peBZ3FqtNEl
+
+----
+
+Picture-color: - file://vWPo9iFsMqvwjUOs
+
+----
+
+Picture-cropped: - file://UgS6LeUxjHb5VPg5
+
+----
+
+Logo: - file://zKswgYBSSHp8lNTN
+
+----
+
+Subtitle: Managing Director
+
+----
+
+Company: IMC
+
+----
+
+Company-url: https://www.imc.com/crypto
+
+----
+
+Bio: After completing a PhD in Theoretical Computer Science at ETH Zurich, Leo began his journey with IMC in 2007. Between 2018 and 2022, he delved into entrepreneurship, co-founding a trading company that eventually piqued IMC's interest, leading to its acquisition and marking Leo's return. He currently serves as the Managing Director of IMC’s Zug office. While IMC’s roots are in TradFi, Leo’s team focusses exclusively on Crypto, researching and developing trading strategies, in particular market-making strategies. Living and working in Crypto Valley, Leo is energised by the opportunity to be a part of the evolving landscape of digital assets.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: lD9S7mmQ7qm8qsyu
+
+----
+
+Datecreatedepoch: 1698052235
+
+----
+
+Datemodifiedepoch: 1698052571
+
+----
+
+Modified-at: 1758629965

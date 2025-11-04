@@ -1,0 +1,57 @@
+Title: Sarah Jordi
+
+----
+
+Picture: - file://AW4zC9YD820RZHJE
+
+----
+
+Picture-color: - file://1z6fhJVKXY4fiCz7
+
+----
+
+Picture-cropped: - file://hcOmApN4SfLWEqLH
+
+----
+
+Logo: 
+
+----
+
+Subtitle: PR & Communication
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: A creative and hands-on marketing and communications specialist with a Bachelor of Arts in Journalism and Corporate Communications and 10+ years of international experience. Sarah manages all things marketing strategy, PR and media relations for the CfC St. Moritz and all side events.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/sarahjordi/
+
+----
+
+Email: 
+
+----
+
+Autoid: pz0y148g
+
+----
+
+Uuid: o0wUIZGXy2sos3yG
+
+----
+
+Modified-at: 1760534039

@@ -1,0 +1,8 @@
+label: Settings
+icon: settings
+columns:
+    main:
+        sections:
+            settings_site: sections/settings-site
+            settings_menu: sections/settings-menu
+            settings_social: sections/settings-social

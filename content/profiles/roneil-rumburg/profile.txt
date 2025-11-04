@@ -1,0 +1,61 @@
+Title: Roneil Rumburg
+
+----
+
+Picture: - file://r48bxQqaE80XbWmM
+
+----
+
+Picture-color: - file://H1wyY0yfGGuLNKPz
+
+----
+
+Picture-cropped: - file://kzFZuwxsZJ1ySZ5h
+
+----
+
+Logo: - file://G5cCiFL3qjmTMeAj
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Audius
+
+----
+
+Company-url: https://audius.co
+
+----
+
+Bio:
+
+Roneil Rumburg is co-founder and CEO of Audius, a digital streaming service that connects fans directly with artists and exclusive new music. Audius is fully decentralized, owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Founded in early 2018, Audius serves millions of users every month, making it one of the largest crypto applications ever built.
+
+Prior to Audius, Roneil most recently co-founded Kleiner Perkins' early-stage seed fund, KPCB Edge. At KP, he was responsible for seed investments into Blockchain and AI companies, including Lightning Labs. Roneil attended Stanford University and previously co-founded a Bitcoin peer to peer payment company called Backslash.
+
+----
+
+Twitter: https://twitter.com/roneilr?lang=en
+
+----
+
+Linkedin: https://www.linkedin.com/in/roneilr/
+
+----
+
+Email: 
+
+----
+
+Autoid: 0bvrq2zf
+
+----
+
+Uuid: l8fEHnSZsLxVwUN1
+
+----
+
+Modified-at: 1758629998

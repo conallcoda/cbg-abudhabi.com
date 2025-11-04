@@ -1,0 +1,49 @@
+Title: The U.S. Regulatory Pivot: Global Signals from D.C.
+
+----
+
+Session: Session 2 - Lines of Control
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>The United States is entering a new regulatory era for digital assets, marked by leadership changes, institutional momentum, and growing bipartisan recognition of the space. As Washington moves toward greater clarity, global markets are watching closely. How will the evolution of U.S. policy shape the behavior of international regulators, influence capital allocation, and redefine the strategic priorities of investors and innovators worldwide?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"3d5405e0-b7cd-4339-b99d-f92064de642f","isHidden":false,"type":"text"}],"id":"71520309-6321-4fac-89f7-fe36763bf971","width":"1/1"}],"id":"075c6013-9a4f-4c8c-9783-11d8fd88354b"}]
+
+----
+
+Time-start: 14:55:00
+
+----
+
+Time-finish: 15:15:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: kUhNN8yefRivQDYb
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1760117872

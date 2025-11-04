@@ -1,0 +1,53 @@
+Title: Tim Grant
+
+----
+
+Picture: - file://JKMiOqvTtwaS6Xg4
+
+----
+
+Picture-cropped: - file://IEBgNlLEEZxyVVzy
+
+----
+
+Logo: - file://Ew1xB6Vqo8GMQxqf
+
+----
+
+Subtitle: Head of EMEA
+
+----
+
+Company: Galaxy Digital
+
+----
+
+Company-url: https://www.galaxy.com
+
+----
+
+Bio: Tim Grant brings more than 20 years of deep technology and management expertise across institutional capital markets and enterprise blockchain businesses to the company. Prior to Galaxy Digital, Tim worked for SIX Digital Exchange, UBS O’Connor, UBS Investment Bank, R3 Lab and Research Centre and DrumG Technologies. In his previous role as CEO of DrumG, he was responsible for the delivery and operations of enterprise-grade distributed ledger solutions for financial services.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/tim-grant-a241673/
+
+----
+
+Email: 
+
+----
+
+Autoid: 5rwgwue4
+
+----
+
+Uuid: 4JtRRsG43xTVgROn
+
+----
+
+Modified-at: 1722849073

@@ -1,0 +1,17 @@
+Title: SuvrettaHouse
+
+----
+
+Autoid: kgzi1lxh
+
+----
+
+Picture: partners-data/suvrettahouse/suvretta_frame.png
+
+----
+
+Link: https://suvrettahouse.ch
+
+----
+
+Uuid: IsjVrkaZVFZXtel8

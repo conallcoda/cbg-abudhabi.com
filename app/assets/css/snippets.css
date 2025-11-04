@@ -1,0 +1,186 @@
+/** grid */
+
+.columns-2 > .block-type-heading h2 {
+  margin-top: 0;
+}
+
+/* nav */
+body.menuOpen nav .underlay,
+body.menuOpen nav .logo,
+body:not(.home) nav .underlay,
+body:not(.home) nav .logo {
+  opacity: 1 !important;
+}
+
+nav .underlay,
+nav .logo {
+  transition: opacity 0.4s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+nav {
+  height: 4rem;
+}
+@media screen and (min-width: 1024px) {
+  nav {
+    height: 6rem;
+  }
+}
+
+.drawer,
+nav .navOpen,
+nav .navClose,
+.drawer .menu,
+.drawer .modal {
+  display: none;
+}
+
+nav .navOpen.active,
+nav .navClose.active,
+.drawer.active,
+.drawer .menu.active,
+.drawer .modal.active {
+  display: block;
+}
+
+@media screen and (max-width: 1024px) {
+  .drawer .close-corner {
+    display: none;
+  }
+}
+
+/** header home */
+
+.header-home .media > video {
+  @media screen and (orientation: portrait) {
+    width: calc(100vh * (9 / 16));
+    height: 100vh;
+  }
+
+  @media screen and (orientation: portrait) and (min-aspect-ratio: 9/16) {
+    width: 100vw;
+    height: calc(100vw * (16 / 9));
+  }
+
+  @media screen and (orientation: landscape) {
+    width: 100vw;
+    height: calc(100vw * (1440 / 2650));
+  }
+
+  @media screen and (orientation: landscape) and (max-aspect-ratio: 16/9) {
+    width: calc(100vh * (2650 / 1440));
+    height: 100vh;
+  }
+}
+
+/** agenda list */
+
+.agenda-list .day {
+  display: none;
+}
+
+.agenda-list .day.active {
+  display: block;
+}
+
+/** agenda list */
+
+.agenda-list .day {
+  display: none;
+}
+
+.agenda-list .day.active {
+  display: block;
+}
+
+/** blog index */
+
+.blog-index .article-list {
+  display: none;
+}
+
+.blog-index .article-list.active {
+  display: block;
+}
+
+.tab-item {
+  display: none;
+}
+
+.tab-item.active {
+  display: block;
+}
+
+/** croppie */
+.photo-field .cropper {
+  display: none;
+}
+
+.photo-field .cropper.active {
+  display: block;
+}
+
+/** form survey*/
+
+.survey-form-row {
+  display: none;
+}
+
+.survey-form-row.active {
+  display: block;
+}
+.survey-other {
+  display: none;
+}
+
+.survey-other.active {
+  display: block;
+}
+
+/** .payment-summary */
+
+.payment-summary-table .reduction {
+  display: none;
+}
+
+.payment-summary-table.has-reduction .reduction {
+  display: flex;
+}
+
+/** .accordion */
+
+.accordion-item .accordion-content {
+  display: none;
+}
+
+.accordion-item .accordion-up {
+  display: none;
+}
+
+.accordion-item.active .accordion-up {
+  display: block;
+}
+
+.accordion-item.active .accordion-down {
+  display: none;
+}
+
+.accordion-item.active .accordion-content {
+  display: block;
+}
+
+/** .form-seat-options */
+
+.form-seat-options .day-list h4 {
+  margin-bottom: 0;
+}
+.form-seat-options .day-list ul {
+  margin-bottom: 0;
+  line-height: 1;
+}
+.form-seat-options .day-list ul li {
+  font-size: 0.9rem;
+}
+
+.form-seat-options .included-text ul {
+  margin-top: 0;
+}

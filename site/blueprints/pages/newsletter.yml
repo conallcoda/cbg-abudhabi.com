@@ -1,0 +1,18 @@
+title: Newsletter Form
+status:
+    draft:
+        label: Draft
+    listed:
+        label: Published
+options:
+    duplicate: false
+    changeTitle: false
+    changeStatus: false
+    changeTemplate: false
+    changeSlug: false
+    preview: '{{ page._preview_url }}'
+    delete: false
+    move: false
+tabs:
+    content: tabs/form-content-newsletter
+    submissions: tabs/form-submissions

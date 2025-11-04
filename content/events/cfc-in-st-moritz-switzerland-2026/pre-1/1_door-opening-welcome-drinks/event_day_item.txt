@@ -1,0 +1,45 @@
+Title: Door Opening & Welcome Drinks
+
+----
+
+Session: Pre-Opening
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 18:30:00
+
+----
+
+Time-finish: 19:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: 9Cv4m720bgvi98OF
+
+----
+
+Modified-at: 1759989574

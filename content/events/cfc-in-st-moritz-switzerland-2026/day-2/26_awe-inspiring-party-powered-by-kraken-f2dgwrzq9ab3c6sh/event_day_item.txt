@@ -1,0 +1,49 @@
+Title: Awe-Inspiring Party Powered by Solana Foundation @King's Social House
+
+----
+
+Session: Session 6 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 23:45:00
+
+----
+
+Time-finish: 04:00:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: 8FAtT6qyzGO7t1ld
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1760384647

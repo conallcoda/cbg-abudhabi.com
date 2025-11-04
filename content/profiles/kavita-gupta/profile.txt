@@ -1,0 +1,57 @@
+Title: Kavita Gupta
+
+----
+
+Picture: - file://bVkMx3RxML2UXWrd
+
+----
+
+Picture-color: - file://YyYJxQIFFYrIZOcD
+
+----
+
+Picture-cropped: - file://iuvxI1ZRiB5d7maZ
+
+----
+
+Logo: - file://pZhnq7w5E1BYn420
+
+----
+
+Subtitle: Visiting Scholar & Lecturer
+
+----
+
+Company: Stanford University
+
+----
+
+Company-url: https://www.stanford.edu
+
+----
+
+Bio: Kavita Gupta is the visiting scholar at Stanford University where she is teaching -Beyond Bitcoin and Ethics for Engineers. She is the founding team member of Distributed trust initiative at Stanford, a platform for open dialogue and research on distributed trusted identity and distributed systems. Until recently, Kavita Gupta headed the VC-hedge fund at ConsenSys, investing in next-generation blockchain technologies revolutionising our current systems. Kavita is a recipient of UN Social Finance Innovator Award in 2015 for being an integral part of the founding green bond team at The World Bank. She is on the board of Vatican impact investment community, MIT solve and Mandela Trust among others.
+
+----
+
+Twitter: https://twitter.com/KavitaGupta19
+
+----
+
+Linkedin: https://www.linkedin.com/in/kavita-gupta-71a4352/
+
+----
+
+Email: 
+
+----
+
+Autoid: ckitvmh5
+
+----
+
+Uuid: 0dOPEa4alshu9UAA
+
+----
+
+Modified-at: 1758629962

@@ -1,0 +1,17 @@
+Title: Thank You!
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Hakuna Matata!"},"id":"50969e4e-3d95-478e-8420-bef2a12acc71","isHidden":false,"type":"heading"},{"content":{"text":"<p>You will receive your sign up confirmation email shortly.</p>","custom_id":"","custom_class":""},"id":"25874ce6-e343-4ee8-a2e5-9a3a643a223b","isHidden":false,"type":"text"}],"id":"9e8aa69f-1af5-4dbb-9294-1858cfd86640","width":"1/1"}],"id":"4f27ac91-ea05-4489-898b-d3b9f05108db"}]
+
+----
+
+Back-button-text: 
+
+----
+
+Uuid: QjcWNyzk3SD4KYs5
+
+----
+
+Modified-at: 1733300992

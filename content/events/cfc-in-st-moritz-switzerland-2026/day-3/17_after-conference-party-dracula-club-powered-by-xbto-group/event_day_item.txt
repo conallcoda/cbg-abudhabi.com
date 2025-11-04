@@ -1,0 +1,45 @@
+Title: After Conference Party @Dracula Club Powered by XBTO Group
+
+----
+
+Session: Session 6 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 23:00:00
+
+----
+
+Time-finish: 04:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: mJ5zBrgMklWeV8a2
+
+----
+
+Modified-at: 1760454469

@@ -1,0 +1,57 @@
+Title: Ray Hindi
+
+----
+
+Picture: - file://RoWDmqsMS2yiTpWp
+
+----
+
+Picture-color: - file://cN9itLP37HajNbXL
+
+----
+
+Picture-cropped: - file://RSB3afLYpTR0vKVf
+
+----
+
+Logo: - file://XOp9VksX0GtqJM8i
+
+----
+
+Subtitle: CEO/CIO
+
+----
+
+Company: L1D
+
+----
+
+Company-url: https://l1d.com/
+
+----
+
+Bio: Ray co-founded L1D and currently acts as the CEO/CIO. Ray has an investment background in venture, hedge funds and interest rate trading. Ray holds a BEng from UCL and an MSc in Finance from Imperial College.
+
+----
+
+Twitter: https://twitter.com/HindiRay
+
+----
+
+Linkedin: https://www.linkedin.com/in/ray-hindi-58b46b/
+
+----
+
+Email: 
+
+----
+
+Autoid: 567h8ncp
+
+----
+
+Uuid: r6VZeEu6lIV2sidw
+
+----
+
+Modified-at: 1758629994

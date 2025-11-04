@@ -1,0 +1,77 @@
+Title: NFT-based Retailing in the Metaverse
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"text":"The metaverse, often described as the 3D extension of the traditional web, is attracting significant attention with both promise and scrutiny. While enthusiasts like to highlight its commercial potential, critics often voice concerns about its activity levels. However, both rely on qualitative arguments without substantial data.\n\n(link: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4547100 text: In a recent working paper with Dario Thürkauf and Prof. Fabian Schär target: blank), we conducted an in-depth analysis of blockchain data, particularly centered around metaverse-related NFTs. Our goal was to gain a comprehensive understanding of the current landscape of metaverse retailing, with a specific emphasis on NFT-based retailing within the blockchain-based virtual world Decentraland.\n\n**Embracing Trust and Permissionless Digital Assets**\nIn the metaverse, digital assets are typically entries within registries, and these databases are managed by the operators of the respective metaverse platforms. While this might seem technically straightforward, it hinges on placing trust in the platform operators.\n\nThese operators have the power to unilaterally alter rules governing their platforms, including the characteristics of in-world assets. This issue is often cited as one of the reasons for the creation of Ethereum, (link: https://np.reddit.com/r/ethtrader/comments/kzq662/the_origin_of_eth_is_quite_strange/gjptroe/?context=3 text: despite it originating as a joke by Vitalik Buterin who experienced the “horrors of centralized services” when his cherished warlock’s Siphon Life spell in World of Warcraft faced unexpected changes. target: blank)\n\nIn contrast, decentralized metaverse platforms can harness blockchain-based assets, which, depending on their implementation, offer a trust- and permissionless environment. In such systems, rule changes are not dictated by a single entity.\n\n**The Current State of NFT-based Retailing in the Metaverse**\nNFTs open a realm of opportunities in a Web3-based metaverse, ranging from avatar apparel to tokens that serve as redeemable vouchers for real-world products (1).  This trend has already gained momentum in virtual worlds like Decentraland and The Sandbox, where well-known brands such as Tommy Hilfiger, Samsung, Coca-Cola, Pepsi, Diesel, Adidas, Netflix, and many others have set up their virtual presence, offering wearables, i.e., digital clothing for avatars, and, in some cases, even selling real-world apparel.\n\nOur paper shows that metaverse retailing experiences a surge in activity during major events. Grand spectacles like the (link: https://themetaversefestival.io/ text: “Metaverse Music Festival” target: blank) or (link: https://mvfw.org/ text: “Metaverse Fashion Week” target: blank) generated thousands of retailing events within just a couple of days, eclipsing quieter periods. Furthermore, we observed that the majority of NFTs received by avatars represent virtual wearables, while vouchers are currently a rarity.\n\nAt present, metaverse retailing appears to be a pivotal part of the customer engagement strategies employed by major brands. However, the full retailing potential is yet to be tapped. This leaves us pondering whether the 3D Web can match the commercial success of its 2D predecessor or whether it will primarily serve as an interactive, immersive customer engagement space.\n\n***\n(1) It is worth noting that NFTs, or more specifically the use of blockchain technology and smart contracts, cannot enforce external promises like the delivery of real-world goods.","custom_id":"","custom_class":""},"id":"eab3837d-54d0-470d-8354-0b4766509550","isHidden":false,"type":"markdown"}],"id":"f0b6ac7a-4e1f-49c4-9ccc-733cb46732f9","width":"1/1"}],"id":"db67e002-ce03-4bae-b475-10d78292f357"}]
+
+----
+
+Picture: - file://7q5CnosLjZbx0EvM
+
+----
+
+Author: page://XDXEBIjudWCHlOsz
+
+----
+
+Date: 2023-09-28
+
+----
+
+Subtitle: Mitchell Goldberg, PhD Candidate, Center for Innovative Finance, University of Basel
+
+----
+
+Tags: Metaverse, NFT
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Picture-card: 
+
+----
+
+Header-title: 
+
+----
+
+Uuid: TgeuZRCq2r2PzscE
+
+----
+
+Datecreatedepoch: 1695887129
+
+----
+
+Datemodifiedepoch: 1695888824
+
+----
+
+Modified-at: 1728385735

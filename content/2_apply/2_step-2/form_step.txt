@@ -1,0 +1,25 @@
+Title: Contact Details
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Step 1: Contact Details"},"id":"441f3b9a-09d7-4b98-84f5-33d91b341a41","isHidden":false,"type":"heading"},{"content":{"custom_id":"","custom_class":""},"id":"8d623aee-107a-4daf-b1ab-514a16796106","isHidden":false,"type":"divider"},{"content":{"level":"h2","text":"Personal Information"},"id":"c00d7b17-1192-451c-ac59-9d7c28aa1934","isHidden":false,"type":"heading"},{"content":{"text":"<p>Please submit your personal information.</p>","custom_id":"","custom_class":""},"id":"bf67a90f-9f4f-47e7-805c-54f4081b8a2f","isHidden":false,"type":"text"},{"content":{"name":"contact","items":["page://mATt1uHL5chz9Ees","page://5miW0HA9VRqwhDnw","page://ERJ9fNeJZQh6p4lk","page://xxRrphVga4mIMe6S","page://hrKJKHkgCsLMskSI","page://YKZwi6jEGRN1Zzhw","page://9tAbk1hpvbLNnRTh","page://oQjGUhD0QdGuNoza"],"optional":[],"show_labels":"true"},"id":"2917830b-e4ef-4cfe-9708-a043ccebf3ad","isHidden":false,"type":"form_fields"},{"content":{"custom_id":"","custom_class":""},"id":"cfb299d7-896e-47a0-b3bd-912d06f748f2","isHidden":false,"type":"divider"},{"content":{"level":"h2","text":"Postal Address"},"id":"d0f5ba19-9117-414e-9612-fda7adf71312","isHidden":false,"type":"heading"},{"content":{"name":"postal","items":["page://Wov2YjgsoYIyKROE","page://xXb7sfGBpOtYGzoK","page://RwIfaGWl5yxyQ8Ly","page://zeXKRnSSsveLg7WC","page://NSFFLiK7OVAijD6E","page://QSwhkEUNK4o2Naix"],"optional":["page://xXb7sfGBpOtYGzoK","page://zeXKRnSSsveLg7WC"],"show_labels":"true"},"id":"80fb7339-ed2c-48ea-8828-fce1af4c8d6b","isHidden":false,"type":"form_fields"},{"content":{"custom_id":"","custom_class":""},"id":"4990ab96-8908-467a-8c10-5c90e280358d","isHidden":false,"type":"divider"},{"content":{"level":"h2","text":"Profile Photo"},"id":"cdf07074-a170-4483-abb0-35adacd3be4e","isHidden":false,"type":"heading"},{"content":{"text":"<p>In recent years, we repeatedly had people trying to gain unauthorized access to the conference. We want to prevent this with an NFC tag. In addition to your name, your photo will also be stored on your personal conference badge. This way, we can ensure that only those participants who have been screened, selected and accepted by the CfC St. Moritz board committee are present in the conference areas. Please upload a recent, high-quality photo where your face is clearly visible and easily recognizable.&nbsp;</p>","custom_id":"","custom_class":""},"id":"7d817f38-b665-4225-8337-f8c493509a59","isHidden":false,"type":"text"},{"content":[],"id":"54a632cb-1691-41bf-a134-aa04516721bd","isHidden":false,"type":"form_profile_photo"},{"content":{"custom_id":"","custom_class":""},"id":"23c920ee-c639-4758-8394-bd0953c46826","isHidden":false,"type":"divider"},{"content":{"level":"h2","text":"CfC St. Moritz jam session"},"id":"2081d402-0754-4575-92e3-c6a233387693","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Do you play a musical instrument?</strong></p><p>We are planning an informal jam sessions with fellow attendees at Suvretta House this year. If you play a musical instrument and would be open to joining, please let us know which instrument do you play. </p>","custom_id":"","custom_class":""},"id":"d9c57a48-3de0-4238-a6ee-9934b7ea9c67","isHidden":false,"type":"text"},{"content":[],"id":"f5dac963-0259-40cd-bf40-6a8311af5d5c","isHidden":false,"type":"form_jam_session"},{"content":{"custom_id":"","custom_class":""},"id":"a2a799d6-d989-4b59-9952-dc7260f578a7","isHidden":false,"type":"divider"},{"content":{"level":"h2","text":"Dietary Requirements"},"id":"6aaefb03-26ed-4e6c-8a3c-9a169cb8ed86","isHidden":false,"type":"heading"},{"content":{"text":"<p>Kindly advise us of your dietary requirements.</p>","custom_id":"","custom_class":""},"id":"0388e838-9656-4b21-907f-c9c04d591222","isHidden":false,"type":"text"},{"content":[],"id":"198e53db-13bd-4cc6-b9d9-655c9b2e47c7","isHidden":false,"type":"form_dietary_requirements"},{"content":{"text":"To Step 2","custom_id":"","custom_class":""},"id":"01665730-41d8-44ff-8101-c76bf10ef0ee","isHidden":false,"type":"form_next_step_button"}],"id":"851f816a-e5dc-4a78-9df3-ed4a27a1dc46","width":"1/1"}],"id":"20a28a93-0df2-44a5-8a63-ca3112bd4789"}]
+
+----
+
+Back-button-text: Back to Overview
+
+----
+
+Type: 
+
+----
+
+Button-text: Next
+
+----
+
+Uuid: D7ZGDYk6xzElc3u6
+
+----
+
+Modified-at: 1758892035

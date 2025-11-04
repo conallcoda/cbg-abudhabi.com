@@ -1,0 +1,21 @@
+Title: Thank you
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Thank you!"},"id":"0dbe781c-dbb4-4958-bb93-4f4312d29233","isHidden":false,"type":"heading"},{"content":{"text":"<p>Thank you for submitting your Waiting List application. We will review all submitted information and reach out to you soon.</p><p>Wishing you a wonderful day ahead!</p><p>The CfC St. Moritz team</p>","custom_id":"","custom_class":""},"id":"fde79807-dd2a-449d-a02f-d9f730b8790e","isHidden":false,"type":"text"}],"id":"e1d90d64-cc5c-416d-b444-0bfb7cc9b373","width":"1/1"}],"id":"5232cdee-2966-42b2-9e69-6a25c68f9802"}]
+
+----
+
+Back-button-text: 
+
+----
+
+Type: 
+
+----
+
+Uuid: EK2QBNqQKKAku71w
+
+----
+
+Modified-at: 1728385843

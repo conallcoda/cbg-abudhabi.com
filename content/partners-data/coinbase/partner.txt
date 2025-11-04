@@ -1,0 +1,17 @@
+Title: Coinbase
+
+----
+
+Autoid: npzi5nfe
+
+----
+
+Picture: partners-data/coinbase/coinbase_webiste_frame.png
+
+----
+
+Link: https://www.coinbase.com
+
+----
+
+Uuid: YOPrLjYHzbdGPNeW

@@ -1,0 +1,61 @@
+Title: William Quigley
+
+----
+
+Picture: - file://sIIBfTxJLaqlkMQr
+
+----
+
+Picture-color: - file://JOe1uFsemjil7Id0
+
+----
+
+Picture-cropped: - file://R4jLaTtufaTuDqjE
+
+----
+
+Logo: - file://HPoj7iFfY8EGHOLD
+
+----
+
+Subtitle: CEO & Co-Founder
+
+----
+
+Company: The Worldwide Asset eXchange™ (WAX)
+
+----
+
+Company-url: https://on.wax.io/wax-io/
+
+----
+
+Bio:
+
+William E. Quigley is a cryptocurrency and blockchain investor. He has incubated and invested in more than 30 bitcoin, blockchain and cryptocurrency-related investments and co-developed the first crypto derivative used to trade pre-release Ethereum. He co-founded Tether, the first fiat-backed stablecoin and most traded cryptocurrency to date, GoCoin, a pioneering crypto payments processor, and co-founded WAX, a leading NFT blockchain platform. In 2013, Mr. Quigley co-founded Crypto Currency Partners, a blockchain equity investment fund with early notable investments in Coinbase, Kraken, Bitfury, Authy, ChangeTip and Circle. 
+ 
+Prior to his involvement in blockchain, Mr. Quigley was a venture capitalist, co-founding Clearstone Venture Partners, a $700M early-stage focused venture capital firm where he concentrated on communications and consumer technology companies. Before Clearstone, Quigley was a managing director at idealab! Capital Partners (ICP), the world’s first consumer Internet venture capital firm. ICP was an early investor in some of the leading Web 1.0 era companies including Paypal, Netzero, MP3.com and Goto.com, one of the first companies to rank search results based on a bidding process.
+
+----
+
+Twitter: https://twitter.com/WilliamEQuigley?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor
+
+----
+
+Linkedin: https://www.linkedin.com/in/williamedwardquigley/
+
+----
+
+Email: 
+
+----
+
+Autoid: m5k1wy9c
+
+----
+
+Uuid: 1oN1sEsaE4pxtMUR
+
+----
+
+Modified-at: 1758630012

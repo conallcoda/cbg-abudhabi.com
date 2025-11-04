@@ -1,0 +1,71 @@
+title: Agenda Item
+status:
+    draft:
+        label: Draft
+    listed:
+        label: Published
+create:
+    status: listed
+columns:
+    - width: 2/3
+      sections:
+          left:
+              type: fields
+              icon: page
+              fields:
+                  session:
+                      label: Session
+                      type: tags
+                      translate: false
+                      options:
+                          type: query
+                          query: page.parent.sessions.split(',')
+                  speakers:
+                      extends: fields/select-profiles
+                      label: Speakers
+                  description:
+                      type: writer
+                      label: Description
+                      buttons: false
+                      size: small
+                      when:
+                          hide_description: false
+                  headline_summary:
+                      type: headline
+                      numbered: false
+                      label: Summary
+                  picture:
+                      extends: fields/image
+                  layout:
+                      extends: fields/layout
+                      label: Summary
+    - width: 1/3
+      sections:
+          right:
+              type: fields
+              icon: page
+              fields:
+                  time_start:
+                      width: 1/2
+                      type: time
+                      label: Begin
+                  time_finish:
+                      width: 1/2
+                      type: time
+                      label: End
+                  hide_description:
+                      width: 1/2
+                      label: Hide Description
+                      type: toggle
+                      default: false
+                      text:
+                          - 'No'
+                          - 'Yes'
+                  hide_speakers:
+                      width: 1/2
+                      label: Hide Speakers
+                      default: false
+                      type: toggle
+                      text:
+                          - 'No'
+                          - 'Yes'

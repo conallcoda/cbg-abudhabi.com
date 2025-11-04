@@ -1,0 +1,65 @@
+Title: Media Corner
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Media Accreditation"},"id":"d010be67-71f5-467f-ba30-8361a3ebeeb3","isHidden":false,"type":"heading"},{"content":{"text":"<p>Due to the intimate size of the conference, only a limited number of spots are available for media representatives.</p><p>For media inquiries please reach out to <a href=\"mailto:emily.kielthy@wachsman.com\">Emily Kielthy</a>.</p>","custom_id":"","custom_class":""},"id":"3bb78771-7d89-4626-b14b-f0ee70af7840","isHidden":false,"type":"text"},{"content":{"custom_id":"","custom_class":""},"id":"c7dd9545-2f0e-45c0-a554-8dc28f2b6968","isHidden":false,"type":"divider"}],"id":"1c2203c8-35ef-4819-aa39-a44f3e772fcf","width":"1/1"}],"id":"f70b36d0-0544-4a5b-a751-404f0ffbea74"},{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Downloads"},"id":"ca3c5ea0-fc52-4e27-bd4f-4e9fd7ae264e","isHidden":false,"type":"heading"},{"content":{"text":"<ul><li><p><a href=\"/assets/lg/Logo.zip\">Logo</a></p></li><li><p><a href=\"/assets/lg/Conference_Photos.zip\">Conference Photos</a></p></li><li><p><a href=\"/assets/lg/Video_Footage.zip\">Video Footage</a></p></li></ul>","custom_id":"","custom_class":""},"id":"3050cbdb-50e9-4f26-b7a5-833a9d0c4f0b","isHidden":false,"type":"text"}],"id":"19295e10-4b24-4257-ba11-26c8367fba72","width":"1/1"}],"id":"25e3fb3a-3745-4218-ae9a-c53194acf2b0"},{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Press Kit"},"id":"bbf49713-3c45-4dba-823d-c0dca4c733f1","isHidden":true,"type":"heading"},{"content":{"text":"<p><a href=\"/assets/lg/EPK.zip\" target=\"_blank\">Download EPK</a></p>","custom_id":"","custom_class":""},"id":"dda3b715-de6a-4be1-908e-268f3c961515","isHidden":true,"type":"text"},{"content":{"text":"<p>Contains digital promotional material, including logos, pictures and video footage.</p>","custom_id":"","custom_class":"opacity-90 mt-4 text-sm"},"id":"4c499e30-5e09-41b4-bef4-a1a498233a11","isHidden":true,"type":"text"},{"content":{"custom_id":"","custom_class":""},"id":"db95fb0e-5c41-4f64-9ddb-04986b959ea2","isHidden":false,"type":"divider"}],"id":"3fd44543-b06a-4ad9-8b28-4341a16fa35c","width":"1/1"}],"id":"60da7cfb-5588-4a34-b4fe-93fffc6b4a1e"},{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"0","padding_right":"","padding_bottom":"0","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Media Releases"},"id":"9fcd317d-42de-4699-8359-9ae03dab6b16","isHidden":false,"type":"heading"},{"content":{"display":"list","items":[{"type":"file","link":"","file":["file://R7B9Y7oo6eAchhKF"],"title":"September 2025","description":"CfC St. Moritz Partners with Sygnum Bank to Establish Bitcoin Reserve"},{"type":"file","link":"","file":["file://pIXm0jSgnFDnSKZm"],"title":"September 2025","description":"The CfC St. Moritz Returns in January 2026, Featuring Leaders from\nFranklin Templeton, DRW, Kraken, Binance, the EU Commission"},{"type":"file","link":"","file":["file://PDAjhh1zILsKqUgB"],"title":"January 2025 EN","description":"The CfC St. Moritz Report 2025: 65% of Top Decision Makers See Institutional Dominance in Crypto"},{"type":"file","link":"","file":["file://J5KHulUvVzni9Zwg"],"title":"November 2024 EN","description":"The CfC St. Moritz Announces New Speakers from BlackRock, Binance, Bpifrance, Temasek, PayPal, and More for Upcoming 2025 Conference"},{"type":"file","link":"","file":["file://iZnar48gWW0eQVji"],"title":"September 2024 EN","description":"The CfC St. Moritz Returns in January 2025, with Speakers from the CFTC, Fidelity, Hidden Road, Algorand Foundation, and More."},{"type":"file","link":"","file":["file://XNY4XgdwDE8hgSP7"],"title":"January 2024 EN","description":"Recap CfC St. Moritz 2024"}],"custom_id":"","custom_class":""},"id":"c5abbf1d-6900-4d94-9c2b-d1d9bc2cf976","isHidden":false,"type":"downloads"},{"content":{"custom_id":"","custom_class":""},"id":"cef17c03-77a8-4ca8-8d0d-586025edcd45","isHidden":false,"type":"divider"}],"id":"16e6d86f-f8b9-4178-8530-65eae7b71e37","width":"1/1"}],"id":"26e9d6fa-d22a-4cc8-aeed-5e8518b6745e"},{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"0","padding_right":"","padding_bottom":"0","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"News Coverage Selection"},"id":"52d17a41-d556-4701-81c0-74d63317767a","isHidden":false,"type":"heading"},{"content":{"display":"table","items":[{"type":"file","link":"","file":["file://I0K4P3fSTQFOf5aF"],"title":"BILANZ","description":"Made Crypto Great Again"},{"type":"link","link":"https://www.blick.ch/wirtschaft/zutritt-ins-luxurioese-suvretta-house-nur-gegen-11900-franken-bitcoin-reiche-feiern-an-konferenz-in-st-moritz-ihr-krypto-wef-id20504023.html","file":[],"title":"Blick.ch","description":"Bitcoin-Reiche feiern in St. Moritz ihren Krypto-Kongress"},{"type":"link","link":"https://www.nzz.ch/wirtschaft/ethereum-wird-besonders-stark-von-der-regierung-trump-profitieren-ld.1866168","file":[],"title":"NZZ","description":"Der Regierung Biden war Ethereum ein grosses Ärgernis, die Familie Trump macht damit Geschäfte"},{"type":"file","link":"","file":["file://t5aBwNGF1Tqk7Yk4"],"title":"BILANZ","description":"Der Durchbruch"},{"type":"file","link":"","file":["file://rXWEZz1MP0oblx0b"],"title":"BILANZ","description":"Winter in Cryptoworld"},{"type":"link","link":"https://www.tagesanzeiger.ch/flueche-party-und-der-ewige-glaube-an-die-technologie-so-funktioniert-die-kryptowelt-711849332032","file":[],"title":"Tagesanzeiger","description":"Flüche, Party und der ewige Glaube an die Technologie – so funktioniert die Kryptowelt"},{"type":"link","link":"https://thedefiant.io/defi-tradfi-the-beginning-of-a-beautiful-friendship","file":[],"title":"The Defiant","description":"DeFi + TradFi: The Beginning of a Beautiful Friendship"},{"type":"link","link":"https://www.watson.ch/wirtschaft/schweiz/580625782-fuer-superreiche-die-elitaere-welt-der-krypto-konferenz-cfc-st-moritz","file":[],"title":"watson","description":"Im Epizentrum des Reichtums: Wie die Krypto-Elite in St. Moritz Geschäfte macht"},{"type":"link","link":"https://www.cnbc.com/2023/01/13/a-stablecoin-collapse-could-spill-into-us-bond-market-academic.html","file":[],"title":"CNBC","description":"A stablecoin collapse could spill into the U.S. bond market and economy, professor warns"},{"type":"link","link":"https://www.rtr.ch/novitads/grischun/engiadina/crypto-finance-conference-grond-interess-per-la-conferenza-da-cripto-a-san-murezzan","file":[],"title":"RTR","description":"Grond interess per la conferenza da cripto a San Murezzan"},{"type":"link","link":"https://www.berliner-zeitung.de/wirtschaft-verantwortung/krypto-gurus-in-der-schweiz-lasst-uns-ehrlich-sein-li.304213","file":[],"title":"Berliner Zeitung","description":"Krypto nach FTX-Crash: „Lasst uns ehrlich sein!“"},{"type":"file","link":"","file":["file://izB7RF8wdEXnp0yt"],"title":"BILANZ","description":"Per NFT ins Metaversum"},{"type":"link","link":"https://www.finews.ch/news/finanzplatz/48188-krypto-treffen-st-moritz","file":[],"title":"FINEWS","description":"Krypto-Gipfeltreffen in St. Moritz findet statt"},{"type":"link","link":"https://www.forbes.com/sites/billybambrough/2020/01/15/as-bitcoin-roars-into-2020-the-winklevoss-twins-make-wall-street-warning","file":[],"title":"FORBES","description":"As Bitcoin roars into 2020, the Winklevoss Twins make wall street warning"},{"type":"file","link":"","file":["file://LjpmcrSLX3g1cOsc"],"title":"SCHWEIZER ILLUSTRIERTE","description":"Die Blockchain Brüder aus den Bergen"},{"type":"link","link":"https://www.finews.com/news/english-news/39223-nicolo-stoehr-when-i-took-over-the-market-collapsed","file":[],"title":"FINEWS","description":"\"When I took over, the market collapsed\" Interview with CEO Nicolo Stoehr"},{"type":"file","link":"","file":["file://a3aYikjmEEpIs3EW"],"title":"HANDELSZEITUNG","description":"Reif für die Insel"},{"type":"link","link":"https://www.swissinfo.ch/eng/winklevoss-brothers_bitcoin-billionaire-twins-to-address-st-moritz-crypto-event/45319992","file":[],"title":"SWISSINFO","description":"Bitcoin billionaire twins to address St. Moritz crypto event"},{"type":"link","link":"https://www.finews.com/news/english-news/30341-crypto-wef-st-moritz-switzerland-cryptocurrencies-marc-bernegger","file":[],"title":"FINEWS","description":"High-rollers rub shouldes at crypto WEF"}],"custom_id":"","custom_class":""},"id":"6d24ea98-0040-4497-a4f9-34508646aac5","isHidden":false,"type":"downloads"},{"content":{"custom_id":"","custom_class":""},"id":"60e1df4a-8570-426f-90c5-203c2c3c6698","isHidden":false,"type":"divider"}],"id":"8b5ba61c-f7c2-41bd-b3e4-dd54be6a6c12","width":"1/1"}],"id":"69c22054-efea-4bcd-a098-e203413ffc10"},{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"0","padding_right":"","padding_bottom":"0","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Highlight Videos CfC St. Moritz"},"id":"8f7dc6b8-83bb-426d-a1bc-d5bd7db4b868","isHidden":false,"type":"heading"}],"id":"37997406-5589-44ed-bb2a-f499b932dba7","width":"1/1"}],"id":"78d7f85b-8fb6-418d-9134-aabed8076bfd"},{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"items":[{"title":"CfC St. Moritz 2025","subtitle":"","video_url":"https://youtu.be/bUnrLxLiTD4"},{"title":"CfC St. Moritz 2024","subtitle":"","video_url":"https://youtu.be/JeP6F87dT70"},{"title":"CfC St. Moritz 2023","subtitle":"","video_url":"https://youtu.be/by9m1B73jZg"},{"title":"CfC St. Moritz 2022","subtitle":"","video_url":"https://youtu.be/f7NSf5YhP5Y"},{"title":"CfC St. Moritz 2020","subtitle":"","video_url":"https://www.youtube.com/watch?v=xHSl3eJHb1w"},{"title":"CfC St. Moritz 2019","subtitle":"","video_url":"https://www.youtube.com/watch?v=WaM6_ENgZdQ"},{"title":"CfC St. Moritz 2018 - USA","subtitle":"","video_url":"https://www.youtube.com/watch?v=ZdXVKYBvAc0"},{"title":"CfC St. Moritz 2018 - Switzerland","subtitle":"","video_url":"https://www.youtube.com/watch?v=C6obHfOKmNo"}],"custom_id":"","custom_class":""},"id":"998dc12d-ea11-42a3-b277-e16244c1ab2d","isHidden":false,"type":"video_gallery"}],"id":"bf9e4fee-dd58-4a8a-9abf-0a67c89a1bfd","width":"1/1"}],"id":"c439901f-4afa-43bf-8641-498e7bebf28e"}]
+
+----
+
+Layout-off: 
+
+----
+
+Restrict-access: false
+
+----
+
+Access-token: 
+
+----
+
+Ps-access-token: 
+
+----
+
+Ps-page-title: 
+
+----
+
+Ps-meta-description: 
+
+----
+
+Ps-custom-css: 
+
+----
+
+Ps-custom-css-desktop: 
+
+----
+
+Ps-background-landscape: 
+
+----
+
+Ps-background-portrait: 
+
+----
+
+Headline: 
+
+----
+
+Subheadline: 
+
+----
+
+Uuid: 1OkgATaoxoMvr8HS
+
+----
+
+Created-at: 1721315438
+
+----
+
+Modified-at: 1758824302

@@ -1,0 +1,57 @@
+Title: Andrew Kessler
+
+----
+
+Picture: - file://yUCcKZpHBa8j4ZT6
+
+----
+
+Picture-color: - file://tMfpmZPKXuMfQhtM
+
+----
+
+Picture-cropped: - file://rh48KFMwsVDcHUb5
+
+----
+
+Logo: - file://2DTaOuUyey10l9BY
+
+----
+
+Subtitle: CTO and Co-Founder
+
+----
+
+Company: Zenotta AG
+
+----
+
+Company-url: https://www.zenotta.xyz/en/home.html
+
+----
+
+Bio: First prize winner at the IDC Inventors Garage. Finalist in the GAP Innovation Competition. Finalist in SEED STARS. TIA grant holder. Zug-based Andrew Kessler is a serial entrepreneur who worked on a N-doped diamond-based semiconductor startup and founded several additional startups, focused on biometrics, logistics and human identity. Andrew has a background in chemistry and biochemistry, and a strong knowledge base in cryptography.
+
+----
+
+Twitter: https://twitter.com/zenotta_ag
+
+----
+
+Linkedin: https://www.linkedin.com/in/andrew-kessler-b3363130/
+
+----
+
+Email: 
+
+----
+
+Autoid: 7kxt4ra4
+
+----
+
+Uuid: qpGUbHT8OHHMxIbf
+
+----
+
+Modified-at: 1758629910

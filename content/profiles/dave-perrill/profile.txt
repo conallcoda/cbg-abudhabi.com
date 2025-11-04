@@ -1,0 +1,57 @@
+Title: Dave Perrill
+
+----
+
+Picture: - file://ZP2X3H5ilehBQCP9
+
+----
+
+Picture-color: - file://pb7Fzwd5WRxu6jvP
+
+----
+
+Picture-cropped: - file://HpZ4IhVxH8fTYVPL
+
+----
+
+Logo: - file://XnRzEnlUT57SAUcI
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Compute North
+
+----
+
+Company-url: https://www.computenorth.com
+
+----
+
+Bio: A 25-year veteran of the IT and information security industry, Dave has been keenly immersed in the cryptocurrency mining industry and blockchain technology since its formative days. He founded and subsequently sold two technology companies, including an Internet Service Provider/Managed Security Provider, SecureConnect, which was acquired by Trustwave Holdings in 2013. He also served as CEO of Wand Corporation, a leading point-of-sale and Digital Menu board provider to the Quick Service Restaurant industry. Dave has extensive experience in networking, data center engineering, scaling large IT systems, and security. He holds a BS in Management Information Systems and an MBA in Finance from the University of Minnesota. Dave has been a member of YPO (Young Presidents Organization) since 2015 as part of the Twin Cities (Minneapolis, Minnesota) chapter.
+
+----
+
+Twitter: https://twitter.com/computenorthllc
+
+----
+
+Linkedin: https://www.linkedin.com/in/daveperrill/
+
+----
+
+Email: 
+
+----
+
+Autoid: 8m9ef8e5
+
+----
+
+Uuid: gRuNn4UfhGMfggjU
+
+----
+
+Modified-at: 1758629928

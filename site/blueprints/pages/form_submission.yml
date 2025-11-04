@@ -1,0 +1,86 @@
+title: Submission
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+create:
+    status: unlisted
+tabs:
+    overview_tab:
+        label: Overview
+        icon: page
+        sections:
+            overview:
+                type: submission
+    data_tab:
+        label: Data
+        icon: folder
+        sections:
+            data:
+                type: fields
+                fields:
+                    _uuid:
+                        label: UUID
+                        type: info
+                        text: '{{ page.uuid.id }}'
+                    picture:
+                        extends: fields/image
+                        label: Picture
+                        width: 1/1
+                    step:
+                        label: Step Section
+                        type: select
+                        translate: false
+                        options: query
+                        query:
+                            fetch: page.parent.parent.children.template('form_step')
+                            text: '{{ page.title }}'
+                            value: '{{ page.uuid }}'
+                        width: 1/2
+                    step_number:
+                        type: number
+                        label: Step Number
+                        width: 1/2
+                    stripe_id:
+                        type: text
+                        label: Stripe ID
+                    cart:
+                        label: Cart
+                        type: object
+                        fields:
+                            products:
+                                type: structure
+                                label: Products
+                                fields:
+                                    name:
+                                        type: text
+                                        label: Name
+                                    price: fields/price
+                            vat_rate: fields/vat_rate
+                            vat:
+                                extends: fields/price
+                                label: VAT
+                            subtotal:
+                                extends: fields/price
+                                label: Subtotal
+                            reduction_code:
+                                type: text
+                                label: Reudction Code
+                            reduction_amount:
+                                extends: fields/price
+                                required: false
+                                label: Reduction Amount
+                            total:
+                                extends: fields/price
+                                label: Total
+                    data:
+                        type: structure
+                        label: Data
+                        fields:
+                            name:
+                                type: text
+                                label: Name
+                            value:
+                                type: text
+                                label: Value

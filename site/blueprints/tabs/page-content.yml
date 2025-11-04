@@ -1,0 +1,10 @@
+label: Content
+icon: page
+columns:
+    main:
+        width: 3/3
+        sections:
+            page_content:
+                type: fields
+                fields:
+                    layout: fields/layout

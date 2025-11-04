@@ -1,0 +1,61 @@
+Title: Dr. Joachim Schwerin
+
+----
+
+Picture: - file://TYxyYTzk9HKSuDbg
+
+----
+
+Picture-color: - file://TYxyYTzk9HKSuDbg
+
+----
+
+Picture-cropped: - file://yAGS4OyC37ZvKAl2
+
+----
+
+Logo: - file://UTaT8s8JWiYXJMZe
+
+----
+
+Subtitle: Principal Economist
+
+----
+
+Company: DLT policy at European Commission
+
+----
+
+Company-url: https://commission.europa.eu/index_en
+
+----
+
+Bio: Dr. Joachim Schwerin is Principal Economist in the unit in charge of Responsible Business Conduct within the Directorate-General Internal Market, Industry, Entrepreneurship and SMEs (DG GROW) of the European Commission. He is responsible for developing the policy approach of DG GROW towards the Token Economy and Distributed-Ledger Technologies as well as their applications for industry and SMEs. His current focus lies on developing positive framework conditions for digital cooperatives (DAOs) and Web3. In the financial domain, he contributed to the Digital Finance Strategy, including the MiCA Regulation, and the preparatory work for the Digital Euro. Joachim holds a PhD from Dresden University of Technology and was Post-Doc Research fellow at the London School of Economics' Economic History Department before he joined the European Commission in 2001.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Autoid: 1dqc7rti
+
+----
+
+Uuid: 7KIZs5c8Ftefe7Ca
+
+----
+
+Datemodifiedepoch: 1696598687
+
+----
+
+Modified-at: 1759873807

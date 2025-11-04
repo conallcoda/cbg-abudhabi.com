@@ -1,0 +1,61 @@
+Title: Ryosuke Ushida
+
+----
+
+Picture: - file://SZGvFCLb6rQMXep0
+
+----
+
+Picture-color: - file://TAYsVbfnB6kyMnGf
+
+----
+
+Picture-cropped: - file://nyjG8Gd7HDLnDcAz
+
+----
+
+Logo: - file://BkmBlfrFIOs0oQYc
+
+----
+
+Subtitle: Chief Fintech Officer
+
+----
+
+Company: Financial Services Agency of Japan
+
+----
+
+Company-url: https://www.fsa.go.jp/policy/japanfintechweek/2025/index_en.html
+
+----
+
+Bio: Ryosuke leads initiatives related to digital innovation in financial sector as Chief FinTech Officer of the JFSA. He also serves as the Co-chair of Virtual Asset Task Force, FATF. Prior to his current position, he has conducted a research on regulatory framework and governance mechanism in decentralized financial system as the Senior Fellow of Cyber SMART research center at Georgetown University from July 2019 to June 2021. He holds a Masters in Finance from London Business School.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/ryosuke-ushida-478738161/
+
+----
+
+Email: 
+
+----
+
+Uuid: dFXJHmYbshP7G7gM
+
+----
+
+Datecreatedepoch: 1696595174
+
+----
+
+Datemodifiedepoch: 1696595312
+
+----
+
+Modified-at: 1758629999

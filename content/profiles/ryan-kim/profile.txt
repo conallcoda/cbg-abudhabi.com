@@ -1,0 +1,57 @@
+Title: Ryan Kim
+
+----
+
+Picture: - file://CQiLNaXWBHGJMPx7
+
+----
+
+Picture-color: - file://1S21gMSrKhgA8vbB
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://6CTX1nJYLCgPYrg7
+
+----
+
+Subtitle: Founding Partner
+
+----
+
+Company: Hashed
+
+----
+
+Company-url: https://www.hashed.com/
+
+----
+
+Bio: Ryan Sungho Kim is a Partner at Hashed. He assesses deals from Asia and focuses on applications, corporate finance and enterprise. Previously, Ryan successfully exited his company LOOKET, a mobile solution for SME to Recobell (a Big Data company). Ryan was in charge of the development and planning of recommendation systems in his previous company, and he realized that the data space has many vulnerabilities. This led him to blockchain and ultimately made him co-found Hashed. Ryan graduated with a bachelor’s degree in Electronic Engineering from KAIST (Korea Advanced Institute of Science & Technology).
+
+----
+
+Twitter: https://x.com/0xryankim
+
+----
+
+Linkedin: https://www.linkedin.com/in/ryansunghokim/
+
+----
+
+Email: 
+
+----
+
+Uuid: rLCHjqqgFQXeBFVD
+
+----
+
+Created-at: 1727784492
+
+----
+
+Modified-at: 1758629999

@@ -1,0 +1,14 @@
+name: field.blocks.markdown.name
+icon: markdown
+preview: markdown
+wysiwyg: true
+tabs:
+    content:
+        fields:
+            text:
+                label: field.blocks.markdown.label
+                placeholder: field.blocks.markdown.placeholder
+                type: markdown
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

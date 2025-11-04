@@ -1,0 +1,25 @@
+Title: Landing
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"0","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"<p>We are pleased to extend you the opportunity to be a part of our Private Pre-Reservation process for the upcoming CfC St. Moritz 2026 conference, scheduled for <strong>January 14 – 16, 2026</strong>. Given your connection to our conference, your investment track record and extensive business expertise, you have the opportunity to reserve a seat before the official application phase opens to all other interested participants. Your seat in the conference has been diligently secured, and we cordially invite you to follow the steps outlined below to confirm your attendance at our conference in January 2026.</p><p>This exclusive option remains open until <em>October 10, 2025</em>. Following this date, the regular application process will be in effect.</p><p><u><strong>Step 1: Submit Your Personal Information:</strong></u></p><ul><li><p>We kindly ask you to submit your personal information for our contact records.</p></li></ul><p><u><strong>Step 2</strong>: <strong>Select Your Seat Option</strong></u></p><ul><li><p>Choose between a regular conference participation (Wednesday to Saturday) or a conference participation including our Pre-Opening (Monday to Saturday).</p></li></ul><p><u><strong>Step 3: Submit Your Credit Card Details:</strong></u></p><ul><li><p>To simplify the payment process, we kindly ask you to enter your credit card details in step 3.</p></li></ul>","custom_id":"","custom_class":""},"id":"ae66da44-2a40-492e-aef9-fdfe71a3c3d1","isHidden":false,"type":"text"},{"content":{"custom_id":"","custom_class":""},"id":"75a97029-5d32-48eb-9f94-513d26277af3","isHidden":false,"type":"divider"},{"content":{"level":"h2","text":"<strong>CfC St. Moritz Pre-Opening 2026</strong>"},"id":"d18a8ce0-2c68-4ba3-bce9-f641a4adf6a7","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Back by popular demand: </strong>We are delighted to bring back the <strong>CfC St. Moritz Pre-Opening</strong>! You are therefore invited to join us already on<strong> Monday,</strong> <strong>January 12, 2026</strong> - two days ahead of the official conference kickoff - to settle in, acclimate to the altitude and ease into the CfC St. Moritz experience.</p><p>On Monday, we will enjoy an evening filled with good food, fine wine, and delightful company. Following a rejuvenating night's sleep, you can participate in one of the following activities of your choice - <em>Yoga, Engadin Nature Experience, Curling, Cross-Country Skiing or Alpine Skiing</em> - on <strong>Tuesday, January 13, 2026</strong>. We will do our best to assign you to one of your top 3 activities. </p><p>Pre-Opening registration is open until <strong>December 1, 2025</strong>.</p>","custom_id":"","custom_class":""},"id":"e11bc54f-7ba5-468d-bdbe-756ecb3b2e82","isHidden":false,"type":"text"},{"content":{"custom_id":"","custom_class":""},"id":"a8b5581f-f832-4974-ac3a-790ee078b88d","isHidden":false,"type":"divider"},{"content":{"level":"h2","text":"Seat Rates"},"id":"a604c216-7f16-4a51-bc02-9e93f49047c0","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>Your seat rate depends on the seat reservation option you choose:</strong></p><ul><li><p>Seat reservation <strong>without</strong> Pre-Opening: CHF 7,900 (excl. VAT)</p></li><li><p>Seat reservation <strong>including</strong> Pre-Opening: CHF 9,400 (excl. VAT)</p></li></ul>","custom_id":"","custom_class":""},"id":"08d548c9-49be-4162-a295-7862cbb5ecb1","isHidden":false,"type":"text"},{"content":{"custom_id":"","custom_class":""},"id":"05c074d4-c31e-4ec0-9204-cc6a057dea5b","isHidden":false,"type":"divider"},{"content":{"hide_title":"false","hide_intro":"false","title":"","text":"","disclaimer":"","custom_id":"","custom_class":""},"id":"b94eaec0-d6dd-4e6d-9e31-9c1de9bcaa62","isHidden":false,"type":"form_accept_terms"},{"content":{"text":"Reserve My Seat","custom_id":"","custom_class":""},"id":"764593b4-06ab-4078-b55a-019b723d79b6","isHidden":false,"type":"form_next_step_button"}],"id":"fc955230-fdf4-43b1-898d-64ddb4f5a95a","width":"1/1"}],"id":"81b50b28-62e1-4f2e-85d7-c887f6ff574b"}]
+
+----
+
+Back-button-text: 
+
+----
+
+Type: informational
+
+----
+
+Button-text: Reserve Seat
+
+----
+
+Uuid: rndxpogwPoZ0NgAJ
+
+----
+
+Modified-at: 1758781412

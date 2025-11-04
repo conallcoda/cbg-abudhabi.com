@@ -1,0 +1,11 @@
+label: Media
+type: group
+fieldsets:
+    downloads: blocks/downloads
+    image: blocks/image
+    image_lightbox: blocks/image_lightbox
+    responsive_image: blocks/responsive_image
+    image_gallery: blocks/image_gallery
+    video: blocks/video
+    video_gallery: blocks/video_gallery
+    wrapped_media: blocks/wrapped_media

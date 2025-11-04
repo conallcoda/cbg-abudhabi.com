@@ -1,0 +1,17 @@
+Title: VEGA
+
+----
+
+Autoid: ghijqrwo
+
+----
+
+Picture: partners-data/vega/vega_website_frame.png
+
+----
+
+Link: https://vega.xyz
+
+----
+
+Uuid: 3AS7gpayfV40mbhw

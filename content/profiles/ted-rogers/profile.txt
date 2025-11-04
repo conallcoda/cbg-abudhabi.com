@@ -1,0 +1,65 @@
+Title: Ted Rogers
+
+----
+
+Picture: - file://4o2J4tjgn4a4sJUe
+
+----
+
+Picture-color: - file://TSotTfRIr6UK1CNz
+
+----
+
+Picture-cropped: - file://g6YJEZZhUaKESxGK
+
+----
+
+Logo: 
+
+----
+
+Subtitle: President, Xapo
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Ted Rogers serves as President of Xapo, the largest custodian of bitcoin in the world.  He has worked in the financial services industry for nearly 20 years.  
+
+Prior to Xapo, Ted co-founded and served as a General Partner for Arpex Capital, an international investment firm based in Brazil.
+
+Prior to Arpex, Ted worked in corporate finance and venture capital for FBR Group and in business affairs for America Online.
+
+Mr. Rogers graduated from Williams College in 1991 and cum laude from Georgetown University Law School in 1996.  He spent two years as a reserve linebacker for the Washington Redskins, including during their championship season of 1991-1992.
+
+----
+
+Twitter: https://twitter.com/tedmrogers
+
+----
+
+Linkedin: https://www.linkedin.com/in/tedrogers1/
+
+----
+
+Email: 
+
+----
+
+Autoid: cp9xn2ls
+
+----
+
+Uuid: 7eAWtibVjbNCiblx
+
+----
+
+Modified-at: 1758630006

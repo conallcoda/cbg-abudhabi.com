@@ -1,0 +1,57 @@
+Title: Mark Turrell
+
+----
+
+Picture: - file://FcJRTn9y6655HMS4
+
+----
+
+Picture-color: - file://YGC3XxjWQ3eqy8Ab
+
+----
+
+Picture-cropped: - file://3RLrVKooStuaftGy
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Entrepreneur, Author & CEO, Vork & Orcasci
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Mark is a strategist, author, and tech entrepreneur. His work combines collective intelligence with AI, networks, complex systems, behavioral science and neuroscience applied to business and society. Mark is active in blockchain and cryptocurrencies, having founded the TICA meet up series (Token, ICO & Cryptocurrency Alliance) and as an advisor to several ICOs around the world. During WEF week at Davos 2018 he presented his work on ‘value' tokens as a new means of funding businesses, taking traditional investor demands and applying them to tokens as securities. Mark is the CEO and founder of Vork, a business social networking app, and the founder of Orcasci, a consulting firm designing scaling strategies and advising on tokenized businesses. Previously Mark founded Imaginatik plc, a b2b SaaS provide of collaboration and innovation software and he successfully did an IPO in 2006. The World Economic Forum nominated him a Technology Pioneer and a Young Global Leader. Mark is also a Professor of Global Strategy at Hult International Business School.
+
+----
+
+Twitter: https://twitter.com/mark_turrell
+
+----
+
+Linkedin: https://www.linkedin.com/in/markturrell
+
+----
+
+Email: 
+
+----
+
+Autoid: zwhtqqm0
+
+----
+
+Uuid: a2Uj1OrYv78On3Zi
+
+----
+
+Modified-at: 1758629972

@@ -1,0 +1,21 @@
+Title: DFINITYFoundation
+
+----
+
+Picture: - file://cR4KPVzIpOn4bedP
+
+----
+
+Link: https://internetcomputer.org
+
+----
+
+Uuid: iOSaW4gNijDbBx6d
+
+----
+
+Datecreatedepoch: 1702489586
+
+----
+
+Datemodifiedepoch: 1703082347

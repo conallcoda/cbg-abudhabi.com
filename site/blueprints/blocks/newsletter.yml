@@ -1,0 +1,15 @@
+name: Newsletter
+icon: email
+tabs:
+    content:
+        fields:
+            source:
+                label: Source
+                type: select
+                multiple: false
+                options: query
+                required: true
+                query:
+                    fetch: site.children.template('newsletter')
+                    text: '{{ page.title }}'
+                    value: '{{ page.uuid }}'

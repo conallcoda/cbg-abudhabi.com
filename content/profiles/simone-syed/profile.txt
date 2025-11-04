@@ -1,0 +1,57 @@
+Title: Simone Syed
+
+----
+
+Picture: - file://fTLRLqmjVSZXA054
+
+----
+
+Picture-color: - file://fTLRLqmjVSZXA054
+
+----
+
+Picture-cropped: - file://mhKN1mBTvHZNRxKL
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Founder & Managing Partner of Velorum Capital
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Simone founded Velorum Capital, a seed-stage Silicon Valley venture capital firm bringing industry into the 21st century through the convergence of hardware, software, and data analytics with investments in manufacturing, construction, automation, biotech, energy, digital assets, and blockchain technology. Simone was previously an investor with Peter Thiel's Mithril Capital Management, Chief of Marketing at Tradehill bitcoin exchange in 2011, co-founder at mobile peer to peer payments system Bitcoin.com, co-founder of BIL conference, community builder at Ephemerisle, and Founder of BlackStarr Media (major partners included SpaceX and Discovery Channel). Outside of her direct work to positively impact humanity through technology, Simone is an active supporter of the women in crypto movement and the global efforts of the Human Rights Foundation.
+
+----
+
+Twitter: https://twitter.com/simonesyed
+
+----
+
+Linkedin: https://www.linkedin.com/in/simonesyed/
+
+----
+
+Email: 
+
+----
+
+Autoid: kdb4rk8l
+
+----
+
+Uuid: fejXZpifSo9pCmyt
+
+----
+
+Modified-at: 1759961626

@@ -1,0 +1,11 @@
+name: Events
+icon: hotel
+tabs:
+    content:
+        fields:
+            items:
+                extends: fields/select-events
+
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

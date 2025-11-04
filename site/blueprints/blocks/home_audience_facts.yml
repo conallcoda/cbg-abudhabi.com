@@ -1,0 +1,85 @@
+name: Audience Facts [Home]
+icon: chart
+tabs:
+    content:
+        fields:
+            title:
+                type: text
+                label: Title
+            headline_admissions:
+                type: headline
+                label: Admissions
+                numbered: false
+            admissions_title:
+                type: text
+                label: Title
+            net_worth_title:
+                type: text
+                label: Net Worth Title
+                width: 1/2
+            net_worth_text:
+                type: text
+                label: Net Worth Text
+                width: 1/2
+            admission_rate_title:
+                type: text
+                label: Admission Rate Title
+                width: 1/2
+            admission_rate_text:
+                type: text
+                label: Admission Rate Text
+                width: 1/2
+            role_title:
+                type: text
+                label: Role Title
+                width: 1/2
+            role_image:
+                extends: fields/image
+                label: Role Image
+                width: 1/2
+            headline_investors:
+                type: headline
+                label: Investors
+                numbered: false
+            investors_title:
+                type: text
+                label: Title
+            investors_subtitle:
+                type: text
+                label: Subtitle
+                width: 1/2
+            investors_text:
+                label: Text
+                type: text
+                width: 1/2
+            sectors_title:
+                type: text
+                label: Sectors Title
+                width: 1/2
+            sectors_image:
+                extends: fields/image
+                label: Sectors Image
+                width: 1/2
+            headline_speakers:
+                type: headline
+                label: Speakers
+                numbered: false
+            speakers_title:
+                type: text
+                label: Title
+            speakers_subtitle:
+                type: text
+                label: Subtitle
+                width: 1/2
+            speakers_text:
+                label: Text
+                type: text
+                width: 1/2
+            speakers_image:
+                extends: fields/image
+                label: Image
+                width: 1/1
+
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

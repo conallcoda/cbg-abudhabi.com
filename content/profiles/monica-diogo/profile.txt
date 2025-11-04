@@ -1,0 +1,57 @@
+Title: Diogo Mónica
+
+----
+
+Picture: - file://KU9UawQ5yfqT8GeG
+
+----
+
+Picture-color: - file://gxQyf69SBtWiRQff
+
+----
+
+Picture-cropped: - file://gi7WN8LRNZSK7Wd7
+
+----
+
+Logo: - file://l3o3DQCGyoDkNFGM
+
+----
+
+Subtitle: Co-Founder & President
+
+----
+
+Company: Anchorage Digital
+
+----
+
+Company-url: https://www.anchorage.com
+
+----
+
+Bio: Diogo Mónica is the Co-Founder and President of Anchorage Digital, the premier digital asset platform for institutions. He holds a Ph.D. in computer science from the Technical University of Lisbon, and has worked in software security for over 15 years. As an early employee at Square, he helped build security architecture that now moves $100B annually. At Docker, he helped secure core infrastructure used in global banks, governments, and the three largest cloud providers.
+
+----
+
+Twitter: https://twitter.com/diogomonica
+
+----
+
+Linkedin: https://www.linkedin.com/in/diogomonica/
+
+----
+
+Email: 
+
+----
+
+Autoid: csl5dt47
+
+----
+
+Uuid: X7zcUmrhwajvRwfL
+
+----
+
+Modified-at: 1758629983

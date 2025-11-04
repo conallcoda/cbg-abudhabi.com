@@ -1,0 +1,6 @@
+label: Price
+type: number
+min: 0
+step: 0.5
+before: CHF
+required: true

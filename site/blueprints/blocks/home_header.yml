@@ -1,0 +1,96 @@
+name: Header [Home]
+icon: home
+tabs:
+    content:
+        fields:
+            headline_partner:
+                type: headline
+                numbered: false
+                label: Presented Partner
+            presented_partner_label:
+                label: Label
+                type: text
+                width: 1/2
+            presented_partner_name:
+                type: text
+                label: Name
+                width: 1/2
+            presented_partner_url:
+                type: url
+                label: URL
+                width: 1/2
+            presented_partner_image:
+                extends: fields/image
+                width: 1/2
+            headline_cta:
+                type: headline
+                numbered: false
+                label: Call To Action
+            intro_cta_intro:
+                type: writer
+                label: Intro Text
+            intro_cta_text:
+                type: text
+                label: Button Text
+                width: 1/2
+            intro_cta_url:
+                type: text
+                label: Button URL
+                width: 1/2
+            headline_countdown:
+                type: headline
+                numbered: false
+                label: Countdown
+            date_text:
+                width: 1/2
+                type: textarea
+                buttons:
+                    - bold
+                label: Date Text
+            date_text_mobile:
+                type: textarea
+                width: 1/2
+                buttons:
+                    - bold
+                label: Date Text (Mobile)
+            countdown_date:
+                translate: false
+                label: Countdown Date
+                type: date
+                width: 1/2
+            countdown_time:
+                translate: false
+                label: Countdown Time
+                type: time
+                width: 1/2
+            timekeeping_partner_label:
+                type: text
+                label: Timekeeping Partner Label
+                width: 1/2
+            timekeeping_partner_name:
+                type: text
+                label: Timekeeping Partner Name
+                width: 1/2
+            timekeeping_partner_url:
+                type: text
+                label: Timekeeping Partner URL
+                width: 1/2
+            timekeeping_partner_image:
+                label: Timekeeping Partner Image
+                extends: fields/image
+                width: 1/2
+
+            headline_introduction:
+                type: headline
+                numbered: false
+                label: Introduction
+            intro_title:
+                type: textarea
+                buttons: false
+                label: Intro Title
+            intro_text:
+                type: writer
+                label: Intro Text
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

@@ -1,0 +1,13 @@
+Alt: 
+
+----
+
+Uuid: MIj88RLlYGECPguE
+
+----
+
+Template: image
+
+----
+
+Focus: 33.4% 39.6%

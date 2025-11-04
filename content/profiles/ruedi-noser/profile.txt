@@ -1,0 +1,57 @@
+Title: Ruedi Noser
+
+----
+
+Picture: - file://rco505oIZg889hrc
+
+----
+
+Picture-color: - file://tjbNlZeWeI01izdC
+
+----
+
+Picture-cropped: - file://8T817i7v2hLDXBzK
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Member of the Swiss Parliament
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Ruedi Noser, Member of the Parliament and self-made entrepreneur, is the driving force behind the Swiss innovation and startup scene in Switzerland.
+
+----
+
+Twitter: https://twitter.com/ruedinoser
+
+----
+
+Linkedin: https://www.linkedin.com/in/ruedinoser/
+
+----
+
+Email: 
+
+----
+
+Autoid: ko5x5n8z
+
+----
+
+Uuid: 7J1KsPHvYbHpNCAf
+
+----
+
+Modified-at: 1759601916

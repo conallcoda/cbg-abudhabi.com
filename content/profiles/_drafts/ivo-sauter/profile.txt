@@ -1,0 +1,53 @@
+Title: Ivo Sauter
+
+----
+
+Picture: - file://66U7vj9P6qVCN5F5
+
+----
+
+Picture-cropped: - file://a7fnIgXSazyQyxpO
+
+----
+
+Logo: - file://p4ayxLpKvNNBBPi2
+
+----
+
+Subtitle: CEO Switzerland
+
+----
+
+Company: BitMEX
+
+----
+
+Company-url: https://www.bitmex.com
+
+----
+
+Bio: 
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/ivo-sauter/
+
+----
+
+Email: 
+
+----
+
+Autoid: xxkglpgh
+
+----
+
+Uuid: OYrRLuBsMfseD4kr
+
+----
+
+Modified-at: 1723833496

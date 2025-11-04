@@ -1,0 +1,57 @@
+Title: Liz Chien
+
+----
+
+Picture: - file://qO5qSaxSYSgYA2I9
+
+----
+
+Picture-color: - file://sUWJ62guLQie7Uxj
+
+----
+
+Picture-cropped: - file://UeeVv9KaHJ5oskSD
+
+----
+
+Logo: 
+
+----
+
+Subtitle: VP of Global Tax, Chief Tax Counsel at Ripple
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Liz Chien is the VP of Global Tax and Chief Tax Counsel at Ripple Labs, an innovative blockchain software company that is enabling the world to move value like it moves information today. Liz is responsible for all aspects of taxation at Ripple Labs. She joined Ripple from General Electric, where she was the Global Tax Director and Senior International Tax Counsel for GE's industrial software business, GE Digital. Prior to GE, she served as a policy advisor at the Organisation for Economic Cooperation and Development (OECD), where she worked on international tax reform relating to the digital economy in Action 1 of the OECD BEPS Project. Liz is the former Asia-Pacific Head of Tax for Google and was a Tax Director at Softbank Group International. Prior to Google, she was an attorney with the global law firm of Baker & McKenzie LLP in Palo Alto, California, where she advised technology companies on international tax planning and structuring. Liz received her Bachelors and Masters degrees from Stanford University and her Juris Doctor from the University of California, Hastings College of the Law.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/lizchien/
+
+----
+
+Email: 
+
+----
+
+Autoid: 0gppyku0
+
+----
+
+Uuid: pvRaOt7qeKR52N6f
+
+----
+
+Modified-at: 1758629965

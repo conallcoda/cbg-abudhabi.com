@@ -1,0 +1,8 @@
+label: Emails
+icon: email
+columns:
+    - width: 3/3
+      sections:
+          emails:
+              extends: sections/emails
+              parent: page.find('emails')

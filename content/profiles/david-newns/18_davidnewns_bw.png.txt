@@ -1,0 +1,5 @@
+Uuid: dNSYeLAjvbRHvMV5
+
+----
+
+Template: image

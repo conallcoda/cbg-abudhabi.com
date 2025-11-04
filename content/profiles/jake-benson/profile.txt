@@ -1,0 +1,61 @@
+Title: Jake Benson
+
+----
+
+Picture: - file://LKD8mFFYFGDE8NFJ
+
+----
+
+Picture-color: - file://DakYz2FHNMCGCWJ1
+
+----
+
+Picture-cropped: - file://u92tFEGlNCpMvC1U
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Founder, CEO
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Jake founded Libra in 2014. As the CEO of Libra, Jake has successfully led the company through fundraising milestones, product releases, hiring initiatives, media events, and partnerships with elite global firms like PwC. Before Libra, Jake was an IT consultant for Capgemini implementing SAP for Fortune 500 clients.
+
+As a functional consultant, he acquired deep experience working with distributed teams of developers while also acquiring broad experience in industries including aerospace, oil & gas, manufacturing, and supply chain. Jake has a Bachelor’s in Business Administration from The University of Texas, where he graduated with honors.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/jakebenson/
+
+----
+
+Email: 
+
+----
+
+Autoid: yptfjldw
+
+----
+
+Uuid: Cz8VqGgXxrGsssNJ
+
+----
+
+Modified-at: 1758629945

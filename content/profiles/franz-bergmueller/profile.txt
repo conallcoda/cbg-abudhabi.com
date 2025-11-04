@@ -1,0 +1,61 @@
+Title: Franz Bergmueller
+
+----
+
+Picture: - file://EaYCwmZyp8PuWyDC
+
+----
+
+Picture-color: - file://XWJIpNWUA2d02cWL
+
+----
+
+Picture-cropped: - file://5vUTLK4DHz39BlNw
+
+----
+
+Logo: - file://m0OUWwRcuZZYVHzm
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: AMINA Bank
+
+----
+
+Company-url: https://www.aminagroup.com
+
+----
+
+Bio: Franz has many years of C-level experience in various industries. In parallel, he has built and managed three startup companies. He combines deep functional and IT experience across the value chain of financial services companies. He is passionate about the transformational power of new technologies in Web1, Web 2 and Web3/Crypto.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/franz-bergmueller-7a2531a
+
+----
+
+Email: 
+
+----
+
+Uuid: 8tOuFbKT4EQs6aRf
+
+----
+
+Datecreatedepoch: 1698308092
+
+----
+
+Datemodifiedepoch: 1701443980
+
+----
+
+Modified-at: 1758629939

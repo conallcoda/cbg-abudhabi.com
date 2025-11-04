@@ -1,0 +1,57 @@
+Title: Guillaume Chatain
+
+----
+
+Picture: - file://u8jWJKFyI1qJvhwW
+
+----
+
+Picture-color: - file://iy8v6xHQo63NaVTF
+
+----
+
+Picture-cropped: - file://mKtDXptc2rwWfFQy
+
+----
+
+Logo: - file://Gpa1JwB07s3VCqag
+
+----
+
+Subtitle: Director of EMEA Institutional Sales
+
+----
+
+Company: Coinbase
+
+----
+
+Company-url: https://www.coinbase.com
+
+----
+
+Bio: Guillaume Chatain is the Head of Institutional Sales EMEA at Coinbase. Prior to joining Coinbase he was the Founder and CEO at ResonanceX, a VC backed digital broker-dealer having launched the first Structured Product to clear, settle and receive custody on a public blockchain. Guillaume also spent a decade in traditional finance, as a Managing Director for J.P. Morgan Private Bank where he advised UHNW clients on large derivatives and financing transactions, and oversaw client solutions and product development for all types of equity and derivatives investments distributed in the Asia-Pacific region. Guillaume is a CFA charterholder, an Aerospace engineer and he holds a MBA from Columbia Business School.
+
+----
+
+Twitter: https://twitter.com/gchatain1
+
+----
+
+Linkedin: https://uk.linkedin.com/in/gchatain
+
+----
+
+Email: 
+
+----
+
+Autoid: o0uei0g3
+
+----
+
+Uuid: UPrm76kxUfnYfmPS
+
+----
+
+Modified-at: 1758629943

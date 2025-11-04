@@ -1,0 +1,21 @@
+title: Emails
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+options:
+    duplicate: false
+    changeTitle: false
+    changeStatus: false
+    changeTemplate: false
+    changeSlug: false
+    preview: false
+    delete: false
+    move: false
+tabs:
+    items:
+        label: Emails
+        icon: email
+        sections:
+            items: sections/emails

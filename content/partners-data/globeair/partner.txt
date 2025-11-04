@@ -1,0 +1,17 @@
+Title: GlobeAir
+
+----
+
+Autoid: 4lg670vp
+
+----
+
+Picture: partners-data/globeair/globeair_big2frame.jpg
+
+----
+
+Link: https://www.globeair.com/
+
+----
+
+Uuid: yuIMolV2sjxJkIWv

@@ -1,0 +1,57 @@
+Title: Herman Narula
+
+----
+
+Picture: - file://95zy20zF2E2pJBHa
+
+----
+
+Picture-color: - file://pMtKv1bNp9eZuETO
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://eOtmRWPJhrMhYCxW
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Improbable
+
+----
+
+Company-url: https://improbable.io/
+
+----
+
+Bio: Herman is the co-founder and CEO of Improbable. Herman holds a computer science degree from Cambridge. He has been working for the past 10 years as an entrepreneur on how to resolve technical challenges and better understand the unprecedented impacts that powerful, virtual worlds and the metaverse will have on how we think, make decisions, and form society. Herman is the author of Virtual Society: The Metaverse and the New Frontiers of Human Experience published by Penguin Random House in October 2022.
+
+----
+
+Twitter: https://x.com/Improbableio
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: aD2UuGFqVEMkMCVl
+
+----
+
+Created-at: 1732608566
+
+----
+
+Modified-at: 1758629944

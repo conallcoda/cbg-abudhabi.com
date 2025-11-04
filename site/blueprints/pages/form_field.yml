@@ -1,0 +1,50 @@
+title: Form Field
+label: Content
+pages: false
+options:
+  changeTemplate: false
+title: Product
+create:
+  fields:
+    - type
+  status: unlisted
+  redirect: false
+fields:
+  type:
+    label: Type
+    type: radio
+    required: true
+    options:
+      text: Text
+      textarea: Textarea
+      email: Email
+      phone: Phone
+      date: Date
+      time: Time
+      radio_boxes: Radio Boxes
+      multiple_answers: Multiple Choice
+    default: text
+  label:
+    label: Label
+    type: text
+    help: If left blank, the name will be used.
+  multiple_answers_allow:
+    label: Allow multiple answers?
+    extends: fields/yes_no
+    when:
+      type: multiple_answers
+  multiple_answers_allow_other:
+    label: Allow "Other" as an option?
+    extends: fields/yes_no
+    when:
+      type: multiple_answers
+  placeholder:
+    type: text
+    label: Placeholder
+  options:
+    type: structure
+    label: Options
+    fields:
+      title:
+        type: text
+        label: Option

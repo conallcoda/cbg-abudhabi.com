@@ -1,0 +1,17 @@
+Title: Kanton Graubünden
+
+----
+
+Autoid: cqe7k7cq
+
+----
+
+Picture: partners-data/kanton-graubunden/kantongr_frame.png
+
+----
+
+Link: https://www.gr.ch/DE/Seiten/welcome.aspx
+
+----
+
+Uuid: JPIy3hjyHRxSgUQV

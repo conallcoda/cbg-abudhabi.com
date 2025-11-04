@@ -1,0 +1,14 @@
+type: group
+fields:
+    link:
+        type: link
+        label: Link
+        options:
+            - page
+            - url
+    text:
+        type: text
+        label: Text
+    new_window:
+        extends: fields/yes_no
+        label: New window?

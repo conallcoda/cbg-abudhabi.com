@@ -1,0 +1,19 @@
+title: Forms
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+options:
+    duplicate: false
+    changeTitle: false
+    changeStatus: false
+    changeTemplate: false
+    changeSlug: false
+    preview: false
+    delete: false
+    move: false
+tabs:
+    forms: tabs/forms
+    fields: tabs/form-fields
+    emails: tabs/form-emails

@@ -1,0 +1,17 @@
+Title: Thank You
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Thank you"},"id":"89855db4-02f5-4b89-b105-f55644184e81","isHidden":false,"type":"heading"},{"content":{"text":"<p>Thank you for your application. We will be in touch with you shortly.</p>","custom_id":"","custom_class":""},"id":"d931460d-6914-4ace-8ea1-6a97cfa28616","isHidden":false,"type":"text"}],"id":"f7a0a830-cf63-41ac-af76-30019f11ef8a","width":"1/1"}],"id":"4d1e152d-be21-44c2-b17a-709a8f5bc49e"}]
+
+----
+
+Back-button-text: 
+
+----
+
+Uuid: 3I0cyyg5SqEvwoHz
+
+----
+
+Modified-at: 1728385838

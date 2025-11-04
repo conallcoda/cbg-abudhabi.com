@@ -1,0 +1,17 @@
+Title: Tezos
+
+----
+
+Autoid: 6xu02uma
+
+----
+
+Picture: partners-data/tezos/tezoslogo_website_frame.png
+
+----
+
+Link: https://tezos.com/
+
+----
+
+Uuid: OeVpLho17xj1P6OD

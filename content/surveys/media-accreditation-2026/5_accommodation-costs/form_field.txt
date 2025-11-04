@@ -1,0 +1,40 @@
+Title: If in line with your employer's policies, the CfC St. Moritz offers to cover the hotel cost during the conference (max. 3 nights)
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: Yes, please
+- 
+  title: No, my employer will cover the cost
+- 
+  title: I don’t know yet
+
+----
+
+Uuid: 14rgydZqMf994a6N
+
+----
+
+Modified-at: 1726081950

@@ -1,0 +1,65 @@
+Title: Prof. Dr. Fabian Schär
+
+----
+
+Picture: - file://J2q46zme0xyMviQh
+
+----
+
+Picture-color: - file://xJMyK2hxo5P34QtY
+
+----
+
+Picture-cropped: - file://nNwQHqcvmsKtRdaF
+
+----
+
+Logo: - file://94XpP9oyVoFwNNOm
+
+----
+
+Subtitle: Professor of DLT (Blockchain) and FinTech
+
+----
+
+Company: University of Basel
+
+----
+
+Company-url: https://cif.unibas.ch
+
+----
+
+Bio:
+
+Fabian Schär is a Professor of Distributed Ledger Technology (Blockchain) and Fintech at the Faculty of Business and Economics at the University of Basel. In addition, he serves as the Managing Director of the University’s Center for Innovative Finance and a board member of the research network Responsible Digital Society. He is the co-author of the bestselling book Bitcoin, Blockchain, and Cryptoassets, published by MIT Press and has also published several well-cited articles in reputable scientific journals.
+Professor Schär's research lies at the intersection of economics and computer science, with a particular focus on public blockchains, blockchain-based financial infrastructure, decentralized finance (DeFi) protocols, and financial privacy. His work has been featured in The Economist, the Financial Times, and Forbes, and he has been listed in the NZZ ranking of the most influential economists in Switzerland.
+He serves as a technical advisor to the Bank for International Settlements' Committee on Payments and Market Infrastructures (CPMI), a visiting scholar at the International Monetary Fund (IMF), and has worked as a visiting lecturer at several central banks. In addition, he has been a member of World Economic Forum working groups and an invited expert to hearings by numerous central banks, the Financial Stability Board (FSB), the Organisation for Economic Co-operation and Development (OECD), and the International Organization of Securities Commissions (IOSCO). He has spoken at over 200 events, including various G20, BIS, and IMF conferences.
+
+----
+
+Twitter: https://x.com/fschaer
+
+----
+
+Linkedin: https://www.linkedin.com/in/fabian-schaer/
+
+----
+
+Email: 
+
+----
+
+Autoid: 4ymz246k
+
+----
+
+Uuid: GnCztkIshA16eMq0
+
+----
+
+Datemodifiedepoch: 1696596630
+
+----
+
+Modified-at: 1758629992

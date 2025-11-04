@@ -1,0 +1,57 @@
+Title: Will O’Brien
+
+----
+
+Picture: - file://a7bHGBdRrWDXDI76
+
+----
+
+Picture-color: - file://2p44xK8DFMUUKn0L
+
+----
+
+Picture-cropped: - file://1p2zW2TXz6Wouq1d
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Strategic Advisor
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Will O’Brien is a veteran in the cryptocurrency and blockchain industry. He was founder and CEO of BitGo from 2013-2015, limited partner and advisor to Blockchain Capital since 2013, advisor to Arrington XRP Capital, and is an investor and advisor to pioneering projects including Hub, Civic, Orchid, Akash, Nodle, Lottery.com, and Telegram. Will's angel investment and advisory portfolio spans a broad range of sectors including fintech, gaming and VR, media, healthtech, data and analytics, and cloud services. Prior to his work in crypto, Will has served as an executive at companies including Keen IO (acquired by Scaleworks) Big Fish Games (acquired for $885 million by Churchill Downs, NASDAQ:CHDN) and TrialPay (acquired by Visa, NSYE:V). Will has been featured in the Wall Street Journal, New York Times, Forbes, Fortune, AllThingsD, BusinessWeek, and various industry press. He is a regular presenter at industry conferences and appeared on television and in film. Will holds a B.A. in Computer Science from Harvard University and an MBA from MIT Sloan School of Management.
+
+----
+
+Twitter: https://twitter.com/willobrien
+
+----
+
+Linkedin: https://www.linkedin.com/in/willobrien/
+
+----
+
+Email: 
+
+----
+
+Autoid: tr5tp5jb
+
+----
+
+Uuid: pmCTgQWGOfljzEAg
+
+----
+
+Modified-at: 1758630011

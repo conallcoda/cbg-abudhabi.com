@@ -1,0 +1,61 @@
+Title: Olta Andoni
+
+----
+
+Picture: - file://Hn4Y6IhQWloizLRK
+
+----
+
+Picture-color: - file://Um9LblitBeqAmJrI
+
+----
+
+Picture-cropped: - file://dz5p6bvddx5uy5bf
+
+----
+
+Logo: - file://KtGfT72V4rxSQ6Ms
+
+----
+
+Subtitle: Deputy General Counsel
+
+----
+
+Company: Ava Labs
+
+----
+
+Company-url: https://www.avalabs.org
+
+----
+
+Bio:
+
+Olta Andoni is an experienced international and multilingual lawyer and lecturer in regulatory law including Antitrust Law, Digital Privacy and Blockchain Technology, with extensive experience in advising fintech startups and emerging growth companies, structuring regulatory compliance for digital asset protocols and blockchain tech platforms and counseling on critical intellectual property matters. She is a regular speaker and moderator for industry conferences on topics regarding regulatory considerations, compliance matters, NFTs and legal issues and other topics in the fintech space. 
+Leveraging many years of IP expertise, Ms. Andoni specializes in the creation of robust legal structures and compliance policies for fintech and blockchain companies, and the funds which invest in the space.
+As a leader in the structuring and management of market participants, Ms. Andoni has become a strong advocate for the development of thoughtful regulations which will build confidence in the blockchain industry and spur its growth.
+
+----
+
+Twitter: https://twitter.com/AndoniOlta?s=20
+
+----
+
+Linkedin: https://www.linkedin.com/in/oltaandoni/
+
+----
+
+Email: 
+
+----
+
+Autoid: tn6c9wln
+
+----
+
+Uuid: 556eiqmYmMEAaZmd
+
+----
+
+Modified-at: 1758629987

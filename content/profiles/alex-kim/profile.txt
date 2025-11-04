@@ -1,0 +1,63 @@
+Title: Alex Kim
+
+----
+
+Picture: - file://o5THtYf3SEoqgzMN
+
+----
+
+Picture-color: - file://bXl1GejSfPMftOmT
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://J8fymlt6VxXUwQv5
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: Upbit APAC
+
+----
+
+Company-url: https://sg.upbit.com
+
+----
+
+Bio:
+
+Alex is the founder and CEO of Upbit APAC Pte. Ltd., a holding entity operating non-Korean businesses of Upbit. Upbit APAC operates regulated digital asset businesses in Singapore, Thailand, and Indonesia. In addition to digital asset exchanges, Upbit APAC operates VerifyVASP, the world's largest Travel Rule solution for digital assets. Serving as a critical infrastructure within the ecosystem, VerifyVASP facilitates an average daily transfer volume of $1.1 billion (November 11–20, 2024) in full compliance with regulatory requirements.
+
+Before founding Upbit APAC, Alex built a distinguished career at Naver (KRX: 035420) and Kakao Corp (KRX: 035720) between 2008 and 2017. At Naver, he led the search team, the company’s largest business unit, for five years, during which Naver grew to become Korea's leading internet company. He then spent another five years as the director of global business at Kakao, which emerged as Korea's largest mobile internet company.
+
+Alex is a graduate of Seoul National University, where he earned his degree from the Business Administration Department.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://sg.linkedin.com/in/alex-kim-761b5482
+
+----
+
+Email: 
+
+----
+
+Uuid: 6Ty8intDQwT8Il1R
+
+----
+
+Created-at: 1732800432
+
+----
+
+Modified-at: 1758629908

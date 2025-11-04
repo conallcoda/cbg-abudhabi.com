@@ -1,0 +1,57 @@
+Title: Dr. Lukas Morscher
+
+----
+
+Picture: - file://zV0bt2BQ5Jgg7Anz
+
+----
+
+Picture-color: - file://dYXPiDlJPzZtzZn8
+
+----
+
+Picture-cropped: - file://ittDkzV2AcO8Lxs8
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Partner, Lenz & Staehelin
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Dr. Lukas Morscher is partner, head TMT and co-head FinTech at Lenz & Staehelin in Zurich. Practice areas include new technologies, digitization, data privacy, fintech, blockchain, sourcing (ITO, BPO), corporate governance, M&A and stock exchange law. Lukas holds a master in economics, a doctorate in law (thesis on financial markets' regulation), and an AMP from Harvard Business School. He is a frequent lecturer at seminars and conferences with multiple publications. Board member and early stage investor in companies in the technology, software, fintech and fashion industries.
+
+----
+
+Twitter: https://twitter.com/Morscher
+
+----
+
+Linkedin: http://linkedin.com/in/lukas-morscher-a3707810
+
+----
+
+Email: 
+
+----
+
+Autoid: j7c0kfd4
+
+----
+
+Uuid: XtbDG2mlaDMXsSPV
+
+----
+
+Modified-at: 1758629965

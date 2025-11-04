@@ -1,0 +1,17 @@
+Title: GSR
+
+----
+
+Autoid: pphtucc5
+
+----
+
+Picture: partners-data/gsr/gsr_logo_website_frame.png
+
+----
+
+Link: https://www.gsr.io
+
+----
+
+Uuid: Q1ea3UgeIeUoQ4Fz

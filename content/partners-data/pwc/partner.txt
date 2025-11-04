@@ -1,0 +1,17 @@
+Title: PWC
+
+----
+
+Autoid: 3irjyc3o
+
+----
+
+Picture: partners-data/pwc/pwc_logo_website_frame.png
+
+----
+
+Link: https://www.pwc.ch
+
+----
+
+Uuid: P6hdP5vi1ArPlXwy

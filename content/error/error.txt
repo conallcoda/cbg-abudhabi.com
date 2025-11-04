@@ -1,0 +1,17 @@
+Title: Error
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"0","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"404 - Not Found"},"id":"b44db2ae-b0a7-4e29-ab38-94e721ad884e","isHidden":false,"type":"heading"},{"content":{"text":"<p>The requested page cannot be found. </p><p>If you believe you are seeing this message in error, please contact us at <a href=\"mailto:info@cfc-stmoritz.com\">info@cfc-stmoritz.com</a></p>","custom_id":"","custom_class":""},"id":"42d222c7-cb77-44f7-ada1-ed9f39ba635d","isHidden":false,"type":"text"}],"id":"defbbe73-1408-47c4-8e93-ee4acccacc24","width":"1/1"}],"id":"75fc1370-ac7c-4a97-8750-a5946cdd2fc0"}]
+
+----
+
+Uuid: Gc9jXsLyi3XVHKc1
+
+----
+
+Created-at: 1721232489
+
+----
+
+Modified-at: 1728385739

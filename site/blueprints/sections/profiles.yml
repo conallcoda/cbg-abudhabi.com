@@ -1,0 +1,20 @@
+type: pages
+layout: table
+sortBy: title asc
+search: true
+image: page.profile_picture.toFile
+limit: 50
+columns:
+    subtitle:
+        label: Subtitle
+    company:
+        label: Company
+    company_url:
+        label: Company URL
+    bio:
+        label: Bio
+    last_modified:
+        label: Last Modified
+        value: '{{ page.getModifiedAgo() }}'
+template:
+    - profile

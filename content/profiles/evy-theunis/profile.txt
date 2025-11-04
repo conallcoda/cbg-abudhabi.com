@@ -1,0 +1,65 @@
+Title: Evy Theunis
+
+----
+
+Picture: - file://Oj0NodGfPoG0aqge
+
+----
+
+Picture-color: - file://Oj0NodGfPoG0aqge
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://J00cWyMKS4RayxoL
+
+----
+
+Subtitle: MD - Head Digital Assets IBG
+
+----
+
+Company: DBS
+
+----
+
+Company-url: https://www.dbs.com.sg/
+
+----
+
+Bio:
+
+Evy Theunis is Head of Digital Assets at DBS Bank’s Institutional Banking Group, where she oversees the digital asset customer segment as well as the development and execution of the bank’s digital asset strategy for institutional clients. 
+
+She joined the bank in 2015 to build its digital proposition and experience for wealth customers. She was subsequently appointed Regional Head of Customer Segment and Customer Science in 2019, and was responsible for driving scalable business growth across the consumer bank leveraging digitalisation, data and AI.
+
+Evy started her career with Accenture Belgium, where she worked with top tier European banks to optimise and innovate their operating models, organisation structures and processes. She also led the design, delivery and deployment of digital platforms for various clients across Europe and Asia. 
+
+Evy holds a Masters in Computer Science from KU Leuven.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/evy-theunis-2599941
+
+----
+
+Email: 
+
+----
+
+Uuid: u0Cs7ZuYUu4JCblb
+
+----
+
+Created-at: 1732712598
+
+----
+
+Modified-at: 1759870425

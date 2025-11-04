@@ -1,0 +1,6 @@
+label: Sessions
+type: structure
+fields:
+    title:
+        type: text
+        label: Title

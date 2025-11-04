@@ -1,0 +1,46 @@
+Title: How much did your FO invest in crypto up to now (in million USD)?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: Less than 10
+- 
+  title: 10 – 50
+- 
+  title: More than 50
+- 
+  title: We are NOT invested in crypto / Web3
+
+----
+
+Uuid: 5KEXwJhicC11xLQx
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1759741760

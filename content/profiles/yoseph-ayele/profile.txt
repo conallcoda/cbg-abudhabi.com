@@ -1,0 +1,63 @@
+Title: Yoseph Ayele
+
+----
+
+Picture: - file://faaOpuw3VQvLAB1g
+
+----
+
+Picture-color: - file://IBXw0BPZvqtwCpHI
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://UKCHHFRsvYKOtVWo
+
+----
+
+Subtitle: Founder & Managing Partner
+
+----
+
+Company: LAVA
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Yoseph leads LAVA, a venture fund investing in Web3 startups building Africa's financial and trust infrastructures - a continent with the world's fastest growing economies, populations, and utility-driven crypto adoption. He also runs magma, a founder program coordinating exceptional entrepreneurs who are building Africa's onchain economy.
+
+Previously, he co-founded and served as CEO of the Edmund Hillary Fellowship and the Global Impact Visa, an innovative immigration program with the New Zealand government that attracted 500+ elite entrepreneurs and investors globally. Prior to that, he helped scale Inflection, a Silicon Valley software startup.
+
+Originally from Ethiopia, Yoseph has lived and worked across five continents and holds an AB from Harvard University.
+
+----
+
+Twitter: https://x.com/yosephayele
+
+----
+
+Linkedin: https://www.linkedin.com/in/yosephayele/
+
+----
+
+Email: 
+
+----
+
+Uuid: vWR5ijvv9tcYrpA6
+
+----
+
+Created-at: 1733489432
+
+----
+
+Modified-at: 1758630012

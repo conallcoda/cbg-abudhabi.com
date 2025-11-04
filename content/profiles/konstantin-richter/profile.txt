@@ -1,0 +1,57 @@
+Title: Konstantin Richter
+
+----
+
+Picture: - file://TazR968SYqIKR3ov
+
+----
+
+Picture-color: - file://oEmJA7VdVJvHym35
+
+----
+
+Picture-cropped: - file://XPSRhanJ3BbBxlVG
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO & Founder, Blockdaemon
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Konstantin is the CEO & Founder of Blockdaemon, the leading infrastructure tool for the blockchain space. Konstantin graduated from the European Business School, before starting to build commercially viable networks at Deutsche Telekom, T-Mobile & Nokia. He build a few companies monetizing connecting data-silos, when he discovered bitcoin and blockchain and its connection between network-effect and value-creation. Konstantin serves on the Board of Directors of Odyssey House, the largest NYC based Housing & Treatment Centre for the marginalized, the mentally ill and homeless.
+
+----
+
+Twitter: https://twitter.com/konstantin11
+
+----
+
+Linkedin: https://www.linkedin.com/in/konstantinrichter/
+
+----
+
+Email: 
+
+----
+
+Autoid: 4i9lrscg
+
+----
+
+Uuid: 9JVH7Iw5ZuVMBN7f
+
+----
+
+Modified-at: 1758629964

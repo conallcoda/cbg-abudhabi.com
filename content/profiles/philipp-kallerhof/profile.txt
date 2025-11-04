@@ -1,0 +1,53 @@
+Title: Philipp Kallerhof
+
+----
+
+Picture: - file://ePuqYpcQqfctO9rV
+
+----
+
+Picture-cropped: - file://2b7VgJjp8nQt1jW1
+
+----
+
+Logo: 
+
+----
+
+Subtitle: 
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Senior portfolio manager and data scientist in the fintech and hedge fund industry. Management of various hedge funds across asset classes and co-founder of Jumiya Inc. (Big data startup in Silicon Valley). Alumnus of Singularity University, University degrees in Engineering, Psychology and Physics and PhD in Computational Neuroscience from the Technical University Berlin.
+
+----
+
+Twitter: https://twitter.com/Kallerhoff
+
+----
+
+Linkedin: https://www.linkedin.com/in/dr-philipp-kallerhoff-50a96b12/
+
+----
+
+Email: 
+
+----
+
+Autoid: ncek4xkj
+
+----
+
+Uuid: a6RS2cUEYoCrsAmp
+
+----
+
+Modified-at: 1722849041

@@ -1,0 +1,145 @@
+@font-face {
+  font-family: "BrownStdRegular";
+  font-display: fallback;
+  src: url("/app/assets/fonts/BrownStd-Regular.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "BrownStdBold";
+  font-display: fallback;
+  font-weight: 700;
+  src: url("/app/assets/fonts/BrownStd-Bold.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "BrownStdLight";
+  font-display: fallback;
+  src: url("/app/assets/fonts/BrownStd-Light.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "BrownStdThin";
+  font-display: fallback;
+  src: url("/app/assets/fonts/BrownStd-Thin.otf") format("opentype");
+}
+
+:root {
+  font-family: BrownStdRegular, sans-serif;
+  font-size: 18px;
+  letter-spacing: 0.05rem;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: BrownStdBold, sans-serif;
+  line-height: 1.2;
+}
+
+h2 {
+  font-size: 1.5rem;
+  @media screen and (min-width: 1024px) {
+    font-size: 1.8rem;
+  }
+  margin-bottom: 1rem;
+}
+
+h3 {
+  font-size: 1.2rem;
+  margin-bottom: 0.5rem;
+}
+
+h5 {
+  font-size: 1rem;
+}
+
+p {
+  line-height: 1.3;
+}
+
+strong,
+b {
+  font-family: BrownStdBold, sans-serif;
+  color: inherit;
+}
+
+.prose {
+  --tw-prose-bullets: #f1cc0e;
+  color: inherit;
+  max-width: 100%;
+}
+
+.prose strong {
+  font-family: BrownStdBold;
+}
+
+.prose h1 {
+  font-size: 1.8rem;
+  @media screen and (min-width: 1024px) {
+    font-size: 2rem;
+  }
+}
+.prose h2 {
+  margin-top: 1em;
+}
+
+.prose p + ul {
+  margin-top: -1em;
+}
+.prose ul {
+  margin-left: -0.3em;
+}
+
+.prose ul li,
+.prose ol li {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.prose ul li::marker {
+  font-size: 1.5rem;
+}
+.prose ol li::marker {
+  color: black;
+}
+
+.prose ul li p {
+  position: relative;
+  transform: translateY(-0.1rem);
+}
+
+.prose ul li p,
+.prose ol li p {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.prose ul li ul {
+  list-style-type: "- ";
+  margin-left: 0;
+  padding-left: 0.8rem !important;
+  position: relative;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.prose ul li ul li {
+  padding-inline-start: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+/* if it only has one child*/
+.prose ul li ul li:first-child:nth-last-child(1)::marker {
+}
+
+.prose ul li ul li::marker {
+  font-size: 1rem;
+  color: black;
+}
+
+.prose ul li ul li p {
+  font-size: 0.9rem;
+}

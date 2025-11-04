@@ -1,0 +1,57 @@
+Title: Rebecca Rettig
+
+----
+
+Picture: - file://F4aRwav2GlmbRegp
+
+----
+
+Picture-color: - file://Pbg98SeYdcmMCNpJ
+
+----
+
+Picture-cropped: - file://YCixjujAbrkJs46f
+
+----
+
+Logo: - file://rY01RIcy9IWRbfYk
+
+----
+
+Subtitle: General Counsel
+
+----
+
+Company: Aave Ltd.
+
+----
+
+Company-url: https://aave.com
+
+----
+
+Bio: Rebecca Rettig is General Counsel at the Aave companies, a group of software development company.  She began her legal career at Cravath, Swaine & Moore LLP in New York; prior to joining Aave, Rebecca was a partner at a large U.S. law firm, advising companies in the blockchain and crypto space for the past 4.5 years—with a particular focus advising DeFi projects over the past two years.  She provided regulatory advice as well as represented clients in all aspects of litigation and regulatory enforcement proceedings .  In 2019, Rebecca was recognized as one of the top 100 women lawyers in New York City by Crain’s New York Business.
+
+----
+
+Twitter: https://twitter.com/RebeccaRettig1
+
+----
+
+Linkedin: https://www.linkedin.com/in/rebecca-rettig-8b90a284/
+
+----
+
+Email: 
+
+----
+
+Autoid: c2xxxggu
+
+----
+
+Uuid: nW7dT0xBEm58t946
+
+----
+
+Modified-at: 1758629995

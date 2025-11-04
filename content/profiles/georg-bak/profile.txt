@@ -1,0 +1,53 @@
+Title: Georg Bak
+
+----
+
+Picture: - file://BcEGaRzPpyieqgZR
+
+----
+
+Picture-cropped: - file://MMP3KVPanNQRA82r
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Art Advisor
+
+----
+
+Company: Georg Bak Fine Art Services
+
+----
+
+Company-url: 
+
+----
+
+Bio: Georg Bak served in senior positions for Hauser & Wirth in Zürich and London and as an art advisor at LGT Bank Zürich before running his own gallery Scheublein + Bak in Zürich for seven years. He specialized in generative art and curated shows such as "Thinking in Algorithms", "Perfect & Priceless. Value Systems on the Blockchain" and "Automat und Mensch". He was on the board of Rare Art Festival II and currently advises digital art collectors and companies in the blockchain industry. He is also on the curatorial board of MoCDA and the online NFT platform Elementum.art.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/artadvisorgeorgbak/
+
+----
+
+Email: 
+
+----
+
+Autoid: tj5w4wqs
+
+----
+
+Uuid: GceZeLLKAcb9X44q
+
+----
+
+Modified-at: 1723833057

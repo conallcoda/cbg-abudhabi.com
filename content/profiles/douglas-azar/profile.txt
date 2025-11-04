@@ -1,0 +1,57 @@
+Title: Douglas Azar
+
+----
+
+Picture: - file://Y91nVazFVcUUhzaJ
+
+----
+
+Picture-color: - file://eBHJlzKevd2k0v0e
+
+----
+
+Picture-cropped: - file://NYvDhLTK8UhBR9vY
+
+----
+
+Logo: 
+
+----
+
+Subtitle: CEO of Wealthinitiative
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Douglas Azar has 14 years’ experience in Banking in various locations (U.S.A, Middle East, Switzerland) including 8 years in Private Banking focusing on investment advisory. He also has extensive knowledge in "art investment" and wrote articles in newspapers on the subject. He graduated from Audencia business school in France and also has a Master in business law form Assas University in Paris. He is a CAIA (Chartered Alternative Investment Analyst) charter holder.
+
+----
+
+Twitter: https://twitter.com/Wealth_I
+
+----
+
+Linkedin: https://www.linkedin.com/in/douglas-azar-50b6ba4/
+
+----
+
+Email: 
+
+----
+
+Autoid: b7hfwr2k
+
+----
+
+Uuid: 2sI8pdrBGxtrhmtG
+
+----
+
+Modified-at: 1758629932

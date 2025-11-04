@@ -1,0 +1,46 @@
+Title: What’s the size of your company’s assets under management (AUM in million USD)?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: false
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: '< 50'
+- 
+  title: '50 - 250'
+- 
+  title: '> 250'
+- 
+  title: N/A
+
+----
+
+Uuid: b0RJkVeQy8bcJY8z
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1723116097

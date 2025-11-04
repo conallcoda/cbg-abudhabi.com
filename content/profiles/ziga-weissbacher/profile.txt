@@ -1,0 +1,61 @@
+Title: Ziga Weissbacher
+
+----
+
+Picture: - file://8RvJKT00Bj9u2r90
+
+----
+
+Picture-color: - file://8RvJKT00Bj9u2r90
+
+----
+
+Picture-cropped: - file://Q2W28JgXE1v8SUiR
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Guest Relations
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: A former London luxury hospitality professional with background in corporate business development and guest relations services. Responsible for guest relations at the CfC St. Moritz and all side events.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/ziga-weissbacher-7b150976/
+
+----
+
+Email: ziga@cfc-stmoritz.com
+
+----
+
+Autoid: w43v3dy1
+
+----
+
+Uuid: WdwVY6mLmpJRTRvf
+
+----
+
+Datemodifiedepoch: 1710526671
+
+----
+
+Modified-at: 1760534022

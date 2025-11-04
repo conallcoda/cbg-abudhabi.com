@@ -1,0 +1,57 @@
+Title: Zach Hamilton
+
+----
+
+Picture: - file://2xwRZK07yYeoE7hi
+
+----
+
+Picture-color: - file://Bxa6xFlxTKnDNKQW
+
+----
+
+Picture-cropped: - file://q3aHLSHB79cp3uZn
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Managing Partner at Airfoil Capital
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Zach Hamilton is a Managing Partner at Airfoil Capital, a crypto token fund and family office advisory. Prior to Airfoil Capital, he was the Entrepreneur In Residence at Venture51, an early-stage VC firm. At Venture51 he was one of the key parties in the decision to invest in Ripple Labs in 2013, which is now worth well over $1b. He’s overseen LP relations, portfolio management, due diligence, and sourcing for several funds with a cumulative $50m AUM. Zach has been actively trading cryptocurrencies personally since 2013.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/zachhamilton/
+
+----
+
+Email: 
+
+----
+
+Autoid: bkgymdii
+
+----
+
+Uuid: fz4y0XwqOtSxmrGR
+
+----
+
+Modified-at: 1758630012

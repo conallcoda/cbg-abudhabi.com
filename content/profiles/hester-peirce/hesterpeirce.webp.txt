@@ -1,0 +1,5 @@
+Uuid: 6A9DeCLIPBWHLaJo
+
+----
+
+Template: image

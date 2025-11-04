@@ -1,0 +1,28 @@
+<?php
+
+return [
+  '(Hedge) Fund',
+  'Artificial Intelligence',
+  'Asset Management',
+  'Brokerage',
+  'CBDCs',
+  'Custody',
+  'DAOs',
+  'DeFi',
+  'Family Office',
+  'Financial Inclusion',
+  'Institutional Investor',
+  'Interchain',
+  'Investing Strategies',
+  'Liquidity',
+  'Mining',
+  'NFTs',
+  'Private Investor',
+  'Quant Trading',
+  'Quantum',
+  'Regulation',
+  'Stablecoins',
+  'VC',
+  'Wealth Management',
+  'Web3',
+];

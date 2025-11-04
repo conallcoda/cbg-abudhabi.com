@@ -1,0 +1,9 @@
+label: Event
+type: group
+open: false
+fieldsets:
+    event_agenda: blocks/event_agenda
+    event_gallery: blocks/event_gallery
+    event_partners: blocks/event_partners
+    event_speakers: blocks/event_speakers
+    event_summaries: blocks/event_summaries

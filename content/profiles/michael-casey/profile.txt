@@ -1,0 +1,69 @@
+Title: Michael Casey
+
+----
+
+Picture: - file://9VpLNJY65voeyJzl
+
+----
+
+Picture-color: - file://KOhLPH20xycIE2Hk
+
+----
+
+Picture-cropped: - file://C9oWmxejxoG6wvRv
+
+----
+
+Logo: - file://ePhYzO8DEokrjMUG
+
+----
+
+Subtitle: Chief Content Officer
+
+----
+
+Company: CoinDesk
+
+----
+
+Company-url: https://www.coindesk.com
+
+----
+
+Bio:
+
+Michael Casey is the Chief Content Officer at CoinDesk, the leading media platform for the blockchain and digital asset community, and the author of CoinDesk’s weekly Money Reimagined newsletter as well as a co-host of the podcast of the same name. 
+
+He is also non-executive chairman and cofounder of Streambed Media, which is providing blockchain-based media licensing solutions for NFTs and other Web 3.0 digital media services.
+
+Michael previously spent three years as a Senior Advisor to MIT Media Lab’s Digital Currency Initiative and as a senior lecturer at MIT Sloan School of Management. 
+
+Michael spent most of his career as a print journalist, including 18 years at Dow Jones and The Wall Street Journal, where he was last a senior columnist covering global finance. He also hosted online TV shows for WSJ Live and appeared as a commentator on networks such as CNBC, CNN, Fox Business, and the BBC.  
+
+Michael has five acclaimed books to his name, including two on cryptocurrencies and blockchain technology – The Truth Machine and The Age of Cryptocurrency – both co-authored with Paul Vigna. 
+
+Michael is a graduate of the University of Western Australia and has higher degrees from Cornell University and Curtin University.
+
+----
+
+Twitter: https://twitter.com/mikejcasey
+
+----
+
+Linkedin: https://www.linkedin.com/in/michaeljohncasey/
+
+----
+
+Email: 
+
+----
+
+Autoid: h8s3jxxi
+
+----
+
+Uuid: qZRXt0ukAiNPT3bp
+
+----
+
+Modified-at: 1758629979

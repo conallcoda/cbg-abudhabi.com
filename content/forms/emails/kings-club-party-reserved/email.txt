@@ -1,0 +1,32 @@
+Title: Kings Club Party Reserved
+
+----
+
+Type: User
+
+----
+
+To: 
+
+----
+
+Bcc:
+
+- 
+  email: conall@coda.works
+
+----
+
+Subject: CfC St. Moritz 2026: Kings Club Party
+
+----
+
+Body: Dear [contact__first_name],<br><br>Thank you for registering for the Kings Club Party at Kings Club. Your participation is confirmed, and we look forward to welcoming you on Thursday, January 15, 2026. <br><br>If you have any questions or require assistance, please contact <strong>Ziga</strong> at ziga@cfc-stmoritz.com.<br><br>Best regards,<br><br>The CfC St. Moritz team
+
+----
+
+Uuid: h6mGzpZ1Q5O84NQ4
+
+----
+
+Modified-at: 1752669606

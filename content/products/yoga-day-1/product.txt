@@ -1,0 +1,21 @@
+Title: Yoga - Day 1
+
+----
+
+Display-name: Awaken Body & Mind on 15,01.25 at 11:00 am
+
+----
+
+Button-text: 
+
+----
+
+Price: 0
+
+----
+
+Uuid: BxpbTIygkl2Xsd8e
+
+----
+
+Modified-at: 1729669274

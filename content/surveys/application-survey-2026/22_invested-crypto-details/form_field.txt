@@ -1,0 +1,54 @@
+Title: Are you invested in crypto / Web3?
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: true
+
+----
+
+Multiple-answers-allow-other: true
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: I am invested directly in tokens
+- 
+  title: I am invested via hedge funds
+- 
+  title: I am invested via venture capital
+- 
+  title: >
+    I am invested directly in private
+    companies
+- 
+  title: >
+    I am invested via public markets
+    (equity, debt)
+- 
+  title: I am NOT invested in crypto / Web3
+
+----
+
+Uuid: scTbnk2WA6W6EdZ3
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1758890947

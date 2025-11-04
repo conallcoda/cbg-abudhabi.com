@@ -1,0 +1,57 @@
+Title: Patrick Lowry
+
+----
+
+Picture: - file://KVh8sG6GJrLZ0v9d
+
+----
+
+Picture-color: - file://rDVW9ZJLXnqHOS4M
+
+----
+
+Picture-cropped: - file://CXFWSA4CqysZ83KG
+
+----
+
+Logo: - file://AxjU25sN6Jd4aZ6a
+
+----
+
+Subtitle: CEO
+
+----
+
+Company: Cryptology Asset Group
+
+----
+
+Company-url: https://cryptology-ag.com
+
+----
+
+Bio: CEO of Cryptology Asset Group and Iconic Holding
+
+----
+
+Twitter: https://twitter.com/Patrick_Lowry_
+
+----
+
+Linkedin: https://www.linkedin.com/in/patrick-lowry-mba-cpa/
+
+----
+
+Email: 
+
+----
+
+Autoid: lofbcgx4
+
+----
+
+Uuid: 8rdhmOY6njqYRQsL
+
+----
+
+Modified-at: 1758629989

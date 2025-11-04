@@ -1,0 +1,25 @@
+Title: Bitvavo
+
+----
+
+Picture: - file://92wTxXpVgWcNrlCI
+
+----
+
+Link: https://bitvavo.com/en
+
+----
+
+Uuid: Ni6Z3etgoZGeipQ0
+
+----
+
+Datecreatedepoch: 1701702518
+
+----
+
+Datemodifiedepoch: 1701702537
+
+----
+
+Modified-at: 1733157544

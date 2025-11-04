@@ -1,0 +1,5 @@
+Uuid: EfPTiQDN2mXNGnRo
+
+----
+
+Template: image

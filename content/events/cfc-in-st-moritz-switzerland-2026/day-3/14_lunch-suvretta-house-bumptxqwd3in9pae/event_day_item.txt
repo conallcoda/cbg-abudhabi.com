@@ -1,0 +1,49 @@
+Title: Lunch @Suvretta House
+
+----
+
+Picture: 
+
+----
+
+Session: Session 5 - Lunch
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 13:35:00
+
+----
+
+Time-finish: 16:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: WpFq45OQvaKGgcI5
+
+----
+
+Created-at: 1725981746
+
+----
+
+Modified-at: 1734428873

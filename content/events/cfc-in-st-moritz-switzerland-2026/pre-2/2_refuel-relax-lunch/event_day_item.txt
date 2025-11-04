@@ -1,0 +1,45 @@
+Title: Refuel & Relax Lunch
+
+----
+
+Session: Pre-Opening Lunch
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 13:30:00
+
+----
+
+Time-finish: 15:15:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: IjsfqnX6gp4oxf6w
+
+----
+
+Modified-at: 1759989641

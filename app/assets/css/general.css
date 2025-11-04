@@ -1,0 +1,90 @@
+:root {
+  --cfc-black: #000000;
+  --cfc-white: #ffffff;
+  --cfc-grey: #efefef;
+  --cfc-gold: #f1cc0e;
+  --cfc-dark-gold: #baa27f;
+  --cfc-dark-grey: hsl(0, 0%, 45%);
+  --cfc-light-grey: #ebebeb;
+  --cfc-red: #ff0000;
+  --cfc-light-grey-hover: #a0a0a0;
+  --cfc-dark-grey-hover: #e1e1e1;
+  --cfc-gold-hover: #e9c406;
+  --cfc-black-hover: #323232;
+}
+.fill-available-height {
+  min-height: -webkit-fill-available;
+  min-height: 100vh;
+}
+
+.absolute-fill {
+  position: absolute;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
+
+.contained {
+  width: 92%;
+  margin: 0 auto;
+}
+.contained-small {
+  width: 92%;
+  margin: 0 auto;
+}
+.contained-xl {
+  width: 92%;
+  margin: 0 auto;
+}
+
+.contained.no-padding {
+  padding: 0;
+}
+
+@media screen and (min-width: 1024px) {
+  .contained-small {
+    max-width: 900px;
+  }
+
+  .contained {
+    max-width: 1120px;
+  }
+
+  .contained-xl {
+    width: 95%;
+    max-width: 1728px;
+  }
+}
+
+.reset-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+img {
+  height: auto;
+}
+
+.grey-dot:before {
+  content: "\2022";
+}
+.yellow-dot {
+  line-height: 1rem;
+}
+.yellow-dot:before {
+  content: "\2022";
+  color: #f1cc0e;
+  display: inline-block;
+  padding-right: 0.5rem;
+  @media screen and (min-width: 1024px) {
+    padding-right: 1rem;
+  }
+}
+
+.clearfix:after {
+  content: "";
+  display: table;
+  clear: both;
+}

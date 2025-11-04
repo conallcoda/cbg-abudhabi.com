@@ -1,0 +1,20 @@
+title: Partner
+status:
+  draft:
+    label: Draft
+  unlisted:
+    label: Published
+preset: page
+pages: false
+fields:
+  picture:
+    label: Picture
+    translate: false
+    type: files
+    multiple: false
+    layout: cards
+    size: small
+    width: 1/2
+  link:
+    label: Url
+    type: url

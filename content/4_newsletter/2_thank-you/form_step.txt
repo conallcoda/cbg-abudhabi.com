@@ -1,0 +1,17 @@
+Title: Thank You
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"true","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"center","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Thank You"},"id":"c7aff2d1-e304-43ea-9e71-45908fc67341","isHidden":false,"type":"heading"},{"content":{"text":"<p>You will receive a confirmation E-Mail from our newsletter service provider Mailchimp shortly.</p><p>Please follow the instructions to confirm your subscription.</p>","custom_id":"","custom_class":""},"id":"4e26b97c-b8d1-4034-b949-b2a4b716d150","isHidden":false,"type":"text"}],"id":"ea6e209d-293c-459d-a078-2bc2e5bf6e89","width":"1/1"}],"id":"bd09b00d-2f24-4f06-8151-5ee4ed03af14"}]
+
+----
+
+Back-button-text: 
+
+----
+
+Uuid: bGWzE1O7XEB2AiNS
+
+----
+
+Modified-at: 1728385839

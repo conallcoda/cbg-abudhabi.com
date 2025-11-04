@@ -1,0 +1,57 @@
+Title: Anthony Pompliano
+
+----
+
+Picture: - file://QAsBZfcdSNOvdFtk
+
+----
+
+Picture-color: - file://ZQNSuKIByMcbCZNU
+
+----
+
+Picture-cropped: - file://gfQE1LCZq8xOaQ3J
+
+----
+
+Logo: - file://mCmtCPffYDwPasJb
+
+----
+
+Subtitle: Co-founder & Partner
+
+----
+
+Company: Morgan Creek Digital Assets
+
+----
+
+Company-url: https://www.digitalassetindexfund.com
+
+----
+
+Bio: Anthony "Pomp" Pompliano is an American investor and entrepreneur focused on Bitcoin and digital assets.
+
+----
+
+Twitter: https://twitter.com/apompliano?lang=de
+
+----
+
+Linkedin: https://www.linkedin.com/in/anthonypompliano/
+
+----
+
+Email: 
+
+----
+
+Autoid: q58ztma6
+
+----
+
+Uuid: To413ou02uts5CyY
+
+----
+
+Modified-at: 1758629912

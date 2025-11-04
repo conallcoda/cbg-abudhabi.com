@@ -1,0 +1,13 @@
+Alt: 
+
+----
+
+Uuid: BYRW4yuXwMODALWa
+
+----
+
+Template: image
+
+----
+
+Focus: 64.1% 42.5%

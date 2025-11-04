@@ -1,0 +1,63 @@
+Title: Dan Morehead
+
+----
+
+Picture: - file://2uhdwMojMv9c4oTs
+
+----
+
+Picture-color: - file://r5QO6TVIzMvamUTs
+
+----
+
+Picture-cropped: - file://rP5j5GITOvhweTQY
+
+----
+
+Logo: - file://uw4YT3dQJqTW1vkS
+
+----
+
+Subtitle: Founder & Managing Partner
+
+----
+
+Company: Pantera Capital
+
+----
+
+Company-url: https://panteracapital.com/
+
+----
+
+Bio:
+
+Dan founded Pantera Capital in 2003 — managing a billion dollars in hedge fund strategies.  He previously served as Head of Macro Trading and CFO at Tiger Management with Julian Robertson.  Dan began his career as a Collateralized Mortgage Obligation trader at Goldman Sachs.  Dan graduated magna cum laude from Princeton University with a B.S. in Structural Engineering and received the Carmichael Prize for his thesis. 
+
+Pantera Capital is the first institutional investment firm focused exclusively on bitcoin, other digital currencies, and companies in the blockchain tech ecosystem.  Pantera launched the first cryptocurrency fund in the United States when bitcoin was at $65 /BTC in 2013.  The firm subsequently launched the first exclusively-blockchain venture fund.  In 2017, Pantera was the first firm to offer an early-stage token fund.  Pantera Bitcoin Fund has returned over 153,091% in ten years and has returned billions to its investors.  Pantera manages $5.3bn across three strategies – passive, hedge, and venture – exclusively focused on the blockchain tech ecosystem. 
+
+Dan recently launched a blockchain initiative at his alma mater, Princeton University with Pete Bridger, Joseph Lubin & Michael Novogratz. The combined gift to Princeton’s Venture Forward campaign, will convene scholars across disciplines to better understand the potential benefits and pitfalls of the technology.
+
+----
+
+Twitter: https://x.com/dan_pantera
+
+----
+
+Linkedin: https://www.linkedin.com/in/dmorehead/
+
+----
+
+Email: 
+
+----
+
+Autoid: rbi0seid
+
+----
+
+Uuid: ogACXOroZW8BIGLG
+
+----
+
+Modified-at: 1760458204

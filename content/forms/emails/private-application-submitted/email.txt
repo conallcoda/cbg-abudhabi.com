@@ -1,0 +1,36 @@
+Title: Private Reservation Application Submitted
+
+----
+
+Type: User
+
+----
+
+To: 
+
+----
+
+Bcc:
+
+- 
+  email: conall@coda.works
+- 
+  email: nicolo@cfc-stmoritz.com
+- 
+  email: ziga@cfc-stmoritz.com
+
+----
+
+Subject: CfC St. Moritz 2026 - Private Submitted
+
+----
+
+Body: Dear [contact__first_name],  <br><br>Thank you very much for reserving your seat for the upcoming CfC St. Moritz 2026. We will be in touch with further details soon.<br><br>We look forward to seeing you in St. Moritz in January.<br><br>Best regards,  <br>The CfC St. Moritz team
+
+----
+
+Uuid: ZE8HKRYPdtdBsExy
+
+----
+
+Modified-at: 1761293359

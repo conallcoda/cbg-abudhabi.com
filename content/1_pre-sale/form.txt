@@ -1,0 +1,82 @@
+Title: Private Pre-Reservation 2026
+
+----
+
+Email-notifications:
+
+- 
+  after_step: page://zf1Fc1uQMiYm2QVV
+  send_email: page://3AJxu228XtorPkdx
+- 
+  after_step: page://zf1Fc1uQMiYm2QVV
+  send_email: page://ILpLwlG7pUfyHUaN
+
+----
+
+Default-product: 
+
+----
+
+Test-data-mode: false
+
+----
+
+Test-payment-mode: false
+
+----
+
+Close-on-date: true
+
+----
+
+Close-date: 2025-10-11 09:00:00
+
+----
+
+Close-content: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Private Pre-Reservation is closed"},"id":"19644be2-8c41-4bd9-96bf-c5003fc7bf3f","isHidden":false,"type":"heading"},{"content":{"text":"<p></p><p><strong>The private pre-reservation period has now ended.</strong><br>If you wish to apply for the conference, please do so through our standard application form. Our regular application process will open on <strong>Wednesday, October 15</strong>.</p>","custom_id":"","custom_class":""},"id":"d1e66017-52fa-4ffe-91ef-14eb4f15f9a7","isHidden":false,"type":"text"},{"content":{"align":"center","color":"#f1cc0e","link":"page://KdLQ1iVFEQ0v3TQj","text":"Apply","new_window":"false","custom_id":"","custom_class":""},"id":"ac1b22b2-ac91-458d-96c9-a25de5d544e0","isHidden":false,"type":"button"}],"id":"469b41c6-0a42-4ca1-bc5a-820da312f868","width":"1/1"}],"id":"0ddcc98a-20f8-489a-a755-8341613b78f4"}]
+
+----
+
+Restrict-access: true
+
+----
+
+Access-token: 8N9g5kZcGWjWeulY
+
+----
+
+Invited-users:
+
+- 
+  email: conallor@gmail.com
+  first_name: Conall
+  last_name: "O'Reilly"
+  access_token: LJAa43vPiI2D8tfj
+
+----
+
+Restrict-submissions: false
+
+----
+
+Max-submissions: 7
+
+----
+
+Max-submissions-message: 
+
+----
+
+Layout: 
+
+----
+
+Uuid: M0UDTY4snXqDuVpb
+
+----
+
+Created-at: 1722930750
+
+----
+
+Modified-at: 1760532909

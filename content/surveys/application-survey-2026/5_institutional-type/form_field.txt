@@ -1,0 +1,52 @@
+Title: Please indicate what type of institutional investor you are:
+
+----
+
+Type: multiple_answers
+
+----
+
+Label: 
+
+----
+
+Multiple-answers-allow: false
+
+----
+
+Multiple-answers-allow-other: true
+
+----
+
+Placeholder: 
+
+----
+
+Options:
+
+- 
+  title: Pension fund
+- 
+  title: Endowment / Foundation
+- 
+  title: Sovereign wealth fund
+- 
+  title: Corporate
+- 
+  title: >
+    Asset manager (Venture Capital, Hedge
+    Fund, Private Equity, Fund of Funds)
+- 
+  title: Private Wealth / RIA
+
+----
+
+Uuid: JorUUbfuOhdawwRo
+
+----
+
+Created-at: 1723047431
+
+----
+
+Modified-at: 1759139420

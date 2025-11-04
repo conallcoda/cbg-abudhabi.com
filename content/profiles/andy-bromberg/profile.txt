@@ -1,0 +1,57 @@
+Title: Andy Bromberg
+
+----
+
+Picture: - file://fnLGUqadO1JOXJxy
+
+----
+
+Picture-color: - file://fVwOZNdhuQpJn46z
+
+----
+
+Picture-cropped: - file://7ZkV6ox0T39n6yoF
+
+----
+
+Logo: - file://2Fz9NZU9Msh5SWC9
+
+----
+
+Subtitle: Co-Founder & Special Advisor
+
+----
+
+Company: CoinList
+
+----
+
+Company-url: https://coinlist.co
+
+----
+
+Bio: Andy Bromberg is the Co-founder and Special Advisor of CoinList, a platform for deeply vetted tokens to run their token sales, airdrops, and hackathons. CoinList also provides compliance services for many other token sales. Previously, he was the Co-founder and CEO of Sidewire, and before that, he studied Mathematics and Computer Science at Stanford University. While there, he also co-founded the Stanford Bitcoin Group.
+
+----
+
+Twitter: https://twitter.com/andy_bromberg
+
+----
+
+Linkedin: https://www.linkedin.com/in/andybromberg/
+
+----
+
+Email: 
+
+----
+
+Autoid: 2cy0xinc
+
+----
+
+Uuid: JhqNMTXqEdEnXbRk
+
+----
+
+Modified-at: 1758629910

@@ -1,0 +1,17 @@
+Title: Pre Sale Closed
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Private Pre-Reservation is closed"},"id":"2b5b1c97-53c8-4a89-ac38-e9e14feeefd2","isHidden":false,"type":"heading"},{"content":{"text":"<p><strong>The private pre-reservation period has now ended.</strong><br>Our regular application process will open on <strong>Wednesday, October 15</strong>. If you wish to apply for the conference, please do so through our standard application form.</p><p>To proceed, simply click the button below to access the application page.</p>","custom_id":"","custom_class":""},"id":"076b83f9-7117-49aa-8bb5-5e688eb949fb","isHidden":false,"type":"text"},{"content":{"align":"center","color":"#f1cc0e","link":"page://KdLQ1iVFEQ0v3TQj","text":"Apply","new_window":"false","custom_id":"","custom_class":""},"id":"05443026-2a19-45d6-b626-255e97882c81","isHidden":false,"type":"button"}],"id":"051b1680-6bb5-498a-91ed-81fcd4264714","width":"1/1"}],"id":"f54d157a-45af-427e-b1ac-783f8b3a94fc"}]
+
+----
+
+Back-button-text: 
+
+----
+
+Uuid: j1NnRVCQXgb0F5CE
+
+----
+
+Modified-at: 1760258503

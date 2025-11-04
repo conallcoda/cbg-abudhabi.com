@@ -1,0 +1,57 @@
+Title: Mitchell Goldberg
+
+----
+
+Picture: - file://kVJaCFoS1g9wg1GO
+
+----
+
+Picture-color: - file://a49KqDGIUxUFcdGo
+
+----
+
+Picture-cropped: - file://Lg6wVSN1m1C9yDga
+
+----
+
+Logo: - file://5oK7PdBJNvilcaoq
+
+----
+
+Subtitle: PhD Student
+
+----
+
+Company: Center for Innovative Finance, University of Basel
+
+----
+
+Company-url: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3932189
+
+----
+
+Bio: Mitchell Goldberg is a PhD student at the University of Basel. He works as a Research & Teaching Assistant at the University's Center for Innovative Finance. His research focuses on the economics of the metaverse. He is co-author of the paper "Land Valuation in the Metaverse: Location Matters" and is a frequent speaker on the topic.
+
+----
+
+Twitter: https://twitter.com/golmit_crypto
+
+----
+
+Linkedin: https://www.linkedin.com/in/mitchell-goldberg/
+
+----
+
+Email: 
+
+----
+
+Autoid: nz7pm2ex
+
+----
+
+Uuid: M2MWUsqbw2BIIlkc
+
+----
+
+Modified-at: 1758629982

@@ -1,0 +1,71 @@
+Title: Fred Thiel
+
+----
+
+Picture: - file://2otQFFV0G5WMTH3x
+
+----
+
+Picture-color: - file://2otQFFV0G5WMTH3x
+
+----
+
+Picture-cropped: - file://MCUAmi6xcSyHeOyH
+
+----
+
+Logo: - file://1PLH1xnkupKT7V7Z
+
+----
+
+Subtitle: Chairman & CEO
+
+----
+
+Company: MARA Holdings
+
+----
+
+Company-url: https://www.mara.com
+
+----
+
+Bio:
+
+Fred Thiel is the CEO of Mara Holdings (NASDAQ:MARA), helping to solve the challenges of the energy transformation by providing innovative solutions to the energy sector and beyond by converting unused or underutilized energy, like excess generation from renewables, and alternative sources, such as captured methane and biogas, into economic value. We also offer advanced technology solutions to optimize your data center operations.
+
+He is a respected expert and frequent speaker on FinTech, digital assets, Blockchain, bitcoin, crypto mining, Internet of Things (IoT), artificial intelligence, venture capital, private equity and the digital transformations of companies and industries, providing deep technology industry expertise and strategic advice on transformational value creation - the process of generating growth and shareholder value.
+
+Fred has over 30 years operating experience leading companies in the cryptocurrency, digital assets, semiconductor, data communications, Internet, IoT, automation, AI, as well as digital media and software industries. He has repeatedly driven rapid growth and generated billions of dollars in shareholder value. 
+
+As a CEO, Fred led companies through rapid growth to IPO, repositioned companies for high-value exits to strategic and financial acquirers, led M&A and roll-up strategies, as well as successfully executed corporate turnarounds and wind downs. 
+
+Fred attended classes at the Stockholm School of Economics and executive classes at Harvard Business School and is fluent in English, Spanish, Swedish and French.
+
+----
+
+Twitter: https://x.com/fgthiel
+
+----
+
+Linkedin: https://linkedin.com/in/fredthiel
+
+----
+
+Email: 
+
+----
+
+Autoid: 334w7vye
+
+----
+
+Uuid: rj5VRoldg1ZiSNIO
+
+----
+
+Datemodifiedepoch: 1703077498
+
+----
+
+Modified-at: 1759965112

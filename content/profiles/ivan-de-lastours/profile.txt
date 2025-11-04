@@ -1,0 +1,57 @@
+Title: Ivan de Lastours
+
+----
+
+Picture: - file://PzccWvr06VrRzt3C
+
+----
+
+Picture-color: - file://yNc9XAlS7C86eMIK
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://SK7k7FQ16pbvNu5K
+
+----
+
+Subtitle: Lead Blockchain & Crypto
+
+----
+
+Company: Bpifrance
+
+----
+
+Company-url: https://www.bpifrance.fr/
+
+----
+
+Bio: Ivan de Lastours is the Blockchain & Crypto Lead at Bpifrance, where he spearheads blockchain and crypto strategy, financing 150 startups and investing in crypto companies and investment funds. Ivan blends tech, legal, and tokenomics expertise and Is a cryptocurrencies and Web3 specialist. He is also a Solidity developer and holds a computer science engineering degree, with more than 10 years of global experience. Ivan speaks French, English, German, and Russian, and is a key figure in the European and French blockchain ecosystems. His background includes roles as an R&D engineer and innovation advisor.
+
+----
+
+Twitter: https://twitter.com/skoff_dlt
+
+----
+
+Linkedin: https://fr.linkedin.com/in/ivandelastours
+
+----
+
+Email: 
+
+----
+
+Uuid: 5qTM5rtIpoChxDZt
+
+----
+
+Created-at: 1732175733
+
+----
+
+Modified-at: 1758629945

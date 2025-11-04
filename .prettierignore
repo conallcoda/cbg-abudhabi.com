@@ -1,0 +1,7 @@
+# Ignore artifacts:
+vendor
+node_modules
+site/templates/*.php
+site/snippets/*.php
+site/snippets/blocks/*.php
+site/snippets/blocks/widgets/*.php

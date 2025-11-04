@@ -1,0 +1,57 @@
+Title: Katharina Bart
+
+----
+
+Picture: - file://snVmtHlW6aSDLNJ8
+
+----
+
+Picture-color: - file://tZlc63gniKhgr1ha
+
+----
+
+Picture-cropped: - file://qLB5WP4MOZYFAzkE
+
+----
+
+Logo: - file://V1VFQtsTWkffZqsK
+
+----
+
+Subtitle: Senior Contributor
+
+----
+
+Company: Finews
+
+----
+
+Company-url: https://www.finews.ch
+
+----
+
+Bio: Senior financial journalist and commentator, written for publications including The Wall Street Journal, Reuters, Financial News, and Dow Jones.
+
+----
+
+Twitter: https://twitter.com/KatharinaBart
+
+----
+
+Linkedin: https://www.linkedin.com/in/katharina-bart-7a392416/
+
+----
+
+Email: 
+
+----
+
+Autoid: ep85e9r1
+
+----
+
+Uuid: 1tuIjNSreJv3Wtiw
+
+----
+
+Modified-at: 1758629962

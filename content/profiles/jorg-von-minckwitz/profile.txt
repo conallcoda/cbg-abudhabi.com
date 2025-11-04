@@ -1,0 +1,61 @@
+Title: Jörg von Minckwitz
+
+----
+
+Picture: - file://CBzhXgq9FZ3dzAhY
+
+----
+
+Picture-color: - file://MnzF31SgLrrJyPFQ
+
+----
+
+Picture-cropped: - file://l6LAKyT3XE6wnkzQ
+
+----
+
+Logo: 
+
+----
+
+Subtitle: President and co-founder of Bitwala
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio:
+
+Jörg von Minckwitz is the president and co-founder of Bitwala - the world's first blockchain bank that combines cryptocurrency trading, a bitcoin wallet and everyday banking in one account. Jörg’s role is to envision the new possibilities that Blockchain technology offers and to utilize it by developing new services for the financial sector. Jörg brings more than 6 year of experience in Blockchain and Cryptocurrency sectors. Prior to Bitwala, he founded Europe’s first Crypto Consulting, Crypto Incubator and first Crypto E-commerce shop.
+
+His work has been recognized and awarded by ICT Spring, Pioneers Festival and The German Innovation Prize with prizes among others. He was previously a speaker at Money 20/20, Paris Fintech Forum and Distribute Blockchain Conference.
+
+----
+
+Twitter: https://twitter.com/JoergvMinckwitz
+
+----
+
+Linkedin: https://www.linkedin.com/in/joergvonminckwitz/
+
+----
+
+Email: 
+
+----
+
+Autoid: 8g2w0q2j
+
+----
+
+Uuid: GCBL7KCi6NLSmfDw
+
+----
+
+Modified-at: 1758629957

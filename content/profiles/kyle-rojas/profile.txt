@@ -1,0 +1,57 @@
+Title: Kyle Rojas
+
+----
+
+Picture: - file://0GLnwBO3xclZoz4V
+
+----
+
+Picture-cropped: - file://0d4hJXYO6mbcQ8dd
+
+----
+
+Logo: - file://aDEklIfvrRSmSStp
+
+----
+
+Subtitle: Head of Business Development & Partnerships
+
+----
+
+Company: Edge & Node
+
+----
+
+Company-url: https://edgeandnode.com
+
+----
+
+Bio:
+
+Kyle Rojas is the Head of Business Development and Partnerships for Edge & Node, a core dev team supporting The Graph. Kyle was born and raised in California, served 12 years around the world while in the US Air Force, and worked at Goldman Sachs for almost seven years before joining Edge & Node. 
+
+Kyle studied Asian History and Political Science for his undergraduate and first graduate degrees, got his Master’s of Business Administration at Rice University, and also learned multiple languages throughout his professional career including Spanish and Persian Farsi. He currently lives in Texas with his wife and two children.
+
+----
+
+Twitter: https://twitter.com/kyleArojas
+
+----
+
+Linkedin: https://www.linkedin.com/in/kylerojas/
+
+----
+
+Email: 
+
+----
+
+Autoid: cx8fdsx0
+
+----
+
+Uuid: sV1oM19lknuC2aQl
+
+----
+
+Modified-at: 1722848979

@@ -1,0 +1,5 @@
+Uuid: vpv78DAwZk4jmCa1
+
+----
+
+Template: image

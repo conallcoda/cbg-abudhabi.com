@@ -1,0 +1,17 @@
+Title: UniBasel
+
+----
+
+Autoid: pj2aelup
+
+----
+
+Picture: partners-data/unibasel/unibas_frame-2.jpg
+
+----
+
+Link: https://cif.unibas.ch/en/home/
+
+----
+
+Uuid: rJzPTumtBSdO5AAW

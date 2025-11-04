@@ -1,0 +1,102 @@
+.button,
+button,
+a.button {
+  cursor: pointer;
+  text-align: center;
+  outline: none;
+  border: none;
+  letter-spacing: 1px;
+  font-size: 1rem;
+  padding: 0.75rem 1rem;
+  text-decoration: none;
+  font-family: BrownStdRegular;
+}
+
+.button.white {
+  background: white;
+  color: black;
+}
+.button.white:hover {
+  background: var(--cfc-black-hover);
+  color: white;
+}
+.button.dark {
+  background: rgba(255, 255, 255, 0.2);
+}
+
+.button.newsletter {
+  padding: 1rem 1rem;
+  width: 100%;
+}
+.button.black {
+  background: black;
+  color: white;
+}
+
+.button.black:hover {
+  background: var(--cfc-black-hover);
+}
+.button.gold {
+  background: gold;
+  color: black;
+}
+
+.button.gold:hover {
+  background: var(--cfc-gold-hover);
+}
+
+.button.grey {
+  background: var(--cfc-light-grey);
+}
+
+.button.grey:hover {
+  background: var(--cfc-light-grey-hover);
+}
+
+.dark-background .button.grey {
+  background: var(--cfc-dark-grey);
+}
+
+.dark-background .button.grey:hover {
+  background: var(--cfc-dark-grey-hover);
+  color: black;
+}
+
+.button-toggles {
+  display: flex;
+  justify-content: center;
+  align-items: stretch;
+  gap: 0.5rem;
+  @media screen and (max-width: 1024px) {
+    flex-wrap: wrap;
+  }
+}
+
+.button.reduction-code {
+  padding: 1.1rem 1rem;
+}
+
+.button-toggles .button {
+  background: rgba(0, 0, 0, 0.1);
+  color: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.button-toggles .button-break {
+  flex-basis: 100%;
+  height: 0;
+  display: none;
+}
+
+.button-toggles .button:hover {
+  background: gold;
+}
+.button-toggles .button.active {
+  background: gold;
+}
+
+.tag.yellow {
+  background: rgba(241, 204, 14, 0.4);
+}

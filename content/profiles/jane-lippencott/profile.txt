@@ -1,0 +1,61 @@
+Title: Jane Lippencott
+
+----
+
+Picture: - file://2ZR2YIROGIa2P4DD
+
+----
+
+Picture-color: - file://2ZR2YIROGIa2P4DD
+
+----
+
+Picture-cropped: - file://01fucJK7kXcezN1v
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Partner
+
+----
+
+Company: Volt Capital
+
+----
+
+Company-url: https://volt.capital
+
+----
+
+Bio: 
+
+----
+
+Twitter: https://twitter.com/janehk
+
+----
+
+Linkedin: https://www.linkedin.com/in/janelippencott/
+
+----
+
+Email: 
+
+----
+
+Autoid: 1f4kdrj5
+
+----
+
+Uuid: sp8RWglNw02ZCy5t
+
+----
+
+Datemodifiedepoch: 1703003639
+
+----
+
+Modified-at: 1760534633

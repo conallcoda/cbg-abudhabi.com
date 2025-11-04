@@ -1,0 +1,61 @@
+Title: Christoph Simmchen
+
+----
+
+Picture: - file://qF1bMOtB5kd8vTlN
+
+----
+
+Picture-color: - file://IoMdCiiIU2pa3eAA
+
+----
+
+Picture-cropped: - file://A1RfPogeblRDLGBI
+
+----
+
+Logo: - file://ndTtIq8XS0nfmsDY
+
+----
+
+Subtitle: Co-Founder
+
+----
+
+Company: Safe Ecosystem
+
+----
+
+Company-url: https://safe.global
+
+----
+
+Bio: Christoph is a capital markets and corporate lawyer by training. After completing his PhD at the intersection of blockchain and law, he joined Gnosis as one of its first employees in 2017.  From the very beginning of his in-house career, Christoph has been working at the forefront of achieving legal certainty in the crypto ecosystem due to his participation in public policy working groups and expert witness roles to regulatory bodies. Through the spin-off of Safe, Christoph became one of the co-founders and takes a very active role in fundraising and investor relations.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/christoph-simmchen-724878140/
+
+----
+
+Email: 
+
+----
+
+Uuid: IEg5iN1jP1F8m1So
+
+----
+
+Datecreatedepoch: 1702402525
+
+----
+
+Datemodifiedepoch: 1702402814
+
+----
+
+Modified-at: 1758629926

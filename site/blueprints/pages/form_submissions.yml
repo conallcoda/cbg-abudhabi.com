@@ -1,0 +1,22 @@
+title: Submissions
+status:
+    draft:
+        label: Draft
+    unlisted:
+        label: Published
+options:
+    duplicate: false
+    changeTitle: false
+    changeStatus: false
+    changeTemplate: false
+    changeSlug: false
+    preview: false
+    delete: true
+    move: false
+tabs:
+    items:
+        label: Submissions
+        icon: list-numbers
+        sections:
+            download_submissions: sections/submissions-download
+            items: sections/form-submissions

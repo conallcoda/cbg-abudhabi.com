@@ -1,0 +1,17 @@
+Title: KempinskiHotel
+
+----
+
+Autoid: 97t2rx4j
+
+----
+
+Picture: partners-data/kempinskihotel/26_grandhoteldesbainskempinski_website_frame.png
+
+----
+
+Link: https://www.kempinski.com/en/st-moritz/grand-hotel-des-bains/
+
+----
+
+Uuid: xvcjvapI2tGzS0fH

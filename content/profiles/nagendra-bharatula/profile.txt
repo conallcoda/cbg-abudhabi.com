@@ -1,0 +1,69 @@
+Title: Dr. Nagendra Bharatula
+
+----
+
+Picture: - file://90pnnNbY8RCAKkjW
+
+----
+
+Picture-color: - file://jjK5ApB9d8Htmz04
+
+----
+
+Picture-cropped: - file://1TA2YxrOrkYR1YMM
+
+----
+
+Logo: - file://QhRt4pZLcnFAQ0mY
+
+----
+
+Subtitle: Founder & CEO
+
+----
+
+Company: G-20 Group
+
+----
+
+Company-url: https://www.g20.group/
+
+----
+
+Bio:
+
+Dr. Nagendra Bharatula is the Founder and CEO of the G-20 Group, a global investment firm with a focus on asset management, particularly in the areas of fiat and cryptocurrency trading. 
+
+Established in 2010 and headquartered in Zug, Switzerland, the G-20 Group has expanded its operations into various financial services, including foreign exchange, commodity options trading, and market making in both traditional and digital assets.
+
+Dr. Bharatula has a robust academic background with a Ph.D. in Machine Learning and Information Theory from ETH Zurich. Before founding the G-20 Group, he held various quantitative finance roles in several institutional firms, focusing on fixed-income and foreign exchange options trading.
+
+Under his leadership, the G-20 Group has become a significant player in the cryptocurrency market, engaging in over 43 direct investments in the digital assets space and expanded globally in the areas liquidity provision, treasury management, trading of crypto & fiat currencies in spot and derivatives.
+
+----
+
+Twitter: https://x.com/bnbhargava
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: 3m08L9wAVCn8KeJ8
+
+----
+
+Datecreatedepoch: 1696600844
+
+----
+
+Datemodifiedepoch: 1697788219
+
+----
+
+Modified-at: 1758629985

@@ -1,0 +1,57 @@
+Title: Adam Ludwin
+
+----
+
+Picture: - file://72VNhtQByVLnHLTB
+
+----
+
+Picture-color: - file://Qtc8i3sHfxkyh6td
+
+----
+
+Picture-cropped: - file://NEEAIPWTEDinmVLr
+
+----
+
+Logo: 
+
+----
+
+Subtitle: Co-founder & CEO of Chain
+
+----
+
+Company: 
+
+----
+
+Company-url: 
+
+----
+
+Bio: Adam Ludwin is the co-founder and CEO of Chain, a leading blockchain technology company. Prior to starting Chain in 2014, Adam was a VC with RRE Ventures in NYC. He began his career as a consultant, first with BCG and later with IDEO. He holds a BS from UC Berkeley and an MBA from Harvard Business School.
+
+----
+
+Twitter: https://twitter.com/adamludwin
+
+----
+
+Linkedin: https://www.linkedin.com/in/adamludwin/
+
+----
+
+Email: 
+
+----
+
+Autoid: ug60jdcx
+
+----
+
+Uuid: ow6QrGa2i4tUQxJS
+
+----
+
+Modified-at: 1759597319

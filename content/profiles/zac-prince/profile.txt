@@ -1,0 +1,61 @@
+Title: Zac Prince
+
+----
+
+Picture: - file://IwS3rMkA9TzKIiSw
+
+----
+
+Picture-color: - file://VsLVhFigp2mJv6in
+
+----
+
+Picture-cropped: - file://LhwFpsZCId0hlclm
+
+----
+
+Logo: - file://gC2riQMBSSMO5fd9
+
+----
+
+Subtitle: CEO & Founder
+
+----
+
+Company: BlockFi
+
+----
+
+Company-url: https://blockfi.com
+
+----
+
+Bio:
+
+Zac's experience includes leadership roles at multiple successful tech companies. Initially in adtech, where he was a part of two successful acquisitions, Admeld (Acquired by Google) and Sociomantic (acquired by DunnHumby).
+
+Prior to starting BlockFi, he led business development teams at Orchard Platform, a broker dealer and RIA in the online lending sector, and Zibby, an online consumer lender. He graduated Cum Laude from Texas State University with a BA in International Business and minor in Spanish.
+
+----
+
+Twitter: https://twitter.com/BlockFiZac
+
+----
+
+Linkedin: https://www.linkedin.com/in/zacprince
+
+----
+
+Email: 
+
+----
+
+Autoid: ao9cye39
+
+----
+
+Uuid: 1e8VVQfI4oE7Upq1
+
+----
+
+Modified-at: 1758630012

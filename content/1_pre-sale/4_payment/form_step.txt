@@ -1,0 +1,25 @@
+Title: Payment
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"level":"h1","text":"Step 3 - Credit Card Information"},"id":"a11635b4-5732-45f1-a6d7-3af609fc7f36","isHidden":false,"type":"heading"},{"content":{"text":"<p>Just one final step and your seat reservation for CfC St. Moritz 2026 will be complete<em>.</em></p><p>In order to finalize the reservation process, we kindly ask you to enter your credit card details in the fields below.</p>","custom_id":"","custom_class":""},"id":"2156bb23-cf2d-4fdc-a089-9916587b8fb4","isHidden":false,"type":"text"},{"content":{"custom_id":"","custom_class":""},"id":"42cb04d0-4fb4-4c7e-b784-a822d8b48504","isHidden":false,"type":"divider"},{"content":{"allow_reduction_codes":"false","summary_title":"","custom_id":"","custom_class":""},"id":"9d304dbf-079a-4ec7-97ed-1ccbbb2d07e5","isHidden":false,"type":"form_payment"},{"content":{"text":"Complete Your Reservation Now","custom_id":"","custom_class":""},"id":"17dcb809-15eb-4589-aca6-c60bbf22e7a4","isHidden":false,"type":"form_next_step_button"}],"id":"f2aace4a-73a1-430e-aed8-d9786002d25e","width":"1/1"}],"id":"5ad1c4db-42c7-4206-bfcb-35f9e9ee9454"}]
+
+----
+
+Back-button-text: Back to Step 2
+
+----
+
+Type: 
+
+----
+
+Button-text: Reserve your seat
+
+----
+
+Uuid: zf1Fc1uQMiYm2QVV
+
+----
+
+Modified-at: 1759322089

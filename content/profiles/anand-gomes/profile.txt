@@ -1,0 +1,67 @@
+Title: Anand Gomes
+
+----
+
+Picture: - file://cNRMuHWywGXfVPOs
+
+----
+
+Picture-color: - file://9UY0jNRZnALlklGF
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://wz985xhOWq1aaeLW
+
+----
+
+Subtitle: Co-Founder & CEO
+
+----
+
+Company: Paradigm
+
+----
+
+Company-url: https://paradigm.co
+
+----
+
+Bio:
+
+Anand Gomes is the co-founder and CEO of Paradigm and Paradex. 
+
+At Paradigm, he built the first institutional marketplace for crypto options, now the largest liquidity network in the industry, facilitating over $475 billion in lifetime volume and capturing 35% of the global crypto options market. 
+
+Anand also co-founded Paradex, a high-performance decentralized exchange focused on bringing all finance on-chain. Since its launch in October 2023, Paradex has achieved $36 billion in lifetime trading volume with an average daily volume of $100 million across 55 live perpetual futures markets.
+
+Before entering the crypto space, Anand helped build trading businesses across interest rate, commodities, and credit markets at KeyBanc Capital Markets. He holds an MBA/MS in Finance from Case Western Reserve University and a BS in Computer Science from the University of Pune, with early experience managing operations at a mid-market manufacturing company in India.
+
+Anand’s interests reach beyond crypto—he’s drawn to alternative art, music (except country), distributed systems, mountains, and motorcycles, always pushing boundaries personally and professionally.
+
+----
+
+Twitter: https://x.com/fiddybps1
+
+----
+
+Linkedin: https://www.linkedin.com/in/anandgomes/
+
+----
+
+Email: 
+
+----
+
+Uuid: GCIzKKOJARyGsGx5
+
+----
+
+Created-at: 1730717892
+
+----
+
+Modified-at: 1758629909

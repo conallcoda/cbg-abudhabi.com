@@ -1,0 +1,21 @@
+Title: Deribit
+
+----
+
+Picture: - file://0Zm5KFlCFgWg5E7N
+
+----
+
+Link: https://www.deribit.com
+
+----
+
+Uuid: efvqOA78T7RQgp8x
+
+----
+
+Datecreatedepoch: 1702489640
+
+----
+
+Datemodifiedepoch: 1702489661
