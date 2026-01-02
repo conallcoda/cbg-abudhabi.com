@@ -2,7 +2,7 @@ Title: Details
 
 ----
 
-Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"true","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"center","background_color":"","column_width_1":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Sign up to our newsletter"},"id":"b4fcdf9f-9f37-4b1a-ad52-5c6324891e0e","isHidden":false,"type":"heading"},{"content":{"name":"contact","items":["page://mATt1uHL5chz9Ees","page://5miW0HA9VRqwhDnw","page://hrKJKHkgCsLMskSI"],"button":"Sign up"},"id":"4eca5a1b-2a2a-45a1-a1c9-67f30bf64285","isHidden":false,"type":"form_newsletter"}],"id":"4756aabb-3e44-4e5d-b633-bcb03169c582","width":"1/1"}],"id":"8f943836-9c60-4e0f-bdae-b1ef6e2c1bc0"}]
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"center","background_color":""},"columns":[{"blocks":[{"content":{"level":"h2","text":"Stay up to date"},"id":"d80e005b-4928-4009-8f04-a3ae7b73c60b","isHidden":false,"type":"heading"}],"id":"2a7a45ae-d5e7-44db-bc95-c1a1034523c3","width":"1/1"}],"id":"1f77eb92-bad2-4681-a6a3-22ca2971ca91"},{"attrs":{"custom_id":"","custom_class":"","full_width":"true","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"center","background_color":""},"columns":[{"blocks":[{"content":{"name":"contact","items":["page://mATt1uHL5chz9Ees","page://5miW0HA9VRqwhDnw","page://hrKJKHkgCsLMskSI"],"button":"Sign up"},"id":"4eca5a1b-2a2a-45a1-a1c9-67f30bf64285","isHidden":false,"type":"form_newsletter"}],"id":"4756aabb-3e44-4e5d-b633-bcb03169c582","width":"1/1"}],"id":"8f943836-9c60-4e0f-bdae-b1ef6e2c1bc0"}]
 
 ----
 
@@ -14,4 +14,4 @@ Uuid: xHrawi8DsHmbklz2
 
 ----
 
-Modified-at: 1738068711
+Modified-at: 1767107065

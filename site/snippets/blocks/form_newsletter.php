@@ -21,7 +21,13 @@ $gridClass = $newsletterPage->uuid()->id() === $page->uuid()->id() ? 'grid-cols-
             </div>
         <?php endforeach; ?>
         <div class="form-row newsletter submit">
-            <button data-action="newsletter#next" class="button black newsletter"><?= $submitText ?></a>
+            <?php snippet('button', [
+                'text' => $submitText,
+                'element' => 'button',
+                'theme' => 'sand',
+                'action' => 'newsletter#next',
+                'customClass' => 'newsletter'
+            ]) ?>
         </div>
     </div>
 </form>

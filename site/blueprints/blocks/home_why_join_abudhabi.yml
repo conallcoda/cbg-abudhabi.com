@@ -1,0 +1,34 @@
+name: Why Join [Home]
+icon: question
+tabs:
+    content:
+        fields:
+            title:
+                type: text
+                label: Titlea
+            intro:
+                type: writer
+                label: Intro
+            testimonial_image:
+                extends: fields/image
+                label: Testimonial Image
+                width: 1/1
+            investor_types:
+                type: structure
+                label: Investor Types
+                fields:
+                    title:
+                        type: text
+                        label: Title
+                    text:
+                        type: writer
+                        label: Text
+                        nodes:
+                            - bulletList
+            investor_text:
+                type: writer
+                label: Investor Text
+
+    settings:
+        fields:
+            styles: fields/blocks/block-settings

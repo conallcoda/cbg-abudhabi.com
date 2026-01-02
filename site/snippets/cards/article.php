@@ -12,7 +12,7 @@ $tags = $item->tags()->split();
 <?php endif; ?>
 <?php endslot() ?>
 <?php slot('after_title') ?>
-<div class=" text text-sm font-brown_bold text-darkGrey">
+<div class="text text-sm font-brown_bold">
     <div><?= $item->date_text() ?></div>
 </div>
 <?php endslot() ?>

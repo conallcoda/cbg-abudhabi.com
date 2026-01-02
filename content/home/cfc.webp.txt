@@ -1,5 +1,0 @@
-Uuid: zdOM7Peza02LOynr
-
-----
-
-Template: image

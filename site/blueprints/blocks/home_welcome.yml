@@ -1,0 +1,12 @@
+name: Welcome [Home]
+icon: page
+tabs:
+    content:
+        fields:
+            title:
+                type: textarea
+                label: Title
+                buttons: false
+            text:
+                type: writer
+                label: Text

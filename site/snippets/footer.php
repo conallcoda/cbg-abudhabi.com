@@ -1,7 +1,7 @@
 <?php
 
-$desktopImage = $site->mountains_desktop();
-$mobileImage = $site->mountains_mobile();
+$desktopImage = $site->background_3();
+$mobileImage = $site->background_3();
 
 $social = [
     'twitter' => 'ri-twitter-x-fill',
@@ -22,11 +22,11 @@ foreach ($social as $key => $value) {
 
 
 ?>
-<div class="relative overflow-x-hidden bg-black text-white w-full flex flex-col items-center">
+<div class="relative overflow-x-hidden bg-zinc text-black w-full flex flex-col items-center">
     <div class="contained">
         <div class="flex justify-center h-32 my-8 md:my-16 md:h-40">
-            <div class="flex border-l border-white"></div>
-            <div class="flex border-r border-white"></div>
+            <div class="flex border-l border-black"></div>
+            <div class="flex border-r border-black"></div>
         </div>
         <div class="inline-flex w-full justify-center items-center flex-row">
             <?php foreach ($social as $key => $icon) : ?>
@@ -50,7 +50,7 @@ foreach ($social as $key => $value) {
         <ul class="my-16 md:flex w-full flex-wrap justify-center md:px-24">
             <?php foreach ($site->footer_menu()->toStructure() as $item) : ?>
                 <li class="my-4 md:my-0 text-center grow">
-                    <?= $item->link()->_link($item->text()->value(), 'text-gold uppercase text-xs') ?>
+                    <?= $item->link()->_link($item->text()->value(), 'text-gold font-brown uppercase text-xs') ?>
                 </li>
             <?php endforeach ?>
         </ul>

@@ -28,17 +28,30 @@ fields:
         label: Images
     site_logo:
         extends: fields/image
-        label: Site Logo
-        width: 1/4
-    mountains_desktop:
+        label: Site Logo (Small)
+        width: 1/3
+    site_logo_large:
         extends: fields/image
-        label: Mountains (Desktop)
-        width: 1/4
-    mountains_mobile:
-        extends: fields/image
-        label: Mountains (Mobile)
-        width: 1/4
+        label: Site Logo (Large)
+        width: 1/3
     social_share_image:
         extends: fields/image
         label: Social Share Image
+        width: 1/3
+    background_1:
+        extends: fields/image
+        label: Background 1
         width: 1/4
+    background_2:
+        extends: fields/image
+        label: Background 2
+        width: 1/4
+    background_3:
+        extends: fields/image
+        label: Background 3
+        width: 1/4
+    background_4:
+        extends: fields/image
+        label: Background 4
+        width: 1/4
+

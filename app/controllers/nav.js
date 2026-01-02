@@ -6,12 +6,9 @@ export default class extends Controller {
 
     connect() {
         this.lastScrollTop = 0;
-        if (this.element.dataset.template === 'home') {
-            window.addEventListener('scroll', debounce(this.init.bind(this)), {
-                passive: true,
-            });
-            this.init();
-        }
+        window.addEventListener('scroll', debounce(this.init.bind(this)), {
+            passive: true,
+        });
     }
 
     handleScroll() {
@@ -44,7 +41,7 @@ export default class extends Controller {
             scrollTop > 0 &&
             getComputedStyle(this.logoTarget).display === 'none'
         ) {
-            this.logoTarget.style.display = '';
+            //  this.logoTarget.style.display = '';
         }
 
         const backgroundThreshold = 0.05;
@@ -53,10 +50,10 @@ export default class extends Controller {
 
         if (backgroundTrigger >= 1) {
             this.underlayTarget.style.opacity = 1;
-            this.logoTarget.style.opacity = 1;
+            // this.logoTarget.style.opacity = 1;
         } else {
             this.underlayTarget.style.opacity = backgroundTrigger;
-            this.logoTarget.style.opacity = backgroundTrigger;
+            //  this.logoTarget.style.opacity = backgroundTrigger;
         }
     }
 

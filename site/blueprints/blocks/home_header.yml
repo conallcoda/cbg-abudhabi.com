@@ -3,6 +3,18 @@ icon: home
 tabs:
     content:
         fields:
+            headline_images:
+                type: headline
+                numbered: false
+                label: Background Images
+            image_desktop:
+                extends: fields/image
+                width: 1/2
+                label: Desktop Image
+            image_mobile:
+                extends: fields/image
+                width: 1/2
+                label: Mobile Image
             headline_partner:
                 type: headline
                 numbered: false

@@ -5,10 +5,10 @@ $menu = $site->getActiveMenu();
 ?>
 
 <nav class="text-white z-30 fixed left-0 w-full" data-nav-target="navElement">
-    <div class="underlay absolute-fill bg-black opacity-0" data-nav-target="underlay"></div>
+    <div class="underlay absolute-fill bg-black" style="opacity: 0" data-nav-target="underlay"></div>
     <div class="relative z-20 flex h-16 md:h-24 items-center justify-center contained-xl">
         <?php if ($logo->isNotEmpty()) : ?>
-            <div class="logo w-12 md:w-20" data-nav-target="logo">
+            <div class="logo w-32 md:w-40" data-nav-target="logo">
                 <a href="/">
                     <?= $logo->_img() ?>
                 </a>

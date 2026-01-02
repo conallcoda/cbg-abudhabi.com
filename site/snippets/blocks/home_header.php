@@ -1,8 +1,8 @@
 <?php
 
-$subpageImageDesktop = $site->mountains_desktop();
-$subpageImageMobile = $site->mountains_mobile();
-$siteLogo = $site->site_logo();
+$siteLogo = $site->site_logo_large();
+$imageDesktop = $block->image_desktop()->toFile();
+$imageMobile = $block->image_mobile()->toFile();
 
 $now = new DateTimeImmutable();
 
@@ -19,14 +19,22 @@ if ($block->countdown_date()->isNotEmpty() && $block->countdown_time()->isNotEmp
     ];
 }
 $session = $kirby->session();
-$headerVideo =  '2025_video';
 $timePartnerImage = $page->time_partner_image()->toFile();
 
 ?>
 <div class="header-home min-h-screen flex flex-col relative pt-[6rem]" data-nav-target="hero">
-    <div class="media overflow-hidden absolute-fill h-screen w-full" data-controller="header-video" data-video-name="<?= $headerVideo ?>">
+    <div class="media overflow-hidden absolute-fill h-screen w-full">
         <div class="overlay absolute-fill h-screen bg-black opacity-20"></div>
-        <video class="max-w-[initial]" data-header-video-target="video" autoplay style="pointer-events: none;" autoplay muted loop playsinline></video>
+        <?php if ($imageDesktop || $imageMobile) : ?>
+            <?php if ($imageMobile) : ?>
+                <?= $imageMobile->_img('full-width', 'absolute-fill w-full h-full object-cover md:hidden') ?>
+
+            <?php endif; ?>
+            <?php if ($imageDesktop) : ?>
+                <?= $imageDesktop->_img('full-width', 'absolute-fill w-full h-full object-cover hidden md:block') ?>
+
+            <?php endif; ?>
+        <?php endif; ?>
     </div>
     <div class="relative z-10 w-full  flex flex-[1] flex-col">
         <div></div>
@@ -49,7 +57,7 @@ $timePartnerImage = $page->time_partner_image()->toFile();
             <?php endif; ?>
             <?php if ($block->intro_cta_text()->isNotEmpty() && $block->intro_cta_url()->isNotEmpty()) : ?>
                 <?php if ($block->intro_cta_intro()->isNotEmpty()) : ?>
-                    <div class="text-center px-4  text-white"><?= $block->intro_cta_intro()->kti() ?></div>
+                    <div class="mt-8 mb-8 text-center px-4  text-white/75"><?= $block->intro_cta_intro()->kti() ?></div>
                 <?php endif; ?>
                 <div class="my-4">
                     <?php snippet('apply-button', ['url' => $block->intro_cta_url()->value(), 'text' => $block->intro_cta_text()->value()]) ?>
@@ -60,7 +68,7 @@ $timePartnerImage = $page->time_partner_image()->toFile();
         <div class="contained-xl pb-[2.5vh] md:pb-[5vh] md:flex md:flex-row md:items-end">
             <div>
                 <?php if ($block->date_text()->isNotEmpty()) : ?>
-                    <div class="text-white font-brown_bold  text-[1.5rem] opacity-70 hidden md:block">
+                    <div class="text-white font-brown_bold  text-[1.5rem] text-white/75 hidden md:block">
                         <?= $block->date_text()->kti() ?>
                     </div>
                 <?php endif; ?>
@@ -69,7 +77,7 @@ $timePartnerImage = $page->time_partner_image()->toFile();
             <div>
                 <?php if ($timeKeepingImage = $block->timekeeping_partner_image()->toFile()) : ?>
                     <div class="pb-4 flex justify-center items-center">
-                        <div class="text-white pr-4 text-sm opacity-70"><?= $block->timekeeping_partner_label() ?></div>
+                        <div class="text-white pr-4 text-sm text-white/75"><?= $block->timekeeping_partner_label() ?></div>
                         <div><a href="<?= $block->timekeeping_partner_url() ?>" target="_blank" title="<?= $page->timekeeping_partner_name() ?>"> <img alt="<?= $page->timekeeping_partner_name() ?>" class="w-20 h-auto" src="<?= $timeKeepingImage->url() ?>" /> </a></div>
 
                     </div>
@@ -78,8 +86,8 @@ $timePartnerImage = $page->time_partner_image()->toFile();
                     <ul class="flex  text-white w-full" data-controller="countdown" data-seconds="<?= $countdownSeconds ?>">
                         <?php foreach ($countdownSections as $section => $value) : ?>
                             <li class="md:flex-[1] md:flex-initial uppercase min-w-20">
-                                <div class="opacity-70 text-center md:text-right font-brown_bold text-[2rem] md:text-[3rem]" data-countdown-target="<?= $section ?>"><?= $value ?></div>
-                                <div class="opacity-70 text-center md:text-right text-[0.6rem] md:text-[0.7rem] leading-[2px]"><?= $section ?></div>
+                                <div class="text-white/75 text-center md:text-right font-brown_bold text-[2rem] md:text-[3rem]" data-countdown-target="<?= $section ?>"><?= $value ?></div>
+                                <div class="text-white/75 text-center md:text-right text-[0.6rem] md:text-[0.7rem] leading-[2px]"><?= $section ?></div>
                             </li>
                         <?php endforeach; ?>
                     </ul>
@@ -91,10 +99,10 @@ $timePartnerImage = $page->time_partner_image()->toFile();
 <div class="bg-black relative py-8 md:py-16 w-full text-white">
 
     <div class="contained py-4 md:py-8  md:flex  justify-end items-end">
-        <div class="font-brown_bold text-gold text-[2.5rem] md:text-[3rem] md:flex-[0_0_40%] leading-snug">
+        <div class="font-brown text-gold text-[2.5rem] md:text-[3rem] md:flex-[0_0_50%] leading-snug">
             <?= $block->intro_title()->kti() ?>
         </div>
-        <div class="right leading-snug leading-6 md:pl-8 md:pb-4 pt-8 md:pt-0">
+        <div class="right leading-snug leading-6 text-white/70  md:pb-4 pt-8 md:pt-0">
             <?= $block->intro_text()->kti() ?>
         </div>
     </div>

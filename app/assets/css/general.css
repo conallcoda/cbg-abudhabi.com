@@ -1,16 +1,11 @@
 :root {
   --cfc-black: #000000;
   --cfc-white: #ffffff;
-  --cfc-grey: #efefef;
-  --cfc-gold: #f1cc0e;
-  --cfc-dark-gold: #baa27f;
-  --cfc-dark-grey: hsl(0, 0%, 45%);
-  --cfc-light-grey: #ebebeb;
+  --cfc-zinc: #eeebec;
+  --cfc-neutral: #fcfbfa;
+  --cfc-sand: #fdebdd;
+  --cfc-gold: #fd993c;
   --cfc-red: #ff0000;
-  --cfc-light-grey-hover: #a0a0a0;
-  --cfc-dark-grey-hover: #e1e1e1;
-  --cfc-gold-hover: #e9c406;
-  --cfc-black-hover: #323232;
 }
 .fill-available-height {
   min-height: -webkit-fill-available;
@@ -75,7 +70,7 @@ img {
 }
 .yellow-dot:before {
   content: "\2022";
-  color: #f1cc0e;
+  color: #fd993c;
   display: inline-block;
   padding-right: 0.5rem;
   @media screen and (min-width: 1024px) {

@@ -38,12 +38,15 @@ class StyleMapper
         }
 
 
-        if (!empty(array_intersect(['bg-black', 'bg-charcoal'], $classNames))) {
+        if (!empty(array_intersect(['bg-black'], $classNames))) {
             $classNames[] = 'text-white';
             $classNames[] = 'dark-background';
         } else {
             $classNames[] = 'light-background';
         }
+
+        // Add button theme context class based on background color
+        $classNames[] = self::buttonThemeClass($classNames);
 
 
         return implode(' ', $classNames);
@@ -68,14 +71,38 @@ class StyleMapper
         $colorName = match ($value) {
             '#ffffff' => 'white',
             '#000000' => 'black',
-            '#efefef' => 'grey',
-            '#F1CC0E' => 'gold',
-            '#121212' => 'charcoal',
+            '#eeebec' => 'zinc',
+            '#fcfbfa' => 'neutral',
+            '#fdebdd' => 'sand',
+            '#fd993c' => 'gold',
             default => null,
         };
 
         if ($colorName) {
             return $prefix . $colorName;
         }
+    }
+
+    public static function buttonThemeClass(array $classNames): string
+    {
+        // Determine button theme based on background color
+        // neutral background → white buttons
+        // zinc background → neutral buttons
+        // black background → white buttons
+        // default → sand buttons
+
+        if (in_array('bg-neutral', $classNames)) {
+            return 'btn-theme-zinc';
+        }
+
+        if (in_array('bg-zinc', $classNames)) {
+            return 'btn-theme-white';
+        }
+
+        if (in_array('bg-black', $classNames)) {
+            return 'btn-theme-white';
+        }
+
+        return 'btn-theme-sand';
     }
 }

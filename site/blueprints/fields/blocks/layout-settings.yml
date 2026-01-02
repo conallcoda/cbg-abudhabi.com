@@ -50,4 +50,6 @@ fields:
         options:
             - '#ffffff'
             - '#000000'
-            - '#EFEFEF'
+            - '#EEEBEC'
+            - '#FCFBFA'
+            - '#FDEBDD'

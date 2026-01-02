@@ -10,16 +10,71 @@ a.button {
   padding: 0.75rem 1rem;
   text-decoration: none;
   font-family: BrownStdRegular;
+  transition: filter 0.15s ease;
+}
+
+.button:hover {
+  filter: brightness(0.95);
+}
+
+.button.gold {
+  background: var(--cfc-gold);
+  color: black;
+}
+
+.button.sand {
+  background: var(--cfc-sand);
+  color: black;
+}
+
+.button.black {
+  background: var(--cfc-black);
+  color: white;
+}
+
+.button.grey {
+  background: var(--cfc-grey);
+  color: black;
 }
 
 .button.white {
-  background: white;
+  background: var(--cfc-white);
   color: black;
 }
-.button.white:hover {
-  background: var(--cfc-black-hover);
-  color: white;
+
+.button.neutral {
+  background: var(--cfc-neutral);
+  color: black;
 }
+
+.button.zinc {
+  background: var(--cfc-zinc);
+  color: black;
+}
+
+/* Auto-themed button: adapts to parent section's background color */
+/* Uses btn-theme-* classes added by StyleMapper based on background_color */
+.group.btn-theme-sand .button.auto {
+  background: var(--cfc-sand);
+  color: black;
+}
+
+.group.btn-theme-white .button.auto {
+  background: var(--cfc-white);
+  color: black;
+}
+
+.button.white:hover,
+.group.btn-theme-white .button.auto:hover {
+  filter: none;
+  background: var(--cfc-sand);
+}
+
+.group.btn-theme-zinc .button.auto {
+  background: var(--cfc-zinc);
+  color: black;
+}
+
 .button.dark {
   background: rgba(255, 255, 255, 0.2);
 }
@@ -27,39 +82,6 @@ a.button {
 .button.newsletter {
   padding: 1rem 1rem;
   width: 100%;
-}
-.button.black {
-  background: black;
-  color: white;
-}
-
-.button.black:hover {
-  background: var(--cfc-black-hover);
-}
-.button.gold {
-  background: gold;
-  color: black;
-}
-
-.button.gold:hover {
-  background: var(--cfc-gold-hover);
-}
-
-.button.grey {
-  background: var(--cfc-light-grey);
-}
-
-.button.grey:hover {
-  background: var(--cfc-light-grey-hover);
-}
-
-.dark-background .button.grey {
-  background: var(--cfc-dark-grey);
-}
-
-.dark-background .button.grey:hover {
-  background: var(--cfc-dark-grey-hover);
-  color: black;
 }
 
 .button-toggles {
@@ -91,10 +113,10 @@ a.button {
 }
 
 .button-toggles .button:hover {
-  background: gold;
+  background: var(--cfc-gold);
 }
 .button-toggles .button.active {
-  background: gold;
+  background: var(--cfc-gold);
 }
 
 .tag.yellow {

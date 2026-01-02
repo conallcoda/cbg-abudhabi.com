@@ -39,9 +39,13 @@ $backButton = $isClosed ? null : $backButton;
 <?php snippet('layout', slots: true) ?>
 <?php if ($backButton): ?>
     <div class="contained pt-16 pb-4">
-        <a class="button black hover:text-white" href="<?= $backButton ?>">
-            <i class="ri-arrow-left-line"></i> <span class="pb-2"><?= $backButtonText ?></span>
-        </a>
+        <?php snippet('button', [
+            'text' => $backButtonText,
+            'url' => $backButton,
+            'theme' => 'black',
+            'icon' => 'ri-arrow-left-line',
+            'customClass' => 'hover:text-white'
+        ]) ?>
     </div>
 <?php endif; ?>
 <?php if ($activeStep) : ?>

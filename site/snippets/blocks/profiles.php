@@ -48,18 +48,18 @@ $gridCols = match ($itemsPerRow) {
             <?= $item->picture()->_img('profile', 'grayscale hover:grayscale-0',  '(min-width: 1024px) 25vw, 50vw') ?>
           </div>
 
-          <h5 class="mt-4"><?= $item->title() ?></h5>
+          <h5 class="mt-4 mb-2"><?= $item->title() ?></h5>
 
           <?php if (!$hideSubtitle) : ?>
-            <div class="text font-brown_bold text-sm text-darkGrey"><?= $item->subtitle() ?></div>
+            <div class="text text-sm text-black/75"><?= $item->subtitle() ?></div>
           <?php endif; ?>
           <?php if (!$hideCompany) : ?>
-            <div class="text font-brown_bold text-sm text-darkGrey group-[.light-background]:text-darkGold"><?= $item->company() ?></div>
+            <div class="text text-sm text-black/75"><?= $item->company() ?></div>
           <?php endif; ?>
           <div>
             <?php if (!$hideEmail && !$item->email()->isEmpty()) : ?>
               <div class="my-4">
-                <a class="text-darkGold text-sm font-brown_bold" href="mailto:<?= $item->email() ?>"><?= $item->email() ?></a>
+                <a class="text-darkGold text-sm text-[#8156168C]" href="mailto:<?= $item->email() ?>"><?= $item->email() ?></a>
               </div>
             <?php endif; ?>
           </div>
@@ -68,7 +68,11 @@ $gridCols = match ($itemsPerRow) {
         <div>
           <div class="flex flex-col-reverse md:flex-row mt-4 md:mt-8 md:items-center">
             <div class="flex-[1] mt-4 md:mt-0">
-              <a data-action="burger#openModal" href="<?= $item->url() ?>" class="button grey"><?= $site->read_more_cta() ?></a>
+              <?php snippet('button', [
+                'text' => $site->read_more_cta(),
+                'url' => $item->url(),
+                'action' => 'burger#openModal'
+              ]) ?>
             </div>
             <div>
               <?php snippet('social', ['item' => $item]) ?>

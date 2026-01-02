@@ -1,14 +1,12 @@
 /** grid */
 
-.columns-2 > .block-type-heading h2 {
+.columns-2>.block-type-heading h2 {
   margin-top: 0;
 }
 
 /* nav */
 body.menuOpen nav .underlay,
-body.menuOpen nav .logo,
-body:not(.home) nav .underlay,
-body:not(.home) nav .logo {
+body.menuOpen nav .logo {
   opacity: 1 !important;
 }
 
@@ -20,6 +18,7 @@ nav .logo {
 nav {
   height: 4rem;
 }
+
 @media screen and (min-width: 1024px) {
   nav {
     height: 6rem;
@@ -50,7 +49,7 @@ nav .navClose.active,
 
 /** header home */
 
-.header-home .media > video {
+.header-home .media>video {
   @media screen and (orientation: portrait) {
     width: calc(100vh * (9 / 16));
     height: 100vh;
@@ -128,6 +127,7 @@ nav .navClose.active,
 .survey-form-row.active {
   display: block;
 }
+
 .survey-other {
   display: none;
 }
@@ -173,10 +173,12 @@ nav .navClose.active,
 .form-seat-options .day-list h4 {
   margin-bottom: 0;
 }
+
 .form-seat-options .day-list ul {
   margin-bottom: 0;
   line-height: 1;
 }
+
 .form-seat-options .day-list ul li {
   font-size: 0.9rem;
 }

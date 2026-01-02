@@ -15,9 +15,11 @@ foreach ($block->testimonials()->toStructure() as $item) {
             <h2><?= $block->title() ?></h2>
         <?php endif; ?>
         <?= $block->intro()->kt() ?>
-        <div class="mt-8 md:mt-16 md:pr-16">
-            <?php snippet('carousel', ['items' => $testimonials, 'template' => 'testimonial']) ?>
-        </div>
+        <?php if (count($testimonials) > 0): ?>
+            <div class="mt-8 md:mt-16 md:pr-16">
+                <?php snippet('carousel', ['items' => $testimonials, 'template' => 'testimonial']) ?>
+            </div>
+        <?php endif; ?>
     </div>
 
     <div class="mt-8 md:mt-0 flex-[0_0_60%]">

@@ -8,7 +8,11 @@
             <?= $site->cookie_text()->kirbytext() ?>
         </div>
         <div class="right">
-            <a data-action="cookie-consent#ok" class="button black"><?= $site->cookie_cta() ?></a>
+            <?php snippet('button', [
+                'text' => $site->cookie_cta(),
+                'theme' => 'sand',
+                'action' => 'cookie-consent#ok'
+            ]) ?>
         </div>
     </div>
 </div>

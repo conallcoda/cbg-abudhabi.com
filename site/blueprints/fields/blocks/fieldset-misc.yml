@@ -5,5 +5,7 @@ fieldsets:
     home_agenda: blocks/home_agenda
     home_audience_facts: blocks/home_audience_facts
     home_header: blocks/home_header
-    home_why_join: blocks/home_why_join
+    home_newsletter: blocks/home_newsletter
+    home_why_join_abudhabi: blocks/home_why_join_abudhabi
+    home_welcome: blocks/home_welcome
     newsletter: blocks/newsletter

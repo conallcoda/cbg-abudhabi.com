@@ -35,15 +35,17 @@ h3,
 h4,
 h5,
 h6 {
-  font-family: BrownStdBold, sans-serif;
+  font-family: BrownStd, sans-serif;
   line-height: 1.2;
 }
 
 h2 {
   font-size: 1.5rem;
+
   @media screen and (min-width: 1024px) {
     font-size: 1.8rem;
   }
+
   margin-bottom: 1rem;
 }
 
@@ -67,7 +69,7 @@ b {
 }
 
 .prose {
-  --tw-prose-bullets: #f1cc0e;
+  --tw-prose-bullets: #fd993c;
   color: inherit;
   max-width: 100%;
 }
@@ -78,17 +80,20 @@ b {
 
 .prose h1 {
   font-size: 1.8rem;
+
   @media screen and (min-width: 1024px) {
     font-size: 2rem;
   }
 }
+
 .prose h2 {
   margin-top: 1em;
 }
 
-.prose p + ul {
+.prose p+ul {
   margin-top: -1em;
 }
+
 .prose ul {
   margin-left: -0.3em;
 }
@@ -98,9 +103,11 @@ b {
   margin-top: 0;
   margin-bottom: 0;
 }
+
 .prose ul li::marker {
   font-size: 1.5rem;
 }
+
 .prose ol li::marker {
   color: black;
 }
@@ -132,8 +139,7 @@ b {
 }
 
 /* if it only has one child*/
-.prose ul li ul li:first-child:nth-last-child(1)::marker {
-}
+.prose ul li ul li:first-child:nth-last-child(1)::marker {}
 
 .prose ul li ul li::marker {
   font-size: 1rem;

@@ -1,9 +1,0 @@
-Alt: CfC St. Moritz
-
-----
-
-Uuid: WiMhGVgPbEu6mbCo
-
-----
-
-Template: image

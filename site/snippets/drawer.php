@@ -44,7 +44,11 @@ $menu = $site->getActiveMenu();
         </div>
         <div class="content contained small py-8" data-burger-target="modalContent"></div>
         <div class="w-full text-center mt-4 mb-8">
-            <a class="button black" data-action="burger#close">close</a>
+            <?php snippet('button', [
+                'text' => 'close',
+                'theme' => 'sand',
+                'action' => 'burger#close'
+            ]) ?>
         </div>
     </div>
 </div>

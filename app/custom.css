@@ -17,9 +17,10 @@
   :root {
     --cfc-black: #000000;
     --cfc-white: #ffffff;
-    --cfc-grey: #efefef;
-    --cfc-dark-grey: #333333;
-    --cfc-gold: #f1cc0e;
+    --cfc-zinc: #eeebec;
+    --cfc-neutral: #fcfbfa;
+    --cfc-sand: #fdebdd;
+    --cfc-gold: #fd993c;
   }
 }
 

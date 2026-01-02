@@ -8,9 +8,11 @@ tabs:
                 type: color
                 mode: options
                 options:
-                    - '#ffffff'
+                    - '#FD993C'
+                    - '#F9CFAB'
                     - '#000000'
-                    - '#F1CC0E'
+                    - '#EFEFEF'
+                    - '#ffffff'
             link:
                 type: link
                 label: Link

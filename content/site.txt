@@ -107,7 +107,7 @@ Next-post: Next Post
 
 ----
 
-Nl-title: Signup to Newsletter
+Nl-title: Stay up to date
 
 ----
 
@@ -374,7 +374,7 @@ Payment-error-advice: **Please note:** if you are currently connected to a restr
 
 ----
 
-Season: on
+Season: off
 
 ----
 
@@ -386,19 +386,31 @@ Site-description: Highly curated digital assets and blockchain conference for in
 
 ----
 
-Site-logo: - file://WiMhGVgPbEu6mbCo
+Site-logo: - file://hGdXMoxjggTdHLJh
 
 ----
 
-Mountains-desktop: - file://z7xTYucGwdk2KkLg
+Site-logo-large: - file://lkbJgIXByb60fY6F
 
 ----
 
-Mountains-mobile: - file://V7HdMAiNywnm8VNR
+Social-share-image: 
 
 ----
 
-Social-share-image: - file://HlIHFooc6cjduBTX
+Background-1: - file://m9EKVsLqXczrEgQO
+
+----
+
+Background-2: - file://pxW2xa4Tj9BtjL0h
+
+----
+
+Background-3: - file://cXdgY0EZLxEPdEEb
+
+----
+
+Background-4: - file://vswa9NvkFveJDTqE
 
 ----
 
@@ -451,19 +463,20 @@ Main-menu-offseason:
   new_window: 'false'
   sublinks: [ ]
 - 
+  link: https://cfc-stmoritz.com/past-events
+  text: Past Events
+  new_window: 'true'
+  sublinks: [ ]
+- 
   link: page://tBs3WotfgVthrn6t
   text: ""
   new_window: 'false'
   sublinks: [ ]
 - 
-  link: page://uBuJAKbE3DhEzifN
-  text: ""
-  new_window: 'false'
-  sublinks: [ ]
-- 
-  link: page://1OkgATaoxoMvr8HS
-  text: ""
-  new_window: 'false'
+  link: >
+    https://cfc-stmoritz.com/knowledge-center
+  text: Knowledge Center
+  new_window: 'true'
   sublinks: [ ]
 
 ----
@@ -502,6 +515,14 @@ Instagram: https://instagram.com/cfcstmoritz
 ----
 
 Youtube: https://www.youtube.com/channel/UClExpOgMY52pOc3OWGkXoeg
+
+----
+
+Mountains-desktop: 
+
+----
+
+Mountains-mobile: 
 
 ----
 

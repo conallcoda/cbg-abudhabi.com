@@ -37,7 +37,12 @@ $summaryTitle = $block->summary_title()->or("Summary");
                         <div class="">
                             <?php snippet('form/input', $reductionInputConfig) ?>
                         </div class="">
-                        <div class="pl-4"><a data-action="reduction-code#apply" class="button black reduction-code">Update</a></div>
+                        <div class="pl-4"><?php snippet('button', [
+                            'text' => 'Update',
+                            'theme' => 'sand',
+                            'action' => 'reduction-code#apply',
+                            'customClass' => 'reduction-code'
+                        ]) ?></div>
                     </div>
                     <div class="reduction-error py-4 text-red"></div>
                 </div>

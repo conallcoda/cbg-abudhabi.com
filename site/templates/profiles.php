@@ -66,7 +66,12 @@ $gridCols = match ($itemsPerRow) {
                     <div>
                         <div class="flex flex-col-reverse md:flex-row mt-4 md:mt-8 md:items-center">
                             <div class="flex-[1] mt-4 md:mt-0">
-                                <a href="<?= $item->panel()->url() ?>" target="_blank" class="button grey">PANEL</a>
+                                <?php snippet('button', [
+                                    'text' => 'PANEL',
+                                    'url' => $item->panel()->url(),
+                                    'theme' => 'grey',
+                                    'newTab' => true
+                                ]) ?>
                             </div>
 
                         </div>

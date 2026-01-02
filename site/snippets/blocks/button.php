@@ -1,31 +1,28 @@
 <?php
-$link = $block->link();
 $text = $block->text()->value();
+$url = $block->link()->toUrl();
 $newTab = $block->new_window()->isTrue();
 
-$buttonClasses = match ($block->color()->value()) {
+$theme = match (strtolower($block->color()->value())) {
+    '#fd993c' => 'gold',
+    '#fdebdd' => 'sand',
+    '#000000' => 'black',
+    '#efefef' => 'grey',
     '#ffffff' => 'white',
-    '#f1cc0e' => 'gold',
-    default => 'black'
+    default => 'sand'
 };
-
 
 $alignmentClasses = match ($block->align()->value()) {
     'start' => 'justify-start',
     'end' => 'justify-end',
     default => 'justify-center'
 };
-
-if ($buttonClasses === 'gold') {
-    $buttonClasses = 'bg-gold hover:bg-goldHover text-black py-3 px-6 font-bold uppercase cursor-pointer outline-none border-none rounded-3xl text-xs no-underline';
-} else {
-    $buttonClasses = 'button ' . $buttonClasses;
-}
-
-
 ?>
 <div class="mt-12 md:mt-12 flex <?= $alignmentClasses ?>">
-
-    <?= $link->_link($text,  $buttonClasses, $newTab) ?>
-
+    <?php snippet('button', [
+        'text' => $text,
+        'url' => $url,
+        'theme' => $theme,
+        'newTab' => $newTab
+    ]) ?>
 </div>
