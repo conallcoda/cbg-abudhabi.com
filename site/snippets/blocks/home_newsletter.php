@@ -20,7 +20,7 @@ if (!$newsletter) {
 ?>
 <div class="relative min-h-[80vh] md:min-h-[50vh] flex items-center">
     <?= $backgroundImage->_img('full-width', 'absolute-fill w-full h-full object-cover ') ?>
-    <div class="absolute inset-0 bg-gradient-to-t from-white/30 to-white/30"></div>
+
     <div class="contained relative">
         <div class="newsletter-home" data-action="<?= $newsletter->url() ?>" data-controller="newsletter" data-messages="<?= base64_encode(json_encode($errorConfig)) ?>">
             <?php $i = 0;
