@@ -44,10 +44,8 @@ class SubscriptionHandler
             if ($e->hasResponse()) {
                 $responseBody = json_decode($e->getResponse()->getBody()->getContents(), true);
                 if (isset($responseBody['title']) && $responseBody['title'] === 'Member Exists') {
-                    //  throw new \Exception('You have already subscribed to our newsletter. Please check your inbox for a confirmation E-Mail.');
+                    throw new \Exception('You have already subscribed to our newsletter. Please check your inbox for a confirmation E-Mail.');
                 } else {
-                    var_dump($e->getMessage());
-                    die;
                     $this->triggerUnknownError('E1');
                 }
             } else {
