@@ -15,7 +15,7 @@ if (!$newsletter) {
     return;
 }
 ?>
-<?php snippet('layout', slots: true) ?>
+<?php snippet('layout', ['backgroundColor' => 'bg-zinc'], slots: true) ?>
 <?php snippet('on_off') ?>
 <div class="contained py-4">
     <div class="mt-8" data-action="<?= $newsletter->url() ?>" data-controller="newsletter" data-messages="<?= base64_encode(json_encode($errorConfig)) ?>">
@@ -31,4 +31,5 @@ if (!$newsletter) {
         <div class="text-center text-red" data-newsletter-target="error"></div>
     </div>
 </div>
+
 <?php endsnippet() ?>

@@ -17,11 +17,13 @@ return function (\Kirby\Cms\App $kirby, $site, $page) {
             if (!isset($submissionId)) {
                 $submissionId = $submission->uuid()->id();
             }
+
             $page->handleEmailsFor($submissionId, $currentStep);
+
             $handler = new SubscriptionHandler();
             $response = $handler->handle($request);
+
             echo json_encode($response);
-            die;
         } catch (\Exception $e) {
             header("HTTP/1.1 400 Bad Request");
             echo json_encode(['error' => $e->getMessage()]);

@@ -10,7 +10,7 @@ $socialImage = $site->social_share_image();
 $socialImageUrl = $socialImage->toFile() ? $socialImage->toFile()->thumb(1000)->url() : '';
 $description = $site->site_description();
 $mainClasses = '';
-
+$background = $backgroundColor ?? '';
 
 
 if (!$page instanceof IsAccessible) {
@@ -55,7 +55,7 @@ if ($page instanceof IsAccessible) {
     <?php endif; ?>
 </head>
 
-<body class="page_<?= $page->uuid()->id() ?> relative <?= $page->template() ?><?= $isMobileDevice ? ' touch' : '' ?>" data-controller="nav burger" data-template="<?= $page->template() ?>">
+<body class="page_<?= $page->uuid()->id() ?> <?= $background ?> ?> relative <?= $page->template() ?><?= $isMobileDevice ? ' touch' : '' ?>" data-controller="nav burger" data-template="<?= $page->template() ?>">
 
     <div class="flex flex-col min-h-[100vh]">
         <?php snippet('nav') ?>
