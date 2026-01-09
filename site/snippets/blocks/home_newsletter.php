@@ -18,9 +18,13 @@ if (!$newsletter) {
     return;
 }
 ?><style>
-    #bd80e005b-4928-4009-8f04-a3ae7b73c60b h2 {
+    #bcec24d10-d696-4d33-8f43-96a7b0718605 h2 {
         color: white;
         margin-bottom: 2rem;
+    }
+
+    #bcec24d10-d696-4d33-8f43-96a7b0718605 p {
+        color: white;
     }
 </style>
 <div class="relative min-h-[80vh] md:min-h-[50vh] flex items-center">
