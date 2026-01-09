@@ -17,7 +17,12 @@ if (isset($block)) {
 if (!$newsletter) {
     return;
 }
-?>
+?><style>
+    #bd80e005b-4928-4009-8f04-a3ae7b73c60b h2 {
+        color: white;
+        margin-bottom: 2rem;
+    }
+</style>
 <div class="relative min-h-[80vh] md:min-h-[50vh] flex items-center">
     <?= $backgroundImage->_img('full-width', 'absolute-fill w-full h-full object-cover ') ?>
 
