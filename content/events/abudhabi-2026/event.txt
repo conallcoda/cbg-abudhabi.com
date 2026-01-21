@@ -1,4 +1,4 @@
-Title: Grisons - Switzerland 2026
+Title: Abu Dhabi - 2026
 
 ----
 
@@ -6,15 +6,15 @@ Picture:
 
 ----
 
-Date-text: January 14-16, 2026
+Date-text: April 21-24, 2026
 
 ----
 
-Location: St. Moritz, Switzerland
+Location: Abu Dhabi, UAE
 
 ----
 
-Start-date: 2025-01-16
+Start-date: 2026-04-21
 
 ----
 
@@ -1459,4 +1459,4 @@ Uuid: SaTCvXy9PZM8UO22
 
 ----
 
-Modified-at: 1762099825
+Modified-at: 1768928033

@@ -382,7 +382,7 @@ Site-title-prefix: CfC St. Moritz
 
 ----
 
-Site-description: Highly curated digital assets and blockchain conference for investors and decision-makers, set in the breathtaking scenery of the Swiss Alps.
+Site-description: A highly curated and private digital assets and blockchain conference for investors and decision-makers set in the remote tranquility of the Abu Dhabi desert.
 
 ----
 
