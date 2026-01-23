@@ -374,7 +374,7 @@ Payment-error-advice: **Please note:** if you are currently connected to a restr
 
 ----
 
-Season: off
+Season: on
 
 ----
 

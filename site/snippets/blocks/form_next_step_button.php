@@ -5,7 +5,7 @@ $text = $block->text()->value();
     <?php snippet('button', [
         'text' => $text,
         'element' => 'button',
-        'theme' => 'sand',
+        'theme' => 'black',
         'action' => 'form-step#next'
     ]) ?>
 </div>

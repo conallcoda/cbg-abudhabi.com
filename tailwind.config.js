@@ -8,6 +8,7 @@ var colors = {
     sand: '#FDEBDD',
     gold: '#FD993C',
     red: '#ff0000',
+    grey: '#efefef'
 };
 module.exports = {
     content: [
