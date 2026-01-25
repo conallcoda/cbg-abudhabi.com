@@ -89,6 +89,7 @@ a.button {
   justify-content: center;
   align-items: stretch;
   gap: 0.5rem;
+
   @media screen and (max-width: 1024px) {
     flex-wrap: wrap;
   }
@@ -96,6 +97,10 @@ a.button {
 
 .button.reduction-code {
   padding: 1.1rem 1rem;
+}
+
+.block-type-form_select_product .button-toggles .button {
+  flex: 100% !important;
 }
 
 .button-toggles .button {
@@ -115,6 +120,7 @@ a.button {
 .button-toggles .button:hover {
   background: var(--cfc-gold);
 }
+
 .button-toggles .button.active {
   background: var(--cfc-gold);
 }

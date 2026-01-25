@@ -4,12 +4,12 @@
 $accordions = [
     [
         'icon' => 'ri-check-fill',
-        'title' => $block->included_title(),
+        'title' => $block->included_title()->value(),
         'text' => $block->included_text(),
     ],
     [
         'icon' => 'ri-close-large-fill',
-        'title' => $block->not_included_title(),
+        'title' => $block->not_included_title()->value(),
         'text' => $block->not_included_text(),
     ]
 
@@ -36,6 +36,8 @@ $accordions = [
 
     <div>
         <?php foreach ($accordions as $accordion): ?>
+            <?php
+            if (empty($accordion['title'])) continue; ?>
             <div class="accordion mt-2" data-controller="accordion">
                 <div class="accordion-item">
                     <div class="flex accordion-header cursor-pointer bg-black text-white py-2 px-3 font-brown_bold text-xl uppercase" data-key="0" data-action="click->accordion#toggle">
