@@ -22,7 +22,7 @@ $accordions = [
     <div class="md:grid grid-cols-2 mt-4 mb-4 gap-4">
         <?php foreach ($block->items()->toStructure() as $item) : ?>
             <div class="flex flex-col mt-4">
-                <div class="bg-gold uppercase text-center py-1 text-lg font-brown_bold"><?= $item->title() ?></div>
+                <div class="bg-gold  text-center py-1 text-lg font-brown_bold"><?= $item->title() ?></div>
                 <div class="bg-black text-white py-2 px-3 my-2 not-prose">
                     <?= $item->subtitle() ?>
                 </div>
