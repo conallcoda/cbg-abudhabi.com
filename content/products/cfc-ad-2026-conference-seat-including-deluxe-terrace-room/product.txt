@@ -1,0 +1,21 @@
+Title: CfC AD 2026 - Conference Seat including Deluxe Terrace Room
+
+----
+
+Display-name: Conference Seat including Deluxe Terrace Room
+
+----
+
+Button-text: 
+
+----
+
+Price: 15000
+
+----
+
+Uuid: fc4GoL1LuIyQSIxy
+
+----
+
+Modified-at: 1769416564
