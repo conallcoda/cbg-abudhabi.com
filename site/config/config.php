@@ -16,9 +16,9 @@ $config = [
         'cfc' => true
     ],
     'envs' => [
-        'dev' => 'http://cfc.local',
-        'staging' => 'https://staging.cfc-stmoritz.com',
-        'production' => 'https://cfc-stmoritz.com',
+        'dev' => 'http://cfc-abudhabi.local',
+        'staging' => 'https://staging.cfc-abudhabi.local.com',
+        'production' => 'https://cfc-abudhabi.com',
     ],
     'mailgun_domain' => 'reservations.crypto-finance-conference.com',
     'mailgun_domain_mailer' => 'mailer.cfc-stmoritz.com',
