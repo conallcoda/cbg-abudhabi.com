@@ -23,7 +23,7 @@ $config = [
     'mailgun_domain' => 'reservations.crypto-finance-conference.com',
     'mailgun_domain_mailer' => 'mailer.cfc-stmoritz.com',
     'mailchimp_list_id' => 'a7fa7a784c',
-    'cfc.email.from.name' => 'CfC Abu Dhabi',
+    'cfc.email.from.name' => 'CfC St. Moritz Abu Dhabi',
     'cfc.email.from.email' => 'noreply@reservations.crypto-finance-conference.com',
     'cfc.email.from.email_mailer' => 'noreply@mailer.cfc-stmoritz.com',
 ];
