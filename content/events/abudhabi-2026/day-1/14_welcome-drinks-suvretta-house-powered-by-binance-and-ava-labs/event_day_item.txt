@@ -1,0 +1,45 @@
+Title: Desert Walk & Dinner @Camp Al A'ara
+
+----
+
+Session: Session 3 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 19:30:00
+
+----
+
+Time-finish: 23:30:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: pTvRsxbAXPPCsmiy
+
+----
+
+Modified-at: 1771144715

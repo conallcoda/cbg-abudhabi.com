@@ -1,0 +1,49 @@
+Title: Transport to Royal Pavilion
+
+----
+
+Session: Session 4 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 19:30:00
+
+----
+
+Time-finish: 20:00:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: 6sQy34bGcCK5KC63
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1771146800

@@ -1,0 +1,49 @@
+Title: The New Global Architecture - Power, Capital & Coordination in Transition
+
+----
+
+Session: Session 1 - Strategic Infrastructure
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>As global systems realign, foundational assumptions about power, value, and coordination are being rewritten. Capital is navigating not just yield, but influence, control, and access. Who is designing the rules and what systems will define the next global era?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"1e008a27-0b06-4605-aa97-81f60dd9ab8c","isHidden":false,"type":"text"}],"id":"5c347da8-0c4a-43ca-8afc-2f85a211012e","width":"1/1"}],"id":"5194a6e3-b8a3-4706-be4c-965088b294e5"}]
+
+----
+
+Time-start: 13:55:00
+
+----
+
+Time-finish: 14:35:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: uJXt7e9yTbfFH1ph
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1771143678

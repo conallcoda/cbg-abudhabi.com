@@ -16,6 +16,8 @@ Bcc:
   email: ziga@cfc-stmoritz.com
 - 
   email: nicolo@cfc-stmoritz.com
+- 
+  email: jonas@cfc-stmoritz.com
 
 ----
 
@@ -31,4 +33,4 @@ Uuid: 3AJxu228XtorPkdx
 
 ----
 
-Modified-at: 1728660826
+Modified-at: 1770650790

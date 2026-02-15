@@ -1,0 +1,49 @@
+Title: Tokenized Finance - From Market Hype to Market Depth
+
+----
+
+Session: Session 2 - Capital Strategies in Transformation
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Tokenized assets are now live but adoption depends on integration, standards, and liquidity. What does meaningful institutional adoption actually look like - and what gaps remain?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 14:00:00
+
+----
+
+Time-finish: 14:40:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: PewxGP0ZYetk99H5
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1771145594

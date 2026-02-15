@@ -1,0 +1,49 @@
+Title: Farewell Breakfast @Al Waha
+
+----
+
+Session: Farewell Breakfast
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 09:00:00
+
+----
+
+Time-finish: 11:30:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: f92B75Hr8QKf24eR
+
+----
+
+Created-at: 1725981746
+
+----
+
+Modified-at: 1771147045

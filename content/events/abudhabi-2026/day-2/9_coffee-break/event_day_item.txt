@@ -1,0 +1,49 @@
+Title: Coffee Break
+
+----
+
+Session: Break
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 16:00:00
+
+----
+
+Time-finish: 16:15:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: 8Ldza0VBThUTLBjR
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1771146227

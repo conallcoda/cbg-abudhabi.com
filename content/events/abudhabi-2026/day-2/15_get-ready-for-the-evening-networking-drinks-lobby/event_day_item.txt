@@ -1,0 +1,49 @@
+Title: Get Ready for the Evening – Networking Drinks @Lobby
+
+----
+
+Session: Session 4 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 18:15:00
+
+----
+
+Time-finish: 19:30:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: e2AHW2QNIamSRfnM
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1771146772

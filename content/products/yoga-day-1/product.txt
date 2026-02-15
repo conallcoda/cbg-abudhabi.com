@@ -1,8 +1,8 @@
-Title: Yoga - Day 1
+Title: CfC St. Moritz AD - Yoga - Day 1
 
 ----
 
-Display-name: Awaken Body & Mind on 15,01.25 at 11:00 am
+Display-name: Awaken Body & Mind on April 23rd, 2026 at 07:45 am
 
 ----
 
@@ -18,4 +18,4 @@ Uuid: BxpbTIygkl2Xsd8e
 
 ----
 
-Modified-at: 1729669274
+Modified-at: 1770651964

@@ -19,7 +19,7 @@ Payment-reduction-codes:
 
 ----
 
-Payment-vat-rate: 8.1
+Payment-vat-rate: 0
 
 ----
 

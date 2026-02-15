@@ -1,0 +1,45 @@
+Title: On-Chain Capital Formation - The Next Evolution of Financial Infrastructure
+
+----
+
+Session: Session 2 - Financial Infrastructure
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>From fundraising to trading, capital formation is being rebuilt on-chain. This evolution offers new levels of transparency, automation, and composability. How are these systems being architected and what are the implications for liquidity, risk, and institutional trust?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 17:45:00
+
+----
+
+Time-finish: 18:25:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: DE2lGLJhyZgzO5IN
+
+----
+
+Modified-at: 1771144427

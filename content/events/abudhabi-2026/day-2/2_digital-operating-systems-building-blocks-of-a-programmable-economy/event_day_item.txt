@@ -1,0 +1,49 @@
+Title: Digital Operating Systems - Building Blocks of a Programmable Economy
+
+----
+
+Session: Session 1 - Redesigning Money
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>The convergence of crypto, AI, and modular systems is giving rise to new economic operating models. Identity, governance, automation, and coordination are being rebuilt from the ground up.&nbsp;Who is building this architecture and what does it unlock?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 10:00:00
+
+----
+
+Time-finish: 10:40:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: p0dwlx4nfouSvvbs
+
+----
+
+Created-at: 1725981743
+
+----
+
+Modified-at: 1771145335

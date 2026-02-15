@@ -1,0 +1,49 @@
+Title: Lunch @Al Waha
+
+----
+
+Session: Lunch
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 11:45:00
+
+----
+
+Time-finish: 13:15:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: poxvew5OPREDFuHU
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1771143339

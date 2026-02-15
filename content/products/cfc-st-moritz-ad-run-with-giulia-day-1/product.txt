@@ -1,0 +1,21 @@
+Title: CfC St. Moritz AD - Run with Giulia - Day 1
+
+----
+
+Display-name: Run with Giulia on April 23rd, 2026 at 07:45 am
+
+----
+
+Button-text: 
+
+----
+
+Price: 0
+
+----
+
+Uuid: wqE1ZZ4tqJnOAnnE
+
+----
+
+Modified-at: 1770651999

@@ -1,0 +1,49 @@
+Title: BREAKOUTS: Architecting Autonomous Systems - Crypto Primitives Meet Machine Intelligence
+
+----
+
+Session: Session 3 - Breakouts
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Explore the building blocks behind AI agents operating on-chain - smart contract integration, incentive structures, and execution design.&nbsp;What’s required to build secure, value-aligned autonomous financial systems?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 16:15:00
+
+----
+
+Time-finish: 17:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: o5TkQgtpTfHMIpJC
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1771145766

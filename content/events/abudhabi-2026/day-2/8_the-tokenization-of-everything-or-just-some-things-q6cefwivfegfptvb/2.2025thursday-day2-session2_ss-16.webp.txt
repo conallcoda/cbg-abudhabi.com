@@ -1,5 +1,0 @@
-Uuid: VTSuXSLi2Vm2get9
-
-----
-
-Template: image

@@ -1,0 +1,49 @@
+Title: Infrastructure for a Tokenized Finance System
+
+----
+
+Session: Session 2 - Financial Infrastructure
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Tokenized markets are gaining traction - but scale demands seamless, institutional-grade infrastructure. Identity, custody, compliance, and liquidity must integrate across traditional and on-chain systems. What is the foundational infrastructure needed to unlock institutional adoption?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"3d5405e0-b7cd-4339-b99d-f92064de642f","isHidden":false,"type":"text"}],"id":"71520309-6321-4fac-89f7-fe36763bf971","width":"1/1"}],"id":"075c6013-9a4f-4c8c-9783-11d8fd88354b"}]
+
+----
+
+Time-start: 16:25:00
+
+----
+
+Time-finish: 17:05:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: kUhNN8yefRivQDYb
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1771144285

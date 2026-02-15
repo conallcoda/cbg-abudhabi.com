@@ -2,27 +2,23 @@ Title: Day 1
 
 ----
 
-Date: 2026-01-14
+Date: 2026-04-22
 
 ----
 
-Subtitle: Macro Perspective on the Industry
+Subtitle: Morning Activities & Content Day 1
 
 ----
 
-Sessions: Arrival & Introduction, Session 1 - The World Rewired, Break 1, Session 2 - Lines of Control, Break 2, Session 3 - The Future of Markets, Session 4 - Socializing
+Sessions: Breakfast, Morning Activities, Lunch, Session 1 - Strategic Infrastructure, Break, Session 2 - Financial Infrastructure, Session 3 - Socializing
 
 ----
 
-Hidden-sessions: Break 1, Break 2
+Hidden-sessions: 
 
 ----
 
-Photos:
-
-- file://6g6LbHcwc20CZ3z6
-- file://5gynyTuwdBP5wMYC
-- file://HhaeTN1otNMWaonI
+Photos: 
 
 ----
 
@@ -38,4 +34,4 @@ Created-at: 1725981742
 
 ----
 
-Modified-at: 1761731334
+Modified-at: 1771146080

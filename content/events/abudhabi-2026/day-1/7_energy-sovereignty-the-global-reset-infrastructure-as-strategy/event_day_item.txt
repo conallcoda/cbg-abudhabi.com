@@ -1,0 +1,49 @@
+Title: Energy, Sovereignty & the Global Reset - Infrastructure as Strategy:
+
+----
+
+Session: Session 1 - Strategic Infrastructure
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Energy, capital, and infrastructure are now strategic levers. From sovereign funds to cross-border energy corridors, infrastructure is being deployed as a tool of power, alignment, and resilience. How are states and institutions redefining influence through long-term infrastructure strategy?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"ab90b843-2e72-4f84-b6c5-af8ba2b61fbf","isHidden":false,"type":"text"}],"id":"ee52b286-c887-4892-ace7-83d0ad470aba","width":"1/1"}],"id":"a336b689-22cc-42be-84c5-3dd2feaf4814"}]
+
+----
+
+Time-start: 14:35:00
+
+----
+
+Time-finish: 15:15:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: VgBzTmFjFm6WuYNo
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1771144048

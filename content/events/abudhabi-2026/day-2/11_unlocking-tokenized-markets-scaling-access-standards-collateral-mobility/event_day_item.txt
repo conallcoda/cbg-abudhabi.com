@@ -1,0 +1,49 @@
+Title: BREAKOUTS: Unlocking Tokenized Markets - Scaling Access, Standards & Collateral Mobility
+
+----
+
+Session: Session 3 - Breakouts
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Turning tokenized assets into liquid markets requires more than issuance. Interoperability, smart contract standards, and collateral frameworks must align across platforms and institutions. What’s still missing to make tokenized markets truly scalable and usable?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 16:15:00
+
+----
+
+Time-finish: 17:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: 9rcOvEdf4vOopO7D
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1771146248

@@ -1,0 +1,49 @@
+Title: Awesome Lunch @Al Waha
+
+----
+
+Session: Lunch
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 12:15:00
+
+----
+
+Time-finish: 13:45:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: NT6b7OgVjPyrZQRT
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1771145485

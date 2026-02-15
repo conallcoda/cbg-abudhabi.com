@@ -1,8 +1,8 @@
-Title: Arrival & Check-In
+Title: Good Morning Breakfast @Al Waha
 
 ----
 
-Session: Arrival & Introduction
+Session: Breakfast
 
 ----
 
@@ -22,11 +22,11 @@ Layout:
 
 ----
 
-Time-start: 09:00:00
+Time-start: 07:00:00
 
 ----
 
-Time-finish: 13:00:00
+Time-finish: 10:00:00
 
 ----
 
@@ -46,4 +46,4 @@ Created-at: 1725981742
 
 ----
 
-Modified-at: 1760117446
+Modified-at: 1771143149

@@ -1,0 +1,49 @@
+Title: Bitcoin as Strategic Infrastructure - Reserve Asset or Grid Asset?
+
+----
+
+Session: Session 1 - Strategic Infrastructure
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Bitcoin is emerging as programmable infrastructure. In some markets, it monetizes stranded energy; in others, it’s a digital reserve challenging FX and commodity baskets. How are sovereigns and institutions positioning Bitcoin within energy and monetary systems?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"242e0e55-409d-4705-a365-3d0f12f8c7fd","isHidden":false,"type":"text"}],"id":"76c21026-30c9-4ba4-aa37-c90c436aaa11","width":"1/1"}],"id":"af419dcf-8eaa-4fd8-99d5-84e8f104d714"}]
+
+----
+
+Time-start: 15:20:00
+
+----
+
+Time-finish: 15:55:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: qJBRu08QnDT6XodL
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1771144131

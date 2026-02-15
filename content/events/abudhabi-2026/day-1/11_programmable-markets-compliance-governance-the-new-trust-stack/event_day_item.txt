@@ -1,0 +1,45 @@
+Title: Programmable Markets - Compliance, Governance & the New Trust Stack
+
+----
+
+Session: Session 2 - Financial Infrastructure
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Markets are becoming programmable and trust is being redefined at the protocol level. As institutions embed compliance into code, what does governance look like in decentralized systems, and how do we design for trust, permission, and control?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","padding_top":"","padding_right":"","padding_bottom":"","padding_left":"","margin_top":"","margin_right":"","margin_bottom":"","margin_left":"","align_vertical":"","align_horizontal":"","background_color":""},"columns":[{"blocks":[{"content":{"text":"","custom_id":"","custom_class":""},"id":"2a9052aa-d7f4-489e-8a38-d6c7deb12198","isHidden":false,"type":"text"}],"id":"9251f947-0dc8-48c3-8dd8-d139d5e25714","width":"1/1"}],"id":"eb2338b5-7ef2-4da3-9173-1b4a99c5aeec"}]
+
+----
+
+Time-start: 17:05:00
+
+----
+
+Time-finish: 17:45:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: ljZulsE88kBEqtbC
+
+----
+
+Modified-at: 1771144333

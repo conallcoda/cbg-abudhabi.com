@@ -1,0 +1,49 @@
+Title: CfC St. Moritz Welcome Address
+
+----
+
+Session: Session 1 - Strategic Infrastructure
+
+----
+
+Speakers: - page://jLkeYnXBJcR558oi
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 13:30:00
+
+----
+
+Time-finish: 13:45:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: ujWhwQh9ZKaQWIpf
+
+----
+
+Created-at: 1725981742
+
+----
+
+Modified-at: 1771143463

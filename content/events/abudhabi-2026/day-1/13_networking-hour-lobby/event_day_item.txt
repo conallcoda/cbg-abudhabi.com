@@ -1,0 +1,45 @@
+Title: Networking Hour & Drinks @Lobby
+
+----
+
+Session: Session 3 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 18:30:00
+
+----
+
+Time-finish: 19:30:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: 6PEtVm2EJbjRtxM4
+
+----
+
+Modified-at: 1771144636

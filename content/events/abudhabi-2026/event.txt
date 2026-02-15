@@ -24,42 +24,12 @@ Show-summaries: false
 
 Speakers:
 
-- page://1PeW3schAEeFqyMP
-- page://Yvdr5m1VYAmJdV5Z
 - page://rj5VRoldg1ZiSNIO
-- page://QkFqnWM1IesPEjeF
-- page://ecviWacEhy5IeuT7
-- page://GpllXqLBHSThE0iT
-- page://WpWJFYFpWts9Jc5o
 - page://7yrFqqjoKMk3MyoO
-- page://K2t40vy3DvWwy0zA
-- page://7c1oKWE4j5TYVLk8
-- page://ROaCfAgB7BOkSYj7
-- page://6RzfZacDATFr0yQA
-- page://iD2ZAf1qg2FWEvRm
-- page://LXAuz9X9m6Nx7iN1
-- page://u0Cs7ZuYUu4JCblb
-- page://ogACXOroZW8BIGLG
-- page://WH9elq0X4CeD5xTm
-- page://5kXMHecGVG3AiiZK
-- page://IZ5PmhtZOeFFj5p6
-- page://DoKhaGoLxFs24kfa
-- page://yMG6Q3Q4gtvHGBxb
-- page://v6uybYRfGh6zuOaH
-- page://yuCDFnw5c1kJ9hxk
-- page://Ch8sK7N7TLvpGkp8
-- page://scIrq8sM5m0ybJFo
-- page://l34yTrfpKyJ8iNX9
-- page://EPBItlZ1nsBUG0pJ
-- page://DYNoMJ35QD6eihW4
-- page://xIExYJAPEmyscev4
-- page://W3CHfb0FJda1YPXq
-- page://DH4UqVDpZPFuMDg9
-- page://BT5JlzBsctgW5qM7
-- page://8Utcuej5mshfbnJB
-- page://jm2hLdsqGKYVLSpr
-- page://vH47q9nIAEpDmvh0
-- page://1YggfZmuLEQAWE7s
+- page://FX6BCEHB0ZNExtbl
+- page://EUH7Rjn3kX8HCKFp
+- page://sC36CFuU79JHPjbg
+- page://1t1RMpHLbheW1BdU
 
 ----
 
@@ -70,14 +40,10 @@ Workshops: - page://uSannuWW1sNrSEfv
 Moderators:
 
 - page://2bDjDnR1TikuRbu1
-- page://GEypJVB1EGf1oYic
 - page://6urLa605k2P7YL5l
 - page://sjnFnb0QDhi9kTv6
-- page://CKHa4v13dP4HGpio
 - page://GF4yw9wBcEBeV0P7
-- page://bSOkT1qp2jYVXFrA
 - page://CfAEchxoLWIrG398
-- page://7KIZs5c8Ftefe7Ca
 
 ----
 
@@ -1459,4 +1425,4 @@ Uuid: SaTCvXy9PZM8UO22
 
 ----
 
-Modified-at: 1768928033
+Modified-at: 1771147818

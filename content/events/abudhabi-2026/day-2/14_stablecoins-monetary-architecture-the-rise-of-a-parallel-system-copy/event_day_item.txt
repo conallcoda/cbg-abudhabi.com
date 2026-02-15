@@ -1,0 +1,49 @@
+Title: BREAKOUTS: Strategic Capital Allocation in a Multipolar World
+
+----
+
+Session: Session 3 - Breakouts
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Dive deeper into capital structuring, regional exposure, and alignment in an era of strategic capital.&nbsp;How are institutions positioned across jurisdictional and geopolitical boundaries?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 17:15:00
+
+----
+
+Time-finish: 18:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: qvVNJiGcFsK8I2yI
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1771146497

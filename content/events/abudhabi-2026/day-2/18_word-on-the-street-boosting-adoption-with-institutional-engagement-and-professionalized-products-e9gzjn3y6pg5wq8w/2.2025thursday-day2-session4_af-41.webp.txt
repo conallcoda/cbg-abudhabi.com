@@ -1,5 +1,0 @@
-Uuid: VIzaTHdh3hpoEeXE
-
-----
-
-Template: image

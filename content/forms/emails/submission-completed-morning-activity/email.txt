@@ -1,0 +1,36 @@
+Title: Submission Completed Morning Activity
+
+----
+
+Type: Internal
+
+----
+
+To: conall@coda.works
+
+----
+
+Bcc:
+
+- 
+  email: nicolo@cfc-stmoritz.com
+- 
+  email: jonas@cfc-stmoritz.com
+- 
+  email: giulia@cfc-stmoritz.com
+
+----
+
+Subject: New Submission: [form__name]
+
+----
+
+Body: Source: [form__url]<br><br>First Name: [contact__first_name]<br><br>Last Name: [contact__last_name]<br><br>Email: [contact__email]<br><br>View: [panel__url]
+
+----
+
+Uuid: 9zgARi8acwicKo14
+
+----
+
+Modified-at: 1770709451

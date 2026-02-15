@@ -1,0 +1,49 @@
+Title: Awe-Inspiring Party Powered @Royal Pavilion
+
+----
+
+Session: Session 4 - Socializing
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 23:00:00
+
+----
+
+Time-finish: 02:00:00
+
+----
+
+Hide-description: true
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: 8FAtT6qyzGO7t1ld
+
+----
+
+Created-at: 1725981745
+
+----
+
+Modified-at: 1771146816

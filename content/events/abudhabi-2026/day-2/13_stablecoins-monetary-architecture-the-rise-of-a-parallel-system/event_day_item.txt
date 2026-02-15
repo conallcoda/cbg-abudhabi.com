@@ -1,0 +1,49 @@
+Title: BREAKOUTS: Stablecoins & Monetary Architecture - The Rise of a Parallel System
+
+----
+
+Session: Session 3 - Breakouts
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Stablecoins are forming a parallel infrastructure for payments and liquidity.&nbsp;Who sets the rules and how do state actors and institutions adapt?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 17:15:00
+
+----
+
+Time-finish: 18:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: RmldIUorjyabcEyC
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1771146454

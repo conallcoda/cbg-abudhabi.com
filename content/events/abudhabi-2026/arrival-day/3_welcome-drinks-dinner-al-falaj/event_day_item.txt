@@ -1,0 +1,45 @@
+Title: Welcome Dinner @Al Falaj
+
+----
+
+Session: Arrival Day
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 19:30:00
+
+----
+
+Time-finish: 22:30:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: wggrYo7qyQp7iKKp
+
+----
+
+Modified-at: 1771142739

@@ -1,5 +1,0 @@
-Uuid: hjOvI5CDJdvTrpg6
-
-----
-
-Template: image

@@ -1,0 +1,45 @@
+Title: Sundowner Welcome Drinks @Lobby
+
+----
+
+Session: Arrival Day
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 18:15:00
+
+----
+
+Time-finish: 19:30:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: 6JdJTFSB4pSj0h07
+
+----
+
+Modified-at: 1771142722

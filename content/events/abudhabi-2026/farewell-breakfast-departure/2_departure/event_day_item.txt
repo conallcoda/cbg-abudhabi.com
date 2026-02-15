@@ -1,0 +1,49 @@
+Title: Departure of Guests
+
+----
+
+Session: Departure
+
+----
+
+Speakers: 
+
+----
+
+Description: 
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 11:30:00
+
+----
+
+Time-finish: 15:00:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: false
+
+----
+
+Uuid: OAdCJiIr7Sg7YeES
+
+----
+
+Created-at: 1725981746
+
+----
+
+Modified-at: 1771147206

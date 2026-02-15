@@ -1,5 +1,0 @@
-Uuid: btIzwe90SeaN1D2j
-
-----
-
-Template: image

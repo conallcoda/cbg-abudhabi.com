@@ -1,0 +1,49 @@
+Title: Treasury Playbooks - Managing Liquidity, Risk & Optionality
+
+----
+
+Session: Session 2 - Capital Strategies in Transformation
+
+----
+
+Speakers: 
+
+----
+
+Description: <p>Treasury is becoming strategic. Institutions are blending digital-native tools with traditional structures to manage risk, seize opportunity, and stay agile.&nbsp;What does adaptive treasury management look like in an age of programmable finance and policy volatility?</p>
+
+----
+
+Picture: 
+
+----
+
+Layout: 
+
+----
+
+Time-start: 14:40:00
+
+----
+
+Time-finish: 15:20:00
+
+----
+
+Hide-description: false
+
+----
+
+Hide-speakers: true
+
+----
+
+Uuid: PptkL3BufWrLAcxI
+
+----
+
+Created-at: 1725981744
+
+----
+
+Modified-at: 1771145706

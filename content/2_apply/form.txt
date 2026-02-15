@@ -21,7 +21,7 @@ Test-data-mode: true
 
 ----
 
-Test-payment-mode: false
+Test-payment-mode: true
 
 ----
 
@@ -73,4 +73,4 @@ Created-at: 1722930750
 
 ----
 
-Modified-at: 1769412551
+Modified-at: 1770388133
