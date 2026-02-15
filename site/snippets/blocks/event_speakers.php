@@ -16,7 +16,7 @@ if ($speakers->count() > 0) {
   $profileSections[] = ['title' => (string)site()->speakers_title()->or('Speakers'), 'items' => $speakers];
 }
 if ($workshops->count() > 0) {
-  $profileSections[] = ['title' => (string)site()->workshops_title()->or('Workshop Hosts'), 'items' => $workshops];
+  $profileSections[] = ['title' => (string)site()->workshops_title()->or('Breakouts'), 'items' => $workshops];
 }
 if ($moderators->count() > 0) {
   $profileSections[] = ['title' =>  (string)site()->moderators_title()->or('Moderators'), 'items' => $moderators];

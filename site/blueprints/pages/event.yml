@@ -44,7 +44,7 @@ tabs:
                 label: Speakers
             workshops:
                 extends: fields/select-profiles
-                label: Workshops
+                label: Breakouts
             moderators:
                 extends: fields/select-profiles
                 label: Moderators

@@ -47,7 +47,7 @@ Speakers-title: Speakers
 
 ----
 
-Workshops-title: Workshop Hosts
+Workshops-title: Breakouts
 
 ----
 
