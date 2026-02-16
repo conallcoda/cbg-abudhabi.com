@@ -9,6 +9,7 @@ fields:
         label: Link
         options:
           - page
+          - url
       text:
         type: text
         label: Text

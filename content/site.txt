@@ -444,6 +444,10 @@ Main-menu-onseason:
       link: page://tBs3WotfgVthrn6t
       text: ""
       new_window: 'false'
+    - 
+      link: https://cfc-stmoritz.com/past-events
+      text: Past Events
+      new_window: 'true'
 
 ----
 

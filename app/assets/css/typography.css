@@ -72,6 +72,7 @@ b {
   --tw-prose-bullets: #fd993c;
   color: inherit;
   max-width: 100%;
+  line-height: 1.3;
 }
 
 .prose strong {
