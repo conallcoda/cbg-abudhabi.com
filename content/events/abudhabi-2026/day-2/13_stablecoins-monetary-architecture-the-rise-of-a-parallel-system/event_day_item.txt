@@ -2,7 +2,7 @@ Title: BREAKOUTS: Stablecoins & Monetary Architecture - The Rise of a Parallel S
 
 ----
 
-Session: Session 3 - Breakouts
+Session: Session 3 - Breakouts II / II
 
 ----
 
@@ -46,4 +46,4 @@ Created-at: 1725981744
 
 ----
 
-Modified-at: 1771146454
+Modified-at: 1771165805

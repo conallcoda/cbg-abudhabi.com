@@ -1,8 +1,8 @@
-Title: Last Coffee Break of the Day
+Title: Refresh yourself a last time
 
 ----
 
-Session: Break
+Session: Last Break of the Day
 
 ----
 
@@ -22,11 +22,11 @@ Layout: [{"attrs":{"custom_id":"","custom_class":"","full_width":"false","paddin
 
 ----
 
-Time-start: 17:15:00
+Time-start: 17:00:00
 
 ----
 
-Time-finish: 17:30:00
+Time-finish: 17:15:00
 
 ----
 
@@ -46,4 +46,4 @@ Created-at: 1725981744
 
 ----
 
-Modified-at: 1771146520
+Modified-at: 1771166322

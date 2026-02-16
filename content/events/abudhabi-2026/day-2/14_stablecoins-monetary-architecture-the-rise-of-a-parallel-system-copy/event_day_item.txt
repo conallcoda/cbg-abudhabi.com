@@ -2,7 +2,7 @@ Title: BREAKOUTS: Strategic Capital Allocation in a Multipolar World
 
 ----
 
-Session: Session 3 - Breakouts
+Session: Session 3 - Breakouts II / II
 
 ----
 
@@ -46,4 +46,4 @@ Created-at: 1725981744
 
 ----
 
-Modified-at: 1771146497
+Modified-at: 1771165812

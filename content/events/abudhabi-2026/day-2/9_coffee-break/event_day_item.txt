@@ -2,7 +2,7 @@ Title: Coffee Break
 
 ----
 
-Session: Break
+Session: Afternoon Break
 
 ----
 
@@ -46,4 +46,4 @@ Created-at: 1725981745
 
 ----
 
-Modified-at: 1771146227
+Modified-at: 1771165680

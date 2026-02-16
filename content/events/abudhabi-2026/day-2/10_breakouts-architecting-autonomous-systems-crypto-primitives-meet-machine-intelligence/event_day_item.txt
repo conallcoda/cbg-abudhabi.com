@@ -2,7 +2,7 @@ Title: BREAKOUTS: Architecting Autonomous Systems - Crypto Primitives Meet Machi
 
 ----
 
-Session: Session 3 - Breakouts
+Session: Session 3 - Breakouts I / II
 
 ----
 
@@ -46,4 +46,4 @@ Created-at: 1725981744
 
 ----
 
-Modified-at: 1771145766
+Modified-at: 1771165785

@@ -10,7 +10,7 @@ Subtitle: Content Day 2
 
 ----
 
-Sessions: Breakfast, Morning Activities, Session 1 - Redesigning Money, Lunch, Session 2 - Capital Strategies in Transformation, Break, Session 3 - Breakouts, Session 4 - Socializing
+Sessions: Breakfast, Morning Activities, Session 1 - Redesigning Money, Lunch, Session 2 - Capital Strategies in Transformation, Afternoon Break, Session 3 - Breakouts I / II, Last Break of the Day, Session 3 - Breakouts II / II, Session 4 - Socializing
 
 ----
 
@@ -30,4 +30,4 @@ Created-at: 1725981743
 
 ----
 
-Modified-at: 1771146126
+Modified-at: 1771165775

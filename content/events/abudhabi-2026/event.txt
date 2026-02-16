@@ -33,7 +33,7 @@ Speakers:
 
 ----
 
-Workshops: - page://uSannuWW1sNrSEfv
+Workshops: 
 
 ----
 
@@ -50,68 +50,20 @@ Moderators:
 Partners:
 
 - 
-  title: Main Partner
+  title: Majilis Partners
   partners:
-    - page://4gMf14Yi3rk9p3ot
+    - page://5rq3jYV3YAirIGnx
   id: "0"
 - 
-  title: Conference Partners
+  title: Diwan Partners
   partners:
-    - page://GaaKr7A7po6biy3A
     - page://zLFX8XiYjVZZkIpC
-    - page://9UZXnl1MMvkyo3M5
-    - page://5rq3jYV3YAirIGnx
-    - page://dv701BOi313g6uEK
-    - page://q2Yn4TxIbDtNSi5D
-    - page://mnKT1Jk2vgBZaZVd
-    - page://EJjm4i9XIFeqceSE
-    - page://LVdA5N93Ry2uZWJy
-    - page://SLrO6dmb6P6zylJC
-    - page://Kb37LgX6bFVbFvTd
-    - page://S7gqTJ2NFyYUhaZN
-    - page://q0zzaeWFmk4kx1c3
-    - page://09LbXzihQc3PrMmX
-    - page://0NM6xz3BLO4TCBLf
-    - page://yLxT8jKSAhALGXwS
-    - page://RJWGBvQyrwqiCd6A
-    - page://C3Z614vW0r3Any3F
-    - page://GSir54iGbhze2Fc5
-    - page://i6XNBAOLz6Yco7nv
-    - page://YZF1LZLHipEjZ1tK
-    - page://ozi9qdwmfjod1Z7W
-    - page://MtbK56IinZn4nyxj
-    - page://RtQN1B0ZD25k2gVn
   id: "1"
-- 
-  title: Exhibition Partners
-  partners: [ ]
-  id: "2"
 - 
   title: Academic Partners
   partners:
     - page://rJzPTumtBSdO5AAW
   id: "3"
-- 
-  title: Media Partners
-  partners:
-    - page://KII9ejmeyStqhywv
-  id: "4"
-- 
-  title: Accomodation Partners
-  partners:
-    - page://IsjVrkaZVFZXtel8
-    - page://XgXXr4UhESR9CUI2
-    - page://xvcjvapI2tGzS0fH
-    - page://wT5JQh1L7JVTjOAg
-    - page://wPnikIU1CnIvQ1F1
-    - page://5dqPOgWnDmu6zTRM
-    - page://TMuC2VTPnxoB4zzb
-  id: "5"
-- 
-  title: Leisure Partners
-  partners:
-    - page://WtLaXECSItc6wnco
-    - page://mMjig6ZjbqPS9iWd
 
 ----
 
@@ -1425,4 +1377,4 @@ Uuid: SaTCvXy9PZM8UO22
 
 ----
 
-Modified-at: 1771147818
+Modified-at: 1771166584
