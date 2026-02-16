@@ -47,7 +47,7 @@ if ($page instanceof IsAccessible) {
     <meta property="og:image" content="<?= $socialImageUrl ?>">
     <meta property="twitter:image" content="<?= $socialImageUrl ?>">
 
-    <link rel="preload" href="<?= Bnomei\Fingerprint::url('/assets/dist/main.css') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
+    <link rel="preload" href="<?= Bnomei\Fingerprint::url('/assets/dist/main.css?bnjil=1') ?>" as="style" onload="this.onload=null;this.rel='stylesheet'">
     <script defer type="text/javascript" src="<?= Bnomei\Fingerprint::url('/assets/dist/main.js') ?>"></script>
     <?php if ($site->isEnv('production')) : ?>
         <meta name="google-site-verification" content="hsXIeOA-qaLtHyNoZFz2QZavdFrA6SerkFYOBJJz3uE" />
