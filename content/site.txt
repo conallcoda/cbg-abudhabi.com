@@ -445,10 +445,6 @@ Main-menu-onseason:
       text: ""
       new_window: 'false'
     - 
-      link: page://1OkgATaoxoMvr8HS
-      text: ""
-      new_window: 'false'
-    - 
       link: page://uBuJAKbE3DhEzifN
       text: ""
       new_window: 'false'
