@@ -37,11 +37,11 @@ Close-content:
 
 ----
 
-Restrict-access: false
+Restrict-access: true
 
 ----
 
-Access-token: 
+Access-token: sdc5ghd3
 
 ----
 
@@ -73,4 +73,4 @@ Created-at: 1722930750
 
 ----
 
-Modified-at: 1770388133
+Modified-at: 1771321755

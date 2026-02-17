@@ -25,11 +25,13 @@ Show-summaries: false
 Speakers:
 
 - page://rj5VRoldg1ZiSNIO
-- page://7yrFqqjoKMk3MyoO
 - page://FX6BCEHB0ZNExtbl
 - page://EUH7Rjn3kX8HCKFp
+- page://7yrFqqjoKMk3MyoO
 - page://sC36CFuU79JHPjbg
 - page://1t1RMpHLbheW1BdU
+- page://V4ZxbjlTjGv76fQO
+- page://Yq33YthCe3bj47e5
 
 ----
 
@@ -57,6 +59,7 @@ Partners:
 - 
   title: Diwan Partners
   partners:
+    - page://de64QrYDl4suNX1W
     - page://zLFX8XiYjVZZkIpC
   id: "1"
 - 
@@ -1377,4 +1380,4 @@ Uuid: SaTCvXy9PZM8UO22
 
 ----
 
-Modified-at: 1771166584
+Modified-at: 1771323318

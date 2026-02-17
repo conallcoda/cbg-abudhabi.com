@@ -1,0 +1,57 @@
+Title: Arthur Mattli
+
+----
+
+Picture: - file://jzuzr81pPm7juJW4
+
+----
+
+Picture-color: - file://jzuzr81pPm7juJW4
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://pSDI89aDKwDPNmwF
+
+----
+
+Subtitle: Ambassador
+
+----
+
+Company: Embassy of Switzerland to the United Arab Emirates and the Kingdom of Bahrain
+
+----
+
+Company-url: https://www.eda.admin.ch/countries/united-arab-emirates/en/home/representations/embassy.html
+
+----
+
+Bio: Ambassador of Switzerland to the United Arab Emirates and Bahrain. Arthur Mattli graduated with a degree in law from the University of Fribourg. After assignments as Delegate of the International Committee of the Red Cross (ICRC) in Jerusalem, Damascus, Riyadh and Dubrovnik, an assistantship at the University of Fribourg and a research residency in New York, he joined the Federal Department of Foreign Affairs. After an internship with the Political Affairs Division I in Bern and the Swiss Mission to the European Community in Brussels, he was leading the Economic and Trade Section of the Swiss Embassy in Beijing. He was later appointed Head of the Human Rights and International Humanitarian Law Section of the Directorate of International Law in Berne. He served as Deputy Head of mission of the Swiss Embassy in Nairobi and in New Delhi, and as Head of Mission of the Swiss Embassy in Bucharest until July 2023. Ambassador Mattli was Head of Division for Europe, Central Asia, Council of Europe and OSCE at the Directorate of Political Affairs in Bern. He was Head of Mission in Dar es Salaam, where he represented Switzerland at the East African Community and in Zambia. Ambassador Mattli is now serving as Head of Mission of the Swiss Embassy in Abu Dhabi.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: https://www.linkedin.com/in/arthur-mattli-b98535358/
+
+----
+
+Email: 
+
+----
+
+Uuid: V4ZxbjlTjGv76fQO
+
+----
+
+Created-at: 1771259480
+
+----
+
+Modified-at: 1771272679

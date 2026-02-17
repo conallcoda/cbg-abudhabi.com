@@ -15,7 +15,7 @@ Payment-reduction-codes:
   code: c0n@ll_fixed
   type: fixed
   percentage_amount: ""
-  fixed_amount: 8899
+  fixed_amount: 16999
 
 ----
 

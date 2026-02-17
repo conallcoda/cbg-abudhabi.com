@@ -18,6 +18,8 @@ Bcc:
   email: jonas@cfc-stmoritz.com
 - 
   email: giulia@cfc-stmoritz.com
+- 
+  email: hello@si-de.ch
 
 ----
 
@@ -33,4 +35,4 @@ Uuid: 9zgARi8acwicKo14
 
 ----
 
-Modified-at: 1770709451
+Modified-at: 1771312348

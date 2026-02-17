@@ -2,11 +2,11 @@ Title: Anthony Scaramucci
 
 ----
 
-Picture: - file://znRkBCYJG11RAUQH
+Picture: - file://7HO6ZuX0yoojYaum
 
 ----
 
-Picture-color: - file://635GoDVQe2RGRfDW
+Picture-color: - file://7HO6ZuX0yoojYaum
 
 ----
 
@@ -14,7 +14,7 @@ Picture-cropped: - file://XAjuQZh6NOnnBY4P
 
 ----
 
-Logo: - file://dUmkYyOgtmNKWPP4
+Logo: - file://tmIXwm5RGKdrQEBU
 
 ----
 
@@ -44,7 +44,7 @@ Scaramucci, a native of Long Island, New York, holds a Bachelor of Arts degree i
 
 ----
 
-Twitter: https://twitter.com/Scaramucci
+Twitter: https://x.com/Scaramucci
 
 ----
 
@@ -68,4 +68,4 @@ Datemodifiedepoch: 1696594691
 
 ----
 
-Modified-at: 1758629913
+Modified-at: 1771260797

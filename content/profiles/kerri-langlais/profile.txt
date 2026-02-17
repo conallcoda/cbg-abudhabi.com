@@ -2,11 +2,11 @@ Title: Kerri Langlais
 
 ----
 
-Picture: - file://MIj88RLlYGECPguE
+Picture: - file://t6hfaibmdtkyoOR5
 
 ----
 
-Picture-color: - file://mifoyH6RAxyc6I7P
+Picture-color: - file://t6hfaibmdtkyoOR5
 
 ----
 
@@ -18,11 +18,11 @@ Logo: - file://JkMleMizD4g0Qcl6
 
 ----
 
-Subtitle: Chief Strategy Officer
+Subtitle: CSO
 
 ----
 
-Company: TeraWulf
+Company: TeraWulf Inc.
 
 ----
 
@@ -58,4 +58,4 @@ Datemodifiedepoch: 1701425294
 
 ----
 
-Modified-at: 1758629963
+Modified-at: 1771260533
