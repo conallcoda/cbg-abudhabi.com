@@ -29,8 +29,8 @@ Speakers:
 - page://EUH7Rjn3kX8HCKFp
 - page://7yrFqqjoKMk3MyoO
 - page://sC36CFuU79JHPjbg
-- page://1t1RMpHLbheW1BdU
 - page://V4ZxbjlTjGv76fQO
+- page://2FVPqP07048z1ovo
 - page://Yq33YthCe3bj47e5
 
 ----
@@ -52,7 +52,7 @@ Moderators:
 Partners:
 
 - 
-  title: Majilis Partners
+  title: Majlis Partners
   partners:
     - page://5rq3jYV3YAirIGnx
   id: "0"
@@ -1380,4 +1380,4 @@ Uuid: SaTCvXy9PZM8UO22
 
 ----
 
-Modified-at: 1771323318
+Modified-at: 1771398417

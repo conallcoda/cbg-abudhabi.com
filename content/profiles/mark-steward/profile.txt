@@ -1,0 +1,62 @@
+Title: Mark Steward
+
+----
+
+Picture: - file://19FLnC4mIxU6GhBj
+
+----
+
+Picture-color: - file://19FLnC4mIxU6GhBj
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://Y4XkQDMWc8PIw1TL
+
+----
+
+Subtitle: Chief Executive
+
+----
+
+Company: Dubai Financial Services Authority (DFSA)
+
+----
+
+Company-url: https://www.dfsa.ae/
+
+----
+
+Bio:
+
+Mark Steward was appointed Chief Executive in May 2025.
+Mr Steward served as the Executive Director of Enforcement and Market Oversight at the UK’s Financial Conduct Authority (FCA) from 2015. He was also the Chair of the FCA's Market Policy Committee, and from December 2021, he was Executive Director of the FCA's International Division. Prior to joining the FCA, Mr Steward served at the Hong Kong Securities and Futures Commission (SFC) as an Executive Director with responsibility for the Enforcement Division.
+Before joining the SFC, Mr Steward held several senior positions with the Australian Securities and Investments Commission (ASIC) and was most recently Deputy Executive Director, Enforcement at ASIC.
+Formerly, Mr Steward was Chair of the International Organisation of Securities Commissions’ (IOSCO) Multi-lateral Memorandum of Understanding Monitoring Group.
+
+----
+
+Twitter: 
+
+----
+
+Linkedin: 
+
+----
+
+Email: 
+
+----
+
+Uuid: 2FVPqP07048z1ovo
+
+----
+
+Created-at: 1771374857
+
+----
+
+Modified-at: 1771375035
