@@ -39,7 +39,7 @@ $timePartnerImage = $page->time_partner_image()->toFile();
     <div class="relative z-10 w-full  flex flex-[1] flex-col">
         <div></div>
         <div class="flex-[1] items-center flex-col flex justify-center">
-            <?= $siteLogo->_img('full-width', 'w-[50vw] landscape:w-[17vw]', '(screen and (orientation: landscape)) 17vw, 50vw') ?>
+            <?= $siteLogo->_img('full-width', 'w-[50vw] landscape:w-[17vw] mb-4', '(screen and (orientation: landscape)) 17vw, 50vw') ?>
             <?php if ($image = $block->presented_partner_image()->toFile()) : ?>
                 <div class="text-center flex justify-center items-center mt-4 mb-6 md:mt-8 md:mb-12">
                     <div class="text-white  px-2 text-xs"><?= $block->presented_partner_label() ?></div>

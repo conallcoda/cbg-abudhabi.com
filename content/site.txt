@@ -386,11 +386,11 @@ Site-description: A highly curated and private digital assets and blockchain con
 
 ----
 
-Site-logo: - file://hGdXMoxjggTdHLJh
+Site-logo: - file://JFgLaWGyC4J9Q5UJ
 
 ----
 
-Site-logo-large: - file://lkbJgIXByb60fY6F
+Site-logo-large: - file://qFJI2PjeNwuoMtrp
 
 ----
 
