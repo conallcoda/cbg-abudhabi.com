@@ -81,3 +81,7 @@ content/**/submissions/*
 .htaccess
 
 assets/video/cfc_landscape.mp4
+# Environment configuration
+.env
+.env.*
+!.env.example

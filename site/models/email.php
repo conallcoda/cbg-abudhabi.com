@@ -1,6 +1,6 @@
 <?php
 
-use Mailgun\Mailgun;
+use CFC\Email\ConfiguredMailer;
 
 class EmailPage extends Page
 {
@@ -118,14 +118,15 @@ class EmailPage extends Page
 
     public function send(\FormSubmissionPage $submission)
     {
+        if (!option('cfc.email.enabled', true)) {
+            return;
+        }
 
         $variables = $this->getVariablesFor($submission);
         $subject = $this->replaceVariables($this->subject()->value(), $variables);
         $body = $this->replaceVariables($this->body()->value(), $variables);
         $bcc = $this->_bcc();
         $data = [
-            'from' => sprintf('%s <%s>', option('cfc.email.from.name'), option('cfc.email.from.email_mailer')),
-            //'to' => 'conall@coda.works',
             'to' => $this->_to($submission),
             'subject' => $subject,
             'text' => str_replace('<br>', PHP_EOL, $body),
@@ -138,11 +139,16 @@ class EmailPage extends Page
             $data['bcc'] = $bcc;
         }
 
-        try {
-            $mg = Mailgun::create(option('mailgun_key'), 'https://api.eu.mailgun.net');
-            $mg->messages()->send(option('mailgun_domain_mailer'), $data);
-        } catch (Exception $e) {
-            throw $e;
+        $overrideTo = trim((string)option('cfc.email.override_to', ''));
+        if ($overrideTo !== '') {
+            if (filter_var($overrideTo, FILTER_VALIDATE_EMAIL) === false) {
+                throw new InvalidArgumentException('FORM_EMAIL_OVERRIDE_TO must contain one valid email address');
+            }
+
+            $data['to'] = $overrideTo;
+            unset($data['bcc']);
         }
+
+        ConfiguredMailer::send($data);
     }
 }
