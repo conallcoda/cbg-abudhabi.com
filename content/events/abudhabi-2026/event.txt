@@ -27,11 +27,13 @@ Speakers:
 - page://rj5VRoldg1ZiSNIO
 - page://FX6BCEHB0ZNExtbl
 - page://EUH7Rjn3kX8HCKFp
-- page://7yrFqqjoKMk3MyoO
+- page://ROaCfAgB7BOkSYj7
 - page://sC36CFuU79JHPjbg
-- page://V4ZxbjlTjGv76fQO
-- page://2FVPqP07048z1ovo
+- page://putaGvI8KtrEisKQ
+- page://7yrFqqjoKMk3MyoO
 - page://Yq33YthCe3bj47e5
+- page://2FVPqP07048z1ovo
+- page://V4ZxbjlTjGv76fQO
 
 ----
 
@@ -61,6 +63,7 @@ Partners:
   partners:
     - page://de64QrYDl4suNX1W
     - page://zLFX8XiYjVZZkIpC
+    - page://YZF1LZLHipEjZ1tK
   id: "1"
 - 
   title: Academic Partners
@@ -1380,4 +1383,4 @@ Uuid: SaTCvXy9PZM8UO22
 
 ----
 
-Modified-at: 1771398417
+Modified-at: 1772117595

@@ -1,4 +1,4 @@
-Title: Awe-Inspiring Party Powered @Royal Pavilion
+Title: Awe-Inspiring Party @Royal Pavilion
 
 ----
 
@@ -46,4 +46,4 @@ Created-at: 1725981745
 
 ----
 
-Modified-at: 1771146816
+Modified-at: 1772138860

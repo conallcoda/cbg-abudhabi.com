@@ -2,14 +2,7 @@ Title: CfC St. Moritz Abu Dhabi 2026 - Application Process
 
 ----
 
-Email-notifications:
-
-- 
-  after_step: page://8ls9yA5bmW91UXMf
-  send_email: page://38s4UfpqNaeL8Kcs
-- 
-  after_step: page://8ls9yA5bmW91UXMf
-  send_email: page://3AJxu228XtorPkdx
+Email-notifications: 
 
 ----
 
@@ -37,7 +30,7 @@ Close-content:
 
 ----
 
-Restrict-access: false
+Restrict-access: true
 
 ----
 
@@ -73,4 +66,4 @@ Created-at: 1722930750
 
 ----
 
-Modified-at: 1771422192
+Modified-at: 1773139938

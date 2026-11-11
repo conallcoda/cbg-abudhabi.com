@@ -1,0 +1,65 @@
+Title: Alessandro Giori
+
+----
+
+Picture: - file://kOHEgnxJxXTtXeD3
+
+----
+
+Picture-color: - file://kOHEgnxJxXTtXeD3
+
+----
+
+Picture-cropped: 
+
+----
+
+Logo: - file://xDyfJhPApp9JILF5
+
+----
+
+Subtitle: MENA Head
+
+----
+
+Company: Tether
+
+----
+
+Company-url: https://Tether.to
+
+----
+
+Bio:
+
+Alessandro oversees global strategic partnerships and leads MENA operations at Tether, bringing over 12 years of experience in digital asset markets
+(gap:small)
+• Former Senior Account Manager and public figure at Kraken, ranked as one of the 3-top producers for 6 consecutive years
+
+• Former professional poker player with expertise in probability, risk management, and high-stakes decision-making under uncertainty
+
+• Holds dual Master's degrees in Blockchain Technology (University of Nicosia) and Advertising
+
+----
+
+Twitter: https://x.com/FreeSpiritAle
+
+----
+
+Linkedin: https://www.linkedin.com/in/alessandrotothemoon/
+
+----
+
+Email: 
+
+----
+
+Uuid: putaGvI8KtrEisKQ
+
+----
+
+Created-at: 1772117048
+
+----
+
+Modified-at: 1772117234
