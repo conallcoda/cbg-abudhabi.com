@@ -1,6 +1,6 @@
 <?php
 
-error_reporting(E_ALL & ~E_NOTICE & ~E_STRICT & ~E_DEPRECATED);
+error_reporting(E_ALL & ~E_NOTICE & ~E_DEPRECATED);
 
 use CFC\Newsletter\SubscriptionHandler;
 
