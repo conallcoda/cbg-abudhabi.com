@@ -10,7 +10,7 @@ class Cart
     protected $products = [];
     protected $vat_rate;
 
-    public function __construct(array $products, Reduction $reduction = null)
+    public function __construct(array $products, ?Reduction $reduction = null)
     {
         $this->vat_rate = site()->payment_vat_rate()->toFloat();
         $this->products = $products;
@@ -115,7 +115,7 @@ class Cart
     }
 
 
-    public static function fromProductId($productId, Reduction $reduction = null)
+    public static function fromProductId($productId, ?Reduction $reduction = null)
     {
         $product = site()->find('products')->find('page://' . $productId);
         if (!$product) {
