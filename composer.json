@@ -35,7 +35,8 @@
         "league/csv": "^9.16.0",
         "getkirby/cli": "^1.10",
         "mailchimp/marketing": "^3.0",
-        "bnomei/kirby3-dotenv": "^5.1"
+        "bnomei/kirby3-dotenv": "^5.1",
+        "thathoff/kirby-oauth": "^3.5"
     },
     "config": {
         "allow-plugins": {
@@ -47,6 +48,9 @@
     "autoload": {
         "psr-4": {
             "CFC\\": "site/plugins/cfc/src"
-        }
+        },
+        "files": [
+            "site/plugins/cfc/src/oauth-helpers.php"
+        ]
     }
 }

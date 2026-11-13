@@ -83,6 +83,31 @@ if ($mailMailer === 'mailpit') {
     ];
 }
 
+// Panel sign-in through CfC SSO (the admin app, cfc-internal.com), as on the St. Moritz website.
+$cfcSsoEnabled = $envBool('CFC_SSO_ENABLED', false);
+$cfcSsoClientId = trim((string)env('CFC_SSO_CLIENT_ID', ''));
+$cfcSsoClientSecret = trim((string)env('CFC_SSO_CLIENT_SECRET', ''));
+$cfcSsoIssuer = rtrim(trim((string)env('CFC_SSO_ISSUER', 'https://cfc-internal.test')), '/');
+
+if ($cfcSsoEnabled && ($cfcSsoClientId === '' || $cfcSsoClientSecret === '')) {
+    throw new RuntimeException('CFC_SSO_CLIENT_ID and CFC_SSO_CLIENT_SECRET are required when CFC_SSO_ENABLED is true.');
+}
+
+$oauthProviders = [];
+
+if ($cfcSsoEnabled) {
+    $oauthProviders['cfc'] = [
+        'name' => 'CfC SSO',
+        'clientId' => $cfcSsoClientId,
+        'clientSecret' => $cfcSsoClientSecret,
+        'redirectUri' => rtrim((string)env('APP_URL'), '/') . '/oauth/login/cfc',
+        'urlAuthorize' => $cfcSsoIssuer . '/oauth/authorize',
+        'urlAccessToken' => $cfcSsoIssuer . '/oauth/token',
+        'urlResourceOwnerDetails' => $cfcSsoIssuer . '/sso/userinfo',
+        'icon' => 'users',
+    ];
+}
+
 $config = [
     'url' => env('APP_URL'),
     'app.env' => $appEnv,
@@ -128,6 +153,16 @@ $config = [
     'cfc.email.enabled' => $envBool('FORM_EMAIL_ENABLED', true),
     'cfc.email.override_to' => trim((string)env('FORM_EMAIL_OVERRIDE_TO', '')),
     'cfc.email.mailer' => $mailMailer,
+    'thathoff.oauth' => [
+        'providers' => $oauthProviders,
+        // Existing Kirby accounts are the allowlist; OAuth must never create users.
+        'onlyExistingUsers' => true,
+        'allowEveryone' => false,
+        // Without the password form once SSO is on; CFC_SSO_ONLY=false brings it back as a fallback.
+        'onlyOauth' => $cfcSsoEnabled && $envBool('CFC_SSO_ONLY', true),
+        'autoRedirect' => false,
+        'skipEmailVerifiedCheck' => false,
+    ],
 ];
 
 $config = array_merge($config, $thumbs, $hooks, $routes);

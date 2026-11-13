@@ -42,6 +42,13 @@ lists every setting; `.env` itself is never committed.
   `MAIL_MAILER=mailpit` — the site refuses to start otherwise — so no email reaches a real person.
   `FORM_EMAIL_ENABLED=false` turns form emails off entirely, `FORM_EMAIL_OVERRIDE_TO` sends all of them to one address.
 - **Mailchimp.** The newsletter form subscribes to the real list (`MAILCHIMP_LIST_ID`) in every environment.
+- **Panel sign-in (CfC SSO).** With `CFC_SSO_ENABLED=true` the Panel signs staff in through the admin app
+  (`CFC_SSO_ISSUER`, production `https://cfc-internal.com`) via
+  [`thathoff/kirby-oauth`](https://github.com/thathoff/kirby-oauth). The admin app's client is `cfc-abudhabi-live`,
+  which admits the staff who have the St. Moritz website's "Website (Live)" access; its redirect URI is
+  `${APP_URL}/oauth/login/cfc`. Existing Kirby accounts are still the allowlist (matched by email), OAuth never
+  creates users, and `CFC_SSO_ONLY=false` brings back the password form as a fallback. Kirby's global `go()` is
+  disabled (see Swoole below), so `site/plugins/cfc/src/oauth-helpers.php` gives the plugin its own.
 
 Production needs at minimum:
 
