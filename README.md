@@ -58,60 +58,51 @@ plus the Stripe, Mailgun and Mailchimp keys from `.env.example`.
 
 ## Deployment (Laravel Forge)
 
-The site is moving from Hostpoint to Forge. Pushing to `main` (production) or `staging` triggers the Forge deploy hook
-from `.github/workflows/deploy.yml`; until the `FORGE_ABUDHABI_PRODUCTION_DEPLOY_HOOK` /
-`FORGE_ABUDHABI_STAGING_DEPLOY_HOOK` repository secrets are set the job skips with a notice.
+The site runs on the Forge server `cfc` (157.90.160.165, PHP 8.5) as an isolated site with user `cfc-abudhabi-web`,
+deployed in place from `main` like the St. Moritz website: the checkout in `/home/cfc-abudhabi-web/<domain>` is both
+the Git working copy and the live site, so `content`, `media`, `site/accounts`, `site/sessions`, `site/logs`,
+`site/config/.license` and `.env` simply stay where they are between deployments. It moved from Hostpoint in
+November 2026.
 
-### Persistent Kirby data
-
-Configure these Forge zero-downtime shared paths in the site's deployment settings (Forge shares `.env`
-automatically; do not share `site/cache`):
-
-| Persistent source | Release path | Type |
-| --- | --- | --- |
-| `content` | `content` | Directory |
-| `media` | `media` | Directory |
-| `site/accounts` | `site/accounts` | Directory |
-| `site/sessions` | `site/sessions` | Directory |
-| `site/logs` | `site/logs` | Directory |
-| `site/config/.license` | `site/config/.license` | File |
-
-Before enabling them for the first time, copy the live data (from Hostpoint) into the persistent source paths.
+Quick deploy is off. After pushing to `main`, trigger the site's Forge deploy hook (or deploy from Forge).
 
 ### Deployment script
 
 ```bash
-$CREATE_RELEASE()
+set -euo pipefail
 
-cd "$FORGE_RELEASE_DIRECTORY"
+cd "$FORGE_SITE_PATH"
 
-$FORGE_COMPOSER install \
-    --no-dev \
-    --no-interaction \
-    --prefer-dist \
-    --optimize-autoloader
+git fetch origin "$FORGE_SITE_BRANCH"
+git checkout "$FORGE_SITE_BRANCH"
+git pull --ff-only origin "$FORGE_SITE_BRANCH"
 
-bash deployment/sync-content.sh
+$FORGE_COMPOSER install     --no-dev     --no-interaction     --prefer-dist     --optimize-autoloader
+
 bash deployment/link-large-files.sh
 
-$ACTIVATE_RELEASE()
+if [ -d site/cache ]; then
+    find site/cache -mindepth 1 -delete
+fi
 ```
 
-`sync-content.sh` does a three-way comparison between the previous Git baseline, the incoming Git commit and the
-persistent production content, because editors change content in the Panel while developers change it in Git:
+Content is in Git and is also edited in the Panel on the server. The pull is fast-forward only, so if editors changed
+content on the server, commit and push those changes from the server first (or merge them) before deploying.
 
-- Git-only changes are applied to production; Panel-only changes are left untouched.
-- If Git and the Panel changed the same path differently, the deployment stops before activation and production is
-  not modified. The report is at `$HOME/.cfc-deployment/conflicts/latest.txt`; merge the production file into Git,
-  commit and deploy again.
-- Before Git overwrites or deletes an unchanged production file, its previous version is copied below
-  `$HOME/.cfc-deployment/backups/`.
+Files kept out of Git and copied over by hand: `site/accounts`, `site/config/.license`, form submissions
+(`content/**/submissions/*`), `assets/lg` and `assets/video/cfc_landscape.mp4`.
 
-Its scenarios are tested by `php deployment/tests/sync-content.php`.
+### nginx
 
-`link-large-files.sh` symlinks large binaries kept out of Git (below `$HOME/shared-files`) into each release, as
-listed in `deployment/large-files.manifest` (currently empty). A missing shared file fails the deployment before
-activation.
+nginx ignores `.htaccess`, so the site's nginx config blocks Kirby's folders and the repository's own files and lets
+Kirby answer instead:
+
+```nginx
+rewrite ^/(content|site|kirby|app|data|deployment|docs|scripts|tests|vendor|releases)(/|$) /index.php last;
+rewrite ^/(?!favicon\.ico$|index\.php$)[^/]+\.[A-Za-z0-9]+$ /index.php last;
+```
+
+`deployment/sync-content.sh` (a three-way content merge for zero-downtime releases) is not used by this setup.
 
 ### Swoole
 
