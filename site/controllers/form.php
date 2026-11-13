@@ -54,7 +54,7 @@ return function ($page) {
         if ($s = get('s')) {
             $url .= '&s=' . $s;
         }
-        go($url);
+        Kirby\Cms\Response::go($url);
         die;
     }
 

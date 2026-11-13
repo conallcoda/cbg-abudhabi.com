@@ -1,0 +1,4 @@
+/* Staff see which environment the Panel belongs to (site/config/config.php picks this file by APP_ENV). */
+html::before, html::after { position: fixed; z-index: 2147483647; pointer-events: none; background: #16a34a; }
+html::before { content: ""; inset: 0 0 auto; height: 4px; }
+html::after { content: "Production"; top: 0; left: 50%; transform: translateX(-50%); padding: 0 10px 2px; border-radius: 0 0 6px 6px; color: #fff; font: 600 11px/18px system-ui, sans-serif; letter-spacing: .04em; }

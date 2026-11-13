@@ -14,7 +14,7 @@ $background = $backgroundColor ?? '';
 
 
 if (!$page instanceof IsAccessible) {
-    go('error');
+    Kirby\Cms\Response::go('error');
     die;
 }
 $error = false;

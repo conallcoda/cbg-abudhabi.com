@@ -1,0 +1,3 @@
+# shared path|path inside the deployed project
+# Large binaries kept out of Git live below $HOME/shared-files on the server and are
+# symlinked into each release by deployment/link-large-files.sh. None yet.
