@@ -77,7 +77,7 @@ git fetch origin "$FORGE_SITE_BRANCH"
 git checkout "$FORGE_SITE_BRANCH"
 git pull --ff-only origin "$FORGE_SITE_BRANCH"
 
-$FORGE_COMPOSER install     --no-dev     --no-interaction     --prefer-dist     --optimize-autoloader
+$FORGE_COMPOSER install \n    --no-dev \n    --no-interaction \n    --prefer-dist \n    --optimize-autoloader
 
 bash deployment/link-large-files.sh
 
